@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'avalancha',es,Hazard,#4287f5,#022f78,2,0.7
-'destrucción avalanchas',es,Hazard,#4287f5,#022f78,2,0.5
 'accidente mortal avalancha',es,Hazard,#4287f5,#022f78,2,0.5
 'daños por avalancha',es,Hazard,#4287f5,#022f78,2,0.5
 'avalancha de placa',es,Hazard,#4287f5,#022f78,2,0.5
 'cambio climático de avalanchas',es,Causes,#a89216,#d8c379,2,0.5
 'desastre avalancha',es,Hazard,#4287f5,#022f78,2,0.454250225
+'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.425
