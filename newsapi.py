@@ -169,7 +169,7 @@ def storeCollection():
     global collectedNews
     print("Inside store")
     #cols = ['url','valid','domain','title','description','image','published','archive','content','quote','language','keyword']
-    cols = ['published', 'keyword', 'domain', 'language', 'valid', 'title', 'description', 'url', 'image', 'archive', 'content', 'quote', 'de', 'en', 'la', 'added']
+    cols = ['published', 'keyword', 'domain', 'language', 'valid', 'de', 'en', 'la', 'title', 'description', 'url', 'image', 'archive', 'content', 'quote', 'added']
     for dateFile in collectedNews:
         df = pd.DataFrame.from_dict(collectedNews[dateFile], orient='index', columns=cols)
         df.index = df['url'].apply( lambda x: hashlib.sha256(x.encode()).hexdigest()[:32])   
