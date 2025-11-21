@@ -132,6 +132,11 @@ def translateData(data):
        data['en'] = str(data['title']) + '. ' + str(data['description'])
        data['de'] = GoogleTranslator(source='en', target='de').translate(text=data['en'])
        data['la'] = GoogleTranslator(source='en', target='la').translate(text=data['en'])
+   if(not data['language'] in ['en','de']):
+       anyText = str(data['title']) + '. ' + str(data['description'])
+       data['de'] = GoogleTranslator(source=data['language'], target='de').translate(text=anyText)
+       data['en'] = GoogleTranslator(source=data['language'], target='en').translate(text=anyText)
+       data['la'] = GoogleTranslator(source=data['language'], target='la').translate(text=anyText)       
    return(data) 
 
 
