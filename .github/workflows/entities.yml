@@ -45,8 +45,8 @@ jobs:
         run: (pip3 install numpy==1.23.5)
       - name: Install shapely   2.1.2
         run: (pip3 install shapely~=2.0.1)
-      - name: Install sympi   
-        run: (pip3 install sympi~=1.6.2)
+#      - name: Install sympi   
+#        run: (pip3 install sympi~=1.6.2)
       - name: Install sentence-splitter
         run: (pip3 install sentence-splitter) 
       - name: Install spanish-nlp~=0.4.0
