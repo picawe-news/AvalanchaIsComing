@@ -11,10 +11,6 @@ import time
 import datetime
 from dateutil import parser
 
-# pip3 install spacy
-# python3 -m spacy download de_core_news_md
-#pip3 install textblob_de
-
 import requests
 import json
 import geocoder
@@ -22,10 +18,17 @@ import geopandas
 
 import nltk
 import spacy
-import de_core_news_md
-from textblob_de import TextBlobDE
 
-nlp = de_core_news_md.load()
+# Spanish
+# pip3 install sentence-splitter spanish-nlp
+# python3 -m spacy download es_core_news_md
+
+from sentence_splitter import SentenceSplitter, split_text_into_sentences
+import es_core_news_md
+##from textblob import TextBlob  ## DONE
+from spanish_nlp import SpanishClassifier
+nlp = es_core_news_md.load()
+
 nltk.download('punkt_tab')
 nltk.download('punkt')
 
@@ -41,6 +44,9 @@ countriesGeo = geopandas.read_file('https://raw.githubusercontent.com/creDocker/
 countriesGeo['geoNameId'] = countriesGeo['geoNameId'].astype(int)
 countriesInfo['geonameid'] = countriesInfo['geonameid'].astype(int)
 countriesDf = pd.merge(countriesGeo, countriesInfo, left_on='geoNameId', right_on='geonameid')
+
+sa_es = SpanishClassifier(model_name="sentiment_analysis", device='cpu')
+ea_es = SpanishClassifier(model_name="emotion_analysis", device='cpu') 
 
 def getNewsFiles():
     fileName = './csv/news_????_??.csv'
@@ -87,10 +93,11 @@ for index, column in newsDf.iterrows():
     if(i % 50 == 0):
         print(i)
     quote = str(column.title)+'. ' +str(column.description)+' '+str(column.content)
-    #quote = str(column.title)+'. ' +str(column.description)
-    blob = TextBlobDE(quote)
-    newsDf.loc[newsDf['url'] == column['url'], 'subjectivity'] = blob.sentiment.subjectivity
-    newsDf.loc[newsDf['url'] == column['url'], 'sentiment'] = blob.sentiment.polarity
+    ##blob = TextBlobDE(quote)  ## TODO
+    sentiment = sa_es.predict(quote)
+    emotion = ea_es.predict(quote)
+    newsDf.loc[newsDf['url'] == column['url'], 'subjectivity'] = emotion['others']
+    newsDf.loc[newsDf['url'] == column['url'], 'sentiment'] = sentiment['positive']-sentiment['negative']
     try:
       pubDate = parser.parse(column['published'])
       newsDf.loc[newsDf['url'] == column['url'], 'week'] = pubDate.strftime('%Y-%W')
@@ -375,6 +382,11 @@ def strangeCharacters(testString, testCharacters):
           count += testString.count(oneCharacter)
      return count
 
+# https://pypi.org/project/spanish-nlp/
+# https://pypi.org/project/sentence-splitter/
+
+splitter = SentenceSplitter(language='es')
+
 i=0
 ##topicWordsAbs = {'summaryOfAllWords': emptyTopics.copy()}
 for index, column in objNewsDF.iterrows():
@@ -383,22 +395,23 @@ for index, column in objNewsDF.iterrows():
         print(i)
     quote = str(column.title)+'. ' +str(column.description)+' '+str(column.content)
     lang = column.language 
-    #quote = str(column.title)+'. ' +str(column.description)
-    blob = TextBlobDE(quote)
-    for sentence in blob.sentences:
+    ## blob = TextBlobDE(quote)     ##DONE
+    sentences = splitter.split(text=quote)
+    for sentence in sentences:
+        sentiment = sa_es.predict(quote)
+        emotion = ea_es.predict(quote)        
         #sentence.sentiment.polarity
         doc = nlp(str(sentence))
         for entity in doc.ents:
 
             if(entity.label_ in ['LOC','GPE']):
                 if(entity.text in indexLocations):
-                    #indexLocations[entity.text]['count'] += 1   #TODO   add valid value...
                     indexLocations[entity.text]['count'] += column.valid
-                    indexLocations[entity.text]['sentiment'] += sentence.sentiment.polarity
-                    indexLocations[entity.text]['subjectivity'] += sentence.sentiment.subjectivity
+                    indexLocations[entity.text]['sentiment'] += sentiment['positive']-sentiment['negative']
+                    indexLocations[entity.text]['subjectivity'] += emotion['others']
                 else:      
-                    indexLocations[entity.text] = {'phrase':entity.text, 'label':entity.label_, 'sentiment':sentence.sentiment.polarity,
-                                                   'subjectivity':sentence.sentiment.subjectivity, 'language':lang, 'count':1, 
+                    indexLocations[entity.text] = {'phrase':entity.text, 'label':entity.label_, 'sentiment':sentiment['positive']-sentiment['negative'],
+                                                   'subjectivity':emotion['others'], 'language':lang, 'count':1, 
                                                    'gnd':None, 'geonames':-1, 'geotype':None, 'latitude':None, 'longitude':None, 
                                                    'continent':None, 'country':None, 'ipcc':None}
                     if ('geonames' in oldLocationsDf.columns):
@@ -426,38 +439,38 @@ for index, column in objNewsDF.iterrows():
                 if(personText in indexPersons):
                     #indexPersons[personText]['count'] += 1
                     indexPersons[personText]['count'] += column.valid
-                    indexPersons[personText]['sentiment'] += sentence.sentiment.polarity
-                    indexPersons[personText]['subjectivity'] += sentence.sentiment.subjectivity
+                    indexPersons[personText]['sentiment'] += sentiment['positive']-sentiment['negative']
+                    indexPersons[personText]['subjectivity'] += emotion['others']
                 else:    
-                    indexPersons[personText] = {'phrase':personText, 'label':entity.label_, 'sentiment':sentence.sentiment.polarity,
-                                                 'subjectivity':sentence.sentiment.subjectivity, 'language':lang, 'count':1}   
+                    indexPersons[personText] = {'phrase':personText, 'label':entity.label_, 'sentiment':sentiment['positive']-sentiment['negative'],
+                                                 'subjectivity':emotion['others'], 'language':lang, 'count':1}   
             elif('ORG' == entity.label_):
                 if(entity.text in indexOrganizations):
                     #indexOrganizations[entity.text]['count'] += 1
                     indexOrganizations[entity.text]['count'] += column.valid
-                    indexOrganizations[entity.text]['sentiment'] += sentence.sentiment.polarity
-                    indexOrganizations[entity.text]['subjectivity'] += sentence.sentiment.subjectivity
+                    indexOrganizations[entity.text]['sentiment'] += sentiment['positive']-sentiment['negative']
+                    indexOrganizations[entity.text]['subjectivity'] += emotion['others']
                 else:    
-                    indexOrganizations[entity.text] = {'phrase':entity.text, 'label':entity.label_, 'sentiment':sentence.sentiment.polarity,
-                                                       'subjectivity':0, 'language':lang, 'count':1} 
+                    indexOrganizations[entity.text] = {'phrase':entity.text, 'label':entity.label_, 'sentiment':sentiment['positive']-sentiment['negative'],
+                                                       'subjectivity':emotion['others'], 'language':lang, 'count':1} 
             elif('MISC' == entity.label_):
                 if(entity.text in indexMisc):
                     #indexMisc[entity.text]['count'] += 1
                     indexMisc[entity.text]['count'] += column.valid
-                    indexMisc[entity.text]['sentiment'] += sentence.sentiment.polarity
-                    indexMisc[entity.text]['subjectivity'] += sentence.sentiment.subjectivity
+                    indexMisc[entity.text]['sentiment'] += sentiment['positive']-sentiment['negative']
+                    indexMisc[entity.text]['subjectivity'] += emotion['others']
                 else:         
-                    indexMisc[entity.text] = {'phrase':entity.text, 'label':entity.label_, 'sentiment':sentence.sentiment.polarity,
-                                              'subjectivity':sentence.sentiment.subjectivity, 'language':lang, 'count':1} 
+                    indexMisc[entity.text] = {'phrase':entity.text, 'label':entity.label_, 'sentiment':sentiment['positive']-sentiment['negative'],
+                                              'subjectivity':emotion['others'], 'language':lang, 'count':1} 
             else:
                 if(entity.text in indexMissing):
                     #indexMissing[entity.text]['count'] += 1
                     indexMissing[entity.text]['count'] += column.valid
-                    indexMissing[entity.text]['sentiment'] += sentence.sentiment.polarity
-                    indexMissing[entity.text]['subjectivity'] += sentence.sentiment.subjectivity
+                    indexMissing[entity.text]['sentiment'] += sentiment['positive']-sentiment['negative']
+                    indexMissing[entity.text]['subjectivity'] += emotion['others']
                 else:
-                    indexMissing[entity.text] = {'phrase':entity.text, 'label':entity.label_, 'sentiment':sentence.sentiment.polarity,
-                                                 'subjectivity':sentence.sentiment.subjectivity, 'language':lang, 'count':1}  
+                    indexMissing[entity.text] = {'phrase':entity.text, 'label':entity.label_, 'sentiment':sentiment['positive']-sentiment['negative'],
+                                                 'subjectivity':emotion['others'], 'language':lang, 'count':1}  
 colGeo = ['phrase', 'label', 'sentiment', 'subjectivity', 'language', 'count', 
            'gnd', 'geonames', 'geotype', 'latitude', 'longitude', 'continent', 'country', 'ipcc']
 indexLocationsDF = pd.DataFrame.from_dict(indexLocations, orient='index', columns=colGeo)
