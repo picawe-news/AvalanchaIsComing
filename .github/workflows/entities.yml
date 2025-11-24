@@ -39,12 +39,12 @@ jobs:
         run: (pip3 install geocoder geopandas==0.9)
 ##      - name: Uninstall numpy
 ##        run: (pip3 uninstall numpy)
-      - name: Install shapely
-        run: (pip3 install shapely~=1.8.0)
+#      - name: Install shapely   2.1.2
+#        run: (pip3 install shapely~=1.8.0)
       - name: Install sentence-splitter
         run: (pip3 install sentence-splitter) 
       - name: Install spanish-nlp~=0.4.0
-        run: (pip3 install --ignore-installed spanish-nlp~=0.4.0)   #unidecode pyspellchecker 
+        run: (pip3 install --ignore-installed spanish-nlp~=0.3.1)   #unidecode pyspellchecker 
 #      - name: Install es_core_news_md
 #        run: (python3 -m spacy download es_core_news_md)
       - name: Run entities
