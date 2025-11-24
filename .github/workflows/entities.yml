@@ -34,13 +34,13 @@ jobs:
       - name: cp mysecrets.py
         run: (cp mysecrets.orig.py mysecrets.py)
       - name: Install spacy~=3.2.6
-        run: (pip3 install spacy~=3.2.6 textblob==0.15.3 nltk)
+        run: (pip3 install spacy~=3.2.6 nltk)
       - name: Install geocoder
         run: (pip3 install geocoder geopandas==0.9)
       - name: Install sentence-splitter spanish-nlp unidecode
         run: (pip3 install sentence-splitter spanish-nlp unidecode)  #pyspellchecker 
-      - name: Install es_core_news_md
-        run: (python3 -m spacy download es_core_news_md)
+#      - name: Install es_core_news_md
+#        run: (python3 -m spacy download es_core_news_md)
       - name: Run entities
         run: (python3 entities.py)
       - name: Submit changes       
