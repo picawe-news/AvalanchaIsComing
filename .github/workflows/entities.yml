@@ -51,7 +51,7 @@ jobs:
       - name: Install spanish-nlp~=0.4.0
         run: (pip3 install --ignore-installed spanish-nlp~=0.4.0)   #unidecode pyspellchecker 
       - name: Install sympi   
-        run: (pip3 install sympi~=1.6.2)
+        run: (pip3 install sympi==1.9)
       - name: list module versions after
         run: (pip3 list)
       - name: Run entities
