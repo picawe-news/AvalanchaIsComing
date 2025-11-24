@@ -33,6 +33,8 @@ jobs:
         run: (cd /cre/python/)
       - name: cp mysecrets.py
         run: (cp mysecrets.orig.py mysecrets.py)
+      - name: list module versions before
+        run: (pip3 list)
       - name: Install spacy~=3.2.6
         run: (pip3 install spacy~=3.1.7 nltk)
       - name: Install geocoder
@@ -45,10 +47,8 @@ jobs:
         run: (pip3 install sentence-splitter) 
       - name: Install spanish-nlp~=0.4.0
         run: (pip3 install --ignore-installed spanish-nlp~=0.2.11)   #unidecode pyspellchecker 
-#      - name: list module versions
-#        run: (pip3 list)
-      - name: Install shapely   2.1.2
-        run: (pip3 install shapely~=1.8.0)
+      - name: list module versions after
+        run: (pip3 list)
       - name: Run entities
         run: (python3 entities.py)
       - name: Submit changes       
