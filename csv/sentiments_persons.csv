@@ -1,9 +1,6 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Oliver Geden,Oliver Geden,PER,0.0,0.0,de,2.0
-Stefan Winter,Stefan Winter,PER,0.0,0.0,de,1.9
-Lawinengerät schenkt Zeit,Lawinengerät schenkt Zeit,PER,0.0,0.0,de,1.0
-Australiens Regenwälder,Australiens Regenwälder,PER,0.0,1.0,de,1.0
-António Guterres,António Guterres,PER,0.0,0.0,de,1.0
-Lula da Silva,Lula da Silva,PER,0.0,0.0,de,1.0
-Gottfried Is,Gottfried Is,PER,0.0,0.0,de,1.0
-Stephanie Geiger,Stephanie Geiger,PER,0.0,0.0,de,1.0
+Elon Musk,Elon Musk,PER,0.05538778869729293,1.0337977032912404,es,1.9
+Steve Jobs,Steve Jobs,PER,0.6179822534322739,0.5673460364341736,es,1.0
+Steve Wozniak,Steve Wozniak,PER,0.6179822534322739,0.5673460364341736,es,1.0
+Omaira Sánchez,Omaira Sánchez,PER,-0.863145581446588,0.0017565996386110783,es,1.0
+Solana de VanEck,Solana de VanEck,PER,0.1633339561522007,0.9801515936851501,es,1.0

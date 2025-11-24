@@ -1,44 +1,15 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Lawine,Lawine,ORG,0.0,0.0,de,5.0
-italienischen Bergwacht,italienischen Bergwacht,ORG,-0.2333333333333333,0.0,de,3.0
-Deutschen Presse-Agentur,Deutschen Presse-Agentur,ORG,0.7,0.0,de,2.0
-Deutschen Alpenverein,Deutschen Alpenverein,ORG,0.0,0.0,de,1.9
-Ab…,Ab…,ORG,0.0,0.0,de,1.0
-"Capelight Pictures
-","Capelight Pictures
-",ORG,0.0,0.0,de,1.0
-Disney,Disney,ORG,0.0,0.0,de,1.0
-kinderfreundlichsten Medien,kinderfreundlichsten Medien,ORG,0.0,0.0,de,1.0
-Drogendea…,Drogendea…,ORG,0.0,0.0,de,1.0
-Risikogruppen,Risikogruppen,ORG,0.0,0.0,de,1.0
-Ortler-Alpen,Ortler-Alpen,ORG,0.0,0.0,de,1.0
-hi…,hi…,ORG,-0.7,0.0,de,1.0
-Schneemasse…,Schneemasse…,ORG,-0.7,0.0,de,1.0
-Deutschen Pre…,Deutschen Pre…,ORG,0.0,0.0,de,1.0
-se…,se…,ORG,0.0,0.0,de,1.0
-berei…,berei…,ORG,0.0,0.0,de,1.0
-italieni…,italieni…,ORG,0.0,0.0,de,1.0
-Or…,Or…,ORG,0.5,0.0,de,1.0
-H…,H…,ORG,0.0,0.0,de,1.0
-Mer Film,Mer Film,ORG,0.0,0.0,de,1.0
-1.000-Meter-Marke,1.000-Meter-Marke,ORG,0.0,0.0,de,1.0
-Bayern-Team,Bayern-Team,ORG,0.0,0.0,de,1.0
-Deutsche Wetterdienst,Deutsche Wetterdienst,ORG,0.0,0.0,de,1.0
-Str…,Str…,ORG,0.0,0.0,de,1.0
-Deutschem Wetterdienst,Deutschem Wetterdienst,ORG,0.0,0.0,de,1.0
-DWD,DWD,ORG,0.0,0.0,de,1.0
-ge…,ge…,ORG,0.0,0.0,de,1.0
-Ac…,Ac…,ORG,1.0,0.0,de,1.0
-Medizinischen Universität Innsbruck,Medizinischen Universität Innsbruck,ORG,1.0,0.0,de,1.0
-Durchschn…,Durchschn…,ORG,-1.0,0.0,de,1.0
-Landeswarnzentrale,Landeswarnzentrale,ORG,0.0,0.0,de,1.0
-Jahr-Jubiläum,Jahr-Jubiläum,ORG,0.0,0.0,de,1.0
-steirische Landeswarnzentrale,steirische Landeswarnzentrale,ORG,-1.0,0.0,de,1.0
-Krisenkoordination,Krisenkoordination,ORG,0.0,0.0,de,1.0
-CoV-Pandemie,CoV-Pandemie,ORG,0.0,0.0,de,1.0
-Global Tipping Points“-Report,Global Tipping Points“-Report,ORG,0.0,0.0,de,1.0
-University Exeter,University Exeter,ORG,-0.15000000000000002,0.0,de,1.0
-Chr…,Chr…,ORG,1.4,0.0,de,1.0
-UN-Generalsekretär,UN-Generalsekretär,ORG,0.0,0.0,de,1.0
-UN-Generalsekretärs,UN-Generalsekretärs,ORG,0.0,0.0,de,1.0
-Y…,Y…,ORG,-1.0,0.0,de,1.0
+Apple,Apple,ORG,0.6621238429631506,0.6078707533223289,es,2.8
+AFP,AFP,ORG,-0.10462495684623718,0.6292127370834351,es,2.0
+Microsoft,Microsoft,ORG,0.9399789503138317,0.8890845901087712,es,1.9
+El Corte Inglés,El Corte Inglés,ORG,0.7795083271339536,0.9212859272956848,es,1.0
+Disney+,Disney+,ORG,0.4383181482553482,0.9347555041313171,es,1.0
+Movistar Plus+,Movistar Plus+,ORG,0.4383181482553482,0.9347555041313171,es,1.0
+Filmin,Filmin,ORG,0.4383181482553482,0.9347555041313171,es,1.0
+UE,UE,ORG,-3.361797049641609,3.8162002563476562,es,1.0
+Shein,Shein,ORG,-1.6808985248208046,1.9081001281738281,es,1.0
+Temu,Temu,ORG,-0.8404492624104023,0.9540500640869141,es,1.0
+Unión Europea,Unión Europea,ORG,-0.8404492624104023,0.9540500640869141,es,1.0
+Valga,Valga,ORG,-0.08326946198940277,0.92628014087677,es,1.0
+Protección Civil,Protección Civil,ORG,-0.08326946198940277,0.92628014087677,es,1.0
+ETF,ETF,ORG,0.9800037369132042,5.880909562110901,es,1.0

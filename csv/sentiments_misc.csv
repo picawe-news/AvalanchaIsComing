@@ -1,71 +1,42 @@
 ,phrase,label,sentiment,subjectivity,language,count
-deutsche,deutsche,MISC,,,de,36.29999999999999
-Deutsche,Deutsche,MISC,,,de,18.5
-"Link
-","Link
-",MISC,,,de,13.200000000000001
-deutschen,deutschen,MISC,,,de,10.9
-Deutscher,Deutscher,MISC,,,de,8.0
-italienischen,italienischen,MISC,,,de,5.0
-“,“,MISC,,,de,3.2
-Todesopfer des Lawinenunglücks,Todesopfer des Lawinenunglücks,MISC,,,de,3.0
-italienische,italienische,MISC,,,de,3.0
-Deutschen,Deutschen,MISC,,,de,2.0
-IPCC-Forscher,IPCC-Forscher,MISC,,,de,2.0
-Bergsteiger-Gruppe,Bergsteiger-Gruppe,MISC,,,de,2.0
-Herr Winter,Herr Winter,MISC,,,de,1.9
-Freundliches Wetter,Freundliches Wetter,MISC,,,de,1.1
-Fünf Deutsche,Fünf Deutsche,MISC,,,de,1.0
-norditalienischen,norditalienischen,MISC,,,de,1.0
-S…,S…,MISC,,,de,1.0
-Lawinenunglück,Lawinenunglück,MISC,0.0,0.0,de,1.0
-Die tragische Bi…,Die tragische Bi…,MISC,,,de,1.0
-Tragödie in Südtirol,Tragödie in Südtirol,MISC,,,de,1.0
-Ortler-Gebirge,Ortler-Gebirge,MISC,-0.11666666666666665,0.0,de,1.0
-Regentief,Regentief,MISC,,,de,1.0
-Die erste Novemberwoche,Die erste Novemberwoche,MISC,,,de,1.0
-Sonntagnachmittag,Sonntagnachmittag,MISC,,,de,1.0
-Aufstiegs,Aufstiegs,MISC,,,de,1.0
-Gerätselt wir…,Gerätselt wir…,MISC,,,de,1.0
-Ge…,Ge…,MISC,,,de,1.0
-Todesopfer des L…,Todesopfer des L…,MISC,,,de,1.0
-Tag unterweg…,Tag unterweg…,MISC,,,de,1.0
-Expeditions-Unternehmen,Expeditions-Unternehmen,MISC,,,de,1.0
-Lawi…,Lawi…,MISC,,,de,1.0
-Temperaturanstieg,Temperaturanstieg,MISC,,,de,1.0
-Energieausbeute,Energieausbeute,MISC,,,de,1.0
-Zeit der Winterwanderer,Zeit der Winterwanderer,MISC,,,de,1.0
-Alle deutschen Lawinenopfer,Alle deutschen Lawinenopfer,MISC,,,de,1.0
-Start g,Start g,MISC,,,de,1.0
-kalifornischen,kalifornischen,MISC,,,de,1.0
-Der Free-Solo-Star Alex Honnold,Der Free-Solo-Star Alex Honnold,MISC,,,de,1.0
-Extremwetterereignis…,Extremwetterereignis…,MISC,,,de,1.0
-TTS Player,TTS Player,MISC,,,de,1.0
-Freistaat,Freistaat,MISC,-0.7,0.0,de,1.0
-europäische,europäische,MISC,,,de,1.0
-Fis…,Fis…,MISC,,,de,1.0
-chinesischer,chinesischer,MISC,,,de,1.0
-Wetter“,Wetter“,MISC,,,de,1.0
-goldenen Herbst,goldenen Herbst,MISC,,,de,1.0
-Video,Video,MISC,,,de,1.0
-Videos,Videos,MISC,,,de,1.0
-Landeswarnzentrale,Landeswarnzentrale,MISC,,,de,1.0
-Uh…,Uh…,MISC,,,de,1.0
-Global Tipping Points Report“,Global Tipping Points Report“,MISC,,,de,1.0
-CO2-Speicher,CO2-Speicher,MISC,,,de,1.0
-CO2,CO2,MISC,,,de,1.0
-Photovoltaik-Anlage,Photovoltaik-Anlage,MISC,,,de,1.0
-bayerische,bayerische,MISC,,,de,1.0
-Horror-Lawine,Horror-Lawine,MISC,,,de,1.0
-Schweizer Alpen-Dorfes,Schweizer Alpen-Dorfes,MISC,,,de,1.0
-Wochenstar…,Wochenstar…,MISC,,,de,1.0
-Wetter in Bayern“,Wetter in Bayern“,MISC,,,de,1.0
-Wetterbericht“,Wetterbericht“,MISC,,,de,1.0
-Weiße Einfahrt,Weiße Einfahrt,MISC,,,de,1.0
-The Ugly Stepsister,The Ugly Stepsister,MISC,,,de,1.0
-Aschenputtel,Aschenputtel,MISC,,,de,1.0
-Kino-Überraschung des Jahres,Kino-Überraschung des Jahres,MISC,,,de,1.0
-Im Winter,Im Winter,MISC,,,de,1.0
-ABCDE-Regel,ABCDE-Regel,MISC,,,de,1.0
-INTERVIEW,INTERVIEW,MISC,,,de,1.0
-Zeit,Zeit,MISC,,,de,1.0
+Copa del Mundo,Copa del Mundo,MISC,,,es,1.9
+Xbox Series S,Xbox Series S,MISC,,,es,1.9
+Trabajo,Trabajo,MISC,,,es,1.0
+El Corte Inglés,El Corte Inglés,MISC,,,es,1.0
+Black Friday.,Black Friday.,MISC,,,es,1.0
+Estrenos,Estrenos,MISC,,,es,1.0
+Netflix,Netflix,MISC,,,es,1.0
+Prime Video,Prime Video,MISC,,,es,1.0
+HBO Max,HBO Max,MISC,,,es,1.0
+Apple TV,Apple TV,MISC,,,es,1.0
+Pues,Pues,MISC,,,es,1.0
+Faltan,Faltan,MISC,,,es,1.0
+Forbes México.,Forbes México.,MISC,,,es,1.0
+España:…,España:…,MISC,,,es,1.0
+Si el martes el cielo,Si el martes el cielo,MISC,,,es,1.0
+Mundial de Chocolates 2025,Mundial de Chocolates 2025,MISC,,,es,1.0
+Premios Internacionales del Chocolate 2025,Premios Internacionales del Chocolate 2025,MISC,,,es,1.0
+VanEck,VanEck,MISC,,,es,1.0
+incluye staking d… VanEck,incluye staking d… VanEck,MISC,,,es,1.0
+Sol… [+2758 chars],Sol… [+2758 chars],MISC,,,es,1.0
+@bored_brit_abroad,@bored_brit_abroad,MISC,,,es,1.0
+Vene… Un cambio político,Vene… Un cambio político,MISC,,,es,1.0
+"registros&nbsp;McKeown, Kos","registros&nbsp;McKeown, Kos",MISC,,,es,1.0
+¡Tragedia,¡Tragedia,MISC,,,es,1.0
+Lani Pallister,Lani Pallister,MISC,,,es,1.0
+"SIMBA, el sensor","SIMBA, el sensor",MISC,,,es,1.0
+Black Friday,Black Friday,MISC,,,es,1.0
+Xbox,Xbox,MISC,,,es,1.0
+Wikipedia,Wikipedia,MISC,,,es,1.0
+Groki… [+3978 chars,Groki… [+3978 chars,MISC,,,es,1.0
+Una impresionante avalancha,Una impresionante avalancha,MISC,,,es,1.0
+The post ¡Tragedia,The post ¡Tragedia,MISC,,,es,1.0
+Siri,Siri,MISC,,,es,1.0
+avalancha.,avalancha.,MISC,,,es,1.0
+Tragedia,Tragedia,MISC,,,es,1.0
+Rescate Alpino,Rescate Alpino,MISC,,,es,1.0
+lunes.,lunes.,MISC,,,es,1.0
+Nueva tragedia,Nueva tragedia,MISC,,,es,1.0
+Violentas tormentas de nieve,Violentas tormentas de nieve,MISC,,,es,1.0
+iPhone,iPhone,MISC,,,es,1.0
+Salir,Salir,MISC,,,es,1.0
