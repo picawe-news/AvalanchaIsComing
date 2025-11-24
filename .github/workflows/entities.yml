@@ -36,7 +36,7 @@ jobs:
       - name: list module versions before
         run: (pip3 list)
       - name: Install spacy~=3.2.6
-        run: (pip3 install spacy~=3.2.6 nltk) #3.1.7
+        run: (pip3 install spacy==3.2.6 nltk) #3.1.7
       - name: Install numpy
         run: (pip3 install numpy==1.23.5)
       - name: Install es_core_news_md
