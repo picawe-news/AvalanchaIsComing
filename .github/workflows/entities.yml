@@ -16,7 +16,7 @@ jobs:
   docker-run-action:
     runs-on: ubuntu-latest
     container:
-      image: credocker/crepython:2022.0
+      image: credocker/crepython:2020.0
       env:
         GEONAMES_KEY: ${{ secrets.GEONAMES_KEY }}
       volumes:
@@ -45,8 +45,10 @@ jobs:
         run: (pip3 install sentence-splitter) 
       - name: Install spanish-nlp~=0.4.0
         run: (pip3 install --ignore-installed spanish-nlp~=0.3.1)   #unidecode pyspellchecker 
-#      - name: Install es_core_news_md
-#        run: (python3 -m spacy download es_core_news_md)
+#      - name: list module versions
+#        run: (pip3 list)
+      - name: Install shapely   2.1.2
+        run: (pip3 install shapely~=1.8.0)
       - name: Run entities
         run: (python3 entities.py)
       - name: Submit changes       
