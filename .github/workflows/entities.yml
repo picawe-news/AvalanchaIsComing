@@ -37,10 +37,10 @@ jobs:
         run: (pip3 install spacy~=3.1.7 nltk)
       - name: Install geocoder
         run: (pip3 install geocoder geopandas==0.9)
-      - name: Uninstall numpy
-        run: (pip3 uninstall numpy)
+##      - name: Uninstall numpy
+##        run: (pip3 uninstall numpy)
       - name: Install shapely
-        run: (pip3 install shapely)
+        run: (pip3 install shapely~=1.8.0)
       - name: Install sentence-splitter
         run: (pip3 install sentence-splitter) 
       - name: Install spanish-nlp~=0.4.0
