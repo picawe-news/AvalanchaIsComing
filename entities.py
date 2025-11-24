@@ -24,10 +24,11 @@ import spacy
 # python3 -m spacy download es_core_news_md
 
 from sentence_splitter import SentenceSplitter, split_text_into_sentences
-import es_core_news_md
+##import es_core_news_md
 ##from textblob import TextBlob  ## DONE
 from spanish_nlp import SpanishClassifier
-nlp = es_core_news_md.load()
+##nlp = es_core_news_md.load()
+nlp = spacy.load("es_core_news_md")
 
 nltk.download('punkt_tab')
 nltk.download('punkt')
