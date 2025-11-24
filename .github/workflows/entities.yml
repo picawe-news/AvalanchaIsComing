@@ -41,8 +41,6 @@ jobs:
         run: (pip3 install geocoder geopandas==0.9 pandas==2.0.3)
       - name: Uninstall numpy
         run: (pip3 uninstall -y numpy)
-      - name: Install numpy
-        run: (pip3 install numpy==1.23.5)
       - name: Install shapely   2.1.2
         run: (pip3 install shapely~=2.0.1)
 
@@ -52,6 +50,8 @@ jobs:
         run: (pip3 install --ignore-installed spanish-nlp~=0.4.0)   #unidecode pyspellchecker 
       - name: Install sympy   
         run: (pip3 install sympy==1.6.2 pandas==2.0.3 scipy==1.10.1)
+      - name: Install numpy
+        run: (pip3 install numpy==1.23.5)
       - name: list module versions after
         run: (pip3 list)
       - name: Run entities
