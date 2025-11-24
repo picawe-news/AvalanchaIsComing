@@ -37,6 +37,8 @@ jobs:
         run: (pip3 list)
       - name: Install spacy~=3.2.6
         run: (pip3 install spacy~=3.1.7 nltk)
+      - name: Install numpy
+        run: (pip3 install numpy==1.23.5)
       - name: Install es_core_news_md
         run: (python3 -m spacy download es_core_news_md)
       - name: Install geocoder
