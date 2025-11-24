@@ -53,7 +53,7 @@ jobs:
       - name: Install spanish-nlp~=0.4.0
         run: (pip3 install --ignore-installed spanish-nlp~=0.4.0 unidecode pyspellchecker typing_extensions==4.5.0)   #unidecode pyspellchecker 
       - name: Install sympy   
-        run: (pip3 install sympy==1.6.2 pandas==2.0.3 scipy==1.10.1 h5py==3.1.0)
+        run: (pip3 install sympy==1.6.2 pandas==2.0.3 scipy==1.10.1 h5py==3.1.0 shapely==2.0.1)
       - name: Install numpy
         run: (pip3 install numpy==1.23.5)
       - name: list module versions after
