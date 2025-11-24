@@ -42,7 +42,7 @@ jobs:
       - name: Uninstall numpy
         run: (pip3 uninstall -y numpy)
       - name: Install shapely   2.1.2
-        run: (pip3 install shapely~=2.0.1)
+        run: (pip3 install shapely==2.0.1)
 
       - name: Install sentence-splitter
         run: (pip3 install sentence-splitter) 
