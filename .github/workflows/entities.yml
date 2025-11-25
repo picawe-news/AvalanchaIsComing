@@ -43,8 +43,8 @@ jobs:
         run: (python3 -m spacy download es_core_news_md)
       - name: Install geocoder
         run: (pip3 install geocoder geopandas==0.9 pandas==2.0.3)
-#      - name: Uninstall numpy
-#        run: (pip3 uninstall -y numpy)
+      - name: Uninstall sense2vec
+        run: (pip3 uninstall -y sense2vec)
       - name: Install shapely   2.1.2
         run: (pip3 install shapely==2.0.1)
 
