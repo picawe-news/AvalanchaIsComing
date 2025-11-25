@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'daños por avalancha',es,Hazard,#4287f5,#022f78,2,0.37286231899999994
+'daños por avalancha',es,Hazard,#4287f5,#022f78,2,0.3728623189999999
 'avalancha',es,Hazard,#4287f5,#022f78,3,0.3506552962643954
 'accidente mortal avalancha',es,Hazard,#4287f5,#022f78,1,0.3070624999999999
 'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.3070624999999999
-'desastre avalancha',es,Hazard,#4287f5,#022f78,1,0.2826926082406249
 'avalanchas muertos',es,Hazard,#4287f5,#022f78,1,0.2794328327468749
 'nieve y avalanchas',es,Causes,#a89216,#d8c379,1,0.2723289179294884
 'avalancha de placa',es,Hazard,#4287f5,#022f78,1,0.2628514577468749
 'cambio climático de avalanchas',es,Causes,#a89216,#d8c379,1,0.261389047799375
+'desastre avalancha',es,Hazard,#4287f5,#022f78,1,0.24268895700453116
