@@ -1,13 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'avalancha',es,Hazard,#4287f5,#022f78,3,0.2522902396834001
-'daños por avalancha',es,Hazard,#4287f5,#022f78,1,0.1727186818428695
-'cambio climático de avalanchas',es,Causes,#a89216,#d8c379,1,0.160633934817291
-'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.1602885441406249
-'avalanchas muertos',es,Hazard,#4287f5,#022f78,1,0.1481058778959482
-'nieve y avalanchas',es,Causes,#a89216,#d8c379,1,0.1468961835461799
-'avalancha de placa',es,Hazard,#4287f5,#022f78,1,0.1391222699629795
-'accidente mortal avalancha',es,Hazard,#4287f5,#022f78,1,0.13624526251953117
-'desastre avalancha',es,Hazard,#4287f5,#022f78,1,0.1167777092625255
 'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,3,0.2521
 'Alud',es,Hazard,#4287f5,#4a8df7,3,0.2514
 'Desprendimiento de nieve',es,Hazard,#4287f5,#5a99fa,3,0.2498
@@ -17,54 +9,62 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,3,0.2446
 'Deslizamiento de nieve',es,Hazard,#4287f5,#91c0ff,3,0.2433
 'Manto nivoso inestable',es,Hazard,#4287f5,#99c6ff,3,0.2421
-'Avalancha húmeda',es,Hazard,#4287f5,#a3ccff,3,0.2410
+'Avalancha húmeda',es,Hazard,#4287f5,#a3ccff,3,0.241
 'Avalancha seca',es,Hazard,#4287f5,#adcfff,3,0.2395
-'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,3,0.2380
 'Zona de avalanchas',es,Hazard,#4287f5,#c0dcff,3,0.2372
 'Corredor de avalanchas',es,Hazard,#4287f5,#c9e1ff,3,0.2361
-'Ruptura del manto nival',es,Hazard,#4287f5,#d2e6ff,3,0.2350
+'Ruptura del manto nival',es,Hazard,#4287f5,#d2e6ff,3,0.235
 'Avalancha de polvo',es,Hazard,#4287f5,#d8eaff,3,0.2333
 'Avalancha de placa',es,Hazard,#4287f5,#e0efff,3,0.2322
 'Acumulación de nieve',es,Hazard,#4287f5,#e7f3ff,3,0.2311
 'Nevada intensa',es,Hazard,#4287f5,#eff7ff,3,0.2302
 'Terreno propenso a avalanchas',es,Hazard,#4287f5,#f5faff,3,0.2299
+'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,2,0.20229999999999998
+'daños por avalancha',es,Hazard,#4287f5,#022f78,1,0.1727186818428695
 'Inestabilidad del manto nival',es,Causes,#a89216,#c7b34a,2,0.1651
+'cambio climático de avalanchas',es,Causes,#a89216,#d8c379,1,0.160633934817291
+'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.1602885441406249
 'Viento fuerte sobre nieve suelta',es,Causes,#a89216,#ccb250,2,0.1482
+'avalanchas muertos',es,Hazard,#4287f5,#022f78,1,0.1481058778959482
+'nieve y avalanchas',es,Causes,#a89216,#d8c379,1,0.1468961835461799
+'Sistemas de control de avalanchas',es,Mitigation,#9e3215,#d63e18,1,0.1442
+'Daños por avalancha',es,Impacts,#4287f5,#63a2d9,1,0.1441
 'Acumulación rápida de nieve',es,Causes,#a89216,#d3bb63,1,0.1423
+'avalancha de placa',es,Hazard,#4287f5,#022f78,1,0.1391222699629795
+'accidente mortal avalancha',es,Hazard,#4287f5,#022f78,1,0.1362452625195311
+'Detonación preventiva',es,Mitigation,#9e3215,#d65a18,1,0.1333
+'Víctimas por avalancha',es,Impacts,#4287f5,#638ed1,1,0.1319
 'Calentamiento repentino',es,Causes,#a89216,#e6d59e,1,0.1319
+'Planificación territorial segura',es,Adaptation,#157a2c,#1b8f35,1,0.1319
+'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.1295
 'Lluvia sobre nieve',es,Causes,#a89216,#eddcb1,2,0.1275
+'Diseño urbano resistente a avalanchas',es,Adaptation,#157a2c,#22963a,1,0.1224
+'Redes de contención de nieve',es,Mitigation,#9e3215,#d64e18,1,0.1201
+'Personas sepultadas',es,Impacts,#4287f5,#638ed5,1,0.1198
 'Cambios bruscos de temperatura',es,Causes,#a89216,#d9c577,1,0.1194
+'Estrategias de resiliencia comunitaria',es,Adaptation,#157a2c,#34ab49,1,0.1171
+'desastre avalancha',es,Hazard,#4287f5,#022f78,1,0.1167777092625255
+'Sistemas de alerta de avalanchas',es,Mitigation,#9e3215,#d63a18,1,0.1153
 'Pendiente pronunciada',es,Causes,#a89216,#e0cd8b,1,0.1152
 'Nieve reciente poco cohesionada',es,Causes,#a89216,#f3e4c4,1,0.1128
+'Equipamiento ARVA',es,Mitigation,#9e3215,#d64b18,1,0.1127
+'Gestión sostenible del riesgo',es,Adaptation,#157a2c,#3ab24e,1,0.1115
 'Estratificación débil de nieve',es,Causes,#a89216,#fff4e0,1,0.1102
-'Vibraciones humanas o maquinaria',es,Causes,#a89216,#f9eccf,1,0.1085
-'Daños por avalancha',es,Impacts,#4287f5,#63a2d9,1,0.1441
-'Víctimas por avalancha',es,Impacts,#4287f5,#638ed1,1,0.1319
-'Personas sepultadas',es,Impacts,#4287f5,#638ed5,1,0.1198
+'Pala y sonda de rescate',es,Mitigation,#9e3215,#d64418,1,0.1101
 'Interrupción de carreteras',es,Impacts,#4287f5,#639fd8,1,0.1101
+'Perros de búsqueda en avalanchas',es,Mitigation,#9e3215,#d64718,1,0.1089
+'Vibraciones humanas o maquinaria',es,Causes,#a89216,#f9eccf,1,0.1085
+'Protección de bosques protectores',es,Adaptation,#157a2c,#40b953,1,0.1074
+'Planes de evacuación locales',es,Adaptation,#157a2c,#46c058,1,0.1055
+'Rutas seguras señalizadas',es,Mitigation,#9e3215,#d64f18,1,0.1044
+'Monitoreo a largo plazo',es,Adaptation,#157a2c,#4cc75d,1,0.1024
 'Destrucción de infraestructuras',es,Impacts,#4287f5,#6390d3,1,0.1022
+'Infraestructura resistente al clima',es,Adaptation,#157a2c,#52ce62,1,0.0999
+'Educación en seguridad invernal',es,Mitigation,#9e3215,#d65218,1,0.0997
 'Afectación a poblaciones',es,Impacts,#4287f5,#6393d4,1,0.0974
+'Refuerzo de rutas críticas',es,Adaptation,#157a2c,#58d567,1,0.0972
+'Capacitación comunitaria en riesgo',es,Adaptation,#157a2c,#5edc6c,1,0.0953
 'Daños económicos locales',es,Impacts,#4287f5,#6399d6,1,0.0928
 'Riesgo para actividades turísticas',es,Impacts,#4287f5,#63a5da,1,0.0913
 'Pérdida de vidas humanas',es,Impacts,#4287f5,#63a8db,1,0.0876
 'Bloqueo de rutas de montaña',es,Impacts,#4287f5,#63aedf,1,0.0844
-'Sistemas de control de avalanchas',es,Mitigation,#9e3215,#d63e18,1,0.1442
-'Detonación preventiva',es,Mitigation,#9e3215,#d65a18,1,0.1333
-'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.1295
-'Redes de contención de nieve',es,Mitigation,#9e3215,#d64e18,1,0.1201
-'Sistemas de alerta de avalanchas',es,Mitigation,#9e3215,#d63a18,1,0.1153
-'Equipamiento ARVA',es,Mitigation,#9e3215,#d64b18,1,0.1127
-'Pala y sonda de rescate',es,Mitigation,#9e3215,#d64418,1,0.1101
-'Perros de búsqueda en avalanchas',es,Mitigation,#9e3215,#d64718,1,0.1089
-'Rutas seguras señalizadas',es,Mitigation,#9e3215,#d64f18,1,0.1044
-'Educación en seguridad invernal',es,Mitigation,#9e3215,#d65218,1,0.0997
-'Planificación territorial segura',es,Adaptation,#157a2c,#1b8f35,1,0.1319
-'Diseño urbano resistente a avalanchas',es,Adaptation,#157a2c,#22963a,1,0.1224
-'Estrategias de resiliencia comunitaria',es,Adaptation,#157a2c,#34ab49,1,0.1171
-'Gestión sostenible del riesgo',es,Adaptation,#157a2c,#3ab24e,1,0.1115
-'Protección de bosques protectores',es,Adaptation,#157a2c,#40b953,1,0.1074
-'Planes de evacuación locales',es,Adaptation,#157a2c,#46c058,1,0.1055
-'Monitoreo a largo plazo',es,Adaptation,#157a2c,#4cc75d,1,0.1024
-'Infraestructura resistente al clima',es,Adaptation,#157a2c,#52ce62,1,0.0999
-'Refuerzo de rutas críticas',es,Adaptation,#157a2c,#58d567,1,0.0972
-'Capacitación comunitaria en riesgo',es,Adaptation,#157a2c,#5edc6c,1,0.0953
