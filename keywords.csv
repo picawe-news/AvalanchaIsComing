@@ -8,23 +8,24 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'avalancha de placa',es,Hazard,#4287f5,#022f78,1,0.1391222699629795
 'accidente mortal avalancha',es,Hazard,#4287f5,#022f78,1,0.13624526251953117
 'desastre avalancha',es,Hazard,#4287f5,#022f78,1,0.1167777092625255
-'Avalancha de nieve',es,Hazard,#4287f5,#022f78,3,0.2522902396834001
-'Alud',es,Hazard,#4287f5,#022f78,3,0.2522902396834001
-'Desprendimiento de nieve',es,Hazard,#4287f5,#022f78,3,0.2522902396834001
-'Nieve inestable',es,Hazard,#4287f5,#022f78,3,0.2522902396834001
-'Placa de nieve',es,Hazard,#4287f5,#022f78,3,0.2522902396834001
-'Placa de viento',es,Hazard,#4287f5,#022f78,3,0.2522902396834001
-'Cornisa de nieve',es,Hazard,#4287f5,#022f78,3,0.2522902396834001
-'Deslizamiento de nieve',es,Hazard,#4287f5,#022f78,3,0.2522902396834001
-'Manto nivoso inestable',es,Hazard,#4287f5,#022f78,3,0.2522902396834001
-'Avalancha húmeda',es,Hazard,#4287f5,#022f78,3,0.2522902396834001
-'Avalancha seca',es,Hazard,#4287f5,#022f78,3,0.2522902396834001
-'Avalanchas espontáneas',es,Hazard,#4287f5,#022f78,3,0.2522902396834001
-'Zona de avalanchas',es,Hazard,#4287f5,#022f78,3,0.2522902396834001
-'Corredor de avalanchas',es,Hazard,#4287f5,#022f78,3,0.2522902396834001
-'Riesgo de avalanchas',es,Hazard,#4287f5,#022f78,3,0.2522902396834001
-'Peligro de avalanchas',es,Hazard,#4287f5,#022f78,3,0.2522902396834001
-'Ruptura del manto nival',es,Hazard,#4287f5,#022f78,3,0.2522902396834001
-'Acumulación de nieve',es,Hazard,#4287f5,#022f78,3,0.2522902396834001
-'Nevada intensa',es,Hazard,#4287f5,#022f78,3,0.2522902396834001
-'Talud inestable',es,Hazard,#4287f5,#022f78,3,0.2522902396834001
+'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,3,0.2521
+'Alud',es,Hazard,#4287f5,#4a8df7,3,0.2514
+'Desprendimiento de nieve',es,Hazard,#4287f5,#5a99fa,3,0.2498
+'Nieve inestable',es,Hazard,#4287f5,#6aa5fc,3,0.2487
+'Placa de nieve',es,Hazard,#4287f5,#78afff,3,0.2475
+'Placa de viento',es,Hazard,#4287f5,#7fb3ff,3,0.2459
+'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,3,0.2446
+'Deslizamiento de nieve',es,Hazard,#4287f5,#91c0ff,3,0.2433
+'Manto nivoso inestable',es,Hazard,#4287f5,#99c6ff,3,0.2421
+'Avalancha húmeda',es,Hazard,#4287f5,#a3ccff,3,0.2410
+'Avalancha seca',es,Hazard,#4287f5,#adcfff,3,0.2395
+'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,3,0.2380
+'Zona de avalanchas',es,Hazard,#4287f5,#c0dcff,3,0.2372
+'Corredor de avalanchas',es,Hazard,#4287f5,#c9e1ff,3,0.2361
+'Ruptura del manto nival',es,Hazard,#4287f5,#d2e6ff,3,0.2350
+'Avalancha de polvo',es,Hazard,#4287f5,#d8eaff,3,0.2333
+'Avalancha de placa',es,Hazard,#4287f5,#e0efff,3,0.2322
+'Acumulación de nieve',es,Hazard,#4287f5,#e7f3ff,3,0.2311
+'Nevada intensa',es,Hazard,#4287f5,#eff7ff,3,0.2302
+'Terreno propenso a avalanchas',es,Hazard,#4287f5,#f5faff,3,0.2299
+
