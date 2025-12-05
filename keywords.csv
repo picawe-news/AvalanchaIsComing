@@ -19,7 +19,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Acumulación de nieve',es,Hazard,#4287f5,#e7f3ff,3,0.2311
 'Nevada intensa',es,Hazard,#4287f5,#eff7ff,3,0.2302
 'Terreno propenso a avalanchas',es,Hazard,#4287f5,#f5faff,3,0.2299
-'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,2,0.20229999999999998
+'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,2,0.2022999999999999
 'daños por avalancha',es,Hazard,#4287f5,#022f78,1,0.1727186818428695
 'Inestabilidad del manto nival',es,Causes,#a89216,#c7b34a,2,0.1651
 'cambio climático de avalanchas',es,Causes,#a89216,#d8c379,1,0.160633934817291
@@ -33,9 +33,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'avalancha de placa',es,Hazard,#4287f5,#022f78,1,0.1391222699629795
 'accidente mortal avalancha',es,Hazard,#4287f5,#022f78,1,0.1362452625195311
 'Detonación preventiva',es,Mitigation,#9e3215,#d65a18,1,0.1333
-'Víctimas por avalancha',es,Impacts,#4287f5,#638ed1,1,0.1319
 'Calentamiento repentino',es,Causes,#a89216,#e6d59e,1,0.1319
 'Planificación territorial segura',es,Adaptation,#157a2c,#1b8f35,1,0.1319
+'Víctimas por avalancha',es,Impacts,#4287f5,#638ed1,1,0.1319
 'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.1295
 'Lluvia sobre nieve',es,Causes,#a89216,#eddcb1,2,0.1275
 'Diseño urbano resistente a avalanchas',es,Adaptation,#157a2c,#22963a,1,0.1224
@@ -59,7 +59,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rutas seguras señalizadas',es,Mitigation,#9e3215,#d64f18,1,0.1044
 'Monitoreo a largo plazo',es,Adaptation,#157a2c,#4cc75d,1,0.1024
 'Destrucción de infraestructuras',es,Impacts,#4287f5,#6390d3,1,0.1022
-'Infraestructura resistente al clima',es,Adaptation,#157a2c,#52ce62,1,0.0999
 'Educación en seguridad invernal',es,Mitigation,#9e3215,#d65218,1,0.0997
 'Afectación a poblaciones',es,Impacts,#4287f5,#6393d4,1,0.0974
 'Refuerzo de rutas críticas',es,Adaptation,#157a2c,#58d567,1,0.0972
@@ -67,4 +66,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Daños económicos locales',es,Impacts,#4287f5,#6399d6,1,0.0928
 'Riesgo para actividades turísticas',es,Impacts,#4287f5,#63a5da,1,0.0913
 'Pérdida de vidas humanas',es,Impacts,#4287f5,#63a8db,1,0.0876
+'Infraestructura resistente al clima',es,Adaptation,#157a2c,#52ce62,1,0.08506501500000001
 'Bloqueo de rutas de montaña',es,Impacts,#4287f5,#63aedf,1,0.0844
