@@ -28,4 +28,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Acumulación de nieve',es,Hazard,#4287f5,#e7f3ff,3,0.2311
 'Nevada intensa',es,Hazard,#4287f5,#eff7ff,3,0.2302
 'Terreno propenso a avalanchas',es,Hazard,#4287f5,#f5faff,3,0.2299
-
+'Inestabilidad del manto nival',es,Causes,#a89216,#c7b34a,2,0.1651
+'Viento fuerte sobre nieve suelta',es,Causes,#a89216,#ccb250,2,0.1482
+'Acumulación rápida de nieve',es,Causes,#a89216,#d3bb63,1,0.1423
+'Calentamiento repentino',es,Causes,#a89216,#e6d59e,1,0.1319
+'Lluvia sobre nieve',es,Causes,#a89216,#eddcb1,2,0.1275
+'Cambios bruscos de temperatura',es,Causes,#a89216,#d9c577,1,0.1194
+'Pendiente pronunciada',es,Causes,#a89216,#e0cd8b,1,0.1152
+'Nieve reciente poco cohesionada',es,Causes,#a89216,#f3e4c4,1,0.1128
+'Estratificación débil de nieve',es,Causes,#a89216,#fff4e0,1,0.1102
+'Vibraciones humanas o maquinaria',es,Causes,#a89216,#f9eccf,1,0.1085
