@@ -33,15 +33,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'avalancha de placa',es,Hazard,#4287f5,#022f78,1,0.1391222699629795
 'accidente mortal avalancha',es,Hazard,#4287f5,#022f78,1,0.1362452625195311
 'Detonación preventiva',es,Mitigation,#9e3215,#d65a18,1,0.1333
-'Víctimas por avalancha',es,Impacts,#4287f5,#638ed1,1,0.1319
 'Calentamiento repentino',es,Causes,#a89216,#e6d59e,1,0.1319
 'Planificación territorial segura',es,Adaptation,#157a2c,#1b8f35,1,0.1319
+'Víctimas por avalancha',es,Impacts,#4287f5,#638ed1,1,0.1319
 'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.1295
 'Lluvia sobre nieve',es,Causes,#a89216,#eddcb1,2,0.1275
 'Diseño urbano resistente a avalanchas',es,Adaptation,#157a2c,#22963a,1,0.1224
 'Redes de contención de nieve',es,Mitigation,#9e3215,#d64e18,1,0.1201
-'Personas sepultadas',es,Impacts,#4287f5,#638ed5,1,0.1198
 'Cambios bruscos de temperatura',es,Causes,#a89216,#d9c577,1,0.1194
+'Personas sepultadas',es,Impacts,#4287f5,#638ed5,1,0.1183303
 'desastre avalancha',es,Hazard,#4287f5,#022f78,1,0.1167777092625255
 'Sistemas de alerta de avalanchas',es,Mitigation,#9e3215,#d63a18,1,0.1153
 'Pendiente pronunciada',es,Causes,#a89216,#e0cd8b,1,0.1152
