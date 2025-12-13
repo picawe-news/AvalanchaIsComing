@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Deslizamiento de nieve',es,Hazard,#4287f5,#91c0ff,3,0.2433
 'Manto nivoso inestable',es,Hazard,#4287f5,#99c6ff,3,0.2421
 'Avalancha húmeda',es,Hazard,#4287f5,#a3ccff,3,0.241
 'avalancha',es,Hazard,#4287f5,#022f78,3,0.2357674200945264
@@ -11,6 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nieve inestable',es,Hazard,#4287f5,#6aa5fc,3,0.21154551
 'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,3,0.20911012
 'Placa de viento',es,Hazard,#4287f5,#7fb3ff,2,0.20901518
+'Deslizamiento de nieve',es,Hazard,#4287f5,#91c0ff,1,0.20680511999999998
 'Acumulación de nieve',es,Hazard,#4287f5,#e7f3ff,3,0.2054771240909091
 'Avalancha seca',es,Hazard,#4287f5,#adcfff,1,0.2035749999999999
 'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,2,0.2022999999999999
