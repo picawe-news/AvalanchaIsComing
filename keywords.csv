@@ -12,7 +12,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,2,0.2022999999999999
 'Corredor de avalanchas',es,Hazard,#4287f5,#c9e1ff,3,0.201135045
 'Ruptura del manto nival',es,Hazard,#4287f5,#d2e6ff,1,0.1997499999999999
-'Avalancha de polvo',es,Hazard,#4287f5,#d8eaff,3,0.19920509
 'Nevada intensa',es,Hazard,#4287f5,#eff7ff,3,0.19642057
 'Terreno propenso a avalanchas',es,Hazard,#4287f5,#f5faff,1,0.1954149999999999
 'Alud',es,Hazard,#4287f5,#4a8df7,2,0.1947694176818181
@@ -22,6 +21,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,2,0.177743752
 'daños por avalancha',es,Hazard,#4287f5,#022f78,1,0.1727186818428695
 'Zona de avalanchas',es,Hazard,#4287f5,#c0dcff,2,0.1721271515
+'Avalancha de polvo',es,Hazard,#4287f5,#d8eaff,3,0.17022441649999998
 'cambio climático de avalanchas',es,Causes,#a89216,#d8c379,1,0.160633934817291
 'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.1602885441406249
 'Viento fuerte sobre nieve suelta',es,Causes,#a89216,#ccb250,2,0.1482
