@@ -23,13 +23,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Zona de avalanchas',es,Hazard,#4287f5,#c0dcff,2,0.1721271515
 'Avalancha de polvo',es,Hazard,#4287f5,#d8eaff,3,0.1702244164999999
 'cambio climático de avalanchas',es,Causes,#a89216,#d8c379,1,0.160633934817291
-'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.1602885441406249
 'Viento fuerte sobre nieve suelta',es,Causes,#a89216,#ccb250,2,0.1482
 'avalanchas muertos',es,Hazard,#4287f5,#022f78,1,0.1481058778959482
 'nieve y avalanchas',es,Causes,#a89216,#d8c379,1,0.1468961835461799
 'Daños por avalancha',es,Impacts,#4287f5,#63a2d9,1,0.1441
 'Inestabilidad del manto nival',es,Causes,#a89216,#c7b34a,1,0.140335
 'avalancha de placa',es,Hazard,#4287f5,#022f78,1,0.1391222699629795
+'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.13624526251953117
 'accidente mortal avalancha',es,Hazard,#4287f5,#022f78,1,0.1362452625195311
 'Detonación preventiva',es,Mitigation,#9e3215,#d65a18,1,0.1333
 'Víctimas por avalancha',es,Impacts,#4287f5,#638ed1,1,0.1319
