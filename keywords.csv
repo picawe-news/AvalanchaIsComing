@@ -2,7 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Manto nivoso inestable',es,Hazard,#4287f5,#99c6ff,3,0.2421
 'Avalancha húmeda',es,Hazard,#4287f5,#a3ccff,3,0.241
 'Avalancha de placa',es,Hazard,#4287f5,#e0efff,3,0.2322
-'avalancha',es,Hazard,#4287f5,#022f78,3,0.22990439162580198
+'avalancha',es,Hazard,#4287f5,#022f78,3,0.2299043916258019
 'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,2,0.21428524
 'Acumulación de nieve',es,Hazard,#4287f5,#e7f3ff,3,0.2054771240909091
 'Avalancha seca',es,Hazard,#4287f5,#adcfff,1,0.2035749999999999
@@ -32,9 +32,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.1362452625195311
 'accidente mortal avalancha',es,Hazard,#4287f5,#022f78,1,0.1362452625195311
 'Detonación preventiva',es,Mitigation,#9e3215,#d65a18,1,0.1333
+'Calentamiento repentino',es,Causes,#a89216,#e6d59e,1,0.1319
 'Víctimas por avalancha',es,Impacts,#4287f5,#638ed1,1,0.1319
 'Planificación territorial segura',es,Adaptation,#157a2c,#1b8f35,1,0.1319
-'Calentamiento repentino',es,Causes,#a89216,#e6d59e,1,0.1319
 'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.1295
 'Lluvia sobre nieve',es,Causes,#a89216,#eddcb1,2,0.1275
 'Diseño urbano resistente a avalanchas',es,Adaptation,#157a2c,#22963a,1,0.1224
@@ -64,7 +64,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rutas seguras señalizadas',es,Mitigation,#9e3215,#d64f18,1,0.088890015
 'Infraestructura resistente al clima',es,Adaptation,#157a2c,#52ce62,1,0.085065015
 'Bloqueo de rutas de montaña',es,Impacts,#4287f5,#63aedf,1,0.0844
-'Refuerzo de rutas críticas',es,Adaptation,#157a2c,#58d567,1,0.083370075
 'Capacitación comunitaria en riesgo',es,Adaptation,#157a2c,#5edc6c,1,0.08250515
 'Protección de bosques protectores',es,Adaptation,#157a2c,#40b953,1,0.07787402775
+'Refuerzo de rutas críticas',es,Adaptation,#157a2c,#58d567,1,0.07176465375
 'Pérdida de vidas humanas',es,Impacts,#4287f5,#63a8db,1,0.0666067215
