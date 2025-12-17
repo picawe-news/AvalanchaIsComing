@@ -22,7 +22,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Zona de avalanchas',es,Hazard,#4287f5,#c0dcff,2,0.1721271515
 'Avalancha de polvo',es,Hazard,#4287f5,#d8eaff,3,0.1702244164999999
 'cambio climático de avalanchas',es,Causes,#a89216,#d8c379,1,0.160633934817291
-'Desprendimiento de nieve',es,Hazard,#4287f5,#5a99fa,1,0.15400858126249992
+'Desprendimiento de nieve',es,Hazard,#4287f5,#5a99fa,1,0.1540085812624999
 'Viento fuerte sobre nieve suelta',es,Causes,#a89216,#ccb250,2,0.1482
 'avalanchas muertos',es,Hazard,#4287f5,#022f78,1,0.1481058778959482
 'nieve y avalanchas',es,Causes,#a89216,#d8c379,1,0.1468961835461799
@@ -47,15 +47,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pendiente pronunciada',es,Causes,#a89216,#e0cd8b,1,0.1152
 'Nieve reciente poco cohesionada',es,Causes,#a89216,#f3e4c4,1,0.1128
 'Equipamiento ARVA',es,Mitigation,#9e3215,#d64b18,1,0.1127
-'Gestión sostenible del riesgo',es,Adaptation,#157a2c,#3ab24e,1,0.1115
 'Estratificación débil de nieve',es,Causes,#a89216,#fff4e0,1,0.1102
-'Interrupción de carreteras',es,Impacts,#4287f5,#639fd8,1,0.1101
 'Pala y sonda de rescate',es,Mitigation,#9e3215,#d64418,1,0.1101
+'Interrupción de carreteras',es,Impacts,#4287f5,#639fd8,1,0.1101
 'Vibraciones humanas o maquinaria',es,Causes,#a89216,#f9eccf,1,0.1085
 'Planes de evacuación locales',es,Adaptation,#157a2c,#46c058,1,0.1055
 'Monitoreo a largo plazo',es,Adaptation,#157a2c,#4cc75d,1,0.1024
 'Destrucción de infraestructuras',es,Impacts,#4287f5,#6390d3,1,0.1022
 'Estrategias de resiliencia comunitaria',es,Adaptation,#157a2c,#34ab49,1,0.100885135
+'Gestión sostenible del riesgo',es,Adaptation,#157a2c,#3ab24e,2,0.099727445
 'Educación en seguridad invernal',es,Mitigation,#9e3215,#d65218,1,0.0997
 'Afectación a poblaciones',es,Impacts,#4287f5,#6393d4,1,0.0974
 'Daños económicos locales',es,Impacts,#4287f5,#6399d6,1,0.0928
