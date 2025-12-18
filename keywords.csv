@@ -5,7 +5,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Manto nivoso inestable',es,Hazard,#4287f5,#99c6ff,1,0.205785
 'Acumulación de nieve',es,Hazard,#4287f5,#e7f3ff,3,0.2054771240909091
 'Avalancha seca',es,Hazard,#4287f5,#adcfff,1,0.2035749999999999
-'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,2,0.2022999999999999
 'Corredor de avalanchas',es,Hazard,#4287f5,#c9e1ff,3,0.201135045
 'Ruptura del manto nival',es,Hazard,#4287f5,#d2e6ff,1,0.1997499999999999
 'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.19737003
@@ -19,6 +18,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Deslizamiento de nieve',es,Hazard,#4287f5,#91c0ff,1,0.1771344869999999
 'daños por avalancha',es,Hazard,#4287f5,#022f78,1,0.1727186818428695
 'Zona de avalanchas',es,Hazard,#4287f5,#c0dcff,2,0.1721271515
+'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.1719549999999999
 'Avalancha de polvo',es,Hazard,#4287f5,#d8eaff,3,0.1702244164999999
 'cambio climático de avalanchas',es,Causes,#a89216,#d8c379,1,0.160633934817291
 'Sistemas de control de avalanchas',es,Mitigation,#9e3215,#d63e18,1,0.1583806900493749
@@ -33,9 +33,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.1362452625195311
 'accidente mortal avalancha',es,Hazard,#4287f5,#022f78,1,0.1362452625195311
 'Detonación preventiva',es,Mitigation,#9e3215,#d65a18,1,0.1333
-'Víctimas por avalancha',es,Impacts,#4287f5,#638ed1,1,0.1319
 'Planificación territorial segura',es,Adaptation,#157a2c,#1b8f35,1,0.1319
 'Calentamiento repentino',es,Causes,#a89216,#e6d59e,1,0.1319
+'Víctimas por avalancha',es,Impacts,#4287f5,#638ed1,1,0.1319
 'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.1295
 'Lluvia sobre nieve',es,Causes,#a89216,#eddcb1,2,0.1275
 'Diseño urbano resistente a avalanchas',es,Adaptation,#157a2c,#22963a,1,0.1224
