@@ -27,6 +27,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'avalanchas muertos',es,Hazard,#4287f5,#022f78,1,0.1481058778959482
 'nieve y avalanchas',es,Causes,#a89216,#d8c379,1,0.1468961835461799
 'Daños por avalancha',es,Impacts,#4287f5,#63a2d9,1,0.1441
+'Sistemas de alerta de avalanchas',es,Mitigation,#9e3215,#d63a18,1,0.143155015
 'Inestabilidad del manto nival',es,Causes,#a89216,#c7b34a,1,0.140335
 'avalancha de placa',es,Hazard,#4287f5,#022f78,1,0.1391222699629795
 'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.1362452625195311
@@ -43,7 +44,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cambios bruscos de temperatura',es,Causes,#a89216,#d9c577,1,0.1194
 'Personas sepultadas',es,Impacts,#4287f5,#638ed5,1,0.1183303
 'desastre avalancha',es,Hazard,#4287f5,#022f78,1,0.1167777092625255
-'Sistemas de alerta de avalanchas',es,Mitigation,#9e3215,#d63a18,1,0.1153
 'Pendiente pronunciada',es,Causes,#a89216,#e0cd8b,1,0.1152
 'Nieve reciente poco cohesionada',es,Causes,#a89216,#f3e4c4,1,0.1128
 'Equipamiento ARVA',es,Mitigation,#9e3215,#d64b18,1,0.1127
