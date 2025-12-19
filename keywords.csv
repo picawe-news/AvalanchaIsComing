@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'avalancha',es,Hazard,#4287f5,#022f78,3,0.2481026206092043
 'Avalancha húmeda',es,Hazard,#4287f5,#a3ccff,3,0.241
-'Acumulación de nieve',es,Hazard,#4287f5,#e7f3ff,3,0.22085666547727273
+'Acumulación de nieve',es,Hazard,#4287f5,#e7f3ff,3,0.2208566654772727
 'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,2,0.21428524
 'Manto nivoso inestable',es,Hazard,#4287f5,#99c6ff,1,0.205785
 'Avalancha seca',es,Hazard,#4287f5,#adcfff,1,0.2035749999999999
@@ -33,9 +33,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.1362452625195311
 'accidente mortal avalancha',es,Hazard,#4287f5,#022f78,1,0.1362452625195311
 'Detonación preventiva',es,Mitigation,#9e3215,#d65a18,1,0.1333
-'Víctimas por avalancha',es,Impacts,#4287f5,#638ed1,1,0.1319
 'Planificación territorial segura',es,Adaptation,#157a2c,#1b8f35,1,0.1319
 'Calentamiento repentino',es,Causes,#a89216,#e6d59e,1,0.1319
+'Víctimas por avalancha',es,Impacts,#4287f5,#638ed1,1,0.1319
 'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.1295
 'Lluvia sobre nieve',es,Causes,#a89216,#eddcb1,2,0.1275
 'Acumulación rápida de nieve',es,Causes,#a89216,#d3bb63,1,0.12155506
@@ -44,7 +44,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Personas sepultadas',es,Impacts,#4287f5,#638ed5,1,0.1183303
 'desastre avalancha',es,Hazard,#4287f5,#022f78,1,0.1167777092625255
 'Pendiente pronunciada',es,Causes,#a89216,#e0cd8b,1,0.1152
-'Nieve reciente poco cohesionada',es,Causes,#a89216,#f3e4c4,1,0.1128
 'Equipamiento ARVA',es,Mitigation,#9e3215,#d64b18,1,0.1127
 'Estratificación débil de nieve',es,Causes,#a89216,#fff4e0,1,0.1102
 'Pala y sonda de rescate',es,Mitigation,#9e3215,#d64418,1,0.1101
@@ -57,6 +56,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gestión sostenible del riesgo',es,Adaptation,#157a2c,#3ab24e,2,0.099727445
 'Educación en seguridad invernal',es,Mitigation,#9e3215,#d65218,1,0.0997
 'Afectación a poblaciones',es,Impacts,#4287f5,#6393d4,1,0.0974
+'Nieve reciente poco cohesionada',es,Causes,#a89216,#f3e4c4,1,0.09587999999999999
 'Interrupción de carreteras',es,Impacts,#4287f5,#639fd8,1,0.09508515
 'Daños económicos locales',es,Impacts,#4287f5,#6399d6,1,0.0928
 'Perros de búsqueda en avalanchas',es,Mitigation,#9e3215,#d64718,1,0.092565
