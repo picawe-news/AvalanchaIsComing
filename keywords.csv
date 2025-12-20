@@ -12,7 +12,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Terreno propenso a avalanchas',es,Hazard,#4287f5,#f5faff,1,0.1954149999999999
 'Alud',es,Hazard,#4287f5,#4a8df7,2,0.1947694176818181
 'Nieve inestable',es,Hazard,#4287f5,#6aa5fc,3,0.1808642835
-'Placa de nieve',es,Hazard,#4287f5,#78afff,1,0.18073168125
 'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,2,0.177743752
 'Placa de viento',es,Hazard,#4287f5,#7fb3ff,1,0.1776630829999999
 'Deslizamiento de nieve',es,Hazard,#4287f5,#91c0ff,1,0.1771344869999999
@@ -22,6 +21,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Avalancha de polvo',es,Hazard,#4287f5,#d8eaff,3,0.1702244164999999
 'cambio climático de avalanchas',es,Causes,#a89216,#d8c379,1,0.160633934817291
 'Sistemas de control de avalanchas',es,Mitigation,#9e3215,#d63e18,1,0.1583806900493749
+'Placa de nieve',es,Hazard,#4287f5,#78afff,1,0.1551220790625
 'Desprendimiento de nieve',es,Hazard,#4287f5,#5a99fa,1,0.1540085812624999
 'Viento fuerte sobre nieve suelta',es,Causes,#a89216,#ccb250,2,0.1482
 'avalanchas muertos',es,Hazard,#4287f5,#022f78,1,0.1481058778959482
@@ -33,9 +33,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.1362452625195311
 'accidente mortal avalancha',es,Hazard,#4287f5,#022f78,1,0.1362452625195311
 'Detonación preventiva',es,Mitigation,#9e3215,#d65a18,1,0.1333
-'Planificación territorial segura',es,Adaptation,#157a2c,#1b8f35,1,0.1319
 'Calentamiento repentino',es,Causes,#a89216,#e6d59e,1,0.1319
 'Víctimas por avalancha',es,Impacts,#4287f5,#638ed1,1,0.1319
+'Planificación territorial segura',es,Adaptation,#157a2c,#1b8f35,1,0.1319
 'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.1295
 'Lluvia sobre nieve',es,Causes,#a89216,#eddcb1,2,0.1275
 'Acumulación rápida de nieve',es,Causes,#a89216,#d3bb63,1,0.12155506
@@ -61,7 +61,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Perros de búsqueda en avalanchas',es,Mitigation,#9e3215,#d64718,1,0.092565
 'Riesgo para actividades turísticas',es,Impacts,#4287f5,#63a5da,1,0.0913
 'Rutas seguras señalizadas',es,Mitigation,#9e3215,#d64f18,1,0.088890015
-'Estrategias de resiliencia comunitaria',es,Adaptation,#157a2c,#34ab49,1,0.08650243975000001
+'Estrategias de resiliencia comunitaria',es,Adaptation,#157a2c,#34ab49,1,0.08650243975
 'Infraestructura resistente al clima',es,Adaptation,#157a2c,#52ce62,1,0.085065015
 'Bloqueo de rutas de montaña',es,Impacts,#4287f5,#63aedf,1,0.0844
 'Capacitación comunitaria en riesgo',es,Adaptation,#157a2c,#5edc6c,1,0.08250515
