@@ -21,7 +21,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ruptura del manto nival',es,Hazard,#4287f5,#d2e6ff,1,0.1697874999999999
 'cambio climático de avalanchas',es,Causes,#a89216,#d8c379,1,0.160633934817291
 'Sistemas de control de avalanchas',es,Mitigation,#9e3215,#d63e18,1,0.1583806900493749
-'Placa de nieve',es,Hazard,#4287f5,#78afff,1,0.1551220790625
 'Desprendimiento de nieve',es,Hazard,#4287f5,#5a99fa,1,0.1540085812624999
 'Viento fuerte sobre nieve suelta',es,Causes,#a89216,#ccb250,2,0.1482
 'avalanchas muertos',es,Hazard,#4287f5,#022f78,1,0.1481058778959482
@@ -32,10 +31,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'avalancha de placa',es,Hazard,#4287f5,#022f78,1,0.1391222699629795
 'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.1362452625195311
 'accidente mortal avalancha',es,Hazard,#4287f5,#022f78,1,0.1362452625195311
+'Placa de nieve',es,Hazard,#4287f5,#78afff,1,0.133503932203125
 'Detonación preventiva',es,Mitigation,#9e3215,#d65a18,1,0.1333
-'Víctimas por avalancha',es,Impacts,#4287f5,#638ed1,1,0.1319
 'Planificación territorial segura',es,Adaptation,#157a2c,#1b8f35,1,0.1319
 'Calentamiento repentino',es,Causes,#a89216,#e6d59e,1,0.1319
+'Víctimas por avalancha',es,Impacts,#4287f5,#638ed1,1,0.1319
 'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.1295
 'Lluvia sobre nieve',es,Causes,#a89216,#eddcb1,2,0.1275
 'Acumulación rápida de nieve',es,Causes,#a89216,#d3bb63,1,0.12155506
