@@ -33,9 +33,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'accidente mortal avalancha',es,Hazard,#4287f5,#022f78,1,0.1362452625195311
 'Placa de nieve',es,Hazard,#4287f5,#78afff,1,0.133503932203125
 'Detonación preventiva',es,Mitigation,#9e3215,#d65a18,1,0.1333
-'Planificación territorial segura',es,Adaptation,#157a2c,#1b8f35,1,0.1319
 'Calentamiento repentino',es,Causes,#a89216,#e6d59e,1,0.1319
 'Víctimas por avalancha',es,Impacts,#4287f5,#638ed1,1,0.1319
+'Planificación territorial segura',es,Adaptation,#157a2c,#1b8f35,1,0.1319
 'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.1295
 'Lluvia sobre nieve',es,Causes,#a89216,#eddcb1,2,0.1275
 'Acumulación rápida de nieve',es,Causes,#a89216,#d3bb63,1,0.12155506
@@ -46,7 +46,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pendiente pronunciada',es,Causes,#a89216,#e0cd8b,1,0.1152
 'Equipamiento ARVA',es,Mitigation,#9e3215,#d64b18,1,0.1127
 'Estratificación débil de nieve',es,Causes,#a89216,#fff4e0,1,0.1102
-'Pala y sonda de rescate',es,Mitigation,#9e3215,#d64418,1,0.1101
 'Vibraciones humanas o maquinaria',es,Causes,#a89216,#f9eccf,1,0.1085
 'Planes de evacuación locales',es,Adaptation,#157a2c,#46c058,1,0.1055
 'Diseño urbano resistente a avalanchas',es,Adaptation,#157a2c,#22963a,1,0.10404
@@ -57,6 +56,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Afectación a poblaciones',es,Impacts,#4287f5,#6393d4,1,0.0974
 'Nieve reciente poco cohesionada',es,Causes,#a89216,#f3e4c4,1,0.0958799999999999
 'Interrupción de carreteras',es,Impacts,#4287f5,#639fd8,1,0.09508515
+'Pala y sonda de rescate',es,Mitigation,#9e3215,#d64418,1,0.093585
 'Daños económicos locales',es,Impacts,#4287f5,#6399d6,1,0.0928
 'Perros de búsqueda en avalanchas',es,Mitigation,#9e3215,#d64718,1,0.092565
 'Riesgo para actividades turísticas',es,Impacts,#4287f5,#63a5da,1,0.0913
