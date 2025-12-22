@@ -28,19 +28,19 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Daños por avalancha',es,Impacts,#4287f5,#63a2d9,1,0.1441
 'Sistemas de alerta de avalanchas',es,Mitigation,#9e3215,#d63a18,1,0.143155015
 'Inestabilidad del manto nival',es,Causes,#a89216,#c7b34a,1,0.140335
-'avalancha de placa',es,Hazard,#4287f5,#022f78,1,0.1391222699629795
 'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.1362452625195311
 'accidente mortal avalancha',es,Hazard,#4287f5,#022f78,1,0.1362452625195311
 'Placa de nieve',es,Hazard,#4287f5,#78afff,1,0.133503932203125
 'Detonación preventiva',es,Mitigation,#9e3215,#d65a18,1,0.1333
-'Planificación territorial segura',es,Adaptation,#157a2c,#1b8f35,1,0.1319
 'Calentamiento repentino',es,Causes,#a89216,#e6d59e,1,0.1319
+'Planificación territorial segura',es,Adaptation,#157a2c,#1b8f35,1,0.1319
 'Víctimas por avalancha',es,Impacts,#4287f5,#638ed1,1,0.1319
 'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.1295
 'Lluvia sobre nieve',es,Causes,#a89216,#eddcb1,2,0.1275
 'Acumulación rápida de nieve',es,Causes,#a89216,#d3bb63,1,0.12155506
 'Redes de contención de nieve',es,Mitigation,#9e3215,#d64e18,1,0.1201
 'Cambios bruscos de temperatura',es,Causes,#a89216,#d9c577,1,0.1194
+'avalancha de placa',es,Hazard,#4287f5,#022f78,1,0.11855395946853257
 'Personas sepultadas',es,Impacts,#4287f5,#638ed5,1,0.1183303
 'desastre avalancha',es,Hazard,#4287f5,#022f78,1,0.1167777092625255
 'Pendiente pronunciada',es,Causes,#a89216,#e0cd8b,1,0.1152
