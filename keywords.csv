@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'avalancha',es,Hazard,#4287f5,#022f78,3,0.2481026206092043
 'Avalancha húmeda',es,Hazard,#4287f5,#a3ccff,3,0.241
-'Acumulación de nieve',es,Hazard,#4287f5,#e7f3ff,3,0.2208566654772727
 'Avalancha seca',es,Hazard,#4287f5,#adcfff,1,0.2190888549999999
 'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,2,0.21428524
+'Acumulación de nieve',es,Hazard,#4287f5,#e7f3ff,3,0.21397938065568178
 'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.2130645554999999
 'Manto nivoso inestable',es,Hazard,#4287f5,#99c6ff,1,0.205785
 'Corredor de avalanchas',es,Hazard,#4287f5,#c9e1ff,3,0.201135045
@@ -40,7 +40,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Acumulación rápida de nieve',es,Causes,#a89216,#d3bb63,1,0.12155506
 'Redes de contención de nieve',es,Mitigation,#9e3215,#d64e18,1,0.1201
 'Cambios bruscos de temperatura',es,Causes,#a89216,#d9c577,1,0.1194
-'avalancha de placa',es,Hazard,#4287f5,#022f78,1,0.11855395946853257
+'avalancha de placa',es,Hazard,#4287f5,#022f78,1,0.1185539594685325
 'Personas sepultadas',es,Impacts,#4287f5,#638ed5,1,0.1183303
 'desastre avalancha',es,Hazard,#4287f5,#022f78,1,0.1167777092625255
 'Pendiente pronunciada',es,Causes,#a89216,#e0cd8b,1,0.1152
