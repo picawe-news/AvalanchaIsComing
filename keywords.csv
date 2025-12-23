@@ -3,11 +3,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Avalancha seca',es,Hazard,#4287f5,#adcfff,1,0.2190888549999999
 'avalancha',es,Hazard,#4287f5,#022f78,3,0.21720749388146
 'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,2,0.21428524
-'Acumulación de nieve',es,Hazard,#4287f5,#e7f3ff,3,0.2139793806556817
 'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.2130645554999999
 'Manto nivoso inestable',es,Hazard,#4287f5,#99c6ff,1,0.205785
 'Nevada intensa',es,Hazard,#4287f5,#eff7ff,3,0.19642057
 'Alud',es,Hazard,#4287f5,#4a8df7,2,0.1947694176818181
+'Acumulación de nieve',es,Hazard,#4287f5,#e7f3ff,3,0.18683368855732946
 'cambio climático de avalanchas',es,Causes,#a89216,#d8c379,1,0.1818388745946973
 'Nieve inestable',es,Hazard,#4287f5,#6aa5fc,3,0.1808642835
 'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,2,0.177743752
@@ -59,7 +59,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Daños económicos locales',es,Impacts,#4287f5,#6399d6,1,0.0928
 'Perros de búsqueda en avalanchas',es,Mitigation,#9e3215,#d64718,1,0.092565
 'Riesgo para actividades turísticas',es,Impacts,#4287f5,#63a5da,1,0.0913
-'Planes de evacuación locales',es,Adaptation,#157a2c,#46c058,1,0.09012504499999999
+'Planes de evacuación locales',es,Adaptation,#157a2c,#46c058,1,0.0901250449999999
 'Rutas seguras señalizadas',es,Mitigation,#9e3215,#d64f18,1,0.088890015
 'Estrategias de resiliencia comunitaria',es,Adaptation,#157a2c,#34ab49,1,0.08650243975
 'Infraestructura resistente al clima',es,Adaptation,#157a2c,#52ce62,1,0.085065015
