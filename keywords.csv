@@ -8,7 +8,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nevada intensa',es,Hazard,#4287f5,#eff7ff,3,0.19642057
 'Alud',es,Hazard,#4287f5,#4a8df7,2,0.1947694176818181
 'Acumulación de nieve',es,Hazard,#4287f5,#e7f3ff,3,0.1868336885573294
-'Nieve inestable',es,Hazard,#4287f5,#6aa5fc,3,0.1808642835
 'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,2,0.177743752
 'Placa de viento',es,Hazard,#4287f5,#7fb3ff,1,0.1776630829999999
 'Deslizamiento de nieve',es,Hazard,#4287f5,#91c0ff,1,0.1771344869999999
@@ -18,6 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Avalancha de polvo',es,Hazard,#4287f5,#d8eaff,3,0.1702244164999999
 'Terreno propenso a avalanchas',es,Hazard,#4287f5,#f5faff,1,0.1661027499999999
 'Sistemas de control de avalanchas',es,Mitigation,#9e3215,#d63e18,1,0.1583806900493749
+'Nieve inestable',es,Hazard,#4287f5,#6aa5fc,3,0.156285390975
 'cambio climático de avalanchas',es,Causes,#a89216,#d8c379,1,0.1548630734054927
 'Desprendimiento de nieve',es,Hazard,#4287f5,#5a99fa,1,0.1540085812624999
 'Viento fuerte sobre nieve suelta',es,Causes,#a89216,#ccb250,2,0.1482
@@ -31,9 +31,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.1362452625195311
 'accidente mortal avalancha',es,Hazard,#4287f5,#022f78,1,0.1362452625195311
 'Detonación preventiva',es,Mitigation,#9e3215,#d65a18,1,0.1333
+'Calentamiento repentino',es,Causes,#a89216,#e6d59e,1,0.1319
 'Planificación territorial segura',es,Adaptation,#157a2c,#1b8f35,1,0.1319
 'Víctimas por avalancha',es,Impacts,#4287f5,#638ed1,1,0.1319
-'Calentamiento repentino',es,Causes,#a89216,#e6d59e,1,0.1319
 'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.1295
 'Acumulación rápida de nieve',es,Causes,#a89216,#d3bb63,1,0.12155506
 'Redes de contención de nieve',es,Mitigation,#9e3215,#d64e18,1,0.1201
