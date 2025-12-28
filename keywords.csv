@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Avalancha seca',es,Hazard,#4287f5,#adcfff,1,0.2190888549999999
-'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,2,0.21428524
 'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.2130645554999999
 'Manto nivoso inestable',es,Hazard,#4287f5,#99c6ff,1,0.205785
 'Avalancha húmeda',es,Hazard,#4287f5,#a3ccff,3,0.2050000149999999
 'avalancha',es,Hazard,#4287f5,#022f78,3,0.1977649229810592
+'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,1,0.182142814
 'daños por avalancha',es,Hazard,#4287f5,#022f78,2,0.1796090506533955
 'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,2,0.177743752
 'Placa de viento',es,Hazard,#4287f5,#7fb3ff,1,0.1776630829999999
