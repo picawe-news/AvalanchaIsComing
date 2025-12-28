@@ -7,7 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,1,0.182142814
 'daños por avalancha',es,Hazard,#4287f5,#022f78,2,0.1796090506533955
 'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,2,0.177743752
-'Placa de viento',es,Hazard,#4287f5,#7fb3ff,1,0.1776630829999999
+'Placa de viento',es,Hazard,#4287f5,#7fb3ff,1,0.17626384554999988
 'Zona de avalanchas',es,Hazard,#4287f5,#c0dcff,2,0.1721271515
 'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.1719549999999999
 'Alud',es,Hazard,#4287f5,#4a8df7,2,0.1705046950295453
