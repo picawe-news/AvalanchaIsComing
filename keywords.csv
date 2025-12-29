@@ -7,7 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,1,0.182142814
 'daños por avalancha',es,Hazard,#4287f5,#022f78,2,0.1796090506533955
 'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,2,0.177743752
-'Placa de viento',es,Hazard,#4287f5,#7fb3ff,1,0.17626384554999988
+'Placa de viento',es,Hazard,#4287f5,#7fb3ff,1,0.1762638455499998
 'Zona de avalanchas',es,Hazard,#4287f5,#c0dcff,2,0.1721271515
 'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.1719549999999999
 'Alud',es,Hazard,#4287f5,#4a8df7,2,0.1705046950295453
@@ -25,7 +25,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Daños por avalancha',es,Impacts,#4287f5,#63a2d9,1,0.1441
 'Sistemas de alerta de avalanchas',es,Mitigation,#9e3215,#d63a18,1,0.143155015
 'Nieve inestable',es,Hazard,#4287f5,#6aa5fc,3,0.1422100139954166
-'Terreno propenso a avalanchas',es,Hazard,#4287f5,#f5faff,1,0.1411873374999999
 'Inestabilidad del manto nival',es,Causes,#a89216,#c7b34a,1,0.140335
 'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.1362452625195311
 'accidente mortal avalancha',es,Hazard,#4287f5,#022f78,1,0.1362452625195311
@@ -36,6 +35,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Corredor de avalanchas',es,Hazard,#4287f5,#c9e1ff,2,0.124297300273125
 'Acumulación rápida de nieve',es,Causes,#a89216,#d3bb63,1,0.12155506
 'Redes de contención de nieve',es,Mitigation,#9e3215,#d64e18,1,0.1201
+'Terreno propenso a avalanchas',es,Hazard,#4287f5,#f5faff,1,0.12000923687499991
 'Cambios bruscos de temperatura',es,Causes,#a89216,#d9c577,1,0.1194
 'Placa de nieve',es,Hazard,#4287f5,#78afff,1,0.1192194164635653
 'avalancha de placa',es,Hazard,#4287f5,#022f78,1,0.1185539594685325
