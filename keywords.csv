@@ -3,7 +3,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.2130645554999999
 'Avalancha húmeda',es,Hazard,#4287f5,#a3ccff,3,0.2050000149999999
 'avalancha',es,Hazard,#4287f5,#022f78,3,0.1977649229810592
-'Nevada intensa',es,Hazard,#4287f5,#eff7ff,3,0.18902682307499988
 'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,1,0.182142814
 'daños por avalancha',es,Hazard,#4287f5,#022f78,2,0.1796090506533955
 'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,2,0.177743752
@@ -14,6 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'avalanchas muertos',es,Hazard,#4287f5,#022f78,1,0.1711900262115559
 'Alud',es,Hazard,#4287f5,#4a8df7,2,0.1705046950295453
 'Acumulación de nieve',es,Hazard,#4287f5,#e7f3ff,3,0.1637598802737299
+'Nevada intensa',es,Hazard,#4287f5,#eff7ff,2,0.16067308461374982
 'Sistemas de control de avalanchas',es,Mitigation,#9e3215,#d63e18,1,0.1583806900493749
 'cambio climático de avalanchas',es,Causes,#a89216,#d8c379,1,0.1548630734054927
 'Desprendimiento de nieve',es,Hazard,#4287f5,#5a99fa,1,0.1540085812624999
