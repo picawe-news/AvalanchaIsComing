@@ -6,7 +6,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Acumulación de nieve',es,Hazard,#4287f5,#e7f3ff,3,0.187783821869034
 'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,1,0.182142814
 'daños por avalancha',es,Hazard,#4287f5,#022f78,2,0.1796090506533955
-'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,2,0.177743752
 'Placa de viento',es,Hazard,#4287f5,#7fb3ff,1,0.1762638455499998
 'Zona de avalanchas',es,Hazard,#4287f5,#c0dcff,2,0.1721271515
 'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.1719549999999999
@@ -17,6 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'cambio climático de avalanchas',es,Causes,#a89216,#d8c379,1,0.1548630734054927
 'Desprendimiento de nieve',es,Hazard,#4287f5,#5a99fa,1,0.1540085812624999
 'Deslizamiento de nieve',es,Hazard,#4287f5,#91c0ff,1,0.1525145089499999
+'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,1,0.1510822342
 'Manto nivoso inestable',es,Hazard,#4287f5,#99c6ff,1,0.1486796625
 'Viento fuerte sobre nieve suelta',es,Causes,#a89216,#ccb250,2,0.1482
 'nieve y avalanchas',es,Causes,#a89216,#d8c379,1,0.1468961835461799
@@ -47,7 +47,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vibraciones humanas o maquinaria',es,Causes,#a89216,#f9eccf,1,0.1085
 'Corredor de avalanchas',es,Hazard,#4287f5,#c9e1ff,1,0.1056527352321562
 'Diseño urbano resistente a avalanchas',es,Adaptation,#157a2c,#22963a,1,0.10404
-'Infraestructura resistente al clima',es,Adaptation,#157a2c,#52ce62,1,0.10275530774999998
+'Infraestructura resistente al clima',es,Adaptation,#157a2c,#52ce62,1,0.1027553077499999
 'Monitoreo a largo plazo',es,Adaptation,#157a2c,#4cc75d,1,0.1024
 'Redes de contención de nieve',es,Mitigation,#9e3215,#d64e18,1,0.102235015
 'Destrucción de infraestructuras',es,Impacts,#4287f5,#6390d3,1,0.1022
