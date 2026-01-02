@@ -10,7 +10,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.1719549999999999
 'avalanchas muertos',es,Hazard,#4287f5,#022f78,1,0.1711900262115559
 'Alud',es,Hazard,#4287f5,#4a8df7,2,0.1705046950295453
-'Acumulación de nieve',es,Hazard,#4287f5,#e7f3ff,3,0.1645678685886789
 'Nevada intensa',es,Hazard,#4287f5,#eff7ff,2,0.1606730846137498
 'Desprendimiento de nieve',es,Hazard,#4287f5,#5a99fa,1,0.1540085812624999
 'Deslizamiento de nieve',es,Hazard,#4287f5,#91c0ff,1,0.1525145089499999
@@ -18,14 +17,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Manto nivoso inestable',es,Hazard,#4287f5,#99c6ff,1,0.1486796625
 'Viento fuerte sobre nieve suelta',es,Causes,#a89216,#ccb250,2,0.1482
 'nieve y avalanchas',es,Causes,#a89216,#d8c379,1,0.1468961835461799
+'Acumulación de nieve',es,Hazard,#4287f5,#e7f3ff,3,0.14483427830037707
 'Avalancha de polvo',es,Hazard,#4287f5,#d8eaff,2,0.1446907990249999
 'Ruptura del manto nival',es,Hazard,#4287f5,#d2e6ff,1,0.1443193749999999
 'Daños por avalancha',es,Impacts,#4287f5,#63a2d9,1,0.1441
 'Sistemas de alerta de avalanchas',es,Mitigation,#9e3215,#d63a18,1,0.143155015
 'Nieve inestable',es,Hazard,#4287f5,#6aa5fc,3,0.1422100139954166
 'Inestabilidad del manto nival',es,Causes,#a89216,#c7b34a,1,0.140335
-'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.1362452625195311
 'accidente mortal avalancha',es,Hazard,#4287f5,#022f78,1,0.1362452625195311
+'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.1362452625195311
 'Sistemas de control de avalanchas',es,Mitigation,#9e3215,#d63e18,1,0.1346235865419686
 'Detonación preventiva',es,Mitigation,#9e3215,#d65a18,1,0.1333
 'cambio climático de avalanchas',es,Causes,#a89216,#d8c379,1,0.1319336423946688
@@ -64,7 +64,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Estrategias de resiliencia comunitaria',es,Adaptation,#157a2c,#34ab49,1,0.08650243975
 'Bloqueo de rutas de montaña',es,Impacts,#4287f5,#63aedf,1,0.0844
 'Capacitación comunitaria en riesgo',es,Adaptation,#157a2c,#5edc6c,1,0.08250515
-'Perros de búsqueda en avalanchas',es,Mitigation,#9e3215,#d64718,1,0.07913029499999999
+'Perros de búsqueda en avalanchas',es,Mitigation,#9e3215,#d64718,1,0.0791302949999999
 'Protección de bosques protectores',es,Adaptation,#157a2c,#40b953,1,0.07787402775
 'Refuerzo de rutas críticas',es,Adaptation,#157a2c,#58d567,1,0.07176465375
 'Pérdida de vidas humanas',es,Impacts,#4287f5,#63a8db,1,0.0666067215
