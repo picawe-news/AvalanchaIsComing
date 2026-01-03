@@ -26,7 +26,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inestabilidad del manto nival',es,Causes,#a89216,#c7b34a,1,0.140335
 'accidente mortal avalancha',es,Hazard,#4287f5,#022f78,1,0.1362452625195311
 'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.1362452625195311
-'Sistemas de control de avalanchas',es,Mitigation,#9e3215,#d63e18,1,0.1346235865419686
 'Detonación preventiva',es,Mitigation,#9e3215,#d65a18,1,0.1333
 'cambio climático de avalanchas',es,Causes,#a89216,#d8c379,1,0.1319336423946688
 'Víctimas por avalancha',es,Impacts,#4287f5,#638ed1,1,0.1319
@@ -39,6 +38,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'desastre avalancha',es,Hazard,#4287f5,#022f78,1,0.1167777092625255
 'Pendiente pronunciada',es,Causes,#a89216,#e0cd8b,1,0.1152
 'Educación en seguridad invernal',es,Mitigation,#9e3215,#d65218,1,0.115195045
+'Sistemas de control de avalanchas',es,Mitigation,#9e3215,#d63e18,1,0.1144300485606733
 'Lluvia sobre nieve',es,Causes,#a89216,#eddcb1,2,0.113328
 'Planificación territorial segura',es,Adaptation,#157a2c,#1b8f35,1,0.1127150599999999
 'Estratificación débil de nieve',es,Causes,#a89216,#fff4e0,1,0.1102
