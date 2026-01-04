@@ -29,9 +29,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'cambio climático de avalanchas',es,Causes,#a89216,#d8c379,1,0.1319336423946688
 'Calentamiento repentino',es,Causes,#a89216,#e6d59e,1,0.1319
 'Víctimas por avalancha',es,Impacts,#4287f5,#638ed1,1,0.1319
-'Manto nivoso inestable',es,Hazard,#4287f5,#99c6ff,1,0.12652772812500002
+'Manto nivoso inestable',es,Hazard,#4287f5,#99c6ff,1,0.126527728125
 'Acumulación rápida de nieve',es,Causes,#a89216,#d3bb63,1,0.12155506
-'Cambios bruscos de temperatura',es,Causes,#a89216,#d9c577,1,0.1194
 'Placa de nieve',es,Hazard,#4287f5,#78afff,1,0.1192194164635653
 'avalancha de placa',es,Hazard,#4287f5,#022f78,1,0.1185539594685325
 'Personas sepultadas',es,Impacts,#4287f5,#638ed5,1,0.1183303
@@ -44,6 +43,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Estratificación débil de nieve',es,Causes,#a89216,#fff4e0,1,0.1102
 'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.110075
 'Vibraciones humanas o maquinaria',es,Causes,#a89216,#f9eccf,1,0.1085
+'Cambios bruscos de temperatura',es,Causes,#a89216,#d9c577,2,0.10644207
 'Corredor de avalanchas',es,Hazard,#4287f5,#c9e1ff,1,0.1056527352321562
 'Diseño urbano resistente a avalanchas',es,Adaptation,#157a2c,#22963a,1,0.10404
 'Infraestructura resistente al clima',es,Adaptation,#157a2c,#52ce62,1,0.1027553077499999
