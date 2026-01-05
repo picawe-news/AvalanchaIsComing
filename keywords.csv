@@ -10,8 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.1719549999999999
 'Nevada intensa',es,Hazard,#4287f5,#eff7ff,2,0.1606730846137498
 'Alud',es,Hazard,#4287f5,#4a8df7,2,0.1580624889569317
-'Desprendimiento de nieve',es,Hazard,#4287f5,#5a99fa,1,0.1550733685468091
-'daños por avalancha',es,Hazard,#4287f5,#022f78,2,0.15461788805538615
+'daños por avalancha',es,Hazard,#4287f5,#022f78,2,0.1546178880553861
 'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,1,0.1510822342
 'Viento fuerte sobre nieve suelta',es,Causes,#a89216,#ccb250,2,0.1482
 'nieve y avalanchas',es,Causes,#a89216,#d8c379,1,0.1468961835461799
@@ -24,6 +23,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inestabilidad del manto nival',es,Causes,#a89216,#c7b34a,1,0.140335
 'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.1362452625195311
 'accidente mortal avalancha',es,Hazard,#4287f5,#022f78,1,0.1362452625195311
+'Desprendimiento de nieve',es,Hazard,#4287f5,#5a99fa,1,0.13466264826478772
 'Detonación preventiva',es,Mitigation,#9e3215,#d65a18,1,0.1333
 'Deslizamiento de nieve',es,Hazard,#4287f5,#91c0ff,1,0.1320375726074999
 'cambio climático de avalanchas',es,Causes,#a89216,#d8c379,1,0.1319336423946688
