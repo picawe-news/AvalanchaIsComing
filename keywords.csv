@@ -4,14 +4,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'avalancha',es,Hazard,#4287f5,#022f78,3,0.1977649229810592
 'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,2,0.1938631259909091
 'avalanchas muertos',es,Hazard,#4287f5,#022f78,1,0.1918616572798225
-'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.19106042033289464
-'daños por avalancha',es,Hazard,#4287f5,#022f78,2,0.1796090506533955
+'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.1910604203328946
 'Placa de viento',es,Hazard,#4287f5,#7fb3ff,1,0.1762638455499998
 'Zona de avalanchas',es,Hazard,#4287f5,#c0dcff,2,0.1721271515
 'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.1719549999999999
 'Nevada intensa',es,Hazard,#4287f5,#eff7ff,2,0.1606730846137498
 'Alud',es,Hazard,#4287f5,#4a8df7,2,0.1580624889569317
 'Desprendimiento de nieve',es,Hazard,#4287f5,#5a99fa,1,0.1550733685468091
+'daños por avalancha',es,Hazard,#4287f5,#022f78,2,0.15461788805538615
 'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,1,0.1510822342
 'Viento fuerte sobre nieve suelta',es,Causes,#a89216,#ccb250,2,0.1482
 'nieve y avalanchas',es,Causes,#a89216,#d8c379,1,0.1468961835461799
