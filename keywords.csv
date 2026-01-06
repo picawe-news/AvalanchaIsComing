@@ -17,7 +17,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Daños por avalancha',es,Impacts,#4287f5,#63a2d9,1,0.1441
 'Sistemas de alerta de avalanchas',es,Mitigation,#9e3215,#d63a18,1,0.143155015
 'Nieve inestable',es,Hazard,#4287f5,#6aa5fc,3,0.1422100139954166
-'Nevada intensa',es,Hazard,#4287f5,#eff7ff,2,0.1404725119216873
 'Inestabilidad del manto nival',es,Causes,#a89216,#c7b34a,1,0.140335
 'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.1362452625195311
 'accidente mortal avalancha',es,Hazard,#4287f5,#022f78,1,0.1362452625195311
@@ -31,6 +30,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Manto nivoso inestable',es,Hazard,#4287f5,#99c6ff,1,0.126527728125
 'Viento fuerte sobre nieve suelta',es,Causes,#a89216,#ccb250,1,0.12597003
 'Acumulación rápida de nieve',es,Causes,#a89216,#d3bb63,1,0.12155506
+'Nevada intensa',es,Hazard,#4287f5,#eff7ff,1,0.1194020551334342
 'Placa de nieve',es,Hazard,#4287f5,#78afff,1,0.1192194164635653
 'avalancha de placa',es,Hazard,#4287f5,#022f78,1,0.1185539594685325
 'Personas sepultadas',es,Impacts,#4287f5,#638ed5,1,0.1183303
