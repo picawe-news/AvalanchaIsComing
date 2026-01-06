@@ -10,7 +10,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.1719549999999999
 'Alud',es,Hazard,#4287f5,#4a8df7,2,0.1580624889569317
 'daños por avalancha',es,Hazard,#4287f5,#022f78,2,0.1546178880553861
-'Viento fuerte sobre nieve suelta',es,Causes,#a89216,#ccb250,2,0.1482
 'nieve y avalanchas',es,Causes,#a89216,#d8c379,1,0.1468961835461799
 'Acumulación de nieve',es,Hazard,#4287f5,#e7f3ff,3,0.144834278300377
 'Avalancha de polvo',es,Hazard,#4287f5,#d8eaff,2,0.1446907990249999
@@ -30,6 +29,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Calentamiento repentino',es,Causes,#a89216,#e6d59e,1,0.1319
 'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,1,0.12886994407
 'Manto nivoso inestable',es,Hazard,#4287f5,#99c6ff,1,0.126527728125
+'Viento fuerte sobre nieve suelta',es,Causes,#a89216,#ccb250,1,0.12597003
 'Acumulación rápida de nieve',es,Causes,#a89216,#d3bb63,1,0.12155506
 'Placa de nieve',es,Hazard,#4287f5,#78afff,1,0.1192194164635653
 'avalancha de placa',es,Hazard,#4287f5,#022f78,1,0.1185539594685325
