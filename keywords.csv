@@ -9,7 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.1652516422829604
 'Alud',es,Hazard,#4287f5,#4a8df7,2,0.1580624889569317
 'daños por avalancha',es,Hazard,#4287f5,#022f78,2,0.1546178880553861
-'Placa de viento',es,Hazard,#4287f5,#7fb3ff,2,0.15342462871749982
+'Placa de viento',es,Hazard,#4287f5,#7fb3ff,2,0.1534246287174998
 'nieve y avalanchas',es,Causes,#a89216,#d8c379,1,0.1468961835461799
 'Acumulación de nieve',es,Hazard,#4287f5,#e7f3ff,3,0.144834278300377
 'Avalancha de polvo',es,Hazard,#4287f5,#d8eaff,2,0.1446907990249999
@@ -37,7 +37,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'desastre avalancha',es,Hazard,#4287f5,#022f78,1,0.1167777092625255
 'Pendiente pronunciada',es,Causes,#a89216,#e0cd8b,1,0.1152
 'Educación en seguridad invernal',es,Mitigation,#9e3215,#d65218,1,0.115195045
-'Sistemas de control de avalanchas',es,Mitigation,#9e3215,#d63e18,1,0.1144300485606733
 'Lluvia sobre nieve',es,Causes,#a89216,#eddcb1,2,0.113328
 'Planificación territorial segura',es,Adaptation,#157a2c,#1b8f35,1,0.1127150599999999
 'Estratificación débil de nieve',es,Causes,#a89216,#fff4e0,1,0.1102
@@ -52,6 +51,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Destrucción de infraestructuras',es,Impacts,#4287f5,#6390d3,1,0.1022
 'Terreno propenso a avalanchas',es,Hazard,#4287f5,#f5faff,1,0.1020078513437499
 'Gestión sostenible del riesgo',es,Adaptation,#157a2c,#3ab24e,2,0.099727445
+'Sistemas de control de avalanchas',es,Mitigation,#9e3215,#d63e18,1,0.09741555627657231
 'Nieve reciente poco cohesionada',es,Causes,#a89216,#f3e4c4,1,0.0958799999999999
 'Equipamiento ARVA',es,Mitigation,#9e3215,#d64b18,1,0.0957949999999999
 'Interrupción de carreteras',es,Impacts,#4287f5,#639fd8,1,0.09508515
