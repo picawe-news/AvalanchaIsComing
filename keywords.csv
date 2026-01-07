@@ -6,7 +6,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'avalanchas muertos',es,Hazard,#4287f5,#022f78,1,0.1918616572798225
 'Zona de avalanchas',es,Hazard,#4287f5,#c0dcff,2,0.1721271515
 'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.1719549999999999
-'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.1652516422829604
 'Alud',es,Hazard,#4287f5,#4a8df7,2,0.1580624889569317
 'daños por avalancha',es,Hazard,#4287f5,#022f78,2,0.1546178880553861
 'Placa de viento',es,Hazard,#4287f5,#7fb3ff,2,0.1534246287174998
@@ -15,6 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Avalancha de polvo',es,Hazard,#4287f5,#d8eaff,2,0.1446907990249999
 'Ruptura del manto nival',es,Hazard,#4287f5,#d2e6ff,1,0.1443193749999999
 'Daños por avalancha',es,Impacts,#4287f5,#63a2d9,1,0.1441
+'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.14316416594051634
 'Sistemas de alerta de avalanchas',es,Mitigation,#9e3215,#d63a18,1,0.143155015
 'Nieve inestable',es,Hazard,#4287f5,#6aa5fc,3,0.1422100139954166
 'Inestabilidad del manto nival',es,Causes,#a89216,#c7b34a,1,0.140335
@@ -51,7 +51,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Destrucción de infraestructuras',es,Impacts,#4287f5,#6390d3,1,0.1022
 'Terreno propenso a avalanchas',es,Hazard,#4287f5,#f5faff,1,0.1020078513437499
 'Gestión sostenible del riesgo',es,Adaptation,#157a2c,#3ab24e,2,0.099727445
-'Sistemas de control de avalanchas',es,Mitigation,#9e3215,#d63e18,1,0.09741555627657231
+'Sistemas de control de avalanchas',es,Mitigation,#9e3215,#d63e18,1,0.0974155562765723
 'Nieve reciente poco cohesionada',es,Causes,#a89216,#f3e4c4,1,0.0958799999999999
 'Equipamiento ARVA',es,Mitigation,#9e3215,#d64b18,1,0.0957949999999999
 'Interrupción de carreteras',es,Impacts,#4287f5,#639fd8,1,0.09508515
