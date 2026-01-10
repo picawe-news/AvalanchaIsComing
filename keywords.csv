@@ -7,7 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Zona de avalanchas',es,Hazard,#4287f5,#c0dcff,2,0.1721271515
 'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.1719549999999999
 'Alud',es,Hazard,#4287f5,#4a8df7,2,0.1580624889569317
-'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.15688981104943886
+'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.1568898110494388
 'daños por avalancha',es,Hazard,#4287f5,#022f78,2,0.1546178880553861
 'Acumulación de nieve',es,Hazard,#4287f5,#e7f3ff,3,0.144834278300377
 'Avalancha de polvo',es,Hazard,#4287f5,#d8eaff,2,0.1446907990249999
@@ -31,13 +31,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Placa de nieve',es,Hazard,#4287f5,#78afff,1,0.1192194164635653
 'avalancha de placa',es,Hazard,#4287f5,#022f78,1,0.1185539594685325
 'Personas sepultadas',es,Impacts,#4287f5,#638ed5,1,0.1183303
-'Placa de viento',es,Hazard,#4287f5,#7fb3ff,2,0.1173599452483935
 'desastre avalancha',es,Hazard,#4287f5,#022f78,1,0.1167777092625255
 'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.1159584881416014
 'Pendiente pronunciada',es,Causes,#a89216,#e0cd8b,1,0.1152
 'Educación en seguridad invernal',es,Mitigation,#9e3215,#d65218,1,0.115195045
 'Lluvia sobre nieve',es,Causes,#a89216,#eddcb1,2,0.113328
 'Planificación territorial segura',es,Adaptation,#157a2c,#1b8f35,1,0.1127150599999999
+'Placa de viento',es,Hazard,#4287f5,#7fb3ff,2,0.1105794203842114
 'Estratificación débil de nieve',es,Causes,#a89216,#fff4e0,1,0.1102
 'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.110075
 'Vibraciones humanas o maquinaria',es,Causes,#a89216,#f9eccf,1,0.1085
