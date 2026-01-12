@@ -3,10 +3,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Avalancha seca',es,Hazard,#4287f5,#adcfff,1,0.2190888549999999
 'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,2,0.1938631259909091
 'avalanchas muertos',es,Hazard,#4287f5,#022f78,1,0.1918616572798225
-'Avalancha húmeda',es,Hazard,#4287f5,#a3ccff,2,0.1742501177499999
 'Zona de avalanchas',es,Hazard,#4287f5,#c0dcff,2,0.1721271515
 'Alud',es,Hazard,#4287f5,#4a8df7,2,0.1580624889569317
 'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.1568898110494388
+'Avalancha húmeda',es,Hazard,#4287f5,#a3ccff,2,0.1565126900874999
 'daños por avalancha',es,Hazard,#4287f5,#022f78,2,0.1546178880553861
 'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.1461617499999999
 'Acumulación de nieve',es,Hazard,#4287f5,#e7f3ff,3,0.144834278300377
@@ -35,7 +35,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.1159584881416014
 'Educación en seguridad invernal',es,Mitigation,#9e3215,#d65218,1,0.115195045
 'Lluvia sobre nieve',es,Causes,#a89216,#eddcb1,2,0.113328
-'cambio climático de avalanchas',es,Causes,#a89216,#d8c379,1,0.11244362603546847
+'cambio climático de avalanchas',es,Causes,#a89216,#d8c379,1,0.1124436260354684
 'Placa de viento',es,Hazard,#4287f5,#7fb3ff,2,0.1105794203842114
 'Estratificación débil de nieve',es,Causes,#a89216,#fff4e0,1,0.1102
 'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.110075
