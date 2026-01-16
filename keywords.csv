@@ -27,6 +27,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,1,0.1194411178405749
 'Nevada intensa',es,Hazard,#4287f5,#eff7ff,1,0.1194020551334342
 'Placa de nieve',es,Hazard,#4287f5,#78afff,1,0.1192194164635653
+'Estrategias de resiliencia comunitaria',es,Adaptation,#157a2c,#34ab49,1,0.1186770887875
 'avalancha de placa',es,Hazard,#4287f5,#022f78,1,0.1185539594685325
 'Personas sepultadas',es,Impacts,#4287f5,#638ed5,1,0.1183303
 'Bloqueo de rutas de montaña',es,Impacts,#4287f5,#63aedf,1,0.1170400299999999
@@ -60,8 +61,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Planes de evacuación locales',es,Adaptation,#157a2c,#46c058,1,0.0901250449999999
 'Corredor de avalanchas',es,Hazard,#4287f5,#c9e1ff,1,0.0898048249473327
 'Diseño urbano resistente a avalanchas',es,Adaptation,#157a2c,#22963a,1,0.088434
-'Terreno propenso a avalanchas',es,Hazard,#4287f5,#f5faff,1,0.08670667364218741
-'Estrategias de resiliencia comunitaria',es,Adaptation,#157a2c,#34ab49,1,0.08650243975
+'Terreno propenso a avalanchas',es,Hazard,#4287f5,#f5faff,1,0.0867066736421874
 'Perros de búsqueda en avalanchas',es,Mitigation,#9e3215,#d64718,1,0.0791302949999999
 'Protección de bosques protectores',es,Adaptation,#157a2c,#40b953,1,0.07787402775
 'Rutas seguras señalizadas',es,Mitigation,#9e3215,#d64f18,1,0.07570652775
