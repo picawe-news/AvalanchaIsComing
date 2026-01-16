@@ -12,7 +12,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pendiente pronunciada',es,Causes,#a89216,#e0cd8b,1,0.1425077399999999
 'Nieve inestable',es,Hazard,#4287f5,#6aa5fc,3,0.1422100139954166
 'accidente mortal avalancha',es,Hazard,#4287f5,#022f78,1,0.1362452625195311
-'Desprendimiento de nieve',es,Hazard,#4287f5,#5a99fa,1,0.1346626482647877
 'nieve y avalanchas',es,Causes,#a89216,#d8c379,2,0.1342984496506165
 'Detonación preventiva',es,Mitigation,#9e3215,#d65a18,1,0.1333
 'Deslizamiento de nieve',es,Hazard,#4287f5,#91c0ff,1,0.1320375726074999
@@ -30,6 +29,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Estrategias de resiliencia comunitaria',es,Adaptation,#157a2c,#34ab49,1,0.1186770887875
 'avalancha de placa',es,Hazard,#4287f5,#022f78,1,0.1185539594685325
 'Personas sepultadas',es,Impacts,#4287f5,#638ed5,1,0.1183303
+'Desprendimiento de nieve',es,Hazard,#4287f5,#5a99fa,2,0.11761356602506953
 'Bloqueo de rutas de montaña',es,Impacts,#4287f5,#63aedf,1,0.1170400299999999
 'desastre avalancha',es,Hazard,#4287f5,#022f78,1,0.1167777092625255
 'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.1159584881416014
