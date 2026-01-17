@@ -30,10 +30,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Desprendimiento de nieve',es,Hazard,#4287f5,#5a99fa,2,0.1176135660250695
 'Bloqueo de rutas de montaña',es,Impacts,#4287f5,#63aedf,1,0.1170400299999999
 'desastre avalancha',es,Hazard,#4287f5,#022f78,1,0.1167777092625255
-'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.1159584881416014
 'Educación en seguridad invernal',es,Mitigation,#9e3215,#d65218,1,0.115195045
 'nieve y avalanchas',es,Causes,#a89216,#d8c379,1,0.114154117203024
-'Detonación preventiva',es,Mitigation,#9e3215,#d65a18,1,0.11360503000000001
+'Detonación preventiva',es,Mitigation,#9e3215,#d65a18,1,0.11360503
 'Lluvia sobre nieve',es,Causes,#a89216,#eddcb1,2,0.113328
 'cambio climático de avalanchas',es,Causes,#a89216,#d8c379,1,0.1124436260354684
 'Placa de viento',es,Hazard,#4287f5,#7fb3ff,2,0.1105794203842114
@@ -49,6 +48,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Destrucción de infraestructuras',es,Impacts,#4287f5,#6390d3,1,0.1022
 'Inestabilidad del manto nival',es,Causes,#a89216,#c7b34a,1,0.1013920374999999
 'Gestión sostenible del riesgo',es,Adaptation,#157a2c,#3ab24e,2,0.099727445
+'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.0988647449203612
 'Sistemas de control de avalanchas',es,Mitigation,#9e3215,#d63e18,1,0.0974155562765723
 'Planificación territorial segura',es,Adaptation,#157a2c,#1b8f35,1,0.0964078609999999
 'Nieve reciente poco cohesionada',es,Causes,#a89216,#f3e4c4,1,0.0958799999999999
