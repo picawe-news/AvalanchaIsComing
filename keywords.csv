@@ -60,11 +60,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Planes de evacuación locales',es,Adaptation,#157a2c,#46c058,1,0.0901250449999999
 'Corredor de avalanchas',es,Hazard,#4287f5,#c9e1ff,1,0.0898048249473327
 'Diseño urbano resistente a avalanchas',es,Adaptation,#157a2c,#22963a,1,0.088434
-'Terreno propenso a avalanchas',es,Hazard,#4287f5,#f5faff,1,0.0867066736421874
 'Nieve reciente poco cohesionada',es,Causes,#a89216,#f3e4c4,1,0.0814979999999999
 'Perros de búsqueda en avalanchas',es,Mitigation,#9e3215,#d64718,1,0.0791302949999999
 'Protección de bosques protectores',es,Adaptation,#157a2c,#40b953,1,0.07787402775
 'Rutas seguras señalizadas',es,Mitigation,#9e3215,#d64f18,1,0.07570652775
+'Terreno propenso a avalanchas',es,Hazard,#4287f5,#f5faff,1,0.07370067259585929
 'Refuerzo de rutas críticas',es,Adaptation,#157a2c,#58d567,1,0.07176465375
 'Capacitación comunitaria en riesgo',es,Adaptation,#157a2c,#5edc6c,1,0.0707294374999999
 'Pérdida de vidas humanas',es,Impacts,#4287f5,#63a8db,1,0.0666067215
