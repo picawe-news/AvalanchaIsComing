@@ -21,7 +21,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sistemas de alerta de avalanchas',es,Mitigation,#9e3215,#d63a18,1,0.12183177775
 'Acumulación rápida de nieve',es,Causes,#a89216,#d3bb63,1,0.12155506
 'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,1,0.1194411178405749
-'Nevada intensa',es,Hazard,#4287f5,#eff7ff,1,0.1194020551334342
 'Placa de nieve',es,Hazard,#4287f5,#78afff,1,0.1192194164635653
 'Estrategias de resiliencia comunitaria',es,Adaptation,#157a2c,#34ab49,1,0.1186770887875
 'avalancha de placa',es,Hazard,#4287f5,#022f78,1,0.1185539594685325
@@ -40,6 +39,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.110075
 'Vibraciones humanas o maquinaria',es,Causes,#a89216,#f9eccf,1,0.1085
 'Viento fuerte sobre nieve suelta',es,Causes,#a89216,#ccb250,1,0.1072245405
+'Nevada intensa',es,Hazard,#4287f5,#eff7ff,2,0.10644243686341906
 'Cambios bruscos de temperatura',es,Causes,#a89216,#d9c577,2,0.10644207
 'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.1056018643749999
 'Infraestructura resistente al clima',es,Adaptation,#157a2c,#52ce62,1,0.1027553077499999
