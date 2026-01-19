@@ -2,7 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'avalancha',es,Hazard,#4287f5,#022f78,3,0.2238957241947242
 'Avalancha seca',es,Hazard,#4287f5,#adcfff,1,0.2205755867499998
 'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,2,0.1938631259909091
-'avalanchas muertos',es,Hazard,#4287f5,#022f78,1,0.1823402959955414
+'avalanchas muertos',es,Hazard,#4287f5,#022f78,1,0.18930421247856313
 'Zona de avalanchas',es,Hazard,#4287f5,#c0dcff,2,0.1721271515
 'Alud',es,Hazard,#4287f5,#4a8df7,2,0.1693048556133919
 'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.1568898110494388
@@ -39,7 +39,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.110075
 'Vibraciones humanas o maquinaria',es,Causes,#a89216,#f9eccf,1,0.1085
 'Viento fuerte sobre nieve suelta',es,Causes,#a89216,#ccb250,1,0.1072245405
-'Nevada intensa',es,Hazard,#4287f5,#eff7ff,2,0.10644243686341906
+'Nevada intensa',es,Hazard,#4287f5,#eff7ff,2,0.106442436863419
 'Cambios bruscos de temperatura',es,Causes,#a89216,#d9c577,2,0.10644207
 'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.1056018643749999
 'Infraestructura resistente al clima',es,Adaptation,#157a2c,#52ce62,1,0.1027553077499999
