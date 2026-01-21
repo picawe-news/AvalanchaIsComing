@@ -3,10 +3,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Avalancha seca',es,Hazard,#4287f5,#adcfff,1,0.2205755867499998
 'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,3,0.1983711157286364
 'avalanchas muertos',es,Hazard,#4287f5,#022f78,2,0.1826180015158695
-'Manto nivoso inestable',es,Hazard,#4287f5,#99c6ff,1,0.17534859890625
 'Zona de avalanchas',es,Hazard,#4287f5,#c0dcff,2,0.1721271515
 'Alud',es,Hazard,#4287f5,#4a8df7,2,0.1693048556133919
 'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.1568898110494388
+'Manto nivoso inestable',es,Hazard,#4287f5,#99c6ff,1,0.1493463390703125
 'Acumulación de nieve',es,Hazard,#4287f5,#e7f3ff,3,0.144834278300377
 'accidente mortal avalancha',es,Hazard,#4287f5,#022f78,1,0.1362452625195311
 'Avalancha húmeda',es,Hazard,#4287f5,#a3ccff,2,0.1339358765743749
@@ -63,7 +63,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Perros de búsqueda en avalanchas',es,Mitigation,#9e3215,#d64718,1,0.0791302949999999
 'Protección de bosques protectores',es,Adaptation,#157a2c,#40b953,1,0.07787402775
 'Rutas seguras señalizadas',es,Mitigation,#9e3215,#d64f18,1,0.07570652775
-'Redes de contención de nieve',es,Mitigation,#9e3215,#d64e18,1,0.07441985383750001
+'Redes de contención de nieve',es,Mitigation,#9e3215,#d64e18,1,0.0744198538375
 'Terreno propenso a avalanchas',es,Hazard,#4287f5,#f5faff,1,0.0737006725958592
 'Refuerzo de rutas críticas',es,Adaptation,#157a2c,#58d567,1,0.07176465375
 'Capacitación comunitaria en riesgo',es,Adaptation,#157a2c,#5edc6c,1,0.0707294374999999
