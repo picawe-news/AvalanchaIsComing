@@ -3,6 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Avalancha seca',es,Hazard,#4287f5,#adcfff,1,0.2205755867499998
 'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,3,0.1983711157286364
 'avalanchas muertos',es,Hazard,#4287f5,#022f78,1,0.1893042124785631
+'Manto nivoso inestable',es,Hazard,#4287f5,#99c6ff,1,0.17534859890625
 'Zona de avalanchas',es,Hazard,#4287f5,#c0dcff,2,0.1721271515
 'Alud',es,Hazard,#4287f5,#4a8df7,2,0.1693048556133919
 'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.1568898110494388
@@ -12,7 +13,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Víctimas por avalancha',es,Impacts,#4287f5,#638ed1,1,0.1319
 'Calentamiento repentino',es,Causes,#a89216,#e6d59e,1,0.1319
 'Deslizamiento de nieve',es,Hazard,#4287f5,#91c0ff,1,0.1287322367163749
-'Manto nivoso inestable',es,Hazard,#4287f5,#99c6ff,1,0.126527728125
 'Pendiente pronunciada',es,Causes,#a89216,#e0cd8b,1,0.1233818039999999
 'Avalancha de polvo',es,Hazard,#4287f5,#d8eaff,1,0.1229872091712499
 'Ruptura del manto nival',es,Hazard,#4287f5,#d2e6ff,1,0.1226714687499999
