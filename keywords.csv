@@ -12,7 +12,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Avalancha húmeda',es,Hazard,#4287f5,#a3ccff,2,0.1339358765743749
 'Víctimas por avalancha',es,Impacts,#4287f5,#638ed1,1,0.1319
 'Calentamiento repentino',es,Causes,#a89216,#e6d59e,1,0.1319
-'Deslizamiento de nieve',es,Hazard,#4287f5,#91c0ff,1,0.1287322367163749
 'Pendiente pronunciada',es,Causes,#a89216,#e0cd8b,1,0.1233818039999999
 'Avalancha de polvo',es,Hazard,#4287f5,#d8eaff,1,0.1229872091712499
 'Ruptura del manto nival',es,Hazard,#4287f5,#d2e6ff,1,0.1226714687499999
@@ -31,6 +30,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'nieve y avalanchas',es,Causes,#a89216,#d8c379,1,0.114154117203024
 'Detonación preventiva',es,Mitigation,#9e3215,#d65a18,1,0.11360503
 'Lluvia sobre nieve',es,Causes,#a89216,#eddcb1,2,0.113328
+'Deslizamiento de nieve',es,Hazard,#4287f5,#91c0ff,2,0.11257271620891866
 'cambio climático de avalanchas',es,Causes,#a89216,#d8c379,1,0.1124436260354684
 'Placa de viento',es,Hazard,#4287f5,#7fb3ff,2,0.1105794203842114
 'Estratificación débil de nieve',es,Causes,#a89216,#fff4e0,1,0.1102
@@ -46,7 +46,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bloqueo de rutas de montaña',es,Impacts,#4287f5,#63aedf,1,0.0999340704999999
 'Gestión sostenible del riesgo',es,Adaptation,#157a2c,#3ab24e,2,0.099727445
 'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.0988647449203612
-'daños por avalancha',es,Hazard,#4287f5,#022f78,1,0.09886275297701384
+'daños por avalancha',es,Hazard,#4287f5,#022f78,1,0.0988627529770138
 'Sistemas de control de avalanchas',es,Mitigation,#9e3215,#d63e18,1,0.0974155562765723
 'Planificación territorial segura',es,Adaptation,#157a2c,#1b8f35,1,0.0964078609999999
 'Equipamiento ARVA',es,Mitigation,#9e3215,#d64b18,1,0.0957949999999999
