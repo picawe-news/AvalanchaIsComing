@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'avalancha',es,Hazard,#4287f5,#022f78,3,0.25663188692915195
-'Avalancha seca',es,Hazard,#4287f5,#adcfff,1,0.2205755867499998
+'avalancha',es,Hazard,#4287f5,#022f78,3,0.2566318869291519
 'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,3,0.1983711157286364
+'Avalancha seca',es,Hazard,#4287f5,#adcfff,1,0.18778927873749984
 'Zona de avalanchas',es,Hazard,#4287f5,#c0dcff,2,0.1721271515
 'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.1568898110494388
 'avalanchas muertos',es,Hazard,#4287f5,#022f78,1,0.155225661288489
