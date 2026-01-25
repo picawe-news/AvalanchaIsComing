@@ -32,13 +32,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'cambio climático de avalanchas',es,Causes,#a89216,#d8c379,1,0.1124436260354684
 'Placa de viento',es,Hazard,#4287f5,#7fb3ff,2,0.1105794203842114
 'Estratificación débil de nieve',es,Causes,#a89216,#fff4e0,1,0.1102
-'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.110075
 'Vibraciones humanas o maquinaria',es,Causes,#a89216,#f9eccf,1,0.1085
 'Pendiente pronunciada',es,Causes,#a89216,#e0cd8b,1,0.1078748333999999
 'Viento fuerte sobre nieve suelta',es,Causes,#a89216,#ccb250,1,0.1072245405
 'Cambios bruscos de temperatura',es,Causes,#a89216,#d9c577,2,0.10644207
 'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.1056018643749999
-'Ruptura del manto nival',es,Hazard,#4287f5,#d2e6ff,1,0.10427074843749991
+'Ruptura del manto nival',es,Hazard,#4287f5,#d2e6ff,1,0.1042707484374999
 'Infraestructura resistente al clima',es,Adaptation,#157a2c,#52ce62,1,0.1027553077499999
 'Inestabilidad del manto nival',es,Causes,#a89216,#c7b34a,1,0.1013920374999999
 'Gestión sostenible del riesgo',es,Adaptation,#157a2c,#3ab24e,2,0.099727445
@@ -51,6 +50,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nevada intensa',es,Hazard,#4287f5,#eff7ff,2,0.0954268513339061
 'Interrupción de carreteras',es,Impacts,#4287f5,#639fd8,1,0.09508515
 'Pala y sonda de rescate',es,Mitigation,#9e3215,#d64418,1,0.093585
+'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.09356375
 'Daños económicos locales',es,Impacts,#4287f5,#6399d6,1,0.0928
 'Destrucción de infraestructuras',es,Impacts,#4287f5,#6390d3,2,0.09182096
 'Riesgo para actividades turísticas',es,Impacts,#4287f5,#63a5da,1,0.0913
