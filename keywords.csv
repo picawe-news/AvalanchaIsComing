@@ -22,7 +22,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Desprendimiento de nieve',es,Hazard,#4287f5,#5a99fa,2,0.1176135660250695
 'Daños por avalancha',es,Impacts,#4287f5,#63a2d9,1,0.117005083
 'desastre avalancha',es,Hazard,#4287f5,#022f78,1,0.1167777092625255
-'accidente mortal avalancha',es,Hazard,#4287f5,#022f78,1,0.11670856314160143
+'accidente mortal avalancha',es,Hazard,#4287f5,#022f78,1,0.1167085631416014
 'Educación en seguridad invernal',es,Mitigation,#9e3215,#d65218,1,0.115195045
 'Avalancha húmeda',es,Hazard,#4287f5,#a3ccff,2,0.1147455850882186
 'nieve y avalanchas',es,Causes,#a89216,#d8c379,1,0.114154117203024
@@ -38,7 +38,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cambios bruscos de temperatura',es,Causes,#a89216,#d9c577,2,0.10644207
 'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.1056018643749999
 'Ruptura del manto nival',es,Hazard,#4287f5,#d2e6ff,1,0.1042707484374999
-'Infraestructura resistente al clima',es,Adaptation,#157a2c,#52ce62,1,0.1027553077499999
 'Inestabilidad del manto nival',es,Causes,#a89216,#c7b34a,1,0.1013920374999999
 'Gestión sostenible del riesgo',es,Adaptation,#157a2c,#3ab24e,2,0.099727445
 'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.0988647449203612
@@ -57,6 +56,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Afectación a poblaciones',es,Impacts,#4287f5,#6393d4,1,0.0911467924999999
 'Corredor de avalanchas',es,Hazard,#4287f5,#c9e1ff,1,0.0898048249473327
 'Diseño urbano resistente a avalanchas',es,Adaptation,#157a2c,#22963a,1,0.088434
+'Infraestructura resistente al clima',es,Adaptation,#157a2c,#52ce62,1,0.08749202658749991
 'Bloqueo de rutas de montaña',es,Impacts,#4287f5,#63aedf,1,0.0853940049249999
 'Nieve reciente poco cohesionada',es,Causes,#a89216,#f3e4c4,1,0.0814979999999999
 'Perros de búsqueda en avalanchas',es,Mitigation,#9e3215,#d64718,1,0.0791302949999999
