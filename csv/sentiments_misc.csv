@@ -1,298 +1,390 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Navidad,Navidad,MISC,,,es,6.799999999999999
-DGT,DGT,MISC,,,es,3.0999999999999996
-IA,IA,MISC,,,es,2.8
-Amama,Amama,MISC,-0.9668982808331126,1.5044634906869185,es,2.8
-Año Nuevo,Año Nuevo,MISC,,,es,2.8
+Navidad,Navidad,MISC,,,es,8.600000000000001
+DGT,DGT,MISC,,,es,3.9999999999999996
+IA,IA,MISC,,,es,3.999999999999999
+App Store,App Store,MISC,,,es,2.8
 Gran Trail Aneto-Posets,Gran Trail Aneto-Posets,MISC,,,es,2.8
 Avalancha,Avalancha,MISC,,,es,2.8
+Año Nuevo,Año Nuevo,MISC,,,es,2.8
 H200,H200,MISC,,,es,2.8
+Amama,Amama,MISC,-0.9668987013987805,1.5044632083491276,es,2.8
+Prime Video,Prime Video,MISC,,,es,2.5
+Iryo,Iryo,MISC,,,es,2.2
 Amazon,Amazon,MISC,,,es,2.2
+Tragedia,Tragedia,MISC,,,es,2.2
+Premios Oscar,Premios Oscar,MISC,,,es,2.1999999999999997
 Firefox,Firefox,MISC,,,es,1.9000000000000001
-La Fiscalía de Sevilla,La Fiscalía de Sevilla,MISC,,,es,1.9
+Austria.,Austria.,MISC,-0.5415375232696533,1.3057621121406555,es,1.9
 Tragedia en,Tragedia en,MISC,,,es,1.9
-Gemini 3 Flash,Gemini 3 Flash,MISC,,,es,1.9
+Netflix,Netflix,MISC,,,es,1.9
+¿Debemos,¿Debemos,MISC,,,es,1.9
+Minecraft Hypixel,Minecraft Hypixel,MISC,,,es,1.9
 Forbes México.,Forbes México.,MISC,,,es,1.9
-WiFi,WiFi,MISC,,,es,1.6
-MIA,MIA,MISC,,,es,1.6
-Windows 11,Windows 11,MISC,,,es,1.6
-Prime Video,Prime Video,MISC,,,es,1.6
-internet,internet,MISC,,,es,1.6
-España.,España.,MISC,,,es,1.6
-Terminator 2D: No Fate,Terminator 2D: No Fate,MISC,,,es,1.6
-Cold Snap,Cold Snap,MISC,,,es,1.6
+Grupo de Rescate e Intervención en Montaña,Grupo de Rescate e Intervención en Montaña,MISC,,,es,1.9
+Gemini 3 Flash,Gemini 3 Flash,MISC,,,es,1.9
+La Fiscalía de Sevilla,La Fiscalía de Sevilla,MISC,,,es,1.9
 AVE,AVE,MISC,,,es,1.6
+Macan 4S,Macan 4S,MISC,,,es,1.6
+Cold Snap,Cold Snap,MISC,,,es,1.6
+Windows 11,Windows 11,MISC,,,es,1.6
+MIA,MIA,MISC,,,es,1.6
+X,X,MISC,,,es,1.6
+Facebook,Facebook,MISC,,,es,1.6
+internet,internet,MISC,,,es,1.6
+WiFi,WiFi,MISC,,,es,1.6
+iPhone,iPhone,MISC,,,es,1.6
+Xbox,Xbox,MISC,,,es,1.6
+O Agente Secreto,O Agente Secreto,MISC,,,es,1.6
+España.,España.,MISC,,,es,1.6
+Oscar,Oscar,MISC,,,es,1.6
+Terminator 2D: No Fate,Terminator 2D: No Fate,MISC,,,es,1.6
 | 17:15,| 17:15,MISC,,,es,1.4
-El Hormiguero,El Hormiguero,MISC,,,es,1.3
-Semana del Black Friday 2025,Semana del Black Friday 2025,MISC,,,es,1.3
-El instante más oscuro,El instante más oscuro,MISC,,,es,1.3
-Xbox,Xbox,MISC,,,es,1.3
-El agua,El agua,MISC,,,es,1.3
-YouTube,YouTube,MISC,,,es,1.3
-Z,Z,MISC,,,es,1.3
-Dongfeng Z9,Dongfeng Z9,MISC,,,es,1.3
-A 28 años de la matanza de 45 indígenas tsotsiles,A 28 años de la matanza de 45 indígenas tsotsiles,MISC,,,es,1.3
-Papanoeladas,Papanoeladas,MISC,,,es,1.3
-Arc Raiders,Arc Raiders,MISC,,,es,1.3
-X,X,MISC,,,es,1.3
-Facebook,Facebook,MISC,,,es,1.3
-Movistar Plus+,Movistar Plus+,MISC,,,es,1.3
-Embark Studios,Embark Studios,MISC,,,es,1.3
 "HBO Max, Filmin","HBO Max, Filmin",MISC,,,es,1.3
-Tee Higgins,Tee Higgins,MISC,,,es,1.3
-telescopio espacial Hubble,telescopio espacial Hubble,MISC,,,es,1.3
-Mozilla,Mozilla,MISC,,,es,1.3
-Actualizado:,Actualizado:,MISC,,,es,1.3
-Tragedia,Tragedia,MISC,,,es,1.3
-Baldur's Gate 3,Baldur's Gate 3,MISC,,,es,1.3
-Creado:,Creado:,MISC,,,es,1.3
-Disney+,Disney+,MISC,,,es,1.3
-ASP,ASP,MISC,,,es,1.3
-"Miharu, 1939)","Miharu, 1939)",MISC,,,es,1.3
-WhatsApp,WhatsApp,MISC,,,es,1.3
-"Bilbao,... ","Bilbao,... ",MISC,,,es,1.3
+INTERGRADE,INTERGRADE,MISC,,,es,1.3
 V16,V16,MISC,,,es,1.3
-Plan Municipal de Vialidad Invernal,Plan Municipal de Vialidad Invernal,MISC,,,es,1.3
+REMAKE,REMAKE,MISC,,,es,1.3
+El instante más oscuro,El instante más oscuro,MISC,,,es,1.3
+Reyes,Reyes,MISC,,,es,1.3
+Disney+,Disney+,MISC,,,es,1.3
+YouTube,YouTube,MISC,,,es,1.3
 Smart TVs,Smart TVs,MISC,,,es,1.3
-Armada de EE.UU.,Armada de EE.UU.,MISC,,,es,1.1
+PC,PC,MISC,,,es,1.3
+Movistar Plus+,Movistar Plus+,MISC,,,es,1.3
+Baldur's Gate 3,Baldur's Gate 3,MISC,,,es,1.3
+Papanoeladas,Papanoeladas,MISC,,,es,1.3
+"Miharu, 1939)","Miharu, 1939)",MISC,,,es,1.3
+telescopio espacial Hubble,telescopio espacial Hubble,MISC,,,es,1.3
+Plan Municipal de Vialidad Invernal,Plan Municipal de Vialidad Invernal,MISC,,,es,1.3
+El Hormiguero,El Hormiguero,MISC,,,es,1.3
+El agua,El agua,MISC,,,es,1.3
+ASP,ASP,MISC,,,es,1.3
+Z,Z,MISC,,,es,1.3
+Los brasileños,Los brasileños,MISC,,,es,1.3
+Nueva tragedia,Nueva tragedia,MISC,,,es,1.3
+vibe coding,vibe coding,MISC,,,es,1.3
+Open Source,Open Source,MISC,,,es,1.3
+Tee Higgins,Tee Higgins,MISC,,,es,1.3
+Grand Continent',Grand Continent',MISC,,,es,1.3
+Arc Raiders,Arc Raiders,MISC,,,es,1.3
+A 28 años de la matanza de 45 indígenas tsotsiles,A 28 años de la matanza de 45 indígenas tsotsiles,MISC,,,es,1.3
+WhatsApp,WhatsApp,MISC,,,es,1.3
+Actualizado:,Actualizado:,MISC,,,es,1.3
+Mozilla,Mozilla,MISC,,,es,1.3
+Semana del Black Friday 2025,Semana del Black Friday 2025,MISC,,,es,1.3
+Creado:,Creado:,MISC,,,es,1.3
+ColaCao,ColaCao,MISC,,,es,1.3
+"Bilbao,... ","Bilbao,... ",MISC,,,es,1.3
+Embark Studios,Embark Studios,MISC,,,es,1.3
+Dongfeng Z9,Dongfeng Z9,MISC,,,es,1.3
 Google Pixel,Google Pixel,MISC,,,es,1.1
+Armada de EE.UU.,Armada de EE.UU.,MISC,,,es,1.1
 Copa del Mundo,Copa del Mundo,MISC,,,es,1.1
-Disney: la ciencia,Disney: la ciencia,MISC,,,es,1.0
-X],X],MISC,,,es,1.0
-La casa prefabricada,La casa prefabricada,MISC,,,es,1.0
-"España: cocina equipada, porche","España: cocina equipada, porche",MISC,,,es,1.0
-España: 3 dormitorios,España: 3 dormitorios,MISC,,,es,1.0
-"Muchas veces, entre amigos","Muchas veces, entre amigos",MISC,,,es,1.0
-Adiós a la Navidad,Adiós a la Navidad,MISC,,,es,1.0
-Tragedia de Vargas: la noche que la montaña,Tragedia de Vargas: la noche que la montaña,MISC,,,es,1.0
-"El juego del calamar, Stranger Things","El juego del calamar, Stranger Things",MISC,,,es,1.0
-La mujer de la fila,La mujer de la fila,MISC,,,es,1.0
-Se acerca la despedida de 2025,Se acerca la despedida de 2025,MISC,,,es,1.0
-Larian,Larian,MISC,,,es,1.0
-¿Soledad,¿Soledad,MISC,,,es,1.0
-Pharos,Pharos,MISC,,,es,1.0
-El Gobierno francés,El Gobierno francés,MISC,,,es,1.0
-IA de X,IA de X,MISC,,,es,1.0
-Comet,Comet,MISC,,,es,1.0
-Atlas,Atlas,MISC,,,es,1.0
-Una niña de 10,Una niña de 10,MISC,,,es,1.0
-La Antártida,La Antártida,MISC,,,es,1.0
-Panticosa:,Panticosa:,MISC,,,es,1.0
-mujer?,mujer?,MISC,,,es,1.0
-Manifestación de Impacto Ambiental,Manifestación de Impacto Ambiental,MISC,,,es,1.0
-Apúntate,Apúntate,MISC,,,es,1.0
-La AEMET,La AEMET,MISC,,,es,1.0
-España: un dúplex,España: un dúplex,MISC,,,es,1.0
-subalance anual,subalance anual,MISC,,,es,1.0
-Redes Sociales,Redes Sociales,MISC,,,es,1.0
-comentarios.,comentarios.,MISC,,,es,1.0
-der…,der…,MISC,,,es,1.0
-"De ahí, sostienen, la cascada","De ahí, sostienen, la cascada",MISC,,,es,1.0
-"El fútbol, actividad principal de la vida social argentina","El fútbol, actividad principal de la vida social argentina",MISC,,,es,1.0
-China:,China:,MISC,,,es,1.0
-JIM GOMEZ MANILA,JIM GOMEZ MANILA,MISC,,,es,1.0
-Se… [+1945 chars],Se… [+1945 chars],MISC,,,es,1.0
-Slop»,Slop»,MISC,,,es,1.0
-Lords of the Fallen II.<!--aa--->Recientemente,Lords of the Fallen II.<!--aa--->Recientemente,MISC,,,es,1.0
-Lords of the Fallen II,Lords of the Fallen II,MISC,,,es,1.0
-Un impactante,Un impactante,MISC,,,es,1.0
-Playstation,Playstation,MISC,,,es,1.0
-V16: la DGT,V16: la DGT,MISC,,,es,1.0
-man…,man…,MISC,,,es,1.0
-nintendo switch,nintendo switch,MISC,,,es,1.0
-PC,PC,MISC,,,es,1.0
-cinematográfi…,cinematográfi…,MISC,,,es,1.0
-Microsoft Copilot,Microsoft Copilot,MISC,,,es,1.0
-Tendencias,Tendencias,MISC,,,es,1.0
-TikTok,TikTok,MISC,,,es,1.0
-Microsoft Co…,Microsoft Co…,MISC,,,es,1.0
-Fiestas,Fiestas,MISC,,,es,1.0
-Navidades,Navidades,MISC,,,es,1.0
-Pregunta: Hay gays de comportamiento hembra,Pregunta: Hay gays de comportamiento hembra,MISC,,,es,1.0
-Imagina,Imagina,MISC,,,es,1.0
-Frozen,Frozen,MISC,,,es,1.0
-Miles de productores,Miles de productores,MISC,,,es,1.0
-'mujer adrenalina' del programa 'El Hormiguero' de Ante… La montaña aragonesa,'mujer adrenalina' del programa 'El Hormiguero' de Ante… La montaña aragonesa,MISC,,,es,1.0
-La negociación de prod… [+5176 chars],La negociación de prod… [+5176 chars],MISC,,,es,1.0
-Las Abejas,Las Abejas,MISC,,,es,1.0
-diciembre.,diciembre.,MISC,,,es,1.0
-Heraldo de Aragón,Heraldo de Aragón,MISC,,,es,1.0
-JornadaMartes,JornadaMartes,MISC,,,es,1.0
-25,25,MISC,,,es,1.0
-"altcoins, ¿serán","altcoins, ¿serán",MISC,,,es,1.0
-"ETH, BNB,","ETH, BNB,",MISC,,,es,1.0
+Piri… Un alud,Piri… Un alud,MISC,,,es,1.0
+Un alud ,Un alud ,MISC,,,es,1.0
 "ETH, BNB, XRP, SOL","ETH, BNB, XRP, SOL",MISC,,,es,1.0
+accidente de Panticosa,accidente de Panticosa,MISC,,,es,1.0
+"ETH, BNB,","ETH, BNB,",MISC,,,es,1.0
+"altcoins, ¿serán","altcoins, ¿serán",MISC,,,es,1.0
+25,25,MISC,,,es,1.0
+JornadaMartes,JornadaMartes,MISC,,,es,1.0
+El alud de nieve ocurrido este lunes,El alud de nieve ocurrido este lunes,MISC,,,es,1.0
+El alud que este lunes,El alud que este lunes,MISC,,,es,1.0
+Las Abejas,Las Abejas,MISC,,,es,1.0
+vos: una ola te impulsa hacia la orilla,vos: una ola te impulsa hacia la orilla,MISC,,,es,1.0
+García-Dinhix,García-Dinhix,MISC,,,es,1.0
+Reino…,Reino…,MISC,,,es,1.0
+Dic,Dic,MISC,,,es,1.0
+"El médico, divulgador científico","El médico, divulgador científico",MISC,,,es,1.0
+Balandrau: el día,Balandrau: el día,MISC,,,es,1.0
+La política internacional,La política internacional,MISC,,,es,1.0
+Dos jubilados de 70,Dos jubilados de 70,MISC,,,es,1.0
+El País … El influencer y doctor,El País … El influencer y doctor,MISC,,,es,1.0
+Hubble,Hubble,MISC,,,es,1.0
+Protección Civil,Protección Civil,MISC,,,es,1.0
+X],X],MISC,,,es,1.0
+Imagina,Imagina,MISC,,,es,1.0
+X],X],MISC,,,es,1.0
 "CoinMarketCap, Bi… [+6855 chars]","CoinMarketCap, Bi… [+6855 chars]",MISC,,,es,1.0
 K9,K9,MISC,,,es,1.0
-S… [+7275 chars],S… [+7275 chars],MISC,,,es,1.0
-I,I,MISC,,,es,1.0
+Un inesperado alud,Un inesperado alud,MISC,,,es,1.0
+mujer?,mujer?,MISC,,,es,1.0
 Una avalancha de patentes,Una avalancha de patentes,MISC,,,es,1.0
-Santana 400,Santana 400,MISC,,,es,1.0
-Hace,Hace,MISC,,,es,1.0
-Papanoeladas: la multa de la DGT,Papanoeladas: la multa de la DGT,MISC,,,es,1.0
-Un alud ,Un alud ,MISC,,,es,1.0
-Piri… Un alud,Piri… Un alud,MISC,,,es,1.0
-"WRIGHTWOOD, California","WRIGHTWOOD, California",MISC,,,es,1.0
 112,112,MISC,,,es,1.0
+Un alud,Un alud,MISC,,,es,1.0
+Diario del Alto Aragón',Diario del Alto Aragón',MISC,,,es,1.0
+Heraldo de Aragón,Heraldo de Aragón,MISC,,,es,1.0
++1207 chars],+1207 chars],MISC,,,es,1.0
+diciembre.,diciembre.,MISC,,,es,1.0
+Gobiern… Dos personas,Gobiern… Dos personas,MISC,,,es,1.0
+'mujer adrenalina' del programa 'El Hormiguero' de Ante… La montaña aragonesa,'mujer adrenalina' del programa 'El Hormiguero' de Ante… La montaña aragonesa,MISC,,,es,1.0
 La mejor manera de arrancar el año,La mejor manera de arrancar el año,MISC,,,es,1.0
 YouTube Shorts,YouTube Shorts,MISC,,,es,1.0
+S… [+7275 chars],S… [+7275 chars],MISC,,,es,1.0
 PANTICOSA 29 Dic,PANTICOSA 29 Dic,MISC,,,es,1.0
+Disney: la ciencia,Disney: la ciencia,MISC,,,es,1.0
 inmedi… [,inmedi… [,MISC,,,es,1.0
-El alud que este lunes,El alud que este lunes,MISC,,,es,1.0
-X],X],MISC,,,es,1.0
-Hubble,Hubble,MISC,,,es,1.0
-El País … El influencer y doctor,El País … El influencer y doctor,MISC,,,es,1.0
-Antártida,Antártida,MISC,0.5747419180205235,0.5222461773799015,es,1.0
-Balandrau: el día,Balandrau: el día,MISC,,,es,1.0
-Slow New Year',Slow New Year',MISC,,,es,1.0
-Pemuvi,Pemuvi,MISC,,,es,1.0
-"El médico, divulgador científico","El médico, divulgador científico",MISC,,,es,1.0
-García-Dinhix,García-Dinhix,MISC,,,es,1.0
-"Åre', 'The Darkness', 'La cúpula de cristal', 'El caso… La actriz","Åre', 'The Darkness', 'La cúpula de cristal', 'El caso… La actriz",MISC,,,es,1.0
-El alud de nieve ocurrido este lunes,El alud de nieve ocurrido este lunes,MISC,,,es,1.0
-Reino…,Reino…,MISC,,,es,1.0
-Les Arcs,Les Arcs,MISC,,,es,1.0
-Un inesperado alud,Un inesperado alud,MISC,,,es,1.0
-Routers WiFi,Routers WiFi,MISC,,,es,1.0
-Estado …,Estado …,MISC,,,es,1.0
-Para los japoneses,Para los japoneses,MISC,,,es,1.0
-La Agencia Estatal de Meteorología,La Agencia Estatal de Meteorología,MISC,,,es,1.0
-Protección Civil,Protección Civil,MISC,,,es,1.0
-Dos jubilados de 70,Dos jubilados de 70,MISC,,,es,1.0
-Dic,Dic,MISC,,,es,1.0
+Frozen,Frozen,MISC,,,es,1.0
+"WRIGHTWOOD, California","WRIGHTWOOD, California",MISC,,,es,1.0
+Papanoeladas: la multa de la DGT,Papanoeladas: la multa de la DGT,MISC,,,es,1.0
+Hace,Hace,MISC,,,es,1.0
 +2338 chars],+2338 chars],MISC,,,es,1.0
-vos: una ola te impulsa hacia la orilla,vos: una ola te impulsa hacia la orilla,MISC,,,es,1.0
-El Desmarque,El Desmarque,MISC,,,es,1.0
-Manual de Resistencia,Manual de Resistencia,MISC,,,es,1.0
-It: Bie… [+5235 chars],It: Bie… [+5235 chars],MISC,,,es,1.0
-Si el martes el cielo,Si el martes el cielo,MISC,,,es,1.0
-Mundial de Chocolates 2025,Mundial de Chocolates 2025,MISC,,,es,1.0
-Premios Internacionales del Chocolate 2025,Premios Internacionales del Chocolate 2025,MISC,,,es,1.0
-VanEck,VanEck,MISC,,,es,1.0
-incluye staking d… VanEck,incluye staking d… VanEck,MISC,,,es,1.0
-Sol… [+2758 chars],Sol… [+2758 chars],MISC,,,es,1.0
-aconsejado… VALLADOLID,aconsejado… VALLADOLID,MISC,,,es,1.0
-Salir,Salir,MISC,,,es,1.0
-Sara Sálamo:,Sara Sálamo:,MISC,,,es,1.0
-Studios Montauk,Studios Montauk,MISC,,,es,1.0
-Starlink,Starlink,MISC,,,es,1.0
-"Starlink,","Starlink,",MISC,,,es,1.0
-The Running Man,The Running Man,MISC,,,es,1.0
-It: Bienvenidos a Derry' en,It: Bienvenidos a Derry' en,MISC,,,es,1.0
-"2025, p.","2025, p.",MISC,,,es,1.0
-Black Friday 2025,Black Friday 2025,MISC,,,es,1.0
-La idea de que nada se crea,La idea de que nada se crea,MISC,,,es,1.0
-Kindle,Kindle,MISC,,,es,1.0
-Los residentes de Illinois,Los residentes de Illinois,MISC,,,es,1.0
-noviembre.,noviembre.,MISC,,,es,1.0
-Illinois?,Illinois?,MISC,-0.23172082751989365,0.8015826344490051,es,1.0
+Santana 400,Santana 400,MISC,,,es,1.0
+I,I,MISC,,,es,1.0
+Pregunta: Hay gays de comportamiento hembra,Pregunta: Hay gays de comportamiento hembra,MISC,,,es,1.0
+¿Soledad,¿Soledad,MISC,,,es,1.0
+Everest:,Everest:,MISC,,,es,1.0
+Exactamente,Exactamente,MISC,,,es,1.0
+El mercado de bonos vigila la tensión geopolítica y comercial,El mercado de bonos vigila la tensión geopolítica y comercial,MISC,,,es,1.0
+xAI,xAI,MISC,,,es,1.0
+chatbot Grok,chatbot Grok,MISC,,,es,1.0
+La La Land,La La Land,MISC,,,es,1.0
+Titanic,Titanic,MISC,,,es,1.0
+Adamuz,Adamuz,MISC,-0.34712803550064564,0.2584108829498291,es,1.0
+falt… Pocos,falt… Pocos,MISC,,,es,1.0
+"Adamuz: ""Máxima solidaridad con las víctimas","Adamuz: ""Máxima solidaridad con las víctimas",MISC,,,es,1.0
+Al rojo,Al rojo,MISC,,,es,1.0
+Paco L… GH Dúo 4,Paco L… GH Dúo 4,MISC,,,es,1.0
+Sexta Xplica',Sexta Xplica',MISC,,,es,1.0
+Xbox Serie…,Xbox Serie…,MISC,,,es,1.0
+Nintendo Switch 2,Nintendo Switch 2,MISC,,,es,1.0
+Xbox Play Anyw… FINAL FANTASY VII,Xbox Play Anyw… FINAL FANTASY VII,MISC,,,es,1.0
+Xbox Series X|S,Xbox Series X|S,MISC,,,es,1.0
+Nintendo Switch™ 2,Nintendo Switch™ 2,MISC,,,es,1.0
+Xbox Series X|S..,Xbox Series X|S..,MISC,,,es,1.0
+Nintendo Switch 2,Nintendo Switch 2,MISC,,,es,1.0
+Tentaciones',Tentaciones',MISC,,,es,1.0
+Sonsoles',Sonsoles',MISC,,,es,1.0
+particul…,particul…,MISC,,,es,1.0
+Content Utility,Content Utility,MISC,,,es,1.0
+Supremachismo,Supremachismo,MISC,,,es,1.0
+fiebre del 'locker',fiebre del 'locker',MISC,,,es,1.0
+La pendiente está silenciosa,La pendiente está silenciosa,MISC,,,es,1.0
+ABC,ABC,MISC,,,es,1.0
+Solar Orbiter,Solar Orbiter,MISC,-0.4059889167547226,0.8405044674873352,es,1.0
+"DAVOS, Suiza","DAVOS, Suiza",MISC,,,es,1.0
+Pax…,Pax…,MISC,,,es,1.0
+Mark Carney,Mark Carney,MISC,,,es,1.0
+AHMED,AHMED,MISC,,,es,1.0
+MÁXIMA SOLIDARIDAD' Múltiples,MÁXIMA SOLIDARIDAD' Múltiples,MISC,,,es,1.0
+El 30 de septiembre de 2024 el sol,El 30 de septiembre de 2024 el sol,MISC,,,es,1.0
+El agente secreto”,El agente secreto”,MISC,,,es,1.0
+O Agente Secreto”,O Agente Secreto”,MISC,,,es,1.0
+Pet… [+1633 chars],Pet… [+1633 chars],MISC,,,es,1.0
+invasión.,invasión.,MISC,,,es,1.0
+Hoy.,Hoy.,MISC,,,es,1.0
+Ojos del Salado,Ojos del Salado,MISC,,,es,1.0
+"La reportera de 'Y ahora, Sonsoles'","La reportera de 'Y ahora, Sonsoles'",MISC,,,es,1.0
+Final Fantasy VII Remake Intergrade,Final Fantasy VII Remake Intergrade,MISC,,,es,1.0
+Oscar 2026 | FOTOS.,Oscar 2026 | FOTOS.,MISC,,,es,1.0
+Redes,Redes,MISC,,,es,1.0
+IA de X,IA de X,MISC,,,es,1.0
+Tendencias,Tendencias,MISC,,,es,1.0
+TikTok,TikTok,MISC,,,es,1.0
+Redes Sociales,Redes Sociales,MISC,,,es,1.0
+Nuestro Arthur,Nuestro Arthur,MISC,,,es,1.0
+"Muchas veces, entre amigos","Muchas veces, entre amigos",MISC,,,es,1.0
+Almeida.,Almeida.,MISC,,,es,1.0
+Pharos,Pharos,MISC,,,es,1.0
+El Gobierno francés,El Gobierno francés,MISC,,,es,1.0
+Dirección Gene… El momento ha llegado: la baliza V16,Dirección Gene… El momento ha llegado: la baliza V16,MISC,,,es,1.0
+¿No les gustó?,¿No les gustó?,MISC,,,es,1.0
+baliza V16,baliza V16,MISC,,,es,1.0
+Hotel Fin…,Hotel Fin…,MISC,,,es,1.0
+Tormentas de nieve,Tormentas de nieve,MISC,,,es,1.0
+Filmin,Filmin,MISC,,,es,1.0
+La Guardia Civil de Montaña,La Guardia Civil de Montaña,MISC,,,es,1.0
+Una niña de 10,Una niña de 10,MISC,,,es,1.0
+Panticosa:,Panticosa:,MISC,,,es,1.0
+Las tres víctimas del alud del,Las tres víctimas del alud del,MISC,,,es,1.0
+man…,man…,MISC,,,es,1.0
+HBO Max y streaming,HBO Max y streaming,MISC,,,es,1.0
+"Con peculiares formaciones rocosas, coloridos globos aerostáticos, cuevas antiguas y delicias culinarias","Con peculiares formaciones rocosas, coloridos globos aerostáticos, cuevas antiguas y delicias culinarias",MISC,,,es,1.0
+La ola de frío ártico,La ola de frío ártico,MISC,,,es,1.0
+Morón</li><li>La UME,Morón</li><li>La UME,MISC,,,es,1.0
+"Drones, perros…","Drones, perros…",MISC,,,es,1.0
+El mundo mira,El mundo mira,MISC,,,es,1.0
+distint…,distint…,MISC,,,es,1.0
+Al mnenos dos personas,Al mnenos dos personas,MISC,,,es,1.0
+Juegos Olímpicos de Invierno de 1998,Juegos Olímpicos de Invierno de 1998,MISC,,,es,1.0
+Invertir a largo plazo,Invertir a largo plazo,MISC,,,es,1.0
+Thursday in the Cim,Thursday in the Cim,MISC,,,es,1.0
+Por JIM GOMEZ,Por JIM GOMEZ,MISC,,,es,1.0
+JIM GOMEZ MANILA,JIM GOMEZ MANILA,MISC,,,es,1.0
+Lords of the Fallen II.<!--aa--->Recientemente,Lords of the Fallen II.<!--aa--->Recientemente,MISC,,,es,1.0
+Lords of the Fallen II,Lords of the Fallen II,MISC,,,es,1.0
+¿Cómo,¿Cómo,MISC,,,es,1.0
+Un impactante,Un impactante,MISC,,,es,1.0
+"borr… MADRID, 8 Ene","borr… MADRID, 8 Ene",MISC,,,es,1.0
+comentarios.,comentarios.,MISC,,,es,1.0
+"iPhone: ProRAW, ProRes","iPhone: ProRAW, ProRes",MISC,,,es,1.0
+La Agencia Estatal de Meteorología,La Agencia Estatal de Meteorología,MISC,,,es,1.0
+Larian,Larian,MISC,,,es,1.0
+Para los japoneses,Para los japoneses,MISC,,,es,1.0
 Thanksgiving,Thanksgiving,MISC,,,es,1.0
-La jornada posterior al Día de Acción de Gracias,La jornada posterior al Día de Acción de Gracias,MISC,,,es,1.0
-ASSOCIATED,ASSOCIATED,MISC,,,es,1.0
-helicópter…,helicópter…,MISC,,,es,1.0
-ASSOCIATED PRESS,ASSOCIATED PRESS,MISC,,,es,1.0
-T5 de Stranger Things,T5 de Stranger Things,MISC,,,es,1.0
-Stranger Things re… Por eso he ido,Stranger Things re… Por eso he ido,MISC,,,es,1.0
-Austria.,Austria.,MISC,-0.1404305249452591,0.5800514817237854,es,1.0
+Año N… Periódico,Año N… Periódico,MISC,,,es,1.0
 Kawasaki,Kawasaki,MISC,,,es,1.0
+Stranger Things re… Por eso he ido,Stranger Things re… Por eso he ido,MISC,,,es,1.0
+T5 de Stranger Things,T5 de Stranger Things,MISC,,,es,1.0
+ASSOCIATED PRESS,ASSOCIATED PRESS,MISC,,,es,1.0
+helicópter…,helicópter…,MISC,,,es,1.0
+ASSOCIATED,ASSOCIATED,MISC,,,es,1.0
+La jornada posterior al Día de Acción de Gracias,La jornada posterior al Día de Acción de Gracias,MISC,,,es,1.0
+Illinois?,Illinois?,MISC,-0.23172037303447723,0.8015822768211365,es,1.0
+Las casas prefabricadas,Las casas prefabricadas,MISC,,,es,1.0
+noviembre.,noviembre.,MISC,,,es,1.0
+Los residentes de Illinois,Los residentes de Illinois,MISC,,,es,1.0
+Kindle,Kindle,MISC,,,es,1.0
+La idea de que nada se crea,La idea de que nada se crea,MISC,,,es,1.0
+"2025, p.","2025, p.",MISC,,,es,1.0
+It: Bie… [+5235 chars],It: Bie… [+5235 chars],MISC,,,es,1.0
+It: Bienvenidos a Derry' en,It: Bienvenidos a Derry' en,MISC,,,es,1.0
+The Running Man,The Running Man,MISC,,,es,1.0
+Black Friday 2025,Black Friday 2025,MISC,,,es,1.0
+Amazon:,Amazon:,MISC,,,es,1.0
+Under Armour,Under Armour,MISC,,,es,1.0
+¿Trabajas,¿Trabajas,MISC,,,es,1.0
+Steam,Steam,MISC,,,es,1.0
+Windows XP,Windows XP,MISC,,,es,1.0
+Service Pack,Service Pack,MISC,,,es,1.0
+Android 16 QPR2…,Android 16 QPR2…,MISC,,,es,1.0
+Android 16 QPR2,Android 16 QPR2,MISC,,,es,1.0
+Android,Android,MISC,,,es,1.0
+Truth Social,Truth Social,MISC,,,es,1.0
+'Marty Supreme': Las,'Marty Supreme': Las,MISC,,,es,1.0
+ALERTA OSCAR,ALERTA OSCAR,MISC,,,es,1.0
+Salud,Salud,MISC,,,es,1.0
+Gobierno andaluz,Gobierno andaluz,MISC,,,es,1.0
+AMAMA,AMAMA,MISC,,,es,1.0
+SAS.,SAS.,MISC,,,es,1.0
+Fiscalía,Fiscalía,MISC,,,es,1.0
+guerras.,guerras.,MISC,,,es,1.0
+Día de Acción de Gracias,Día de Acción de Gracias,MISC,,,es,1.0
+Steam Machine,Steam Machine,MISC,,,es,1.0
+"Starlink,","Starlink,",MISC,,,es,1.0
+Starlink,Starlink,MISC,,,es,1.0
+Studios Montauk,Studios Montauk,MISC,,,es,1.0
+IA generativa,IA generativa,MISC,,,es,1.0
+Siri,Siri,MISC,,,es,1.0
+ChatGPT,ChatGPT,MISC,,,es,1.0
+Violentas tormentas de nieve,Violentas tormentas de nieve,MISC,,,es,1.0
+lunes.,lunes.,MISC,,,es,1.0
+Rescate Alpino,Rescate Alpino,MISC,,,es,1.0
+Trentino-… [+1588 chars],Trentino-… [+1588 chars],MISC,,,es,1.0
+Los servicios de rescate de montaña,Los servicios de rescate de montaña,MISC,,,es,1.0
+avalancha.,avalancha.,MISC,,,es,1.0
+The post ¡Tragedia,The post ¡Tragedia,MISC,,,es,1.0
+¡Tragedia,¡Tragedia,MISC,,,es,1.0
+Una impresionante avalancha,Una impresionante avalancha,MISC,,,es,1.0
+Groki… [+3978 chars,Groki… [+3978 chars,MISC,,,es,1.0
+Wikipedia,Wikipedia,MISC,,,es,1.0
+Black Friday,Black Friday,MISC,,,es,1.0
+Xbox Series S,Xbox Series S,MISC,,,es,1.0
+"SIMBA, el sensor","SIMBA, el sensor",MISC,,,es,1.0
+Lani Pallister,Lani Pallister,MISC,,,es,1.0
+Vene… Un cambio político,Vene… Un cambio político,MISC,,,es,1.0
+@bored_brit_abroad,@bored_brit_abroad,MISC,,,es,1.0
+Sara Sálamo:,Sara Sálamo:,MISC,,,es,1.0
+El Corte Inglés,El Corte Inglés,MISC,,,es,1.0
+Salir,Salir,MISC,,,es,1.0
+aconsejado… VALLADOLID,aconsejado… VALLADOLID,MISC,,,es,1.0
+Sol… [+2758 chars],Sol… [+2758 chars],MISC,,,es,1.0
+incluye staking d… VanEck,incluye staking d… VanEck,MISC,,,es,1.0
+VanEck,VanEck,MISC,,,es,1.0
+Premios Internacionales del Chocolate 2025,Premios Internacionales del Chocolate 2025,MISC,,,es,1.0
+Mundial de Chocolates 2025,Mundial de Chocolates 2025,MISC,,,es,1.0
+Si el martes el cielo,Si el martes el cielo,MISC,,,es,1.0
 España:…,España:…,MISC,,,es,1.0
 Faltan,Faltan,MISC,,,es,1.0
 Trabajo,Trabajo,MISC,,,es,1.0
 Pues,Pues,MISC,,,es,1.0
-Lani Pallister,Lani Pallister,MISC,,,es,1.0
-"SIMBA, el sensor","SIMBA, el sensor",MISC,,,es,1.0
-Xbox Series S,Xbox Series S,MISC,,,es,1.0
-Black Friday,Black Friday,MISC,,,es,1.0
-Wikipedia,Wikipedia,MISC,,,es,1.0
-Groki… [+3978 chars,Groki… [+3978 chars,MISC,,,es,1.0
-Una impresionante avalancha,Una impresionante avalancha,MISC,,,es,1.0
-¡Tragedia,¡Tragedia,MISC,,,es,1.0
-The post ¡Tragedia,The post ¡Tragedia,MISC,,,es,1.0
-avalancha.,avalancha.,MISC,,,es,1.0
-Los servicios de rescate de montaña,Los servicios de rescate de montaña,MISC,,,es,1.0
-Trentino-… [+1588 chars],Trentino-… [+1588 chars],MISC,,,es,1.0
-Rescate Alpino,Rescate Alpino,MISC,,,es,1.0
-lunes.,lunes.,MISC,,,es,1.0
-Nueva tragedia,Nueva tragedia,MISC,,,es,1.0
-Violentas tormentas de nieve,Violentas tormentas de nieve,MISC,,,es,1.0
-ChatGPT,ChatGPT,MISC,,,es,1.0
-iPhone,iPhone,MISC,,,es,1.0
-Siri,Siri,MISC,,,es,1.0
-Vene… Un cambio político,Vene… Un cambio político,MISC,,,es,1.0
-IA generativa,IA generativa,MISC,,,es,1.0
-@bored_brit_abroad,@bored_brit_abroad,MISC,,,es,1.0
-El Corte Inglés,El Corte Inglés,MISC,,,es,1.0
-Black Friday.,Black Friday.,MISC,,,es,1.0
-Avalancha de Armero,Avalancha de Armero,MISC,,,es,1.0
-Estrenos,Estrenos,MISC,,,es,1.0
-Netflix,Netflix,MISC,,,es,1.0
-HBO Max,HBO Max,MISC,,,es,1.0
 Apple TV,Apple TV,MISC,,,es,1.0
-Año N… Periódico,Año N… Periódico,MISC,,,es,1.0
-Amazon:,Amazon:,MISC,,,es,1.0
-Conferencia Episcopal,Conferencia Episcopal,MISC,,,es,1.0
-¡INDIGNANTE!,¡INDIGNANTE!,MISC,,,es,1.0
-La llegada de la Navidad,La llegada de la Navidad,MISC,,,es,1.0
-«Este,«Este,MISC,,,es,1.0
-conveni…,conveni…,MISC,,,es,1.0
-Economía y Finanzas de Uruguay,Economía y Finanzas de Uruguay,MISC,,,es,1.0
-El ministro de Economía y Finanzas de Uruguay,El ministro de Economía y Finanzas de Uruguay,MISC,,,es,1.0
-AliExpress,AliExpress,MISC,,,es,1.0
-Finanzas de la Unión Europea,Finanzas de la Unión Europea,MISC,,,es,1.0
-Z. <![CDATA[<p>Hasta,Z. <![CDATA[<p>Hasta,MISC,,,es,1.0
-temp…,temp…,MISC,,,es,1.0
-telescopio espacial Hubble”… El ensamblaje final,telescopio espacial Hubble”… El ensamblaje final,MISC,,,es,1.0
-Made in Europe,Made in Europe,MISC,,,es,1.0
-"Peugeot 408 GT: Cambia, todo cambia....","Peugeot 408 GT: Cambia, todo cambia....",MISC,,,es,1.0
-pe… «Déjame,pe… «Déjame,MISC,,,es,1.0
-El paso de la borrasca Emilia,El paso de la borrasca Emilia,MISC,,,es,1.0
-huev***,huev***,MISC,,,es,1.0
-Under Armour,Under Armour,MISC,,,es,1.0
-¡Sí,¡Sí,MISC,,,es,1.0
-"Entre cánticos, numerosas banderas","Entre cánticos, numerosas banderas",MISC,,,es,1.0
-torneo A,torneo A,MISC,,,es,1.0
-Lady Everest',Lady Everest',MISC,,,es,1.0
-Impuesto de Patrimonio,Impuesto de Patrimonio,MISC,,,es,1.0
-diablo' de Alemania: el 'tsunami chino',diablo' de Alemania: el 'tsunami chino',MISC,,,es,1.0
+HBO Max,HBO Max,MISC,,,es,1.0
+Estrenos,Estrenos,MISC,,,es,1.0
+Avalancha de Armero,Avalancha de Armero,MISC,,,es,1.0
+Black Friday.,Black Friday.,MISC,,,es,1.0
+Marca,Marca,MISC,,,es,1.0
+COP30,COP30,MISC,,,es,1.0
+Estado …,Estado …,MISC,,,es,1.0
+cinematográfi…,cinematográfi…,MISC,,,es,1.0
+La casa prefabricada,La casa prefabricada,MISC,,,es,1.0
+España: un dúplex,España: un dúplex,MISC,,,es,1.0
+subalance anual,subalance anual,MISC,,,es,1.0
+V16: la DGT,V16: la DGT,MISC,,,es,1.0
+Navidades,Navidades,MISC,,,es,1.0
+Fiestas,Fiestas,MISC,,,es,1.0
+Microsoft Co…,Microsoft Co…,MISC,,,es,1.0
+Microsoft Copilot,Microsoft Copilot,MISC,,,es,1.0
+nintendo switch,nintendo switch,MISC,,,es,1.0
+"Sorribas, ningun… [+2730 chars]","Sorribas, ningun… [+2730 chars]",MISC,,,es,1.0
+Playstation,Playstation,MISC,,,es,1.0
+Slop»,Slop»,MISC,,,es,1.0
+Se… [+1945 chars],Se… [+1945 chars],MISC,,,es,1.0
+China:,China:,MISC,,,es,1.0
+"El fútbol, actividad principal de la vida social argentina","El fútbol, actividad principal de la vida social argentina",MISC,,,es,1.0
+"De ahí, sostienen, la cascada","De ahí, sostienen, la cascada",MISC,,,es,1.0
+der…,der…,MISC,,,es,1.0
+La negociación de prod… [+5176 chars],La negociación de prod… [+5176 chars],MISC,,,es,1.0
+"España: cocina equipada, porche","España: cocina equipada, porche",MISC,,,es,1.0
+España: 3 dormitorios,España: 3 dormitorios,MISC,,,es,1.0
+Adiós a la Navidad,Adiós a la Navidad,MISC,,,es,1.0
+Tragedia de Vargas: la noche que la montaña,Tragedia de Vargas: la noche que la montaña,MISC,,,es,1.0
+Routers WiFi,Routers WiFi,MISC,,,es,1.0
+Les Arcs,Les Arcs,MISC,,,es,1.0
+"Åre', 'The Darkness', 'La cúpula de cristal', 'El caso… La actriz","Åre', 'The Darkness', 'La cúpula de cristal', 'El caso… La actriz",MISC,,,es,1.0
+Pemuvi,Pemuvi,MISC,,,es,1.0
+Slow New Year',Slow New Year',MISC,,,es,1.0
+Antártida,Antártida,MISC,0.5747420312120364,0.5222452603853666,es,1.0
+Miles de productores,Miles de productores,MISC,,,es,1.0
+La AEMET,La AEMET,MISC,,,es,1.0
+Apúntate,Apúntate,MISC,,,es,1.0
+Manifestación de Impacto Ambiental,Manifestación de Impacto Ambiental,MISC,,,es,1.0
+La Antártida,La Antártida,MISC,,,es,1.0
+Atlas,Atlas,MISC,,,es,1.0
+Comet,Comet,MISC,,,es,1.0
 "registros&nbsp;McKeown, Kos","registros&nbsp;McKeown, Kos",MISC,,,es,1.0
-ARC Raiders,ARC Raiders,MISC,,,es,1.0
-Garabateados,Garabateados,MISC,,,es,1.0
-atentado de Sídney,atentado de Sídney,MISC,,,es,1.0
-Harry,Harry,MISC,,,es,1.0
-Invision/AP,Invision/AP,MISC,,,es,1.0
-Reportero de cultura</li></ul></li><li></li><li></li></ul>,Reportero de cultura</li></ul></li><li></li><li></li></ul>,MISC,,,es,1.0
+Se acerca la despedida de 2025,Se acerca la despedida de 2025,MISC,,,es,1.0
+La mujer de la fila,La mujer de la fila,MISC,,,es,1.0
+"El juego del calamar, Stranger Things","El juego del calamar, Stranger Things",MISC,,,es,1.0
+Manual de Resistencia,Manual de Resistencia,MISC,,,es,1.0
+Conferencia Episcopal,Conferencia Episcopal,MISC,,,es,1.0
 Argüello… “Un error,Argüello… “Un error,MISC,,,es,1.0
+temp…,temp…,MISC,,,es,1.0
+Finanzas de la Unión Europea,Finanzas de la Unión Europea,MISC,,,es,1.0
+AliExpress,AliExpress,MISC,,,es,1.0
+El ministro de Economía y Finanzas de Uruguay,El ministro de Economía y Finanzas de Uruguay,MISC,,,es,1.0
+Economía y Finanzas de Uruguay,Economía y Finanzas de Uruguay,MISC,,,es,1.0
+conveni…,conveni…,MISC,,,es,1.0
+«Este,«Este,MISC,,,es,1.0
+La llegada de la Navidad,La llegada de la Navidad,MISC,,,es,1.0
 Audiencias - 'El H… La,Audiencias - 'El H… La,MISC,,,es,1.0
 ‘Avalancha’,‘Avalancha’,MISC,,,es,1.0
 El Hormiguero',El Hormiguero',MISC,,,es,1.0
 fiest… Edurne,fiest… Edurne,MISC,,,es,1.0
-¿Trabajas,¿Trabajas,MISC,,,es,1.0
-Steam Machine,Steam Machine,MISC,,,es,1.0
-Día de Acción de Gracias,Día de Acción de Gracias,MISC,,,es,1.0
-guerras.,guerras.,MISC,,,es,1.0
-Fiscalía,Fiscalía,MISC,,,es,1.0
-SAS.,SAS.,MISC,,,es,1.0
-AMAMA,AMAMA,MISC,,,es,1.0
-Gobierno andaluz,Gobierno andaluz,MISC,,,es,1.0
-Salud,Salud,MISC,,,es,1.0
-Oscar,Oscar,MISC,,,es,1.0
-ALERTA OSCAR,ALERTA OSCAR,MISC,,,es,1.0
-'Marty Supreme': Las,'Marty Supreme': Las,MISC,,,es,1.0
-Truth Social,Truth Social,MISC,,,es,1.0
-Android,Android,MISC,,,es,1.0
-Android 16 QPR2,Android 16 QPR2,MISC,,,es,1.0
-Android 16 QPR2…,Android 16 QPR2…,MISC,,,es,1.0
-Service Pack,Service Pack,MISC,,,es,1.0
-Windows XP,Windows XP,MISC,,,es,1.0
-Steam,Steam,MISC,,,es,1.0
-Marca,Marca,MISC,,,es,1.0
-Las casas prefabricadas,Las casas prefabricadas,MISC,,,es,1.0
-COP30,COP30,MISC,,,es,1.0
-"Sorribas, ningun… [+2730 chars]","Sorribas, ningun… [+2730 chars]",MISC,,,es,1.0
-Juegos Olímpicos de Invi…,Juegos Olímpicos de Invi…,MISC,,,es,1.0
-rompecabez…,rompecabez…,MISC,,,es,1.0
-¿Qué,¿Qué,MISC,,,es,1.0
-Japón?,Japón?,MISC,,,es,1.0
-Ahora,Ahora,MISC,,,es,1.0
 Phelon & Moore,Phelon & Moore,MISC,,,es,1.0
-Por JIM GOMEZ,Por JIM GOMEZ,MISC,,,es,1.0
+Ahora,Ahora,MISC,,,es,1.0
+Japón?,Japón?,MISC,,,es,1.0
+¿Qué,¿Qué,MISC,,,es,1.0
+rompecabez…,rompecabez…,MISC,,,es,1.0
+Juegos Olímpicos de Invi…,Juegos Olímpicos de Invi…,MISC,,,es,1.0
+Z. <![CDATA[<p>Hasta,Z. <![CDATA[<p>Hasta,MISC,,,es,1.0
+telescopio espacial Hubble”… El ensamblaje final,telescopio espacial Hubble”… El ensamblaje final,MISC,,,es,1.0
+Reportero de cultura</li></ul></li><li></li><li></li></ul>,Reportero de cultura</li></ul></li><li></li><li></li></ul>,MISC,,,es,1.0
+Made in Europe,Made in Europe,MISC,,,es,1.0
+Invision/AP,Invision/AP,MISC,,,es,1.0
+Harry,Harry,MISC,,,es,1.0
+atentado de Sídney,atentado de Sídney,MISC,,,es,1.0
+Garabateados,Garabateados,MISC,,,es,1.0
+ARC Raiders,ARC Raiders,MISC,,,es,1.0
+El Desmarque,El Desmarque,MISC,,,es,1.0
+diablo' de Alemania: el 'tsunami chino',diablo' de Alemania: el 'tsunami chino',MISC,,,es,1.0
+Impuesto de Patrimonio,Impuesto de Patrimonio,MISC,,,es,1.0
+Lady Everest',Lady Everest',MISC,,,es,1.0
+torneo A,torneo A,MISC,,,es,1.0
+"Entre cánticos, numerosas banderas","Entre cánticos, numerosas banderas",MISC,,,es,1.0
+¡Sí,¡Sí,MISC,,,es,1.0
+huev***,huev***,MISC,,,es,1.0
+¡INDIGNANTE!,¡INDIGNANTE!,MISC,,,es,1.0
+El paso de la borrasca Emilia,El paso de la borrasca Emilia,MISC,,,es,1.0
+pe… «Déjame,pe… «Déjame,MISC,,,es,1.0
+"Peugeot 408 GT: Cambia, todo cambia....","Peugeot 408 GT: Cambia, todo cambia....",MISC,,,es,1.0
+DP),DP),MISC,,,es,1.0
