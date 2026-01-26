@@ -33,7 +33,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Placa de viento',es,Hazard,#4287f5,#7fb3ff,2,0.1105794203842114
 'Estratificación débil de nieve',es,Causes,#a89216,#fff4e0,1,0.1102
 'Vibraciones humanas o maquinaria',es,Causes,#a89216,#f9eccf,1,0.1085
-'Pendiente pronunciada',es,Causes,#a89216,#e0cd8b,1,0.1078748333999999
 'Viento fuerte sobre nieve suelta',es,Causes,#a89216,#ccb250,1,0.1072245405
 'Cambios bruscos de temperatura',es,Causes,#a89216,#d9c577,2,0.10644207
 'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.1056018643749999
@@ -48,6 +47,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Monitoreo a largo plazo',es,Adaptation,#157a2c,#4cc75d,2,0.0956273386363636
 'Nevada intensa',es,Hazard,#4287f5,#eff7ff,2,0.0954268513339061
 'Interrupción de carreteras',es,Impacts,#4287f5,#639fd8,1,0.09508515
+'Pendiente pronunciada',es,Causes,#a89216,#e0cd8b,1,0.09394383338999991
 'Pala y sonda de rescate',es,Mitigation,#9e3215,#d64418,1,0.093585
 'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.09356375
 'Daños económicos locales',es,Impacts,#4287f5,#6399d6,1,0.0928
@@ -67,4 +67,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Terreno propenso a avalanchas',es,Hazard,#4287f5,#f5faff,1,0.0737006725958592
 'Refuerzo de rutas críticas',es,Adaptation,#157a2c,#58d567,1,0.07176465375
 'Capacitación comunitaria en riesgo',es,Adaptation,#157a2c,#5edc6c,1,0.0707294374999999
-'Pérdida de vidas humanas',es,Impacts,#4287f5,#63a8db,2,0.061416193274999996
+'Pérdida de vidas humanas',es,Impacts,#4287f5,#63a8db,2,0.0614161932749999
