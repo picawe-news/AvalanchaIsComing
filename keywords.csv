@@ -19,7 +19,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Estrategias de resiliencia comunitaria',es,Adaptation,#157a2c,#34ab49,1,0.1186770887875
 'avalancha de placa',es,Hazard,#4287f5,#022f78,1,0.1185539594685325
 'Personas sepultadas',es,Impacts,#4287f5,#638ed5,1,0.1183303
-'Desprendimiento de nieve',es,Hazard,#4287f5,#5a99fa,2,0.1176135660250695
 'Daños por avalancha',es,Impacts,#4287f5,#63a2d9,1,0.117005083
 'desastre avalancha',es,Hazard,#4287f5,#022f78,1,0.1167777092625255
 'accidente mortal avalancha',es,Hazard,#4287f5,#022f78,1,0.1167085631416014
@@ -36,6 +35,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Viento fuerte sobre nieve suelta',es,Causes,#a89216,#ccb250,1,0.1072245405
 'Cambios bruscos de temperatura',es,Causes,#a89216,#d9c577,2,0.10644207
 'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.1056018643749999
+'Desprendimiento de nieve',es,Hazard,#4287f5,#5a99fa,2,0.10492205612130907
 'Ruptura del manto nival',es,Hazard,#4287f5,#d2e6ff,1,0.1042707484374999
 'Inestabilidad del manto nival',es,Causes,#a89216,#c7b34a,1,0.1013920374999999
 'Gestión sostenible del riesgo',es,Adaptation,#157a2c,#3ab24e,2,0.099727445
@@ -47,7 +47,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Monitoreo a largo plazo',es,Adaptation,#157a2c,#4cc75d,2,0.0956273386363636
 'Nevada intensa',es,Hazard,#4287f5,#eff7ff,2,0.0954268513339061
 'Interrupción de carreteras',es,Impacts,#4287f5,#639fd8,1,0.09508515
-'Pendiente pronunciada',es,Causes,#a89216,#e0cd8b,1,0.09394383338999991
+'Pendiente pronunciada',es,Causes,#a89216,#e0cd8b,1,0.0939438333899999
 'Pala y sonda de rescate',es,Mitigation,#9e3215,#d64418,1,0.093585
 'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.09356375
 'Daños económicos locales',es,Impacts,#4287f5,#6399d6,1,0.0928
