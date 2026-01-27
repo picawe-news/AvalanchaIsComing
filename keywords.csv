@@ -7,9 +7,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Manto nivoso inestable',es,Hazard,#4287f5,#99c6ff,1,0.1493463390703125
 'Alud',es,Hazard,#4287f5,#4a8df7,3,0.1488612722713831
 'Acumulación de nieve',es,Hazard,#4287f5,#e7f3ff,3,0.144834278300377
-'Víctimas por avalancha',es,Impacts,#4287f5,#638ed1,1,0.1319
 'Calentamiento repentino',es,Causes,#a89216,#e6d59e,1,0.1319
-'avalanchas muertos',es,Hazard,#4287f5,#022f78,1,0.12672499787875932
+'avalanchas muertos',es,Hazard,#4287f5,#022f78,1,0.1267249978787593
+'Víctimas por avalancha',es,Impacts,#4287f5,#638ed1,2,0.12524768818181817
 'Avalancha de polvo',es,Hazard,#4287f5,#d8eaff,1,0.1229872091712499
 'Nieve inestable',es,Hazard,#4287f5,#6aa5fc,3,0.1223796518961041
 'Sistemas de alerta de avalanchas',es,Mitigation,#9e3215,#d63a18,1,0.12183177775
