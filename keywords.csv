@@ -15,7 +15,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sistemas de alerta de avalanchas',es,Mitigation,#9e3215,#d63a18,1,0.12183177775
 'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,1,0.1194411178405749
 'Placa de nieve',es,Hazard,#4287f5,#78afff,1,0.1192194164635653
-'Estrategias de resiliencia comunitaria',es,Adaptation,#157a2c,#34ab49,1,0.1186770887875
 'avalancha de placa',es,Hazard,#4287f5,#022f78,1,0.1185539594685325
 'Personas sepultadas',es,Impacts,#4287f5,#638ed5,1,0.1183303
 'Daños por avalancha',es,Impacts,#4287f5,#63a2d9,1,0.117005083
@@ -29,7 +28,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'cambio climático de avalanchas',es,Causes,#a89216,#d8c379,1,0.1124436260354684
 'Placa de viento',es,Hazard,#4287f5,#7fb3ff,2,0.1105794203842114
 'Estratificación débil de nieve',es,Causes,#a89216,#fff4e0,1,0.1102
-'nieve y avalanchas',es,Causes,#a89216,#d8c379,2,0.11016349280438857
+'nieve y avalanchas',es,Causes,#a89216,#d8c379,2,0.1101634928043885
 'Vibraciones humanas o maquinaria',es,Causes,#a89216,#f9eccf,1,0.1085
 'Viento fuerte sobre nieve suelta',es,Causes,#a89216,#ccb250,1,0.1072245405
 'Cambios bruscos de temperatura',es,Causes,#a89216,#d9c577,2,0.10644207
@@ -37,6 +36,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Acumulación rápida de nieve',es,Causes,#a89216,#d3bb63,1,0.105121981
 'Ruptura del manto nival',es,Hazard,#4287f5,#d2e6ff,1,0.1042707484374999
 'Inestabilidad del manto nival',es,Causes,#a89216,#c7b34a,1,0.1013920374999999
+'Estrategias de resiliencia comunitaria',es,Adaptation,#157a2c,#34ab49,1,0.101025540469375
 'Gestión sostenible del riesgo',es,Adaptation,#157a2c,#3ab24e,2,0.099727445
 'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.0988647449203612
 'daños por avalancha',es,Hazard,#4287f5,#022f78,1,0.0988627529770138
