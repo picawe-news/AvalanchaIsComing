@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'avalancha',es,Hazard,#4287f5,#022f78,3,0.2566318869291519
 'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,3,0.1983711157286364
-'Avalancha seca',es,Hazard,#4287f5,#adcfff,1,0.1877892787374998
 'Zona de avalanchas',es,Hazard,#4287f5,#c0dcff,2,0.1721271515
+'Avalancha seca',es,Hazard,#4287f5,#adcfff,1,0.15992091692687482
 'Manto nivoso inestable',es,Hazard,#4287f5,#99c6ff,1,0.1493463390703125
 'Alud',es,Hazard,#4287f5,#4a8df7,3,0.1488612722713831
 'Acumulación de nieve',es,Hazard,#4287f5,#e7f3ff,3,0.144834278300377
@@ -55,7 +55,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Diseño urbano resistente a avalanchas',es,Adaptation,#157a2c,#22963a,1,0.088434
 'Infraestructura resistente al clima',es,Adaptation,#157a2c,#52ce62,1,0.0874920265874999
 'Bloqueo de rutas de montaña',es,Impacts,#4287f5,#63aedf,1,0.0853940049249999
-'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.08433506318230702
+'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.084335063182307
 'Pendiente pronunciada',es,Causes,#a89216,#e0cd8b,1,0.0821024833814999
 'Nieve reciente poco cohesionada',es,Causes,#a89216,#f3e4c4,1,0.0814979999999999
 'Perros de búsqueda en avalanchas',es,Mitigation,#9e3215,#d64718,1,0.0791302949999999
