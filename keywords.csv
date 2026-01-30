@@ -37,7 +37,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inestabilidad del manto nival',es,Causes,#a89216,#c7b34a,1,0.1013920374999999
 'Estrategias de resiliencia comunitaria',es,Adaptation,#157a2c,#34ab49,1,0.101025540469375
 'Gestión sostenible del riesgo',es,Adaptation,#157a2c,#3ab24e,2,0.099727445
-'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.0988647449203612
 'daños por avalancha',es,Hazard,#4287f5,#022f78,1,0.0988627529770138
 'Sistemas de control de avalanchas',es,Mitigation,#9e3215,#d63e18,1,0.0974155562765723
 'Planificación territorial segura',es,Adaptation,#157a2c,#1b8f35,1,0.0964078609999999
@@ -56,10 +55,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Diseño urbano resistente a avalanchas',es,Adaptation,#157a2c,#22963a,1,0.088434
 'Infraestructura resistente al clima',es,Adaptation,#157a2c,#52ce62,1,0.0874920265874999
 'Bloqueo de rutas de montaña',es,Impacts,#4287f5,#63aedf,1,0.0853940049249999
+'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.08433506318230702
 'Pendiente pronunciada',es,Causes,#a89216,#e0cd8b,1,0.0821024833814999
 'Nieve reciente poco cohesionada',es,Causes,#a89216,#f3e4c4,1,0.0814979999999999
 'Perros de búsqueda en avalanchas',es,Mitigation,#9e3215,#d64718,1,0.0791302949999999
-'Riesgo para actividades turísticas',es,Impacts,#4287f5,#63a5da,1,0.07910515000000001
+'Riesgo para actividades turísticas',es,Impacts,#4287f5,#63a5da,1,0.07910515
 'Planes de evacuación locales',es,Adaptation,#157a2c,#46c058,1,0.0776563932499999
 'Rutas seguras señalizadas',es,Mitigation,#9e3215,#d64f18,1,0.07570652775
 'Terreno propenso a avalanchas',es,Hazard,#4287f5,#f5faff,1,0.0737006725958592
