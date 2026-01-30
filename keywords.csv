@@ -2,7 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'avalancha',es,Hazard,#4287f5,#022f78,3,0.2566318869291519
 'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,3,0.1983711157286364
 'Zona de avalanchas',es,Hazard,#4287f5,#c0dcff,2,0.1721271515
-'Avalancha seca',es,Hazard,#4287f5,#adcfff,1,0.15992091692687482
+'Avalancha seca',es,Hazard,#4287f5,#adcfff,1,0.1599209169268748
 'Manto nivoso inestable',es,Hazard,#4287f5,#99c6ff,1,0.1493463390703125
 'Alud',es,Hazard,#4287f5,#4a8df7,3,0.1488612722713831
 'Acumulación de nieve',es,Hazard,#4287f5,#e7f3ff,3,0.144834278300377
@@ -62,9 +62,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Riesgo para actividades turísticas',es,Impacts,#4287f5,#63a5da,1,0.07910515
 'Planes de evacuación locales',es,Adaptation,#157a2c,#46c058,1,0.0776563932499999
 'Rutas seguras señalizadas',es,Mitigation,#9e3215,#d64f18,1,0.07570652775
-'Terreno propenso a avalanchas',es,Hazard,#4287f5,#f5faff,1,0.0737006725958592
 'Refuerzo de rutas críticas',es,Adaptation,#157a2c,#58d567,1,0.07176465375
 'Capacitación comunitaria en riesgo',es,Adaptation,#157a2c,#5edc6c,1,0.0707294374999999
 'Protección de bosques protectores',es,Adaptation,#157a2c,#40b953,1,0.0663429385875
 'Redes de contención de nieve',es,Mitigation,#9e3215,#d64e18,1,0.063556905761875
+'Terreno propenso a avalanchas',es,Hazard,#4287f5,#f5faff,1,0.06264557170648032
 'Pérdida de vidas humanas',es,Impacts,#4287f5,#63a8db,2,0.0614161932749999
