@@ -3,8 +3,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,3,0.1983711157286364
 'Manto nivoso inestable',es,Hazard,#4287f5,#99c6ff,1,0.1950444482097656
 'Zona de avalanchas',es,Hazard,#4287f5,#c0dcff,2,0.1721271515
+'Alud',es,Hazard,#4287f5,#4a8df7,3,0.1710298459761302
 'Avalancha seca',es,Hazard,#4287f5,#adcfff,1,0.1599209169268748
-'Alud',es,Hazard,#4287f5,#4a8df7,3,0.1488612722713831
 'Acumulación de nieve',es,Hazard,#4287f5,#e7f3ff,3,0.144834278300377
 'Avalancha de placa',es,Hazard,#4287f5,#e0efff,2,0.1429352258205944
 'Calentamiento repentino',es,Causes,#a89216,#e6d59e,1,0.1319
