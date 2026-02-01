@@ -29,7 +29,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Placa de viento',es,Hazard,#4287f5,#7fb3ff,2,0.1105794203842114
 'Estratificación débil de nieve',es,Causes,#a89216,#fff4e0,1,0.1102
 'nieve y avalanchas',es,Causes,#a89216,#d8c379,2,0.1101634928043885
-'Vibraciones humanas o maquinaria',es,Causes,#a89216,#f9eccf,1,0.1085
 'Refuerzo de rutas críticas',es,Adaptation,#157a2c,#58d567,1,0.1079501506875
 'Viento fuerte sobre nieve suelta',es,Causes,#a89216,#ccb250,1,0.1072245405
 'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.1056018643749999
@@ -50,6 +49,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pala y sonda de rescate',es,Mitigation,#9e3215,#d64418,1,0.093585
 'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.09356375
 'Daños económicos locales',es,Impacts,#4287f5,#6399d6,1,0.0928
+'Vibraciones humanas o maquinaria',es,Causes,#a89216,#f9eccf,1,0.092225
 'Destrucción de infraestructuras',es,Impacts,#4287f5,#6390d3,2,0.09182096
 'Afectación a poblaciones',es,Impacts,#4287f5,#6393d4,1,0.0911467924999999
 'Corredor de avalanchas',es,Hazard,#4287f5,#c9e1ff,1,0.0898048249473327
