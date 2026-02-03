@@ -46,7 +46,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Interrupción de carreteras',es,Impacts,#4287f5,#639fd8,1,0.09508515
 'Desprendimiento de nieve',es,Hazard,#4287f5,#5a99fa,2,0.0941343027031126
 'Pala y sonda de rescate',es,Mitigation,#9e3215,#d64418,1,0.093585
-'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.09356375
 'Daños económicos locales',es,Impacts,#4287f5,#6399d6,1,0.0928
 'Vibraciones humanas o maquinaria',es,Causes,#a89216,#f9eccf,1,0.092225
 'Destrucción de infraestructuras',es,Impacts,#4287f5,#6390d3,2,0.09182096
@@ -59,6 +58,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Detonación preventiva',es,Mitigation,#9e3215,#d65a18,1,0.082634689675
 'Pendiente pronunciada',es,Causes,#a89216,#e0cd8b,1,0.0821024833814999
 'Nieve reciente poco cohesionada',es,Causes,#a89216,#f3e4c4,1,0.0814979999999999
+'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.0795291875
 'Perros de búsqueda en avalanchas',es,Mitigation,#9e3215,#d64718,1,0.0791302949999999
 'Riesgo para actividades turísticas',es,Impacts,#4287f5,#63a5da,1,0.07910515
 'Planes de evacuación locales',es,Adaptation,#157a2c,#46c058,1,0.0776563932499999
