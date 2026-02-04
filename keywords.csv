@@ -13,7 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Avalancha de polvo',es,Hazard,#4287f5,#d8eaff,1,0.1229872091712499
 'Nieve inestable',es,Hazard,#4287f5,#6aa5fc,1,0.1223796518961041
 'Sistemas de alerta de avalanchas',es,Mitigation,#9e3215,#d63a18,1,0.12183177775
-'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.12149503194750523
+'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.1214950319475052
 'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,1,0.1194411178405749
 'Placa de nieve',es,Hazard,#4287f5,#78afff,1,0.1192194164635653
 'avalancha de placa',es,Hazard,#4287f5,#022f78,1,0.1185539594685325
@@ -60,9 +60,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nieve reciente poco cohesionada',es,Causes,#a89216,#f3e4c4,1,0.0814979999999999
 'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.0795291875
 'Perros de búsqueda en avalanchas',es,Mitigation,#9e3215,#d64718,1,0.0791302949999999
-'Riesgo para actividades turísticas',es,Impacts,#4287f5,#63a5da,1,0.07910515
 'Planes de evacuación locales',es,Adaptation,#157a2c,#46c058,1,0.0776563932499999
 'Capacitación comunitaria en riesgo',es,Adaptation,#157a2c,#5edc6c,1,0.0707294374999999
+'Riesgo para actividades turísticas',es,Impacts,#4287f5,#63a5da,1,0.0684394975
 'Protección de bosques protectores',es,Adaptation,#157a2c,#40b953,1,0.0663429385875
 'Redes de contención de nieve',es,Mitigation,#9e3215,#d64e18,1,0.063556905761875
 'Pérdida de vidas humanas',es,Impacts,#4287f5,#63a8db,2,0.0614161932749999
