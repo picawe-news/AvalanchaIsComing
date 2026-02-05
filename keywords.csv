@@ -27,7 +27,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Placa de viento',es,Hazard,#4287f5,#7fb3ff,2,0.1105794203842114
 'Estratificación débil de nieve',es,Causes,#a89216,#fff4e0,1,0.1102
 'nieve y avalanchas',es,Causes,#a89216,#d8c379,2,0.1101634928043885
-'Refuerzo de rutas críticas',es,Adaptation,#157a2c,#58d567,1,0.1079501506875
 'Viento fuerte sobre nieve suelta',es,Causes,#a89216,#ccb250,1,0.1072245405
 'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.1056018643749999
 'Avalancha de polvo',es,Hazard,#4287f5,#d8eaff,1,0.1052892027955624
@@ -44,6 +43,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Interrupción de carreteras',es,Impacts,#4287f5,#639fd8,1,0.09508515
 'Desprendimiento de nieve',es,Hazard,#4287f5,#5a99fa,2,0.0941343027031126
 'Pala y sonda de rescate',es,Mitigation,#9e3215,#d64418,1,0.093585
+'Refuerzo de rutas críticas',es,Adaptation,#157a2c,#58d567,1,0.093407793084375
 'Daños económicos locales',es,Impacts,#4287f5,#6399d6,1,0.0928
 'Vibraciones humanas o maquinaria',es,Causes,#a89216,#f9eccf,1,0.092225
 'Destrucción de infraestructuras',es,Impacts,#4287f5,#6390d3,2,0.09182096
