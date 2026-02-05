@@ -10,7 +10,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Acumulación de nieve',es,Hazard,#4287f5,#e7f3ff,3,0.1280634565553204
 'avalanchas muertos',es,Hazard,#4287f5,#022f78,1,0.1267249978787593
 'Víctimas por avalancha',es,Impacts,#4287f5,#638ed1,2,0.1252476881818181
-'Avalancha de polvo',es,Hazard,#4287f5,#d8eaff,1,0.1229872091712499
 'Nieve inestable',es,Hazard,#4287f5,#6aa5fc,1,0.1223796518961041
 'Sistemas de alerta de avalanchas',es,Mitigation,#9e3215,#d63a18,1,0.12183177775
 'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.1214950319475052
@@ -31,6 +30,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Refuerzo de rutas críticas',es,Adaptation,#157a2c,#58d567,1,0.1079501506875
 'Viento fuerte sobre nieve suelta',es,Causes,#a89216,#ccb250,1,0.1072245405
 'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.1056018643749999
+'Avalancha de polvo',es,Hazard,#4287f5,#d8eaff,1,0.10528920279556242
 'Acumulación rápida de nieve',es,Causes,#a89216,#d3bb63,1,0.105121981
 'Ruptura del manto nival',es,Hazard,#4287f5,#d2e6ff,1,0.1042707484374999
 'Inestabilidad del manto nival',es,Causes,#a89216,#c7b34a,1,0.1013920374999999
