@@ -1,13 +1,12 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'avalancha',es,Hazard,#4287f5,#022f78,3,0.2566318869291519
-'Manto nivoso inestable',es,Hazard,#4287f5,#99c6ff,1,0.23670191251932216
+'Manto nivoso inestable',es,Hazard,#4287f5,#99c6ff,1,0.2367019125193221
 'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,2,0.1892596753412125
 'Zona de avalanchas',es,Hazard,#4287f5,#c0dcff,2,0.1721271515
 'Alud',es,Hazard,#4287f5,#4a8df7,3,0.1680546518069834
 'Lluvia sobre nieve',es,Causes,#a89216,#eddcb1,3,0.146284365
 'Avalancha seca',es,Hazard,#4287f5,#adcfff,1,0.1362328093878435
 'Acumulación de nieve',es,Hazard,#4287f5,#e7f3ff,3,0.1280634565553204
-'Víctimas por avalancha',es,Impacts,#4287f5,#638ed1,2,0.1252476881818181
 'Nieve inestable',es,Hazard,#4287f5,#6aa5fc,1,0.1223796518961041
 'Sistemas de alerta de avalanchas',es,Mitigation,#9e3215,#d63a18,1,0.12183177775
 'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.1214950319475052
@@ -21,6 +20,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Educación en seguridad invernal',es,Mitigation,#9e3215,#d65218,1,0.115195045
 'Avalancha húmeda',es,Hazard,#4287f5,#a3ccff,2,0.1147455850882186
 'Calentamiento repentino',es,Causes,#a89216,#e6d59e,1,0.1131651049999999
+'Víctimas por avalancha',es,Impacts,#4287f5,#638ed1,2,0.11277501131818177
 'Deslizamiento de nieve',es,Hazard,#4287f5,#91c0ff,2,0.1125727162089186
 'cambio climático de avalanchas',es,Causes,#a89216,#d8c379,1,0.1124436260354684
 'Placa de viento',es,Hazard,#4287f5,#7fb3ff,2,0.1105794203842114
