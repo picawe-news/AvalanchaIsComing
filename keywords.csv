@@ -18,7 +18,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'desastre avalancha',es,Hazard,#4287f5,#022f78,1,0.1167777092625255
 'accidente mortal avalancha',es,Hazard,#4287f5,#022f78,1,0.1167085631416014
 'Educación en seguridad invernal',es,Mitigation,#9e3215,#d65218,1,0.115195045
-'Avalancha húmeda',es,Hazard,#4287f5,#a3ccff,2,0.1147455850882186
 'Calentamiento repentino',es,Causes,#a89216,#e6d59e,1,0.1131651049999999
 'Víctimas por avalancha',es,Impacts,#4287f5,#638ed1,2,0.1127750113181817
 'Deslizamiento de nieve',es,Hazard,#4287f5,#91c0ff,2,0.1125727162089186
@@ -34,6 +33,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ruptura del manto nival',es,Hazard,#4287f5,#d2e6ff,1,0.1042707484374999
 'Inestabilidad del manto nival',es,Causes,#a89216,#c7b34a,1,0.1013920374999999
 'daños por avalancha',es,Hazard,#4287f5,#022f78,1,0.0988627529770138
+'Avalancha húmeda',es,Hazard,#4287f5,#a3ccff,1,0.0975337473249858
 'Sistemas de control de avalanchas',es,Mitigation,#9e3215,#d63e18,1,0.0974155562765723
 'Planificación territorial segura',es,Adaptation,#157a2c,#1b8f35,1,0.0964078609999999
 'Equipamiento ARVA',es,Mitigation,#9e3215,#d64b18,1,0.0957949999999999
@@ -48,7 +48,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Destrucción de infraestructuras',es,Impacts,#4287f5,#6390d3,2,0.09182096
 'Afectación a poblaciones',es,Impacts,#4287f5,#6393d4,1,0.0911467924999999
 'Corredor de avalanchas',es,Hazard,#4287f5,#c9e1ff,1,0.0898048249473327
-'Gestión sostenible del riesgo',es,Adaptation,#157a2c,#3ab24e,3,0.08972062324999999
+'Gestión sostenible del riesgo',es,Adaptation,#157a2c,#3ab24e,3,0.0897206232499999
 'Diseño urbano resistente a avalanchas',es,Adaptation,#157a2c,#22963a,1,0.088434
 'Infraestructura resistente al clima',es,Adaptation,#157a2c,#52ce62,1,0.0874920265874999
 'Nevada intensa',es,Hazard,#4287f5,#eff7ff,3,0.0860645486338202
