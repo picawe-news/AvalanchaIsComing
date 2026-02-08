@@ -5,7 +5,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Zona de avalanchas',es,Hazard,#4287f5,#c0dcff,2,0.1721271515
 'Alud',es,Hazard,#4287f5,#4a8df7,3,0.1680546518069834
 'Lluvia sobre nieve',es,Causes,#a89216,#eddcb1,3,0.146284365
-'Avalancha seca',es,Hazard,#4287f5,#adcfff,1,0.1362328093878435
 'Acumulación de nieve',es,Hazard,#4287f5,#e7f3ff,3,0.1280634565553204
 'Nieve inestable',es,Hazard,#4287f5,#6aa5fc,1,0.1223796518961041
 'Sistemas de alerta de avalanchas',es,Mitigation,#9e3215,#d63a18,1,0.12183177775
@@ -17,6 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Daños por avalancha',es,Impacts,#4287f5,#63a2d9,1,0.117005083
 'desastre avalancha',es,Hazard,#4287f5,#022f78,1,0.1167777092625255
 'accidente mortal avalancha',es,Hazard,#4287f5,#022f78,1,0.1167085631416014
+'Avalancha seca',es,Hazard,#4287f5,#adcfff,1,0.11594790297966696
 'Educación en seguridad invernal',es,Mitigation,#9e3215,#d65218,1,0.115195045
 'Calentamiento repentino',es,Causes,#a89216,#e6d59e,1,0.1131651049999999
 'Víctimas por avalancha',es,Impacts,#4287f5,#638ed1,2,0.1127750113181817
@@ -55,7 +55,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.084335063182307
 'Detonación preventiva',es,Mitigation,#9e3215,#d65a18,1,0.082634689675
 'Pendiente pronunciada',es,Causes,#a89216,#e0cd8b,1,0.0821024833814999
-'Equipamiento ARVA',es,Mitigation,#9e3215,#d64b18,1,0.08157576499999991
+'Equipamiento ARVA',es,Mitigation,#9e3215,#d64b18,1,0.0815757649999999
 'Nieve reciente poco cohesionada',es,Causes,#a89216,#f3e4c4,1,0.0814979999999999
 'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.0795291875
 'Perros de búsqueda en avalanchas',es,Mitigation,#9e3215,#d64718,1,0.0791302949999999
