@@ -36,7 +36,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Avalancha húmeda',es,Hazard,#4287f5,#a3ccff,1,0.0975337473249858
 'Sistemas de control de avalanchas',es,Mitigation,#9e3215,#d63e18,1,0.0974155562765723
 'Planificación territorial segura',es,Adaptation,#157a2c,#1b8f35,1,0.0964078609999999
-'Equipamiento ARVA',es,Mitigation,#9e3215,#d64b18,1,0.0957949999999999
 'Monitoreo a largo plazo',es,Adaptation,#157a2c,#4cc75d,2,0.0956273386363636
 'Cambios bruscos de temperatura',es,Causes,#a89216,#d9c577,2,0.0954279645
 'Interrupción de carreteras',es,Impacts,#4287f5,#639fd8,1,0.09508515
@@ -56,6 +55,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.084335063182307
 'Detonación preventiva',es,Mitigation,#9e3215,#d65a18,1,0.082634689675
 'Pendiente pronunciada',es,Causes,#a89216,#e0cd8b,1,0.0821024833814999
+'Equipamiento ARVA',es,Mitigation,#9e3215,#d64b18,1,0.08157576499999991
 'Nieve reciente poco cohesionada',es,Causes,#a89216,#f3e4c4,1,0.0814979999999999
 'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.0795291875
 'Perros de búsqueda en avalanchas',es,Mitigation,#9e3215,#d64718,1,0.0791302949999999
