@@ -4,11 +4,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,2,0.1892596753412125
 'Zona de avalanchas',es,Hazard,#4287f5,#c0dcff,2,0.1721271515
 'Alud',es,Hazard,#4287f5,#4a8df7,3,0.1680546518069834
-'Lluvia sobre nieve',es,Causes,#a89216,#eddcb1,3,0.15713129798522726
+'Lluvia sobre nieve',es,Causes,#a89216,#eddcb1,3,0.1571312979852272
+'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.1416708671553794
 'Acumulación de nieve',es,Hazard,#4287f5,#e7f3ff,3,0.1280634565553204
 'Nieve inestable',es,Hazard,#4287f5,#6aa5fc,1,0.1223796518961041
 'Sistemas de alerta de avalanchas',es,Mitigation,#9e3215,#d63a18,1,0.12183177775
-'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.1214950319475052
 'Placa de nieve',es,Hazard,#4287f5,#78afff,1,0.1192194164635653
 'avalancha de placa',es,Hazard,#4287f5,#022f78,1,0.1185539594685325
 'Personas sepultadas',es,Impacts,#4287f5,#638ed5,1,0.1183303
