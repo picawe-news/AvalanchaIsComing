@@ -4,7 +4,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,2,0.1892596753412125
 'Zona de avalanchas',es,Hazard,#4287f5,#c0dcff,2,0.1721271515
 'Alud',es,Hazard,#4287f5,#4a8df7,3,0.1680546518069834
-'Lluvia sobre nieve',es,Causes,#a89216,#eddcb1,3,0.12929753025
+'Lluvia sobre nieve',es,Causes,#a89216,#eddcb1,3,0.15713129798522726
 'Acumulación de nieve',es,Hazard,#4287f5,#e7f3ff,3,0.1280634565553204
 'Nieve inestable',es,Hazard,#4287f5,#6aa5fc,1,0.1223796518961041
 'Sistemas de alerta de avalanchas',es,Mitigation,#9e3215,#d63a18,1,0.12183177775
@@ -60,7 +60,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Perros de búsqueda en avalanchas',es,Mitigation,#9e3215,#d64718,1,0.0791302949999999
 'Planes de evacuación locales',es,Adaptation,#157a2c,#46c058,1,0.0776563932499999
 'Estrategias de resiliencia comunitaria',es,Adaptation,#157a2c,#34ab49,1,0.0732684807391234
-'Pendiente pronunciada',es,Causes,#a89216,#e0cd8b,1,0.07218735087427491
+'Pendiente pronunciada',es,Causes,#a89216,#e0cd8b,1,0.0721873508742749
 'Capacitación comunitaria en riesgo',es,Adaptation,#157a2c,#5edc6c,1,0.0707294374999999
 'Riesgo para actividades turísticas',es,Impacts,#4287f5,#63a5da,1,0.0684394975
 'Protección de bosques protectores',es,Adaptation,#157a2c,#40b953,1,0.0663429385875
