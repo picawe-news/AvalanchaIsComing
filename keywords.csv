@@ -4,9 +4,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,2,0.1892596753412125
 'Alud',es,Hazard,#4287f5,#4a8df7,3,0.1680546518069834
 'Zona de avalanchas',es,Hazard,#4287f5,#c0dcff,2,0.1635313910477272
-'Lluvia sobre nieve',es,Causes,#a89216,#eddcb1,3,0.1571312979852272
 'desastre avalancha',es,Hazard,#4287f5,#022f78,1,0.1495755485874323
 'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.1416708671553794
+'Lluvia sobre nieve',es,Causes,#a89216,#eddcb1,3,0.13851737828744312
 'Acumulación de nieve',es,Hazard,#4287f5,#e7f3ff,3,0.1280634565553204
 'avalancha de placa',es,Hazard,#4287f5,#022f78,1,0.1241709555482526
 'Nieve inestable',es,Hazard,#4287f5,#6aa5fc,1,0.1223796518961041
@@ -54,7 +54,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Detonación preventiva',es,Mitigation,#9e3215,#d65a18,1,0.082634689675
 'Equipamiento ARVA',es,Mitigation,#9e3215,#d64b18,1,0.0815757649999999
 'Nieve reciente poco cohesionada',es,Causes,#a89216,#f3e4c4,1,0.0814979999999999
-'Daños económicos locales',es,Impacts,#4287f5,#6399d6,1,0.08128023999999999
+'Daños económicos locales',es,Impacts,#4287f5,#6399d6,1,0.0812802399999999
 'Refuerzo de rutas críticas',es,Adaptation,#157a2c,#58d567,1,0.0810467891217187
 'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.0795291875
 'Perros de búsqueda en avalanchas',es,Mitigation,#9e3215,#d64718,1,0.0791302949999999
