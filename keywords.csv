@@ -25,7 +25,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Estratificación débil de nieve',es,Causes,#a89216,#fff4e0,1,0.1102
 'nieve y avalanchas',es,Causes,#a89216,#d8c379,2,0.1101634928043885
 'Viento fuerte sobre nieve suelta',es,Causes,#a89216,#ccb250,1,0.1072245405
-'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.1056018643749999
 'Avalancha de polvo',es,Hazard,#4287f5,#d8eaff,1,0.1052892027955624
 'Acumulación rápida de nieve',es,Causes,#a89216,#d3bb63,1,0.105121981
 'Ruptura del manto nival',es,Hazard,#4287f5,#d2e6ff,1,0.1042707484374999
@@ -43,6 +42,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vibraciones humanas o maquinaria',es,Causes,#a89216,#f9eccf,1,0.092225
 'Destrucción de infraestructuras',es,Impacts,#4287f5,#6390d3,2,0.09182096
 'Afectación a poblaciones',es,Impacts,#4287f5,#6393d4,1,0.0911467924999999
+'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.08991159971874992
 'Corredor de avalanchas',es,Hazard,#4287f5,#c9e1ff,1,0.0898048249473327
 'Gestión sostenible del riesgo',es,Adaptation,#157a2c,#3ab24e,3,0.0897206232499999
 'Diseño urbano resistente a avalanchas',es,Adaptation,#157a2c,#22963a,1,0.088434
