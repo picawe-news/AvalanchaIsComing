@@ -50,7 +50,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nevada intensa',es,Hazard,#4287f5,#eff7ff,3,0.0860645486338202
 'Bloqueo de rutas de montaña',es,Impacts,#4287f5,#63aedf,1,0.0853940049249999
 'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.084335063182307
-'Avalancha húmeda',es,Hazard,#4287f5,#a3ccff,1,0.0829036852262379
 'Detonación preventiva',es,Mitigation,#9e3215,#d65a18,1,0.082634689675
 'Equipamiento ARVA',es,Mitigation,#9e3215,#d64b18,1,0.0815757649999999
 'Nieve reciente poco cohesionada',es,Causes,#a89216,#f3e4c4,1,0.0814979999999999
@@ -61,6 +60,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Planes de evacuación locales',es,Adaptation,#157a2c,#46c058,1,0.0776563932499999
 'Estrategias de resiliencia comunitaria',es,Adaptation,#157a2c,#34ab49,1,0.0732684807391234
 'Capacitación comunitaria en riesgo',es,Adaptation,#157a2c,#5edc6c,1,0.0707294374999999
+'Avalancha húmeda',es,Hazard,#4287f5,#a3ccff,1,0.07046813244230221
 'Pendiente pronunciada',es,Causes,#a89216,#e0cd8b,1,0.0698880296717051
 'Riesgo para actividades turísticas',es,Impacts,#4287f5,#63a5da,1,0.0684394975
 'Protección de bosques protectores',es,Adaptation,#157a2c,#40b953,1,0.0663429385875
