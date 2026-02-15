@@ -9,6 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.1416708671553794
 'Acumulación rápida de nieve',es,Causes,#a89216,#d3bb63,1,0.13675392385
 'avalancha de placa',es,Hazard,#4287f5,#022f78,1,0.1330036818836125
+'Gestión sostenible del riesgo',es,Adaptation,#157a2c,#3ab24e,3,0.1262151247624999
 'Lluvia sobre nieve',es,Causes,#a89216,#eddcb1,3,0.1226956965443266
 'Nieve inestable',es,Hazard,#4287f5,#6aa5fc,1,0.1223796518961041
 'Sistemas de alerta de avalanchas',es,Mitigation,#9e3215,#d63a18,1,0.12183177775
@@ -44,7 +45,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Afectación a poblaciones',es,Impacts,#4287f5,#6393d4,1,0.0911467924999999
 'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.0899115997187499
 'Corredor de avalanchas',es,Hazard,#4287f5,#c9e1ff,1,0.0898048249473327
-'Gestión sostenible del riesgo',es,Adaptation,#157a2c,#3ab24e,3,0.0897206232499999
 'Diseño urbano resistente a avalanchas',es,Adaptation,#157a2c,#22963a,1,0.088434
 'Infraestructura resistente al clima',es,Adaptation,#157a2c,#52ce62,1,0.0874920265874999
 'Nevada intensa',es,Hazard,#4287f5,#eff7ff,3,0.0860645486338202
