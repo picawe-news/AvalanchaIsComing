@@ -3,10 +3,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Manto nivoso inestable',es,Hazard,#4287f5,#99c6ff,1,0.2466466706414238
 'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,2,0.1892596753412125
 'Alud',es,Hazard,#4287f5,#4a8df7,3,0.1680546518069834
-'Acumulación de nieve',es,Hazard,#4287f5,#e7f3ff,3,0.1588086030720223
 'Zona de avalanchas',es,Hazard,#4287f5,#c0dcff,2,0.1507705092087499
 'desastre avalancha',es,Hazard,#4287f5,#022f78,1,0.1495755485874323
 'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.1416708671553794
+'Acumulación de nieve',es,Hazard,#4287f5,#e7f3ff,3,0.13994211261121897
 'Acumulación rápida de nieve',es,Causes,#a89216,#d3bb63,1,0.13675392385
 'avalancha de placa',es,Hazard,#4287f5,#022f78,1,0.1330036818836125
 'Gestión sostenible del riesgo',es,Adaptation,#157a2c,#3ab24e,3,0.1262151247624999
@@ -63,7 +63,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pendiente pronunciada',es,Causes,#a89216,#e0cd8b,1,0.0698880296717051
 'Protección de bosques protectores',es,Adaptation,#157a2c,#40b953,1,0.0663429385875
 'Pérdida de vidas humanas',es,Impacts,#4287f5,#63a8db,2,0.0614161932749999
-'Avalancha húmeda',es,Hazard,#4287f5,#a3ccff,1,0.05989791257595686
+'Avalancha húmeda',es,Hazard,#4287f5,#a3ccff,1,0.0598979125759568
 'Riesgo para actividades turísticas',es,Impacts,#4287f5,#63a5da,1,0.059373692875
 'Rutas seguras señalizadas',es,Mitigation,#9e3215,#d64f18,1,0.054697966299375
 'Redes de contención de nieve',es,Mitigation,#9e3215,#d64e18,1,0.0541733848975937
