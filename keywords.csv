@@ -6,10 +6,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Zona de avalanchas',es,Hazard,#4287f5,#c0dcff,2,0.1507705092087499
 'desastre avalancha',es,Hazard,#4287f5,#022f78,1,0.1495755485874323
 'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.1416708671553794
-'Acumulación de nieve',es,Hazard,#4287f5,#e7f3ff,3,0.13994211261121897
+'Acumulación de nieve',es,Hazard,#4287f5,#e7f3ff,3,0.1399421126112189
 'Acumulación rápida de nieve',es,Causes,#a89216,#d3bb63,1,0.13675392385
 'avalancha de placa',es,Hazard,#4287f5,#022f78,1,0.1330036818836125
 'Gestión sostenible del riesgo',es,Adaptation,#157a2c,#3ab24e,3,0.1262151247624999
+'nieve y avalanchas',es,Causes,#a89216,#d8c379,2,0.12498959888373024
 'Lluvia sobre nieve',es,Causes,#a89216,#eddcb1,3,0.1226956965443266
 'Nieve inestable',es,Hazard,#4287f5,#6aa5fc,1,0.1223796518961041
 'Sistemas de alerta de avalanchas',es,Mitigation,#9e3215,#d63a18,1,0.12183177775
@@ -25,7 +26,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Placa de viento',es,Hazard,#4287f5,#7fb3ff,2,0.1105794203842114
 'avalanchas muertos',es,Hazard,#4287f5,#022f78,1,0.1102665031969453
 'Estratificación débil de nieve',es,Causes,#a89216,#fff4e0,1,0.1102
-'nieve y avalanchas',es,Causes,#a89216,#d8c379,2,0.1101634928043885
 'Viento fuerte sobre nieve suelta',es,Causes,#a89216,#ccb250,1,0.1072245405
 'Avalancha de polvo',es,Hazard,#4287f5,#d8eaff,1,0.1052892027955624
 'Ruptura del manto nival',es,Hazard,#4287f5,#d2e6ff,1,0.1042707484374999
