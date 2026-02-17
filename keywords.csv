@@ -9,7 +9,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Acumulación de nieve',es,Hazard,#4287f5,#e7f3ff,3,0.1399421126112189
 'Acumulación rápida de nieve',es,Causes,#a89216,#d3bb63,1,0.13675392385
 'avalancha de placa',es,Hazard,#4287f5,#022f78,1,0.1330036818836125
-'Gestión sostenible del riesgo',es,Adaptation,#157a2c,#3ab24e,3,0.1262151247624999
 'nieve y avalanchas',es,Causes,#a89216,#d8c379,2,0.1249895988837302
 'Lluvia sobre nieve',es,Causes,#a89216,#eddcb1,3,0.1226956965443266
 'Nieve inestable',es,Hazard,#4287f5,#6aa5fc,1,0.1223796518961041
@@ -23,6 +22,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Víctimas por avalancha',es,Impacts,#4287f5,#638ed1,2,0.1127750113181817
 'Deslizamiento de nieve',es,Hazard,#4287f5,#91c0ff,2,0.1125727162089186
 'cambio climático de avalanchas',es,Causes,#a89216,#d8c379,1,0.1124436260354684
+'Gestión sostenible del riesgo',es,Adaptation,#157a2c,#3ab24e,3,0.11223558604812492
 'Placa de viento',es,Hazard,#4287f5,#7fb3ff,2,0.1105794203842114
 'avalanchas muertos',es,Hazard,#4287f5,#022f78,1,0.1102665031969453
 'Estratificación débil de nieve',es,Causes,#a89216,#fff4e0,1,0.1102
