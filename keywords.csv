@@ -22,7 +22,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Víctimas por avalancha',es,Impacts,#4287f5,#638ed1,2,0.1127750113181817
 'Deslizamiento de nieve',es,Hazard,#4287f5,#91c0ff,2,0.1125727162089186
 'cambio climático de avalanchas',es,Causes,#a89216,#d8c379,1,0.1124436260354684
-'Gestión sostenible del riesgo',es,Adaptation,#157a2c,#3ab24e,3,0.11223558604812492
+'Gestión sostenible del riesgo',es,Adaptation,#157a2c,#3ab24e,3,0.1122355860481249
 'Placa de viento',es,Hazard,#4287f5,#7fb3ff,2,0.1105794203842114
 'avalanchas muertos',es,Hazard,#4287f5,#022f78,1,0.1102665031969453
 'Estratificación débil de nieve',es,Causes,#a89216,#fff4e0,1,0.1102
@@ -62,8 +62,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pendiente pronunciada',es,Causes,#a89216,#e0cd8b,1,0.0698880296717051
 'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.067599809375
 'Protección de bosques protectores',es,Adaptation,#157a2c,#40b953,1,0.0663429385875
-'Pérdida de vidas humanas',es,Impacts,#4287f5,#63a8db,2,0.0614161932749999
 'Avalancha húmeda',es,Hazard,#4287f5,#a3ccff,1,0.0598979125759568
+'Pérdida de vidas humanas',es,Impacts,#4287f5,#63a8db,2,0.057154304283749915
 'Rutas seguras señalizadas',es,Mitigation,#9e3215,#d64f18,1,0.054697966299375
 'Redes de contención de nieve',es,Mitigation,#9e3215,#d64e18,1,0.0541733848975937
 'Terreno propenso a avalanchas',es,Hazard,#4287f5,#f5faff,1,0.0532487359505082
