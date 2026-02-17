@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'avalancha',es,Hazard,#4287f5,#022f78,3,0.2482696932381304
 'Manto nivoso inestable',es,Hazard,#4287f5,#99c6ff,1,0.2466466706414238
-'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,2,0.1892596753412125
+'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,2,0.18218526040366698
 'Alud',es,Hazard,#4287f5,#4a8df7,3,0.1680546518069834
 'Zona de avalanchas',es,Hazard,#4287f5,#c0dcff,2,0.1507705092087499
 'desastre avalancha',es,Hazard,#4287f5,#022f78,1,0.1495755485874323
@@ -63,7 +63,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.067599809375
 'Protección de bosques protectores',es,Adaptation,#157a2c,#40b953,1,0.0663429385875
 'Avalancha húmeda',es,Hazard,#4287f5,#a3ccff,1,0.0598979125759568
-'Pérdida de vidas humanas',es,Impacts,#4287f5,#63a8db,2,0.057154304283749915
+'Pérdida de vidas humanas',es,Impacts,#4287f5,#63a8db,2,0.0571543042837499
 'Rutas seguras señalizadas',es,Mitigation,#9e3215,#d64f18,1,0.054697966299375
 'Redes de contención de nieve',es,Mitigation,#9e3215,#d64e18,1,0.0541733848975937
 'Terreno propenso a avalanchas',es,Hazard,#4287f5,#f5faff,1,0.0532487359505082
