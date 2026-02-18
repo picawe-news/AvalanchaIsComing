@@ -5,7 +5,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,3,0.1589083713431168
 'Zona de avalanchas',es,Hazard,#4287f5,#c0dcff,2,0.1507705092087499
 'desastre avalancha',es,Hazard,#4287f5,#022f78,1,0.1495755485874323
-'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.1416708671553794
+'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.1481703120820725
 'Acumulación de nieve',es,Hazard,#4287f5,#e7f3ff,3,0.1399421126112189
 'Acumulación rápida de nieve',es,Causes,#a89216,#d3bb63,1,0.13675392385
 'avalancha de placa',es,Hazard,#4287f5,#022f78,1,0.1330036818836125
@@ -32,7 +32,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,1,0.1022750251644886
 'Inestabilidad del manto nival',es,Causes,#a89216,#c7b34a,1,0.1013920374999999
 'daños por avalancha',es,Hazard,#4287f5,#022f78,1,0.0988627529770138
-'Avalancha seca',es,Hazard,#4287f5,#adcfff,1,0.09870573253271686
+'Avalancha seca',es,Hazard,#4287f5,#adcfff,1,0.0987057325327168
 'Sistemas de control de avalanchas',es,Mitigation,#9e3215,#d63e18,1,0.0974155562765723
 'Planificación territorial segura',es,Adaptation,#157a2c,#1b8f35,1,0.0964078609999999
 'Monitoreo a largo plazo',es,Adaptation,#157a2c,#4cc75d,2,0.0956273386363636
