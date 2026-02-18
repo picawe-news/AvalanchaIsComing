@@ -2,7 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'avalancha',es,Hazard,#4287f5,#022f78,3,0.2482696932381304
 'Manto nivoso inestable',es,Hazard,#4287f5,#99c6ff,1,0.2466466706414238
 'Alud',es,Hazard,#4287f5,#4a8df7,3,0.1680546518069834
-'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,3,0.15890837134311686
+'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,3,0.1589083713431168
 'Zona de avalanchas',es,Hazard,#4287f5,#c0dcff,2,0.1507705092087499
 'desastre avalancha',es,Hazard,#4287f5,#022f78,1,0.1495755485874323
 'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.1416708671553794
@@ -48,7 +48,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Diseño urbano resistente a avalanchas',es,Adaptation,#157a2c,#22963a,1,0.088434
 'Infraestructura resistente al clima',es,Adaptation,#157a2c,#52ce62,1,0.0874920265874999
 'Bloqueo de rutas de montaña',es,Impacts,#4287f5,#63aedf,1,0.0853940049249999
-'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.084335063182307
 'Detonación preventiva',es,Mitigation,#9e3215,#d65a18,1,0.082634689675
 'Equipamiento ARVA',es,Mitigation,#9e3215,#d64b18,1,0.0815757649999999
 'Nieve reciente poco cohesionada',es,Causes,#a89216,#f3e4c4,1,0.0814979999999999
@@ -58,6 +57,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nevada intensa',es,Hazard,#4287f5,#eff7ff,3,0.0781065163387471
 'Planes de evacuación locales',es,Adaptation,#157a2c,#46c058,1,0.0776563932499999
 'Estrategias de resiliencia comunitaria',es,Adaptation,#157a2c,#34ab49,1,0.0732684807391234
+'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.07183481870496096
 'Capacitación comunitaria en riesgo',es,Adaptation,#157a2c,#5edc6c,1,0.0707294374999999
 'Pendiente pronunciada',es,Causes,#a89216,#e0cd8b,1,0.0698880296717051
 'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.067599809375
