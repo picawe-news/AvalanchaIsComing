@@ -16,7 +16,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Placa de nieve',es,Hazard,#4287f5,#78afff,1,0.1192194164635653
 'Personas sepultadas',es,Impacts,#4287f5,#638ed5,1,0.1183303
 'accidente mortal avalancha',es,Hazard,#4287f5,#022f78,1,0.1167085631416014
-'Avalancha seca',es,Hazard,#4287f5,#adcfff,1,0.1159479029796669
 'Educación en seguridad invernal',es,Mitigation,#9e3215,#d65218,1,0.115195045
 'Calentamiento repentino',es,Causes,#a89216,#e6d59e,1,0.1131651049999999
 'Víctimas por avalancha',es,Impacts,#4287f5,#638ed1,2,0.1127750113181817
@@ -33,6 +32,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,1,0.1022750251644886
 'Inestabilidad del manto nival',es,Causes,#a89216,#c7b34a,1,0.1013920374999999
 'daños por avalancha',es,Hazard,#4287f5,#022f78,1,0.0988627529770138
+'Avalancha seca',es,Hazard,#4287f5,#adcfff,1,0.09870573253271686
 'Sistemas de control de avalanchas',es,Mitigation,#9e3215,#d63e18,1,0.0974155562765723
 'Planificación territorial segura',es,Adaptation,#157a2c,#1b8f35,1,0.0964078609999999
 'Monitoreo a largo plazo',es,Adaptation,#157a2c,#4cc75d,2,0.0956273386363636
@@ -57,7 +57,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nevada intensa',es,Hazard,#4287f5,#eff7ff,3,0.0781065163387471
 'Planes de evacuación locales',es,Adaptation,#157a2c,#46c058,1,0.0776563932499999
 'Estrategias de resiliencia comunitaria',es,Adaptation,#157a2c,#34ab49,1,0.0732684807391234
-'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.07183481870496096
+'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.0718348187049609
 'Capacitación comunitaria en riesgo',es,Adaptation,#157a2c,#5edc6c,1,0.0707294374999999
 'Pendiente pronunciada',es,Causes,#a89216,#e0cd8b,1,0.0698880296717051
 'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.067599809375
