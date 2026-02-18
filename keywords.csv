@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'avalancha',es,Hazard,#4287f5,#022f78,3,0.2482696932381304
 'Manto nivoso inestable',es,Hazard,#4287f5,#99c6ff,1,0.2466466706414238
-'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,2,0.1821852604036669
 'Alud',es,Hazard,#4287f5,#4a8df7,3,0.1680546518069834
+'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,3,0.15890837134311686
 'Zona de avalanchas',es,Hazard,#4287f5,#c0dcff,2,0.1507705092087499
 'desastre avalancha',es,Hazard,#4287f5,#022f78,1,0.1495755485874323
 'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.1416708671553794
@@ -55,7 +55,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Daños económicos locales',es,Impacts,#4287f5,#6399d6,1,0.0812802399999999
 'Refuerzo de rutas críticas',es,Adaptation,#157a2c,#58d567,1,0.0810467891217187
 'Perros de búsqueda en avalanchas',es,Mitigation,#9e3215,#d64718,1,0.0791302949999999
-'Nevada intensa',es,Hazard,#4287f5,#eff7ff,3,0.07810651633874717
+'Nevada intensa',es,Hazard,#4287f5,#eff7ff,3,0.0781065163387471
 'Planes de evacuación locales',es,Adaptation,#157a2c,#46c058,1,0.0776563932499999
 'Estrategias de resiliencia comunitaria',es,Adaptation,#157a2c,#34ab49,1,0.0732684807391234
 'Capacitación comunitaria en riesgo',es,Adaptation,#157a2c,#5edc6c,1,0.0707294374999999
