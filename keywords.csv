@@ -3,9 +3,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Manto nivoso inestable',es,Hazard,#4287f5,#99c6ff,1,0.2466466706414238
 'Alud',es,Hazard,#4287f5,#4a8df7,3,0.1680546518069834
 'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,3,0.1589083713431168
+'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.1536948402697616
 'Zona de avalanchas',es,Hazard,#4287f5,#c0dcff,2,0.1507705092087499
 'desastre avalancha',es,Hazard,#4287f5,#022f78,1,0.1495755485874323
-'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.1481703120820725
 'Acumulación de nieve',es,Hazard,#4287f5,#e7f3ff,3,0.1399421126112189
 'Acumulación rápida de nieve',es,Causes,#a89216,#d3bb63,1,0.13675392385
 'avalancha de placa',es,Hazard,#4287f5,#022f78,1,0.1330036818836125
@@ -57,7 +57,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Planes de evacuación locales',es,Adaptation,#157a2c,#46c058,1,0.0776563932499999
 'Estrategias de resiliencia comunitaria',es,Adaptation,#157a2c,#34ab49,1,0.0732684807391234
 'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.0718348187049609
-'Refuerzo de rutas críticas',es,Adaptation,#157a2c,#58d567,1,0.07174005575346089
+'Refuerzo de rutas críticas',es,Adaptation,#157a2c,#58d567,1,0.0717400557534608
 'Capacitación comunitaria en riesgo',es,Adaptation,#157a2c,#5edc6c,1,0.0707294374999999
 'Pendiente pronunciada',es,Causes,#a89216,#e0cd8b,1,0.0698880296717051
 'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.067599809375
