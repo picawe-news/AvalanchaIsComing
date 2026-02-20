@@ -3,11 +3,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'avalancha',es,Hazard,#4287f5,#022f78,3,0.2323500306160472
 'Alud',es,Hazard,#4287f5,#4a8df7,3,0.1680546518069834
 'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,3,0.1589083713431168
-'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.15839068922929733
+'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.1583906892292973
 'Zona de avalanchas',es,Hazard,#4287f5,#c0dcff,2,0.1507705092087499
 'desastre avalancha',es,Hazard,#4287f5,#022f78,1,0.1495755485874323
 'Acumulación rápida de nieve',es,Causes,#a89216,#d3bb63,1,0.1462411352725
 'Acumulación de nieve',es,Hazard,#4287f5,#e7f3ff,3,0.1399421126112189
+'avalanchas muertos',es,Hazard,#4287f5,#022f78,1,0.1372268277174035
 'avalancha de placa',es,Hazard,#4287f5,#022f78,1,0.1330036818836125
 'nieve y avalanchas',es,Causes,#a89216,#d8c379,2,0.1249895988837302
 'Lluvia sobre nieve',es,Causes,#a89216,#eddcb1,3,0.1226956965443266
@@ -23,7 +24,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'cambio climático de avalanchas',es,Causes,#a89216,#d8c379,1,0.1124436260354684
 'Gestión sostenible del riesgo',es,Adaptation,#157a2c,#3ab24e,3,0.1122355860481249
 'Placa de viento',es,Hazard,#4287f5,#7fb3ff,2,0.1105794203842114
-'avalanchas muertos',es,Hazard,#4287f5,#022f78,1,0.1102665031969453
 'Estratificación débil de nieve',es,Causes,#a89216,#fff4e0,1,0.1102
 'Viento fuerte sobre nieve suelta',es,Causes,#a89216,#ccb250,1,0.1072245405
 'Avalancha de polvo',es,Hazard,#4287f5,#d8eaff,1,0.1052892027955624
