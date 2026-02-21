@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Manto nivoso inestable',es,Hazard,#4287f5,#99c6ff,1,0.2466466706414238
 'avalancha',es,Hazard,#4287f5,#022f78,3,0.2323500306160472
-'Alud',es,Hazard,#4287f5,#4a8df7,3,0.16825272449048134
+'Alud',es,Hazard,#4287f5,#4a8df7,3,0.1682527244904813
 'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,3,0.1589083713431168
 'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.1583906892292973
 'Zona de avalanchas',es,Hazard,#4287f5,#c0dcff,2,0.1507705092087499
@@ -24,7 +24,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'cambio climático de avalanchas',es,Causes,#a89216,#d8c379,1,0.1124436260354684
 'Gestión sostenible del riesgo',es,Adaptation,#157a2c,#3ab24e,3,0.1122355860481249
 'Placa de viento',es,Hazard,#4287f5,#7fb3ff,2,0.1105794203842114
-'Estratificación débil de nieve',es,Causes,#a89216,#fff4e0,1,0.1102
 'Viento fuerte sobre nieve suelta',es,Causes,#a89216,#ccb250,1,0.1072245405
 'Avalancha de polvo',es,Hazard,#4287f5,#d8eaff,1,0.1052892027955624
 'Ruptura del manto nival',es,Hazard,#4287f5,#d2e6ff,1,0.1042707484374999
@@ -38,6 +37,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cambios bruscos de temperatura',es,Causes,#a89216,#d9c577,2,0.0954279645
 'Interrupción de carreteras',es,Impacts,#4287f5,#639fd8,1,0.09508515
 'Desprendimiento de nieve',es,Hazard,#4287f5,#5a99fa,2,0.0941343027031126
+'Estratificación débil de nieve',es,Causes,#a89216,#fff4e0,1,0.09367
 'Pala y sonda de rescate',es,Mitigation,#9e3215,#d64418,1,0.093585
 'Vibraciones humanas o maquinaria',es,Causes,#a89216,#f9eccf,1,0.092225
 'Destrucción de infraestructuras',es,Impacts,#4287f5,#6390d3,2,0.09182096
