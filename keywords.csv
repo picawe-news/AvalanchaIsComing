@@ -7,7 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Zona de avalanchas',es,Hazard,#4287f5,#c0dcff,2,0.1507705092087499
 'desastre avalancha',es,Hazard,#4287f5,#022f78,1,0.1495755485874323
 'Acumulación rápida de nieve',es,Causes,#a89216,#d3bb63,1,0.1462411352725
-'avalancha de placa',es,Hazard,#4287f5,#022f78,1,0.14080320460107063
+'avalancha de placa',es,Hazard,#4287f5,#022f78,1,0.1408032046010706
 'Acumulación de nieve',es,Hazard,#4287f5,#e7f3ff,3,0.1399421126112189
 'avalanchas muertos',es,Hazard,#4287f5,#022f78,1,0.1372268277174035
 'nieve y avalanchas',es,Causes,#a89216,#d8c379,2,0.1249895988837302
@@ -44,7 +44,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Corredor de avalanchas',es,Hazard,#4287f5,#c9e1ff,1,0.0898048249473327
 'Diseño urbano resistente a avalanchas',es,Adaptation,#157a2c,#22963a,1,0.088434
 'Infraestructura resistente al clima',es,Adaptation,#157a2c,#52ce62,1,0.0874920265874999
-'Bloqueo de rutas de montaña',es,Impacts,#4287f5,#63aedf,1,0.0853940049249999
 'Planificación territorial segura',es,Adaptation,#157a2c,#1b8f35,1,0.0843469218499999
 'Detonación preventiva',es,Mitigation,#9e3215,#d65a18,1,0.082634689675
 'Equipamiento ARVA',es,Mitigation,#9e3215,#d64b18,1,0.0815757649999999
@@ -55,6 +54,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Planes de evacuación locales',es,Adaptation,#157a2c,#46c058,1,0.0776563932499999
 'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.0765748747609374
 'Estrategias de resiliencia comunitaria',es,Adaptation,#157a2c,#34ab49,1,0.0732684807391234
+'Bloqueo de rutas de montaña',es,Impacts,#4287f5,#63aedf,1,0.07318496418624992
 'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.0718348187049609
 'Refuerzo de rutas críticas',es,Adaptation,#157a2c,#58d567,1,0.0717400557534608
 'Capacitación comunitaria en riesgo',es,Adaptation,#157a2c,#5edc6c,1,0.0707294374999999
