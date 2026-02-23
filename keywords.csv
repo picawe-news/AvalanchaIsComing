@@ -18,7 +18,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Personas sepultadas',es,Impacts,#4287f5,#638ed5,1,0.1183303
 'accidente mortal avalancha',es,Hazard,#4287f5,#022f78,1,0.1167085631416014
 'Educación en seguridad invernal',es,Mitigation,#9e3215,#d65218,1,0.115195045
-'Calentamiento repentino',es,Causes,#a89216,#e6d59e,1,0.1131651049999999
 'Víctimas por avalancha',es,Impacts,#4287f5,#638ed1,2,0.1127750113181817
 'Deslizamiento de nieve',es,Hazard,#4287f5,#91c0ff,2,0.1125727162089186
 'cambio climático de avalanchas',es,Causes,#a89216,#d8c379,1,0.1124436260354684
@@ -33,6 +32,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'daños por avalancha',es,Hazard,#4287f5,#022f78,1,0.0988627529770138
 'Avalancha seca',es,Hazard,#4287f5,#adcfff,1,0.0987057325327168
 'Sistemas de control de avalanchas',es,Mitigation,#9e3215,#d63e18,1,0.0974155562765723
+'Calentamiento repentino',es,Causes,#a89216,#e6d59e,1,0.09739045924999992
 'Monitoreo a largo plazo',es,Adaptation,#157a2c,#4cc75d,2,0.0956273386363636
 'Cambios bruscos de temperatura',es,Causes,#a89216,#d9c577,2,0.0954279645
 'Interrupción de carreteras',es,Impacts,#4287f5,#639fd8,1,0.09508515
