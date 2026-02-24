@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Manto nivoso inestable',es,Hazard,#4287f5,#99c6ff,1,0.2466466706414238
+'Manto nivoso inestable',es,Hazard,#4287f5,#99c6ff,1,0.2774497000452102
 'avalancha',es,Hazard,#4287f5,#022f78,3,0.2323500306160472
 'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.1623821608449027
 'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,3,0.1589083713431168
@@ -16,7 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Personas sepultadas',es,Impacts,#4287f5,#638ed5,1,0.1183303
 'accidente mortal avalancha',es,Hazard,#4287f5,#022f78,1,0.1167085631416014
 'Educación en seguridad invernal',es,Mitigation,#9e3215,#d65218,1,0.115195045
-'Lluvia sobre nieve',es,Causes,#a89216,#eddcb1,3,0.11288345069904124
+'Lluvia sobre nieve',es,Causes,#a89216,#eddcb1,3,0.1128834506990412
 'Víctimas por avalancha',es,Impacts,#4287f5,#638ed1,2,0.1127750113181817
 'Deslizamiento de nieve',es,Hazard,#4287f5,#91c0ff,2,0.1125727162089186
 'cambio climático de avalanchas',es,Causes,#a89216,#d8c379,1,0.1124436260354684
