@@ -6,8 +6,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Zona de avalanchas',es,Hazard,#4287f5,#c0dcff,2,0.1507705092087499
 'desastre avalancha',es,Hazard,#4287f5,#022f78,1,0.1495755485874323
 'Alud',es,Hazard,#4287f5,#4a8df7,3,0.1479664058169091
+'avalancha de placa',es,Hazard,#4287f5,#022f78,1,0.14743279891091
 'Acumulación rápida de nieve',es,Causes,#a89216,#d3bb63,1,0.1462411352725
-'avalancha de placa',es,Hazard,#4287f5,#022f78,1,0.1408032046010706
 'avalanchas muertos',es,Hazard,#4287f5,#022f78,1,0.1271342350303812
 'nieve y avalanchas',es,Causes,#a89216,#d8c379,2,0.1249895988837302
 'Acumulación de nieve',es,Hazard,#4287f5,#e7f3ff,3,0.123905415719536
