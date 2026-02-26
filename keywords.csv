@@ -59,10 +59,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Capacitación comunitaria en riesgo',es,Adaptation,#157a2c,#5edc6c,1,0.0707294374999999
 'Pendiente pronunciada',es,Causes,#a89216,#e0cd8b,1,0.0698880296717051
 'Nieve reciente poco cohesionada',es,Causes,#a89216,#f3e4c4,1,0.0694233149999999
-'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.067599809375
 'Protección de bosques protectores',es,Adaptation,#157a2c,#40b953,1,0.0663429385875
-'Bloqueo de rutas de montaña',es,Impacts,#4287f5,#63aedf,1,0.06280727955831242
+'Bloqueo de rutas de montaña',es,Impacts,#4287f5,#63aedf,1,0.0628072795583124
 'Avalancha húmeda',es,Hazard,#4287f5,#a3ccff,1,0.0598979125759568
+'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.05745983796875
 'Pérdida de vidas humanas',es,Impacts,#4287f5,#63a8db,2,0.0571543042837499
 'Rutas seguras señalizadas',es,Mitigation,#9e3215,#d64f18,1,0.054697966299375
 'Redes de contención de nieve',es,Mitigation,#9e3215,#d64e18,1,0.0541733848975937
