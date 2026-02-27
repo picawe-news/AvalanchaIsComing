@@ -54,13 +54,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.0765748747609374
 'Planificación territorial segura',es,Adaptation,#157a2c,#1b8f35,1,0.0739451085724999
 'Estrategias de resiliencia comunitaria',es,Adaptation,#157a2c,#34ab49,1,0.0732684807391234
-'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.0718348187049609
 'Refuerzo de rutas críticas',es,Adaptation,#157a2c,#58d567,1,0.0717400557534608
 'Capacitación comunitaria en riesgo',es,Adaptation,#157a2c,#5edc6c,1,0.0707294374999999
 'Pendiente pronunciada',es,Causes,#a89216,#e0cd8b,1,0.0698880296717051
 'Nieve reciente poco cohesionada',es,Causes,#a89216,#f3e4c4,1,0.0694233149999999
 'Protección de bosques protectores',es,Adaptation,#157a2c,#40b953,1,0.0663429385875
 'Bloqueo de rutas de montaña',es,Impacts,#4287f5,#63aedf,1,0.0628072795583124
+'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.06120961089921677
 'Avalancha húmeda',es,Hazard,#4287f5,#a3ccff,1,0.0598979125759568
 'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.05745983796875
 'Pérdida de vidas humanas',es,Impacts,#4287f5,#63a8db,2,0.0571543042837499
