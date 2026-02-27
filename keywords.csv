@@ -34,7 +34,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cambios bruscos de temperatura',es,Causes,#a89216,#d9c577,2,0.0954279645
 'Interrupción de carreteras',es,Impacts,#4287f5,#639fd8,1,0.09508515
 'Desprendimiento de nieve',es,Hazard,#4287f5,#5a99fa,2,0.0941343027031126
-'Estratificación débil de nieve',es,Causes,#a89216,#fff4e0,1,0.09367
 'Pala y sonda de rescate',es,Mitigation,#9e3215,#d64418,1,0.093585
 'Vibraciones humanas o maquinaria',es,Causes,#a89216,#f9eccf,1,0.092225
 'Destrucción de infraestructuras',es,Impacts,#4287f5,#6390d3,2,0.09182096
@@ -48,6 +47,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Equipamiento ARVA',es,Mitigation,#9e3215,#d64b18,1,0.0815757649999999
 'Daños económicos locales',es,Impacts,#4287f5,#6399d6,1,0.0812802399999999
 'Afectación a poblaciones',es,Impacts,#4287f5,#6393d4,1,0.0798750136249999
+'Estratificación débil de nieve',es,Causes,#a89216,#fff4e0,1,0.0796195
 'Perros de búsqueda en avalanchas',es,Mitigation,#9e3215,#d64718,1,0.0791302949999999
 'Nevada intensa',es,Hazard,#4287f5,#eff7ff,3,0.0781065163387471
 'Planes de evacuación locales',es,Adaptation,#157a2c,#46c058,1,0.0776563932499999
