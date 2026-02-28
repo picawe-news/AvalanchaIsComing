@@ -2,10 +2,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Manto nivoso inestable',es,Hazard,#4287f5,#99c6ff,1,0.2774497000452102
 'avalancha',es,Hazard,#4287f5,#022f78,3,0.2323500306160472
 'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.1752587349604421
+'avalancha de placa',es,Hazard,#4287f5,#022f78,1,0.1707679240742735
 'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,3,0.1589083713431168
 'Zona de avalanchas',es,Hazard,#4287f5,#c0dcff,2,0.1507705092087499
 'desastre avalancha',es,Hazard,#4287f5,#022f78,1,0.1495755485874323
-'avalancha de placa',es,Hazard,#4287f5,#022f78,1,0.14743279891091
 'Acumulación rápida de nieve',es,Causes,#a89216,#d3bb63,1,0.1462411352725
 'Alud',es,Hazard,#4287f5,#4a8df7,3,0.1429956572171
 'Educación en seguridad invernal',es,Mitigation,#9e3215,#d65218,1,0.13286590825
