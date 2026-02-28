@@ -51,7 +51,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Perros de búsqueda en avalanchas',es,Mitigation,#9e3215,#d64718,1,0.0791302949999999
 'Nevada intensa',es,Hazard,#4287f5,#eff7ff,3,0.0781065163387471
 'Planes de evacuación locales',es,Adaptation,#157a2c,#46c058,1,0.0776563932499999
-'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.0765748747609374
 'Planificación territorial segura',es,Adaptation,#157a2c,#1b8f35,1,0.0739451085724999
 'Estrategias de resiliencia comunitaria',es,Adaptation,#157a2c,#34ab49,1,0.0732684807391234
 'Refuerzo de rutas críticas',es,Adaptation,#157a2c,#58d567,1,0.0717400557534608
@@ -59,6 +58,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pendiente pronunciada',es,Causes,#a89216,#e0cd8b,1,0.0698880296717051
 'Nieve reciente poco cohesionada',es,Causes,#a89216,#f3e4c4,1,0.0694233149999999
 'Protección de bosques protectores',es,Adaptation,#157a2c,#40b953,1,0.0663429385875
+'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.0652386585467968
 'Bloqueo de rutas de montaña',es,Impacts,#4287f5,#63aedf,1,0.0628072795583124
 'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.0612096108992167
 'Avalancha húmeda',es,Hazard,#4287f5,#a3ccff,1,0.0598979125759568
