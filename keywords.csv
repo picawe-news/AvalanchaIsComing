@@ -24,7 +24,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Placa de viento',es,Hazard,#4287f5,#7fb3ff,2,0.1105794203842114
 'Viento fuerte sobre nieve suelta',es,Causes,#a89216,#ccb250,1,0.1072245405
 'Avalancha de polvo',es,Hazard,#4287f5,#d8eaff,1,0.1052892027955624
-'Ruptura del manto nival',es,Hazard,#4287f5,#d2e6ff,1,0.1042707484374999
 'Sistemas de alerta de avalanchas',es,Mitigation,#9e3215,#d63a18,1,0.1040070560875
 'Daños por avalancha',es,Impacts,#4287f5,#63a2d9,1,0.1023046055499999
 'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,1,0.1022750251644886
@@ -38,6 +37,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vibraciones humanas o maquinaria',es,Causes,#a89216,#f9eccf,1,0.092225
 'Destrucción de infraestructuras',es,Impacts,#4287f5,#6390d3,2,0.09182096
 'Corredor de avalanchas',es,Hazard,#4287f5,#c9e1ff,1,0.0898048249473327
+'Ruptura del manto nival',es,Hazard,#4287f5,#d2e6ff,1,0.0886301361718749
 'Diseño urbano resistente a avalanchas',es,Adaptation,#157a2c,#22963a,1,0.088434
 'Infraestructura resistente al clima',es,Adaptation,#157a2c,#52ce62,1,0.0874920265874999
 'Avalancha seca',es,Hazard,#4287f5,#adcfff,1,0.0841999026528092
