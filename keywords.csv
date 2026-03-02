@@ -62,9 +62,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bloqueo de rutas de montaña',es,Impacts,#4287f5,#63aedf,1,0.0628072795583124
 'Pérdida de vidas humanas',es,Impacts,#4287f5,#63a8db,2,0.0571543042837499
 'Redes de contención de nieve',es,Mitigation,#9e3215,#d64e18,1,0.0541733848975937
-'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.05202816926433419
+'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.0520281692643341
 'Riesgo para actividades turísticas',es,Impacts,#4287f5,#63a5da,1,0.05151774394375
-'Avalancha húmeda',es,Hazard,#4287f5,#a3ccff,1,0.0509132256895632
 'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.0488408622734374
 'Rutas seguras señalizadas',es,Mitigation,#9e3215,#d64f18,1,0.0464932713544687
 'Terreno propenso a avalanchas',es,Hazard,#4287f5,#f5faff,1,0.0452614255579319
+'Avalancha húmeda',es,Hazard,#4287f5,#a3ccff,1,0.043276241836128715
