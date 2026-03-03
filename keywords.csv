@@ -57,10 +57,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pendiente pronunciada',es,Causes,#a89216,#e0cd8b,1,0.0698880296717051
 'Nieve reciente poco cohesionada',es,Causes,#a89216,#f3e4c4,1,0.0694233149999999
 'Protección de bosques protectores',es,Adaptation,#157a2c,#40b953,1,0.0663429385875
-'Planificación territorial segura',es,Adaptation,#157a2c,#1b8f35,1,0.06525358228662491
-'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.0652386585467968
+'Planificación territorial segura',es,Adaptation,#157a2c,#1b8f35,1,0.0652535822866249
 'Bloqueo de rutas de montaña',es,Impacts,#4287f5,#63aedf,1,0.0628072795583124
 'Pérdida de vidas humanas',es,Impacts,#4287f5,#63a8db,2,0.0571543042837499
+'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.05560287476477727
 'Redes de contención de nieve',es,Mitigation,#9e3215,#d64e18,1,0.0541733848975937
 'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.0520281692643341
 'Riesgo para actividades turísticas',es,Impacts,#4287f5,#63a5da,1,0.05151774394375
