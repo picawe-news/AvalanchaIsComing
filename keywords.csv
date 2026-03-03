@@ -39,7 +39,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ruptura del manto nival',es,Hazard,#4287f5,#d2e6ff,1,0.0886301361718749
 'Diseño urbano resistente a avalanchas',es,Adaptation,#157a2c,#22963a,1,0.088434
 'Infraestructura resistente al clima',es,Adaptation,#157a2c,#52ce62,1,0.0874920265874999
-'Inestabilidad del manto nival',es,Causes,#a89216,#c7b34a,1,0.0861832318749999
 'Avalancha seca',es,Hazard,#4287f5,#adcfff,1,0.0841999026528092
 'Calentamiento repentino',es,Causes,#a89216,#e6d59e,1,0.0841320253624999
 'Sistemas de control de avalanchas',es,Mitigation,#9e3215,#d63e18,1,0.0834032828350864
@@ -52,6 +51,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nevada intensa',es,Hazard,#4287f5,#eff7ff,3,0.0781065163387471
 'Planes de evacuación locales',es,Adaptation,#157a2c,#46c058,1,0.0776563932499999
 'Estrategias de resiliencia comunitaria',es,Adaptation,#157a2c,#34ab49,1,0.0732684807391234
+'Inestabilidad del manto nival',es,Causes,#a89216,#c7b34a,1,0.07325574709374992
 'Refuerzo de rutas críticas',es,Adaptation,#157a2c,#58d567,1,0.0717400557534608
 'Capacitación comunitaria en riesgo',es,Adaptation,#157a2c,#5edc6c,1,0.0707294374999999
 'Pendiente pronunciada',es,Causes,#a89216,#e0cd8b,1,0.0698880296717051
@@ -60,7 +60,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Planificación territorial segura',es,Adaptation,#157a2c,#1b8f35,1,0.0652535822866249
 'Bloqueo de rutas de montaña',es,Impacts,#4287f5,#63aedf,1,0.0628072795583124
 'Pérdida de vidas humanas',es,Impacts,#4287f5,#63a8db,2,0.0571543042837499
-'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.05560287476477727
+'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.0556028747647772
 'Redes de contención de nieve',es,Mitigation,#9e3215,#d64e18,1,0.0541733848975937
 'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.0520281692643341
 'Riesgo para actividades turísticas',es,Impacts,#4287f5,#63a5da,1,0.05151774394375
