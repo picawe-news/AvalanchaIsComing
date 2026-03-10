@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'avalancha',es,Hazard,#4287f5,#022f78,3,0.2351800187509128
 'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.1752587349604421
-'Manto nivoso inestable',es,Hazard,#4287f5,#99c6ff,1,0.17038879704026458
+'Manto nivoso inestable',es,Hazard,#4287f5,#99c6ff,1,0.1703887970402645
 'Acumulación rápida de nieve',es,Causes,#a89216,#d3bb63,1,0.1462411352725
 'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,2,0.1350727306416493
 'Educación en seguridad invernal',es,Mitigation,#9e3215,#d65218,1,0.13286590825
@@ -64,7 +64,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Redes de contención de nieve',es,Mitigation,#9e3215,#d64e18,1,0.0541733848975937
 'Riesgo para actividades turísticas',es,Impacts,#4287f5,#63a5da,1,0.05151774394375
 'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.0488408622734374
-'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.0474124585500606
 'Rutas seguras señalizadas',es,Mitigation,#9e3215,#d64f18,1,0.0464932713544687
 'Terreno propenso a avalanchas',es,Hazard,#4287f5,#f5faff,1,0.0452614255579319
+'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.040300589767551506
 'Avalancha húmeda',es,Hazard,#4287f5,#a3ccff,1,0.0367848055607093
