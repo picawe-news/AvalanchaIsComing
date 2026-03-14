@@ -6,7 +6,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Educación en seguridad invernal',es,Mitigation,#9e3215,#d65218,1,0.13286590825
 'desastre avalancha',es,Hazard,#4287f5,#022f78,1,0.1272892312993174
 'Acumulación rápida de nieve',es,Causes,#a89216,#d3bb63,1,0.126555189981625
-'Zona de avalanchas',es,Hazard,#4287f5,#c0dcff,2,0.1259539302669581
 'accidente mortal avalancha',es,Hazard,#4287f5,#022f78,1,0.1167085631416014
 'Lluvia sobre nieve',es,Causes,#a89216,#eddcb1,3,0.1128834506990412
 'Víctimas por avalancha',es,Impacts,#4287f5,#638ed1,2,0.1127750113181817
@@ -18,6 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Placa de viento',es,Hazard,#4287f5,#7fb3ff,2,0.1105794203842114
 'avalanchas muertos',es,Hazard,#4287f5,#022f78,1,0.110314324775824
 'Acumulación de nieve',es,Hazard,#4287f5,#e7f3ff,3,0.1101210733616056
+'Zona de avalanchas',es,Hazard,#4287f5,#c0dcff,2,0.11006114072691436
 'Personas sepultadas',es,Impacts,#4287f5,#638ed5,1,0.1057810249999999
 'Avalancha de polvo',es,Hazard,#4287f5,#d8eaff,1,0.1052892027955624
 'avalancha de placa',es,Hazard,#4287f5,#022f78,1,0.1048728513721131
