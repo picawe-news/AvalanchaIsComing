@@ -65,6 +65,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Riesgo para actividades turísticas',es,Impacts,#4287f5,#63a5da,1,0.05151774394375
 'Rutas seguras señalizadas',es,Mitigation,#9e3215,#d64f18,1,0.0464932713544687
 'Terreno propenso a avalanchas',es,Hazard,#4287f5,#f5faff,1,0.0452614255579319
-'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.0415147329324217
 'Avalancha húmeda',es,Hazard,#4287f5,#a3ccff,1,0.0367848055607093
+'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.03528752299255845
 'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.0291171761070558
