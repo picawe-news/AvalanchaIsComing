@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'avalancha',es,Hazard,#4287f5,#022f78,3,0.1989255208884435
+'avalancha',es,Hazard,#4287f5,#022f78,3,0.19040556411881335
 'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.1489699247163757
 'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,2,0.1350727306416493
 'desastre avalancha',es,Hazard,#4287f5,#022f78,1,0.1272892312993174
@@ -49,7 +49,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,1,0.074171233431343
 'Estrategias de resiliencia comunitaria',es,Adaptation,#157a2c,#34ab49,1,0.0732684807391234
 'Inestabilidad del manto nival',es,Causes,#a89216,#c7b34a,1,0.0732557470937499
-'Avalancha seca',es,Hazard,#4287f5,#adcfff,1,0.07186994725488782
+'Avalancha seca',es,Hazard,#4287f5,#adcfff,1,0.0718699472548878
 'Refuerzo de rutas críticas',es,Adaptation,#157a2c,#58d567,1,0.0717400557534608
 'Sistemas de control de avalanchas',es,Mitigation,#9e3215,#d63e18,1,0.0708927904098234
 'Capacitación comunitaria en riesgo',es,Adaptation,#157a2c,#5edc6c,1,0.0707294374999999
