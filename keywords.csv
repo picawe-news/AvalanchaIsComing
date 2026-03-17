@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'avalancha',es,Hazard,#4287f5,#022f78,3,0.2089490700291849
+'avalancha',es,Hazard,#4287f5,#022f78,3,0.1989255208884435
 'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.1489699247163757
 'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,2,0.1350727306416493
 'desastre avalancha',es,Hazard,#4287f5,#022f78,1,0.1272892312993174
@@ -21,7 +21,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sistemas de alerta de avalanchas',es,Mitigation,#9e3215,#d63a18,1,0.1040070560875
 'Daños por avalancha',es,Impacts,#4287f5,#63a2d9,1,0.1023046055499999
 'Placa de nieve',es,Hazard,#4287f5,#78afff,1,0.1022365939940305
-'Alud',es,Hazard,#4287f5,#4a8df7,3,0.10032089024413329
+'Alud',es,Hazard,#4287f5,#4a8df7,3,0.1003208902441332
 'accidente mortal avalancha',es,Hazard,#4287f5,#022f78,1,0.0992022786703611
 'Educación en seguridad invernal',es,Mitigation,#9e3215,#d65218,1,0.0978108002106249
 'Deslizamiento de nieve',es,Hazard,#4287f5,#91c0ff,2,0.0976370037775808
