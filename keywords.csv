@@ -12,7 +12,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gestión sostenible del riesgo',es,Adaptation,#157a2c,#3ab24e,3,0.1122355860481249
 'Nieve inestable',es,Hazard,#4287f5,#6aa5fc,2,0.111487199654026
 'nieve y avalanchas',es,Causes,#a89216,#d8c379,1,0.110748114443495
-'Placa de viento',es,Hazard,#4287f5,#7fb3ff,2,0.1105794203842114
 'avalanchas muertos',es,Hazard,#4287f5,#022f78,1,0.110314324775824
 'Acumulación de nieve',es,Hazard,#4287f5,#e7f3ff,3,0.1101210733616056
 'Zona de avalanchas',es,Hazard,#4287f5,#c0dcff,2,0.1100611407269143
@@ -26,6 +25,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Educación en seguridad invernal',es,Mitigation,#9e3215,#d65218,1,0.0978108002106249
 'Deslizamiento de nieve',es,Hazard,#4287f5,#91c0ff,2,0.0976370037775808
 'Monitoreo a largo plazo',es,Adaptation,#157a2c,#4cc75d,2,0.0956273386363636
+'Placa de viento',es,Hazard,#4287f5,#7fb3ff,2,0.09414301732657969
 'Desprendimiento de nieve',es,Hazard,#4287f5,#5a99fa,2,0.0941343027031126
 'Pala y sonda de rescate',es,Mitigation,#9e3215,#d64418,1,0.093585
 'Destrucción de infraestructuras',es,Impacts,#4287f5,#6390d3,2,0.09182096
