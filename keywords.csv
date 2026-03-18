@@ -26,7 +26,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Educación en seguridad invernal',es,Mitigation,#9e3215,#d65218,1,0.0978108002106249
 'Deslizamiento de nieve',es,Hazard,#4287f5,#91c0ff,2,0.0976370037775808
 'Monitoreo a largo plazo',es,Adaptation,#157a2c,#4cc75d,2,0.0956273386363636
-'Cambios bruscos de temperatura',es,Causes,#a89216,#d9c577,2,0.0954279645
 'Desprendimiento de nieve',es,Hazard,#4287f5,#5a99fa,2,0.0941343027031126
 'Pala y sonda de rescate',es,Mitigation,#9e3215,#d64418,1,0.093585
 'Destrucción de infraestructuras',es,Impacts,#4287f5,#6390d3,2,0.09182096
@@ -35,6 +34,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ruptura del manto nival',es,Hazard,#4287f5,#d2e6ff,1,0.0886301361718749
 'Diseño urbano resistente a avalanchas',es,Adaptation,#157a2c,#22963a,1,0.088434
 'Interrupción de carreteras',es,Impacts,#4287f5,#639fd8,2,0.0857729324999999
+'Cambios bruscos de temperatura',es,Causes,#a89216,#d9c577,3,0.085764729825
 'Detonación preventiva',es,Mitigation,#9e3215,#d65a18,1,0.082634689675
 'Daños económicos locales',es,Impacts,#4287f5,#6399d6,1,0.0812802399999999
 'Afectación a poblaciones',es,Impacts,#4287f5,#6393d4,1,0.0798750136249999
