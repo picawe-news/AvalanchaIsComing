@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'avalancha',es,Hazard,#4287f5,#022f78,3,0.1904055641188133
 'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.1489699247163757
-'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,2,0.14430780059085646
+'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,2,0.1443078005908564
 'desastre avalancha',es,Hazard,#4287f5,#022f78,1,0.1272892312993174
 'daños por avalancha',es,Hazard,#4287f5,#022f78,1,0.1270501416971284
 'Acumulación rápida de nieve',es,Causes,#a89216,#d3bb63,1,0.126555189981625
@@ -36,7 +36,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Diseño urbano resistente a avalanchas',es,Adaptation,#157a2c,#22963a,1,0.088434
 'Interrupción de carreteras',es,Impacts,#4287f5,#639fd8,2,0.0857729324999999
 'Detonación preventiva',es,Mitigation,#9e3215,#d65a18,1,0.082634689675
-'Equipamiento ARVA',es,Mitigation,#9e3215,#d64b18,1,0.0815757649999999
 'Daños económicos locales',es,Impacts,#4287f5,#6399d6,1,0.0812802399999999
 'Afectación a poblaciones',es,Impacts,#4287f5,#6393d4,1,0.0798750136249999
 'Perros de búsqueda en avalanchas',es,Mitigation,#9e3215,#d64718,1,0.0791302949999999
@@ -55,6 +54,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Capacitación comunitaria en riesgo',es,Adaptation,#157a2c,#5edc6c,1,0.0707294374999999
 'Pendiente pronunciada',es,Causes,#a89216,#e0cd8b,1,0.0698880296717051
 'Nieve reciente poco cohesionada',es,Causes,#a89216,#f3e4c4,1,0.0694233149999999
+'Equipamiento ARVA',es,Mitigation,#9e3215,#d64b18,1,0.0693394002499999
 'Estratificación débil de nieve',es,Causes,#a89216,#fff4e0,1,0.0676765749999999
 'Protección de bosques protectores',es,Adaptation,#157a2c,#40b953,1,0.0663429385875
 'Planificación territorial segura',es,Adaptation,#157a2c,#1b8f35,1,0.0652535822866249
