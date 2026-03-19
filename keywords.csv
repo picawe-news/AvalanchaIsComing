@@ -14,7 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'avalanchas muertos',es,Hazard,#4287f5,#022f78,1,0.110314324775824
 'Acumulación de nieve',es,Hazard,#4287f5,#e7f3ff,3,0.1101210733616056
 'Zona de avalanchas',es,Hazard,#4287f5,#c0dcff,2,0.1100611407269143
-'daños por avalancha',es,Hazard,#4287f5,#022f78,1,0.10919274044255912
+'daños por avalancha',es,Hazard,#4287f5,#022f78,1,0.1091927404425591
 'Personas sepultadas',es,Impacts,#4287f5,#638ed5,1,0.1057810249999999
 'Avalancha de polvo',es,Hazard,#4287f5,#d8eaff,1,0.1052892027955624
 'Sistemas de alerta de avalanchas',es,Mitigation,#9e3215,#d63a18,1,0.1040070560875
