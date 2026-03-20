@@ -13,7 +13,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'nieve y avalanchas',es,Causes,#a89216,#d8c379,1,0.110748114443495
 'avalanchas muertos',es,Hazard,#4287f5,#022f78,1,0.110314324775824
 'Acumulación de nieve',es,Hazard,#4287f5,#e7f3ff,3,0.1101210733616056
-'Zona de avalanchas',es,Hazard,#4287f5,#c0dcff,2,0.1100611407269143
 'daños por avalancha',es,Hazard,#4287f5,#022f78,1,0.1091927404425591
 'Personas sepultadas',es,Impacts,#4287f5,#638ed5,1,0.1057810249999999
 'Avalancha de polvo',es,Hazard,#4287f5,#d8eaff,1,0.1052892027955624
@@ -28,6 +27,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Placa de viento',es,Hazard,#4287f5,#7fb3ff,2,0.0941430173265796
 'Desprendimiento de nieve',es,Hazard,#4287f5,#5a99fa,2,0.0941343027031126
 'Pala y sonda de rescate',es,Mitigation,#9e3215,#d64418,1,0.093585
+'Zona de avalanchas',es,Hazard,#4287f5,#c0dcff,1,0.09355210461787715
 'Destrucción de infraestructuras',es,Impacts,#4287f5,#6390d3,2,0.09182096
 'Corredor de avalanchas',es,Hazard,#4287f5,#c9e1ff,1,0.0898048249473327
 'Ruptura del manto nival',es,Hazard,#4287f5,#d2e6ff,1,0.0886301361718749
@@ -67,4 +67,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rutas seguras señalizadas',es,Mitigation,#9e3215,#d64f18,1,0.0395192806512983
 'Avalancha húmeda',es,Hazard,#4287f5,#a3ccff,1,0.0367848055607093
 'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.0352875229925584
-'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.02474959969099743
+'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.0247495996909974
