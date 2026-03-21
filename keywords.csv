@@ -27,7 +27,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pala y sonda de rescate',es,Mitigation,#9e3215,#d64418,1,0.093585
 'Zona de avalanchas',es,Hazard,#4287f5,#c0dcff,1,0.0935521046178771
 'Destrucción de infraestructuras',es,Impacts,#4287f5,#6390d3,2,0.09182096
-'Avalancha de polvo',es,Hazard,#4287f5,#d8eaff,1,0.08994586737622803
+'Avalancha de polvo',es,Hazard,#4287f5,#d8eaff,1,0.089945867376228
 'Corredor de avalanchas',es,Hazard,#4287f5,#c9e1ff,1,0.0898048249473327
 'Ruptura del manto nival',es,Hazard,#4287f5,#d2e6ff,1,0.0886301361718749
 'Diseño urbano resistente a avalanchas',es,Adaptation,#157a2c,#22963a,1,0.088434
@@ -48,7 +48,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,1,0.074171233431343
 'Estrategias de resiliencia comunitaria',es,Adaptation,#157a2c,#34ab49,1,0.0732684807391234
 'Inestabilidad del manto nival',es,Causes,#a89216,#c7b34a,1,0.0732557470937499
-'Avalancha seca',es,Hazard,#4287f5,#adcfff,1,0.0718699472548878
 'Refuerzo de rutas críticas',es,Adaptation,#157a2c,#58d567,1,0.0717400557534608
 'Sistemas de control de avalanchas',es,Mitigation,#9e3215,#d63e18,1,0.0708927904098234
 'Capacitación comunitaria en riesgo',es,Adaptation,#157a2c,#5edc6c,1,0.0707294374999999
@@ -59,6 +58,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Protección de bosques protectores',es,Adaptation,#157a2c,#40b953,1,0.0663429385875
 'Planificación territorial segura',es,Adaptation,#157a2c,#1b8f35,1,0.0652535822866249
 'Bloqueo de rutas de montaña',es,Impacts,#4287f5,#63aedf,1,0.0628072795583124
+'Avalancha seca',es,Hazard,#4287f5,#adcfff,1,0.06138948516665462
 'Pérdida de vidas humanas',es,Impacts,#4287f5,#63a8db,2,0.0571543042837499
 'Calentamiento repentino',es,Causes,#a89216,#e6d59e,1,0.0552683151132451
 'Redes de contención de nieve',es,Mitigation,#9e3215,#d64e18,1,0.0541733848975937
