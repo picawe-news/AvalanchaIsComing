@@ -6,7 +6,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'cambio climático de avalanchas',es,Causes,#a89216,#d8c379,1,0.1124436260354684
 'nieve y avalanchas',es,Causes,#a89216,#d8c379,1,0.110748114443495
 'avalanchas muertos',es,Hazard,#4287f5,#022f78,1,0.110314324775824
-'Acumulación rápida de nieve',es,Causes,#a89216,#d3bb63,1,0.10877203148438123
+'Acumulación rápida de nieve',es,Causes,#a89216,#d3bb63,1,0.1087720314843812
 'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.1076307706075813
 'Personas sepultadas',es,Impacts,#4287f5,#638ed5,1,0.1057810249999999
 'Nieve inestable',es,Hazard,#4287f5,#6aa5fc,3,0.1043435011344935
@@ -66,5 +66,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Terreno propenso a avalanchas',es,Hazard,#4287f5,#f5faff,1,0.0452614255579319
 'Rutas seguras señalizadas',es,Mitigation,#9e3215,#d64f18,1,0.0395192806512983
 'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.0352875229925584
-'Avalancha húmeda',es,Hazard,#4287f5,#a3ccff,1,0.0312670847266029
+'Avalancha húmeda',es,Hazard,#4287f5,#a3ccff,1,0.026577022017612466
 'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.0247495996909974
