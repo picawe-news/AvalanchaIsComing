@@ -4,7 +4,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,2,0.1443078005908564
 'Manto nivoso inestable',es,Hazard,#4287f5,#99c6ff,1,0.123105905861591
 'cambio climático de avalanchas',es,Causes,#a89216,#d8c379,1,0.1124436260354684
-'nieve y avalanchas',es,Causes,#a89216,#d8c379,1,0.110748114443495
 'avalanchas muertos',es,Hazard,#4287f5,#022f78,1,0.110314324775824
 'Acumulación rápida de nieve',es,Causes,#a89216,#d3bb63,1,0.1087720314843812
 'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.1076307706075813
@@ -20,6 +19,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Deslizamiento de nieve',es,Hazard,#4287f5,#91c0ff,2,0.0976370037775808
 'Víctimas por avalancha',es,Impacts,#4287f5,#638ed1,1,0.0958589546204544
 'Monitoreo a largo plazo',es,Adaptation,#157a2c,#4cc75d,2,0.0956273386363636
+'nieve y avalanchas',es,Causes,#a89216,#d8c379,1,0.09443592727697075
 'Placa de viento',es,Hazard,#4287f5,#7fb3ff,2,0.0941430173265796
 'Desprendimiento de nieve',es,Hazard,#4287f5,#5a99fa,2,0.0941343027031126
 'daños por avalancha',es,Hazard,#4287f5,#022f78,1,0.0940139493761752
@@ -65,6 +65,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Riesgo para actividades turísticas',es,Impacts,#4287f5,#63a5da,1,0.05151774394375
 'Terreno propenso a avalanchas',es,Hazard,#4287f5,#f5faff,1,0.0452614255579319
 'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.0352875229925584
-'Rutas seguras señalizadas',es,Mitigation,#9e3215,#d64f18,1,0.03359138855360355
+'Rutas seguras señalizadas',es,Mitigation,#9e3215,#d64f18,1,0.0335913885536035
 'Avalancha húmeda',es,Hazard,#4287f5,#a3ccff,1,0.0265770220176124
 'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.0247495996909974
