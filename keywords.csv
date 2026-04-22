@@ -5,7 +5,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Manto nivoso inestable',es,Hazard,#4287f5,#99c6ff,1,0.123105905861591
 'cambio climático de avalanchas',es,Causes,#a89216,#d8c379,1,0.1124436260354684
 'avalanchas muertos',es,Hazard,#4287f5,#022f78,1,0.110314324775824
-'Acumulación rápida de nieve',es,Causes,#a89216,#d3bb63,1,0.1087720314843812
 'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.1076307706075813
 'Personas sepultadas',es,Impacts,#4287f5,#638ed5,1,0.1057810249999999
 'Nieve inestable',es,Hazard,#4287f5,#6aa5fc,3,0.1043435011344935
@@ -19,12 +18,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Deslizamiento de nieve',es,Hazard,#4287f5,#91c0ff,2,0.0976370037775808
 'Víctimas por avalancha',es,Impacts,#4287f5,#638ed1,1,0.0958589546204544
 'Monitoreo a largo plazo',es,Adaptation,#157a2c,#4cc75d,2,0.0956273386363636
-'nieve y avalanchas',es,Causes,#a89216,#d8c379,1,0.09443592727697075
+'nieve y avalanchas',es,Causes,#a89216,#d8c379,1,0.0944359272769707
 'Placa de viento',es,Hazard,#4287f5,#7fb3ff,2,0.0941430173265796
 'Desprendimiento de nieve',es,Hazard,#4287f5,#5a99fa,2,0.0941343027031126
 'daños por avalancha',es,Hazard,#4287f5,#022f78,1,0.0940139493761752
 'Pala y sonda de rescate',es,Mitigation,#9e3215,#d64418,1,0.093585
 'Zona de avalanchas',es,Hazard,#4287f5,#c0dcff,1,0.0935521046178771
+'Acumulación rápida de nieve',es,Causes,#a89216,#d3bb63,1,0.09275625676172401
 'Destrucción de infraestructuras',es,Impacts,#4287f5,#6390d3,2,0.09182096
 'Avalancha de polvo',es,Hazard,#4287f5,#d8eaff,1,0.089945867376228
 'Corredor de avalanchas',es,Hazard,#4287f5,#c9e1ff,1,0.0898048249473327
