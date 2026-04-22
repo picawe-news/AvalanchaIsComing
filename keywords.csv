@@ -43,7 +43,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.0773377130369591
 'avalancha de placa',es,Hazard,#4287f5,#022f78,1,0.0757706351163516
 'Infraestructura resistente al clima',es,Adaptation,#157a2c,#52ce62,1,0.0751182975993749
-'Interrupción de carreteras',es,Impacts,#4287f5,#639fd8,2,0.07470717262499992
 'Estrategias de resiliencia comunitaria',es,Adaptation,#157a2c,#34ab49,1,0.0732684807391234
 'Inestabilidad del manto nival',es,Causes,#a89216,#c7b34a,1,0.0732557470937499
 'Refuerzo de rutas críticas',es,Adaptation,#157a2c,#58d567,1,0.0717400557534608
@@ -55,6 +54,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Equipamiento ARVA',es,Mitigation,#9e3215,#d64b18,1,0.0693394002499999
 'Estratificación débil de nieve',es,Causes,#a89216,#fff4e0,1,0.0676765749999999
 'Protección de bosques protectores',es,Adaptation,#157a2c,#40b953,1,0.0663429385875
+'Interrupción de carreteras',es,Impacts,#4287f5,#639fd8,2,0.06530127673124991
 'Planificación territorial segura',es,Adaptation,#157a2c,#1b8f35,1,0.0652535822866249
 'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,1,0.0631955634166415
 'Bloqueo de rutas de montaña',es,Impacts,#4287f5,#63aedf,1,0.0628072795583124
