@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'avalancha',es,Hazard,#4287f5,#022f78,3,0.1904055641188133
+'avalancha',es,Hazard,#4287f5,#022f78,3,0.17498155768280949
 'desastre avalancha',es,Hazard,#4287f5,#022f78,1,0.1656459666044197
 'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,2,0.1443078005908564
 'Manto nivoso inestable',es,Hazard,#4287f5,#99c6ff,1,0.123105905861591
@@ -58,7 +58,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,1,0.0631955634166415
 'Bloqueo de rutas de montaña',es,Impacts,#4287f5,#63aedf,1,0.0628072795583124
 'Avalancha seca',es,Hazard,#4287f5,#adcfff,1,0.0613894851666546
-'Capacitación comunitaria en riesgo',es,Adaptation,#157a2c,#5edc6c,1,0.06087009687499991
+'Capacitación comunitaria en riesgo',es,Adaptation,#157a2c,#5edc6c,1,0.0608700968749999
 'Pérdida de vidas humanas',es,Impacts,#4287f5,#63a8db,2,0.0571543042837499
 'Calentamiento repentino',es,Causes,#a89216,#e6d59e,1,0.0552683151132451
 'Redes de contención de nieve',es,Mitigation,#9e3215,#d64e18,1,0.0541733848975937
