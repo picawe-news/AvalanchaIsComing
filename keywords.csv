@@ -1,11 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'avalancha',es,Hazard,#4287f5,#022f78,3,0.17498155768280949
+'avalancha',es,Hazard,#4287f5,#022f78,3,0.1749815576828094
 'desastre avalancha',es,Hazard,#4287f5,#022f78,1,0.1656459666044197
 'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,2,0.1443078005908564
 'Manto nivoso inestable',es,Hazard,#4287f5,#99c6ff,1,0.123105905861591
 'cambio climático de avalanchas',es,Causes,#a89216,#d8c379,1,0.1124436260354684
 'avalanchas muertos',es,Hazard,#4287f5,#022f78,1,0.110314324775824
-'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.1076307706075813
 'Personas sepultadas',es,Impacts,#4287f5,#638ed5,1,0.1057810249999999
 'Nieve inestable',es,Hazard,#4287f5,#6aa5fc,3,0.1043435011344935
 'Gestión sostenible del riesgo',es,Adaptation,#157a2c,#3ab24e,3,0.1030796658681788
@@ -25,6 +24,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pala y sonda de rescate',es,Mitigation,#9e3215,#d64418,1,0.093585
 'Zona de avalanchas',es,Hazard,#4287f5,#c0dcff,1,0.0935521046178771
 'Acumulación rápida de nieve',es,Causes,#a89216,#d3bb63,1,0.092756256761724
+'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.09238624501644412
 'Destrucción de infraestructuras',es,Impacts,#4287f5,#6390d3,2,0.09182096
 'Avalancha de polvo',es,Hazard,#4287f5,#d8eaff,1,0.089945867376228
 'Corredor de avalanchas',es,Hazard,#4287f5,#c9e1ff,1,0.0898048249473327
