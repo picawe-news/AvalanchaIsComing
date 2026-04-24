@@ -33,7 +33,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sistemas de alerta de avalanchas',es,Mitigation,#9e3215,#d63a18,1,0.0884059976743749
 'Cambios bruscos de temperatura',es,Causes,#a89216,#d9c577,3,0.085764729825
 'accidente mortal avalancha',es,Hazard,#4287f5,#022f78,1,0.0843219368698069
-'Detonación preventiva',es,Mitigation,#9e3215,#d65a18,1,0.082634689675
 'Afectación a poblaciones',es,Impacts,#4287f5,#6393d4,1,0.0798750136249999
 'Perros de búsqueda en avalanchas',es,Mitigation,#9e3215,#d64718,1,0.0791302949999999
 'Vibraciones humanas o maquinaria',es,Causes,#a89216,#f9eccf,1,0.07839125
@@ -47,6 +46,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inestabilidad del manto nival',es,Causes,#a89216,#c7b34a,1,0.0732557470937499
 'Daños económicos locales',es,Impacts,#4287f5,#6399d6,1,0.0713384289999999
 'Sistemas de control de avalanchas',es,Mitigation,#9e3215,#d63e18,1,0.0708927904098234
+'Detonación preventiva',es,Mitigation,#9e3215,#d65a18,1,0.07053951622375
 'Pendiente pronunciada',es,Causes,#a89216,#e0cd8b,1,0.0698880296717051
 'Nieve reciente poco cohesionada',es,Causes,#a89216,#f3e4c4,1,0.0694233149999999
 'Equipamiento ARVA',es,Mitigation,#9e3215,#d64b18,1,0.0693394002499999
@@ -60,7 +60,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Capacitación comunitaria en riesgo',es,Adaptation,#157a2c,#5edc6c,1,0.0608700968749999
 'Pérdida de vidas humanas',es,Impacts,#4287f5,#63a8db,2,0.0571543042837499
 'Calentamiento repentino',es,Causes,#a89216,#e6d59e,1,0.0552683151132451
-'Bloqueo de rutas de montaña',es,Impacts,#4287f5,#63aedf,1,0.05428627762456554
+'Bloqueo de rutas de montaña',es,Impacts,#4287f5,#63aedf,1,0.0542862776245655
 'Redes de contención de nieve',es,Mitigation,#9e3215,#d64e18,1,0.0541733848975937
 'Riesgo para actividades turísticas',es,Impacts,#4287f5,#63a5da,1,0.05151774394375
 'Terreno propenso a avalanchas',es,Hazard,#4287f5,#f5faff,1,0.0452614255579319
