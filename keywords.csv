@@ -30,7 +30,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ruptura del manto nival',es,Hazard,#4287f5,#d2e6ff,1,0.0886301361718749
 'Diseño urbano resistente a avalanchas',es,Adaptation,#157a2c,#22963a,1,0.088434
 'Sistemas de alerta de avalanchas',es,Mitigation,#9e3215,#d63a18,1,0.0884059976743749
-'Monitoreo a largo plazo',es,Adaptation,#157a2c,#4cc75d,3,0.08759852420454542
+'Monitoreo a largo plazo',es,Adaptation,#157a2c,#4cc75d,3,0.0875985242045454
 'Cambios bruscos de temperatura',es,Causes,#a89216,#d9c577,3,0.085764729825
 'accidente mortal avalancha',es,Hazard,#4287f5,#022f78,1,0.0843219368698069
 'Afectación a poblaciones',es,Impacts,#4287f5,#6393d4,1,0.0798750136249999
@@ -65,6 +65,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Riesgo para actividades turísticas',es,Impacts,#4287f5,#63a5da,1,0.05151774394375
 'Terreno propenso a avalanchas',es,Hazard,#4287f5,#f5faff,1,0.0452614255579319
 'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.0352875229925584
-'Rutas seguras señalizadas',es,Mitigation,#9e3215,#d64f18,1,0.0335913885536035
+'Rutas seguras señalizadas',es,Mitigation,#9e3215,#d64f18,1,0.028552680270562975
 'Avalancha húmeda',es,Hazard,#4287f5,#a3ccff,1,0.0265770220176124
 'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.0247495996909974
