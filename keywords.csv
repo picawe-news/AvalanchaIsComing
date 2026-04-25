@@ -47,7 +47,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Daños económicos locales',es,Impacts,#4287f5,#6399d6,1,0.0713384289999999
 'Sistemas de control de avalanchas',es,Mitigation,#9e3215,#d63e18,1,0.0708927904098234
 'Detonación preventiva',es,Mitigation,#9e3215,#d65a18,1,0.07053951622375
-'Pendiente pronunciada',es,Causes,#a89216,#e0cd8b,1,0.0698880296717051
 'Nieve reciente poco cohesionada',es,Causes,#a89216,#f3e4c4,1,0.0694233149999999
 'Equipamiento ARVA',es,Mitigation,#9e3215,#d64b18,1,0.0693394002499999
 'Estratificación débil de nieve',es,Causes,#a89216,#fff4e0,1,0.0676765749999999
@@ -56,6 +55,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Planificación territorial segura',es,Adaptation,#157a2c,#1b8f35,1,0.0652535822866249
 'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,1,0.0631955634166415
 'Refuerzo de rutas críticas',es,Adaptation,#157a2c,#58d567,1,0.0624791973904416
+'Pendiente pronunciada',es,Causes,#a89216,#e0cd8b,1,0.06180506522094933
 'Avalancha seca',es,Hazard,#4287f5,#adcfff,1,0.0613894851666546
 'Capacitación comunitaria en riesgo',es,Adaptation,#157a2c,#5edc6c,1,0.0608700968749999
 'Pérdida de vidas humanas',es,Impacts,#4287f5,#63a8db,2,0.0571543042837499
