@@ -24,7 +24,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Zona de avalanchas',es,Hazard,#4287f5,#c0dcff,1,0.0935521046178771
 'Acumulación rápida de nieve',es,Causes,#a89216,#d3bb63,1,0.092756256761724
 'Destrucción de infraestructuras',es,Impacts,#4287f5,#6390d3,2,0.09182096
-'Avalancha de polvo',es,Hazard,#4287f5,#d8eaff,1,0.089945867376228
 'Corredor de avalanchas',es,Hazard,#4287f5,#c9e1ff,1,0.0898048249473327
 'Nieve inestable',es,Hazard,#4287f5,#6aa5fc,1,0.0886923359643194
 'Ruptura del manto nival',es,Hazard,#4287f5,#d2e6ff,1,0.0886301361718749
@@ -39,6 +38,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Viento fuerte sobre nieve suelta',es,Causes,#a89216,#ccb250,1,0.07802478601125
 'Planes de evacuación locales',es,Adaptation,#157a2c,#46c058,1,0.0776563932499999
 'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.0773377130369591
+'Avalancha de polvo',es,Hazard,#4287f5,#d8eaff,1,0.0766040022697938
 'avalancha de placa',es,Hazard,#4287f5,#022f78,1,0.0757706351163516
 'Infraestructura resistente al clima',es,Adaptation,#157a2c,#52ce62,1,0.0751182975993749
 'Estrategias de resiliencia comunitaria',es,Adaptation,#157a2c,#34ab49,1,0.0732684807391234
