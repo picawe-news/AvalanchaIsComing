@@ -51,13 +51,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vibraciones humanas o maquinaria',es,Causes,#a89216,#f9eccf,1,0.0667825775
 'Protección de bosques protectores',es,Adaptation,#157a2c,#40b953,1,0.0663429385875
 'Interrupción de carreteras',es,Impacts,#4287f5,#639fd8,2,0.0653012767312499
-'Planificación territorial segura',es,Adaptation,#157a2c,#1b8f35,1,0.0652535822866249
 'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,1,0.0631955634166415
 'Refuerzo de rutas críticas',es,Adaptation,#157a2c,#58d567,1,0.0624791973904416
 'Pendiente pronunciada',es,Causes,#a89216,#e0cd8b,1,0.0618050652209493
 'Avalancha seca',es,Hazard,#4287f5,#adcfff,1,0.0613894851666546
 'Capacitación comunitaria en riesgo',es,Adaptation,#157a2c,#5edc6c,1,0.0608700968749999
-'Equipamiento ARVA',es,Mitigation,#9e3215,#d64b18,1,0.05908850521249992
+'Equipamiento ARVA',es,Mitigation,#9e3215,#d64b18,1,0.0590885052124999
+'Planificación territorial segura',es,Adaptation,#157a2c,#1b8f35,1,0.05741573994363116
 'Pérdida de vidas humanas',es,Impacts,#4287f5,#63a8db,2,0.0571543042837499
 'Calentamiento repentino',es,Causes,#a89216,#e6d59e,1,0.0552683151132451
 'Bloqueo de rutas de montaña',es,Impacts,#4287f5,#63aedf,1,0.0542862776245655
