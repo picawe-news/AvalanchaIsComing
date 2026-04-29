@@ -4,6 +4,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,2,0.1443078005908564
 'Víctimas por avalancha',es,Impacts,#4287f5,#638ed1,1,0.1305364001211729
 'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.1244283982639774
+'Cambios bruscos de temperatura',es,Causes,#a89216,#d9c577,3,0.12285138535125001
 'cambio climático de avalanchas',es,Causes,#a89216,#d8c379,1,0.1124436260354684
 'Personas sepultadas',es,Impacts,#4287f5,#638ed5,1,0.1053639162499999
 'Manto nivoso inestable',es,Hazard,#4287f5,#99c6ff,1,0.1046400199823523
@@ -30,7 +31,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Diseño urbano resistente a avalanchas',es,Adaptation,#157a2c,#22963a,1,0.088434
 'Sistemas de alerta de avalanchas',es,Mitigation,#9e3215,#d63a18,1,0.0884059976743749
 'Monitoreo a largo plazo',es,Adaptation,#157a2c,#4cc75d,3,0.0875985242045454
-'Cambios bruscos de temperatura',es,Causes,#a89216,#d9c577,3,0.085764729825
 'accidente mortal avalancha',es,Hazard,#4287f5,#022f78,1,0.0843219368698069
 'Afectación a poblaciones',es,Impacts,#4287f5,#6393d4,1,0.0798750136249999
 'Perros de búsqueda en avalanchas',es,Mitigation,#9e3215,#d64718,1,0.0791302949999999
@@ -67,4 +67,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.0352875229925584
 'Avalancha húmeda',es,Hazard,#4287f5,#a3ccff,1,0.0265770220176124
 'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.0211871747373477
-'Rutas seguras señalizadas',es,Mitigation,#9e3215,#d64f18,1,0.02062931149548164
+'Rutas seguras señalizadas',es,Mitigation,#9e3215,#d64f18,1,0.0206293114954816
