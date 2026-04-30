@@ -25,7 +25,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Acumulación rápida de nieve',es,Causes,#a89216,#d3bb63,1,0.092756256761724
 'Destrucción de infraestructuras',es,Impacts,#4287f5,#6390d3,2,0.09182096
 'Corredor de avalanchas',es,Hazard,#4287f5,#c9e1ff,1,0.0898048249473327
-'Manto nivoso inestable',es,Hazard,#4287f5,#99c6ff,1,0.08894401698499944
+'Manto nivoso inestable',es,Hazard,#4287f5,#99c6ff,1,0.0889440169849994
 'Nieve inestable',es,Hazard,#4287f5,#6aa5fc,1,0.0886923359643194
 'Ruptura del manto nival',es,Hazard,#4287f5,#d2e6ff,1,0.0886301361718749
 'Diseño urbano resistente a avalanchas',es,Adaptation,#157a2c,#22963a,1,0.088434
@@ -53,6 +53,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Protección de bosques protectores',es,Adaptation,#157a2c,#40b953,1,0.0663429385875
 'Interrupción de carreteras',es,Impacts,#4287f5,#639fd8,2,0.0653012767312499
 'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,1,0.0631955634166415
+'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.06315911352674554
 'Refuerzo de rutas críticas',es,Adaptation,#157a2c,#58d567,1,0.0624791973904416
 'Pendiente pronunciada',es,Causes,#a89216,#e0cd8b,1,0.0618050652209493
 'Avalancha seca',es,Hazard,#4287f5,#adcfff,1,0.0613894851666546
@@ -66,5 +67,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Terreno propenso a avalanchas',es,Hazard,#4287f5,#f5faff,1,0.0452614255579319
 'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.0352875229925584
 'Avalancha húmeda',es,Hazard,#4287f5,#a3ccff,1,0.0265770220176124
-'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.0211871747373477
 'Rutas seguras señalizadas',es,Mitigation,#9e3215,#d64f18,1,0.0206293114954816
