@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'avalancha',es,Hazard,#4287f5,#022f78,3,0.1659619563031152
 'desastre avalancha',es,Hazard,#4287f5,#022f78,1,0.1656459666044197
-'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,2,0.1443078005908564
 'Víctimas por avalancha',es,Impacts,#4287f5,#638ed1,2,0.1312491122458541
 'Cambios bruscos de temperatura',es,Causes,#a89216,#d9c577,3,0.1303063970526417
+'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,1,0.12266167550222795
 'cambio climático de avalanchas',es,Causes,#a89216,#d8c379,1,0.1124436260354684
 'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.1065142135243808
 'Personas sepultadas',es,Impacts,#4287f5,#638ed5,1,0.1053639162499999
@@ -65,6 +65,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Redes de contención de nieve',es,Mitigation,#9e3215,#d64e18,1,0.0541733848975937
 'Riesgo para actividades turísticas',es,Impacts,#4287f5,#63a5da,1,0.05151774394375
 'Terreno propenso a avalanchas',es,Hazard,#4287f5,#f5faff,1,0.0452614255579319
-'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.029994394543674637
+'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.0299943945436746
 'Avalancha húmeda',es,Hazard,#4287f5,#a3ccff,1,0.0265770220176124
 'Rutas seguras señalizadas',es,Mitigation,#9e3215,#d64f18,1,0.0206293114954816
