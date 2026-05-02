@@ -54,7 +54,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Protección de bosques protectores',es,Adaptation,#157a2c,#40b953,1,0.0663429385875
 'Interrupción de carreteras',es,Impacts,#4287f5,#639fd8,2,0.0653012767312499
 'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,1,0.0631955634166415
-'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.0631591135267455
 'Refuerzo de rutas críticas',es,Adaptation,#157a2c,#58d567,1,0.0624791973904416
 'Pendiente pronunciada',es,Causes,#a89216,#e0cd8b,1,0.0618050652209493
 'Avalancha seca',es,Hazard,#4287f5,#adcfff,1,0.0613894851666546
@@ -62,8 +61,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Equipamiento ARVA',es,Mitigation,#9e3215,#d64b18,1,0.0590885052124999
 'Planificación territorial segura',es,Adaptation,#157a2c,#1b8f35,1,0.0574157399436311
 'Calentamiento repentino',es,Causes,#a89216,#e6d59e,1,0.0552683151132451
-'Riesgo para actividades turísticas',es,Impacts,#4287f5,#63a5da,1,0.05428151382277573
+'Riesgo para actividades turísticas',es,Impacts,#4287f5,#63a5da,1,0.0542815138227757
 'Redes de contención de nieve',es,Mitigation,#9e3215,#d64e18,1,0.0541733848975937
+'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.053835261497733676
 'Terreno propenso a avalanchas',es,Hazard,#4287f5,#f5faff,1,0.0452614255579319
 'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.0299943945436746
 'Avalancha húmeda',es,Hazard,#4287f5,#a3ccff,1,0.0265770220176124
