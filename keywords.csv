@@ -24,13 +24,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Acumulación rápida de nieve',es,Causes,#a89216,#d3bb63,1,0.092756256761724
 'Destrucción de infraestructuras',es,Impacts,#4287f5,#6390d3,2,0.09182096
 'Lluvia sobre nieve',es,Causes,#a89216,#eddcb1,3,0.0895183333800572
-'Manto nivoso inestable',es,Hazard,#4287f5,#99c6ff,1,0.0889440169849994
 'Nieve inestable',es,Hazard,#4287f5,#6aa5fc,1,0.0886923359643194
 'Ruptura del manto nival',es,Hazard,#4287f5,#d2e6ff,1,0.0886301361718749
 'Diseño urbano resistente a avalanchas',es,Adaptation,#157a2c,#22963a,1,0.088434
 'Sistemas de alerta de avalanchas',es,Mitigation,#9e3215,#d63a18,1,0.0884059976743749
 'Monitoreo a largo plazo',es,Adaptation,#157a2c,#4cc75d,3,0.0875985242045454
-'Acumulación de nieve',es,Hazard,#4287f5,#e7f3ff,1,0.08493025066285094
+'Acumulación de nieve',es,Hazard,#4287f5,#e7f3ff,1,0.0849302506628509
 'accidente mortal avalancha',es,Hazard,#4287f5,#022f78,1,0.0843219368698069
 'Afectación a poblaciones',es,Impacts,#4287f5,#6393d4,1,0.0798750136249999
 'Perros de búsqueda en avalanchas',es,Mitigation,#9e3215,#d64718,1,0.0791302949999999
@@ -41,6 +40,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Avalancha de polvo',es,Hazard,#4287f5,#d8eaff,1,0.0766040022697938
 'Corredor de avalanchas',es,Hazard,#4287f5,#c9e1ff,1,0.0763341012052327
 'avalancha de placa',es,Hazard,#4287f5,#022f78,1,0.0757706351163516
+'Manto nivoso inestable',es,Hazard,#4287f5,#99c6ff,1,0.0756024144372495
 'Infraestructura resistente al clima',es,Adaptation,#157a2c,#52ce62,1,0.0751182975993749
 'Estrategias de resiliencia comunitaria',es,Adaptation,#157a2c,#34ab49,1,0.0732684807391234
 'Inestabilidad del manto nival',es,Causes,#a89216,#c7b34a,1,0.0732557470937499
