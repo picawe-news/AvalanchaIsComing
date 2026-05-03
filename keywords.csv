@@ -4,6 +4,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Víctimas por avalancha',es,Impacts,#4287f5,#638ed1,2,0.1312491122458541
 'Cambios bruscos de temperatura',es,Causes,#a89216,#d9c577,3,0.1303063970526417
 'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,1,0.1226616755022279
+'daños por avalancha',es,Hazard,#4287f5,#022f78,1,0.11626199196974893
 'cambio climático de avalanchas',es,Causes,#a89216,#d8c379,1,0.1124436260354684
 'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.1065142135243808
 'Personas sepultadas',es,Impacts,#4287f5,#638ed5,1,0.1053639162499999
@@ -17,7 +18,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'nieve y avalanchas',es,Causes,#a89216,#d8c379,1,0.0944359272769707
 'Placa de viento',es,Hazard,#4287f5,#7fb3ff,2,0.0941430173265796
 'Desprendimiento de nieve',es,Hazard,#4287f5,#5a99fa,2,0.0941343027031126
-'daños por avalancha',es,Hazard,#4287f5,#022f78,1,0.0940139493761752
 'avalanchas muertos',es,Hazard,#4287f5,#022f78,1,0.0937671760594504
 'Pala y sonda de rescate',es,Mitigation,#9e3215,#d64418,1,0.093585
 'Zona de avalanchas',es,Hazard,#4287f5,#c0dcff,1,0.0935521046178771
