@@ -1,11 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'avalancha',es,Hazard,#4287f5,#022f78,3,0.2032953851303752
 'desastre avalancha',es,Hazard,#4287f5,#022f78,1,0.1656459666044197
-'Víctimas por avalancha',es,Impacts,#4287f5,#638ed1,2,0.1312491122458541
 'Cambios bruscos de temperatura',es,Causes,#a89216,#d9c577,3,0.1303063970526417
 'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,1,0.1226616755022279
 'daños por avalancha',es,Hazard,#4287f5,#022f78,1,0.1162619919697489
 'cambio climático de avalanchas',es,Causes,#a89216,#d8c379,1,0.1124436260354684
+'Víctimas por avalancha',es,Impacts,#4287f5,#638ed1,1,0.11156212040897596
 'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.1065142135243808
 'Personas sepultadas',es,Impacts,#4287f5,#638ed5,1,0.1053639162499999
 'Gestión sostenible del riesgo',es,Adaptation,#157a2c,#3ab24e,3,0.1030796658681788
@@ -55,7 +55,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Interrupción de carreteras',es,Impacts,#4287f5,#639fd8,2,0.0653012767312499
 'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,1,0.0631955634166415
 'Refuerzo de rutas críticas',es,Adaptation,#157a2c,#58d567,1,0.0624791973904416
-'Calentamiento repentino',es,Causes,#a89216,#e6d59e,1,0.06242811284625833
+'Calentamiento repentino',es,Causes,#a89216,#e6d59e,1,0.0624281128462583
 'Pendiente pronunciada',es,Causes,#a89216,#e0cd8b,1,0.0618050652209493
 'Avalancha seca',es,Hazard,#4287f5,#adcfff,1,0.0613894851666546
 'Capacitación comunitaria en riesgo',es,Adaptation,#157a2c,#5edc6c,1,0.0608700968749999
