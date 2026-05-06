@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'avalancha',es,Hazard,#4287f5,#022f78,3,0.2032953851303752
 'desastre avalancha',es,Hazard,#4287f5,#022f78,1,0.1656459666044197
-'Cambios bruscos de temperatura',es,Causes,#a89216,#d9c577,3,0.1303063970526417
 'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,1,0.1226616755022279
 'daños por avalancha',es,Hazard,#4287f5,#022f78,1,0.1162619919697489
+'Cambios bruscos de temperatura',es,Causes,#a89216,#d9c577,3,0.11571148749474543
 'cambio climático de avalanchas',es,Causes,#a89216,#d8c379,1,0.1124436260354684
 'Víctimas por avalancha',es,Impacts,#4287f5,#638ed1,1,0.1115621204089759
 'Personas sepultadas',es,Impacts,#4287f5,#638ed5,1,0.1053639162499999
@@ -18,7 +18,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pala y sonda de rescate',es,Mitigation,#9e3215,#d64418,1,0.093585
 'Zona de avalanchas',es,Hazard,#4287f5,#c0dcff,1,0.0935521046178771
 'Acumulación rápida de nieve',es,Causes,#a89216,#d3bb63,1,0.092756256761724
-'Gestión sostenible del riesgo',es,Adaptation,#157a2c,#3ab24e,3,0.09257127098795197
+'Gestión sostenible del riesgo',es,Adaptation,#157a2c,#3ab24e,3,0.0925712709879519
 'Destrucción de infraestructuras',es,Impacts,#4287f5,#6390d3,2,0.09182096
 'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.0909871264957236
 'Lluvia sobre nieve',es,Causes,#a89216,#eddcb1,3,0.0895183333800572
