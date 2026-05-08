@@ -23,7 +23,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ruptura del manto nival',es,Hazard,#4287f5,#d2e6ff,1,0.0886301361718749
 'Diseño urbano resistente a avalanchas',es,Adaptation,#157a2c,#22963a,1,0.088434
 'Sistemas de alerta de avalanchas',es,Mitigation,#9e3215,#d63a18,1,0.0884059976743749
-'Placa de nieve',es,Hazard,#4287f5,#78afff,1,0.08795120989492591
+'Placa de nieve',es,Hazard,#4287f5,#78afff,1,0.0879512098949259
 'Monitoreo a largo plazo',es,Adaptation,#157a2c,#4cc75d,3,0.0875985242045454
 'Nieve inestable',es,Hazard,#4287f5,#6aa5fc,1,0.0866387105696714
 'Alud',es,Hazard,#4287f5,#4a8df7,2,0.0852732367075132
@@ -45,7 +45,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Estrategias de resiliencia comunitaria',es,Adaptation,#157a2c,#34ab49,1,0.0732684807391234
 'Daños económicos locales',es,Impacts,#4287f5,#6399d6,1,0.0713384289999999
 'Sistemas de control de avalanchas',es,Mitigation,#9e3215,#d63e18,1,0.0708927904098234
-'Detonación preventiva',es,Mitigation,#9e3215,#d65a18,1,0.07053951622375
 'Nieve reciente poco cohesionada',es,Causes,#a89216,#f3e4c4,1,0.0694233149999999
 'Bloqueo de rutas de montaña',es,Impacts,#4287f5,#63aedf,1,0.0689433659808806
 'Estratificación débil de nieve',es,Causes,#a89216,#fff4e0,1,0.0676765749999999
@@ -59,6 +58,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pendiente pronunciada',es,Causes,#a89216,#e0cd8b,1,0.0618050652209493
 'Avalancha seca',es,Hazard,#4287f5,#adcfff,1,0.0613894851666546
 'Capacitación comunitaria en riesgo',es,Adaptation,#157a2c,#5edc6c,1,0.0608700968749999
+'Detonación preventiva',es,Mitigation,#9e3215,#d65a18,1,0.0602586187901875
 'Equipamiento ARVA',es,Mitigation,#9e3215,#d64b18,1,0.0590885052124999
 'Planificación territorial segura',es,Adaptation,#157a2c,#1b8f35,1,0.0574157399436311
 'Riesgo para actividades turísticas',es,Impacts,#4287f5,#63a5da,1,0.0542815138227757
