@@ -31,7 +31,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'accidente mortal avalancha',es,Hazard,#4287f5,#022f78,1,0.0843219368698069
 'Educación en seguridad invernal',es,Mitigation,#9e3215,#d65218,1,0.0832891951790311
 'Afectación a poblaciones',es,Impacts,#4287f5,#6393d4,1,0.0798750136249999
-'avalanchas muertos',es,Hazard,#4287f5,#022f78,1,0.07985211465053284
+'avalanchas muertos',es,Hazard,#4287f5,#022f78,1,0.0798521146505328
 'Perros de búsqueda en avalanchas',es,Mitigation,#9e3215,#d64718,1,0.0791302949999999
 'Nevada intensa',es,Hazard,#4287f5,#eff7ff,3,0.0781065163387471
 'Viento fuerte sobre nieve suelta',es,Causes,#a89216,#ccb250,1,0.07802478601125
@@ -51,7 +51,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vibraciones humanas o maquinaria',es,Causes,#a89216,#f9eccf,1,0.0667825775
 'Protección de bosques protectores',es,Adaptation,#157a2c,#40b953,1,0.0663429385875
 'Interrupción de carreteras',es,Impacts,#4287f5,#639fd8,2,0.0653012767312499
-'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,1,0.0631955634166415
 'Refuerzo de rutas críticas',es,Adaptation,#157a2c,#58d567,1,0.0624791973904416
 'Calentamiento repentino',es,Causes,#a89216,#e6d59e,1,0.0624281128462583
 'Inestabilidad del manto nival',es,Causes,#a89216,#c7b34a,1,0.0622673850296874
@@ -61,6 +60,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Detonación preventiva',es,Mitigation,#9e3215,#d65a18,1,0.0602586187901875
 'Equipamiento ARVA',es,Mitigation,#9e3215,#d64b18,1,0.0590885052124999
 'Planificación territorial segura',es,Adaptation,#157a2c,#1b8f35,1,0.0574157399436311
+'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,1,0.05476633390414527
 'Riesgo para actividades turísticas',es,Impacts,#4287f5,#63a5da,1,0.0542815138227757
 'Redes de contención de nieve',es,Mitigation,#9e3215,#d64e18,1,0.0541733848975937
 'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.0538352614977336
