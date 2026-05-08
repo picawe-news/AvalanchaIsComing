@@ -12,7 +12,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pérdida de vidas humanas',es,Impacts,#4287f5,#63a8db,2,0.0967314736411874
 'Placa de viento',es,Hazard,#4287f5,#7fb3ff,2,0.0941430173265796
 'Desprendimiento de nieve',es,Hazard,#4287f5,#5a99fa,2,0.0941343027031126
-'Pala y sonda de rescate',es,Mitigation,#9e3215,#d64418,1,0.093585
 'Zona de avalanchas',es,Hazard,#4287f5,#c0dcff,1,0.0935521046178771
 'Acumulación rápida de nieve',es,Causes,#a89216,#d3bb63,1,0.092756256761724
 'Gestión sostenible del riesgo',es,Adaptation,#157a2c,#3ab24e,3,0.0925712709879519
@@ -32,6 +31,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Educación en seguridad invernal',es,Mitigation,#9e3215,#d65218,1,0.0832891951790311
 'Afectación a poblaciones',es,Impacts,#4287f5,#6393d4,1,0.0798750136249999
 'avalanchas muertos',es,Hazard,#4287f5,#022f78,1,0.0798521146505328
+'Pala y sonda de rescate',es,Mitigation,#9e3215,#d64418,1,0.07954725
 'Perros de búsqueda en avalanchas',es,Mitigation,#9e3215,#d64718,1,0.0791302949999999
 'Nevada intensa',es,Hazard,#4287f5,#eff7ff,3,0.0781065163387471
 'Viento fuerte sobre nieve suelta',es,Causes,#a89216,#ccb250,1,0.07802478601125
@@ -60,7 +60,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Detonación preventiva',es,Mitigation,#9e3215,#d65a18,1,0.0602586187901875
 'Equipamiento ARVA',es,Mitigation,#9e3215,#d64b18,1,0.0590885052124999
 'Planificación territorial segura',es,Adaptation,#157a2c,#1b8f35,1,0.0574157399436311
-'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,1,0.05476633390414527
+'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,1,0.0547663339041452
 'Riesgo para actividades turísticas',es,Impacts,#4287f5,#63a5da,1,0.0542815138227757
 'Redes de contención de nieve',es,Mitigation,#9e3215,#d64e18,1,0.0541733848975937
 'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.0538352614977336
