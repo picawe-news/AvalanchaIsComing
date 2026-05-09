@@ -5,11 +5,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'daños por avalancha',es,Hazard,#4287f5,#022f78,1,0.1162619919697489
 'Cambios bruscos de temperatura',es,Causes,#a89216,#d9c577,3,0.1157114874947454
 'nieve y avalanchas',es,Causes,#a89216,#d8c379,1,0.114620598185425
-'cambio climático de avalanchas',es,Causes,#a89216,#d8c379,1,0.1124436260354684
 'Víctimas por avalancha',es,Impacts,#4287f5,#638ed1,1,0.1115621204089759
 'Personas sepultadas',es,Impacts,#4287f5,#638ed5,1,0.1053639162499999
 'Deslizamiento de nieve',es,Hazard,#4287f5,#91c0ff,2,0.0976370037775808
 'Pérdida de vidas humanas',es,Impacts,#4287f5,#63a8db,2,0.0967314736411874
+'cambio climático de avalanchas',es,Causes,#a89216,#d8c379,1,0.09572709713014814
 'Placa de viento',es,Hazard,#4287f5,#7fb3ff,2,0.0941430173265796
 'Desprendimiento de nieve',es,Hazard,#4287f5,#5a99fa,2,0.0941343027031126
 'Zona de avalanchas',es,Hazard,#4287f5,#c0dcff,1,0.0935521046178771
@@ -60,7 +60,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Equipamiento ARVA',es,Mitigation,#9e3215,#d64b18,1,0.0590885052124999
 'Planificación territorial segura',es,Adaptation,#157a2c,#1b8f35,1,0.0574157399436311
 'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,1,0.0547663339041452
-'Refuerzo de rutas críticas',es,Adaptation,#157a2c,#58d567,1,0.054457452781875366
+'Refuerzo de rutas críticas',es,Adaptation,#157a2c,#58d567,1,0.0544574527818753
 'Riesgo para actividades turísticas',es,Impacts,#4287f5,#63a5da,1,0.0542815138227757
 'Redes de contención de nieve',es,Mitigation,#9e3215,#d64e18,1,0.0541733848975937
 'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.0538352614977336
