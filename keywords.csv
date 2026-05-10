@@ -7,7 +7,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'nieve y avalanchas',es,Causes,#a89216,#d8c379,1,0.114620598185425
 'Víctimas por avalancha',es,Impacts,#4287f5,#638ed1,1,0.1115621204089759
 'Personas sepultadas',es,Impacts,#4287f5,#638ed5,1,0.1053639162499999
-'Placa de viento',es,Hazard,#4287f5,#7fb3ff,2,0.0941430173265796
 'Desprendimiento de nieve',es,Hazard,#4287f5,#5a99fa,2,0.0941343027031126
 'Zona de avalanchas',es,Hazard,#4287f5,#c0dcff,1,0.0935521046178771
 'Acumulación rápida de nieve',es,Causes,#a89216,#d3bb63,1,0.092756256761724
@@ -27,7 +26,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'accidente mortal avalancha',es,Hazard,#4287f5,#022f78,1,0.0843219368698069
 'Educación en seguridad invernal',es,Mitigation,#9e3215,#d65218,1,0.0832891951790311
 'Deslizamiento de nieve',es,Hazard,#4287f5,#91c0ff,1,0.0829915432109436
-'Pérdida de vidas humanas',es,Impacts,#4287f5,#63a8db,1,0.08222205259500928
+'Placa de viento',es,Hazard,#4287f5,#7fb3ff,2,0.08287184972759265
+'Pérdida de vidas humanas',es,Impacts,#4287f5,#63a8db,1,0.0822220525950092
 'cambio climático de avalanchas',es,Causes,#a89216,#d8c379,1,0.0815180475606258
 'Afectación a poblaciones',es,Impacts,#4287f5,#6393d4,1,0.0798750136249999
 'avalanchas muertos',es,Hazard,#4287f5,#022f78,1,0.0798521146505328
