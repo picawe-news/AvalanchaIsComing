@@ -6,13 +6,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cambios bruscos de temperatura',es,Causes,#a89216,#d9c577,3,0.1157114874947454
 'nieve y avalanchas',es,Causes,#a89216,#d8c379,1,0.114620598185425
 'Víctimas por avalancha',es,Impacts,#4287f5,#638ed1,1,0.1115621204089759
-'Personas sepultadas',es,Impacts,#4287f5,#638ed5,1,0.1053639162499999
 'Desprendimiento de nieve',es,Hazard,#4287f5,#5a99fa,2,0.0941343027031126
 'Zona de avalanchas',es,Hazard,#4287f5,#c0dcff,1,0.0935521046178771
 'Acumulación rápida de nieve',es,Causes,#a89216,#d3bb63,1,0.092756256761724
 'Gestión sostenible del riesgo',es,Adaptation,#157a2c,#3ab24e,3,0.0925712709879519
 'Destrucción de infraestructuras',es,Impacts,#4287f5,#6390d3,2,0.09182096
 'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.0909871264957236
+'Personas sepultadas',es,Impacts,#4287f5,#638ed5,1,0.09090946381249991
 'Lluvia sobre nieve',es,Causes,#a89216,#eddcb1,3,0.0895183333800572
 'Ruptura del manto nival',es,Hazard,#4287f5,#d2e6ff,1,0.0886301361718749
 'Diseño urbano resistente a avalanchas',es,Adaptation,#157a2c,#22963a,1,0.088434
@@ -65,6 +65,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Redes de contención de nieve',es,Mitigation,#9e3215,#d64e18,1,0.0541733848975937
 'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.0538352614977336
 'Terreno propenso a avalanchas',es,Hazard,#4287f5,#f5faff,1,0.0452614255579319
-'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.02549523536212341
+'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.0254952353621234
 'Avalancha húmeda',es,Hazard,#4287f5,#a3ccff,1,0.0225904687149705
 'Rutas seguras señalizadas',es,Mitigation,#9e3215,#d64f18,1,0.0206293114954816
