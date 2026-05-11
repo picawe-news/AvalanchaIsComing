@@ -19,11 +19,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Monitoreo a largo plazo',es,Adaptation,#157a2c,#4cc75d,3,0.0875985242045454
 'Nieve inestable',es,Hazard,#4287f5,#6aa5fc,1,0.0866387105696714
 'Alud',es,Hazard,#4287f5,#4a8df7,2,0.0852732367075132
-'Acumulación de nieve',es,Hazard,#4287f5,#e7f3ff,1,0.0849302506628509
 'Daños por avalancha',es,Impacts,#4287f5,#63a2d9,1,0.0849128272598749
 'accidente mortal avalancha',es,Hazard,#4287f5,#022f78,1,0.0843219368698069
 'Educación en seguridad invernal',es,Mitigation,#9e3215,#d65218,1,0.0832891951790311
-'Destrucción de infraestructuras',es,Impacts,#4287f5,#6390d3,3,0.08299934599999999
+'Destrucción de infraestructuras',es,Impacts,#4287f5,#6390d3,3,0.0829993459999999
 'Deslizamiento de nieve',es,Hazard,#4287f5,#91c0ff,1,0.0829915432109436
 'Placa de viento',es,Hazard,#4287f5,#7fb3ff,2,0.0828718497275926
 'Pérdida de vidas humanas',es,Impacts,#4287f5,#63a8db,1,0.0822220525950092
@@ -39,6 +38,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.0773377130369591
 'Avalancha de polvo',es,Hazard,#4287f5,#d8eaff,1,0.0766040022697938
 'Corredor de avalanchas',es,Hazard,#4287f5,#c9e1ff,1,0.0763341012052327
+'Acumulación de nieve',es,Hazard,#4287f5,#e7f3ff,2,0.07579107306342325
 'avalancha de placa',es,Hazard,#4287f5,#022f78,1,0.0757706351163516
 'Manto nivoso inestable',es,Hazard,#4287f5,#99c6ff,1,0.0756024144372495
 'Infraestructura resistente al clima',es,Adaptation,#157a2c,#52ce62,1,0.0751182975993749
