@@ -55,15 +55,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pendiente pronunciada',es,Causes,#a89216,#e0cd8b,1,0.0618050652209493
 'Avalancha seca',es,Hazard,#4287f5,#adcfff,1,0.0613894851666546
 'Capacitación comunitaria en riesgo',es,Adaptation,#157a2c,#5edc6c,1,0.0608700968749999
-'Detonación preventiva',es,Mitigation,#9e3215,#d65a18,1,0.0602586187901875
 'Equipamiento ARVA',es,Mitigation,#9e3215,#d64b18,1,0.0590885052124999
 'Planificación territorial segura',es,Adaptation,#157a2c,#1b8f35,1,0.0574157399436311
-'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.05587649766920291
+'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.0558764976692029
 'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,1,0.0547663339041452
 'Refuerzo de rutas críticas',es,Adaptation,#157a2c,#58d567,1,0.0544574527818753
 'Riesgo para actividades turísticas',es,Impacts,#4287f5,#63a5da,1,0.0542815138227757
 'Redes de contención de nieve',es,Mitigation,#9e3215,#d64e18,1,0.0541733848975937
 'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.0538352614977336
+'Detonación preventiva',es,Mitigation,#9e3215,#d65a18,1,0.051519855971659374
 'Terreno propenso a avalanchas',es,Hazard,#4287f5,#f5faff,1,0.0452614255579319
 'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.0254952353621234
 'Avalancha húmeda',es,Hazard,#4287f5,#a3ccff,1,0.0225904687149705
