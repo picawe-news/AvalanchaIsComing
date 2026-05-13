@@ -35,7 +35,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Planes de evacuación locales',es,Adaptation,#157a2c,#46c058,1,0.0776563932499999
 'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.077339057521365
 'Avalancha de polvo',es,Hazard,#4287f5,#d8eaff,1,0.0766040022697938
-'Nieve inestable',es,Hazard,#4287f5,#6aa5fc,1,0.07634317398422069
+'Nieve inestable',es,Hazard,#4287f5,#6aa5fc,1,0.0763431739842206
 'Corredor de avalanchas',es,Hazard,#4287f5,#c9e1ff,1,0.0763341012052327
 'Acumulación de nieve',es,Hazard,#4287f5,#e7f3ff,2,0.0757910730634232
 'avalancha de placa',es,Hazard,#4287f5,#022f78,1,0.0757706351163516
@@ -66,5 +66,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Detonación preventiva',es,Mitigation,#9e3215,#d65a18,1,0.0515198559716593
 'Terreno propenso a avalanchas',es,Hazard,#4287f5,#f5faff,1,0.0452614255579319
 'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.0254952353621234
-'Avalancha húmeda',es,Hazard,#4287f5,#a3ccff,1,0.0225904687149705
 'Rutas seguras señalizadas',es,Mitigation,#9e3215,#d64f18,1,0.0206293114954816
+'Avalancha húmeda',es,Hazard,#4287f5,#a3ccff,1,0.019201898407724922
