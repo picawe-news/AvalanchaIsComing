@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'avalancha',es,Hazard,#4287f5,#022f78,3,0.2032953851303752
+'avalancha',es,Hazard,#4287f5,#022f78,3,0.1859385205426371
 'desastre avalancha',es,Hazard,#4287f5,#022f78,1,0.1656459666044197
 'daños por avalancha',es,Hazard,#4287f5,#022f78,1,0.1162619919697489
 'Cambios bruscos de temperatura',es,Causes,#a89216,#d9c577,3,0.1157114874947454
@@ -60,7 +60,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Refuerzo de rutas críticas',es,Adaptation,#157a2c,#58d567,1,0.0544574527818753
 'Riesgo para actividades turísticas',es,Impacts,#4287f5,#63a5da,1,0.0542815138227757
 'Redes de contención de nieve',es,Mitigation,#9e3215,#d64e18,1,0.0541733848975937
-'Avalancha seca',es,Hazard,#4287f5,#adcfff,1,0.05233107739165641
+'Avalancha seca',es,Hazard,#4287f5,#adcfff,1,0.0523310773916564
 'Detonación preventiva',es,Mitigation,#9e3215,#d65a18,1,0.0515198559716593
 'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.0474950230188224
 'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.0459099872730735
