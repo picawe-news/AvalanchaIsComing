@@ -12,7 +12,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Personas sepultadas',es,Impacts,#4287f5,#638ed5,1,0.0909094638124999
 'Lluvia sobre nieve',es,Causes,#a89216,#eddcb1,3,0.0895183333800572
 'Ruptura del manto nival',es,Hazard,#4287f5,#d2e6ff,1,0.0886301361718749
-'Diseño urbano resistente a avalanchas',es,Adaptation,#157a2c,#22963a,1,0.088434
 'Sistemas de alerta de avalanchas',es,Mitigation,#9e3215,#d63a18,1,0.0884059976743749
 'Placa de nieve',es,Hazard,#4287f5,#78afff,1,0.0879512098949259
 'Monitoreo a largo plazo',es,Adaptation,#157a2c,#4cc75d,3,0.0875985242045454
@@ -40,6 +39,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Acumulación de nieve',es,Hazard,#4287f5,#e7f3ff,2,0.0757910730634232
 'avalancha de placa',es,Hazard,#4287f5,#022f78,1,0.0757706351163516
 'Manto nivoso inestable',es,Hazard,#4287f5,#99c6ff,1,0.0756024144372495
+'Diseño urbano resistente a avalanchas',es,Adaptation,#157a2c,#22963a,1,0.0751689
 'Infraestructura resistente al clima',es,Adaptation,#157a2c,#52ce62,1,0.0751182975993749
 'Estrategias de resiliencia comunitaria',es,Adaptation,#157a2c,#34ab49,1,0.0732684807391234
 'Daños económicos locales',es,Impacts,#4287f5,#6399d6,1,0.0713384289999999
@@ -59,7 +59,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Refuerzo de rutas críticas',es,Adaptation,#157a2c,#58d567,1,0.0544574527818753
 'Riesgo para actividades turísticas',es,Impacts,#4287f5,#63a5da,1,0.0542815138227757
 'Redes de contención de nieve',es,Mitigation,#9e3215,#d64e18,1,0.0541733848975937
-'Capacitación comunitaria en riesgo',es,Adaptation,#157a2c,#5edc6c,1,0.05263967234374991
+'Capacitación comunitaria en riesgo',es,Adaptation,#157a2c,#5edc6c,1,0.0526396723437499
 'Avalancha seca',es,Hazard,#4287f5,#adcfff,1,0.0523310773916564
 'Detonación preventiva',es,Mitigation,#9e3215,#d65a18,1,0.0515198559716593
 'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.0474950230188224
