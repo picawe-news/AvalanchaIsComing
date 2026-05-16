@@ -14,7 +14,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lluvia sobre nieve',es,Causes,#a89216,#eddcb1,3,0.0895183333800572
 'Ruptura del manto nival',es,Hazard,#4287f5,#d2e6ff,1,0.0886301361718749
 'Sistemas de alerta de avalanchas',es,Mitigation,#9e3215,#d63a18,1,0.0884059976743749
-'Placa de nieve',es,Hazard,#4287f5,#78afff,1,0.0879512098949259
 'Monitoreo a largo plazo',es,Adaptation,#157a2c,#4cc75d,3,0.0875985242045454
 'Alud',es,Hazard,#4287f5,#4a8df7,2,0.0852732367075132
 'Daños por avalancha',es,Impacts,#4287f5,#63a2d9,1,0.0849128272598749
@@ -34,6 +33,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.077339057521365
 'Nieve inestable',es,Hazard,#4287f5,#6aa5fc,1,0.0763431739842206
 'Corredor de avalanchas',es,Hazard,#4287f5,#c9e1ff,1,0.0763341012052327
+'Placa de nieve',es,Hazard,#4287f5,#78afff,1,0.07625867841068702
 'Acumulación de nieve',es,Hazard,#4287f5,#e7f3ff,2,0.0757910730634232
 'avalancha de placa',es,Hazard,#4287f5,#022f78,1,0.0757706351163516
 'Manto nivoso inestable',es,Hazard,#4287f5,#99c6ff,1,0.0756024144372495
