@@ -62,9 +62,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Avalancha seca',es,Hazard,#4287f5,#adcfff,1,0.0523310773916564
 'Detonación preventiva',es,Mitigation,#9e3215,#d65a18,1,0.0515198559716593
 'Equipamiento ARVA',es,Mitigation,#9e3215,#d64b18,1,0.0502252294306249
-'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.0474950230188224
 'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.0459099872730735
 'Terreno propenso a avalanchas',es,Hazard,#4287f5,#f5faff,1,0.0452614255579319
+'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.04037076956599904
 'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.0254952353621234
 'Rutas seguras señalizadas',es,Mitigation,#9e3215,#d64f18,1,0.0206293114954816
 'Avalancha húmeda',es,Hazard,#4287f5,#a3ccff,1,0.0192018984077249
