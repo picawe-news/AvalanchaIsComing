@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'avalancha',es,Hazard,#4287f5,#022f78,3,0.1859385205426371
+'avalancha',es,Hazard,#4287f5,#022f78,3,0.1793669438248779
 'desastre avalancha',es,Hazard,#4287f5,#022f78,1,0.1656459666044197
 'daños por avalancha',es,Hazard,#4287f5,#022f78,1,0.1162619919697489
 'nieve y avalanchas',es,Causes,#a89216,#d8c379,1,0.114620598185425
@@ -52,7 +52,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inestabilidad del manto nival',es,Causes,#a89216,#c7b34a,1,0.0622673850296874
 'Pendiente pronunciada',es,Causes,#a89216,#e0cd8b,1,0.0618050652209493
 'Planificación territorial segura',es,Adaptation,#157a2c,#1b8f35,1,0.0574157399436311
-'Protección de bosques protectores',es,Adaptation,#157a2c,#40b953,1,0.056391497799374996
+'Protección de bosques protectores',es,Adaptation,#157a2c,#40b953,1,0.0563914977993749
 'Interrupción de carreteras',es,Impacts,#4287f5,#639fd8,1,0.0555061752215624
 'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,1,0.0547663339041452
 'Refuerzo de rutas críticas',es,Adaptation,#157a2c,#58d567,1,0.0544574527818753
