@@ -4,9 +4,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'daños por avalancha',es,Hazard,#4287f5,#022f78,1,0.1162619919697489
 'nieve y avalanchas',es,Causes,#a89216,#d8c379,1,0.114620598185425
 'Víctimas por avalancha',es,Impacts,#4287f5,#638ed1,1,0.1115621204089759
-'Avalancha de polvo',es,Hazard,#4287f5,#d8eaff,1,0.1110134919293247
 'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,1,0.1048624841768937
 'Cambios bruscos de temperatura',es,Causes,#a89216,#d9c577,3,0.1004559643705335
+'Avalancha de polvo',es,Hazard,#4287f5,#d8eaff,1,0.09541157313992599
 'Zona de avalanchas',es,Hazard,#4287f5,#c0dcff,1,0.0935521046178771
 'Lluvia sobre nieve',es,Causes,#a89216,#eddcb1,3,0.0895183333800572
 'Ruptura del manto nival',es,Hazard,#4287f5,#d2e6ff,1,0.0886301361718749
@@ -28,7 +28,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Personas sepultadas',es,Impacts,#4287f5,#638ed5,1,0.0786231792406249
 'Nevada intensa',es,Hazard,#4287f5,#eff7ff,3,0.0781065163387471
 'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.077339057521365
-'Planes de evacuación locales',es,Adaptation,#157a2c,#46c058,1,0.07704692562312491
+'Planes de evacuación locales',es,Adaptation,#157a2c,#46c058,1,0.0770469256231249
 'Nieve inestable',es,Hazard,#4287f5,#6aa5fc,1,0.0763431739842206
 'Corredor de avalanchas',es,Hazard,#4287f5,#c9e1ff,1,0.0763341012052327
 'Placa de nieve',es,Hazard,#4287f5,#78afff,1,0.076258678410687
