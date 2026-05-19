@@ -20,7 +20,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Educación en seguridad invernal',es,Mitigation,#9e3215,#d65218,1,0.0832891951790311
 'Destrucción de infraestructuras',es,Impacts,#4287f5,#6390d3,3,0.0829993459999999
 'Deslizamiento de nieve',es,Hazard,#4287f5,#91c0ff,1,0.0829915432109436
-'Placa de viento',es,Hazard,#4287f5,#7fb3ff,2,0.0828718497275926
 'Pérdida de vidas humanas',es,Impacts,#4287f5,#63a8db,1,0.0822220525950092
 'Desprendimiento de nieve',es,Hazard,#4287f5,#5a99fa,2,0.0801641722976457
 'avalanchas muertos',es,Hazard,#4287f5,#022f78,1,0.0798521146505328
@@ -38,6 +37,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Manto nivoso inestable',es,Hazard,#4287f5,#99c6ff,1,0.0756024144372495
 'Diseño urbano resistente a avalanchas',es,Adaptation,#157a2c,#22963a,1,0.0751689
 'Infraestructura resistente al clima',es,Adaptation,#157a2c,#52ce62,1,0.0751182975993749
+'Placa de viento',es,Hazard,#4287f5,#7fb3ff,2,0.07389141726845369
 'Estrategias de resiliencia comunitaria',es,Adaptation,#157a2c,#34ab49,1,0.0732684807391234
 'Sistemas de control de avalanchas',es,Mitigation,#9e3215,#d63e18,1,0.0708927904098234
 'cambio climático de avalanchas',es,Causes,#a89216,#d8c379,1,0.0694403554265319
@@ -61,7 +61,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Avalancha seca',es,Hazard,#4287f5,#adcfff,1,0.0523310773916564
 'Detonación preventiva',es,Mitigation,#9e3215,#d65a18,1,0.0515198559716593
 'Equipamiento ARVA',es,Mitigation,#9e3215,#d64b18,1,0.0502252294306249
-'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,1,0.04700142881852342
+'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,1,0.0470014288185234
 'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.0459099872730735
 'Terreno propenso a avalanchas',es,Hazard,#4287f5,#f5faff,1,0.0452614255579319
 'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.040370769565999
