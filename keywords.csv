@@ -7,7 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,1,0.1048624841768937
 'Avalancha de polvo',es,Hazard,#4287f5,#d8eaff,1,0.0954115731399259
 'Zona de avalanchas',es,Hazard,#4287f5,#c0dcff,1,0.0935521046178771
-'Cambios bruscos de temperatura',es,Causes,#a89216,#d9c577,3,0.09033882971495347
+'Cambios bruscos de temperatura',es,Causes,#a89216,#d9c577,3,0.0903388297149534
 'Ruptura del manto nival',es,Hazard,#4287f5,#d2e6ff,1,0.0886301361718749
 'Sistemas de alerta de avalanchas',es,Mitigation,#9e3215,#d63a18,1,0.0884059976743749
 'Monitoreo a largo plazo',es,Adaptation,#157a2c,#4cc75d,3,0.0875985242045454
@@ -37,7 +37,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Diseño urbano resistente a avalanchas',es,Adaptation,#157a2c,#22963a,1,0.0751689
 'Infraestructura resistente al clima',es,Adaptation,#157a2c,#52ce62,1,0.0751182975993749
 'Placa de viento',es,Hazard,#4287f5,#7fb3ff,2,0.0738914172684536
-'Estrategias de resiliencia comunitaria',es,Adaptation,#157a2c,#34ab49,1,0.0732684807391234
 'Sistemas de control de avalanchas',es,Mitigation,#9e3215,#d63e18,1,0.0708927904098234
 'cambio climático de avalanchas',es,Causes,#a89216,#d8c379,1,0.0694403554265319
 'Nieve reciente poco cohesionada',es,Causes,#a89216,#f3e4c4,1,0.0694233149999999
@@ -47,6 +46,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vibraciones humanas o maquinaria',es,Causes,#a89216,#f9eccf,1,0.0667825775
 'Viento fuerte sobre nieve suelta',es,Causes,#a89216,#ccb250,1,0.0663210681095625
 'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.0657381988931602
+'Estrategias de resiliencia comunitaria',es,Adaptation,#157a2c,#34ab49,1,0.06407838862825489
 'Daños económicos locales',es,Impacts,#4287f5,#6399d6,1,0.0630379046499999
 'Calentamiento repentino',es,Causes,#a89216,#e6d59e,1,0.0624281128462583
 'Inestabilidad del manto nival',es,Causes,#a89216,#c7b34a,1,0.0622673850296874
