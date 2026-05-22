@@ -50,7 +50,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Calentamiento repentino',es,Causes,#a89216,#e6d59e,1,0.0624281128462583
 'Inestabilidad del manto nival',es,Causes,#a89216,#c7b34a,1,0.0622673850296874
 'Pendiente pronunciada',es,Causes,#a89216,#e0cd8b,1,0.0618050652209493
-'Sistemas de control de avalanchas',es,Mitigation,#9e3215,#d63e18,1,0.06025887184834988
+'Sistemas de control de avalanchas',es,Mitigation,#9e3215,#d63e18,1,0.0602588718483498
 'Planificación territorial segura',es,Adaptation,#157a2c,#1b8f35,1,0.0574157399436311
 'Protección de bosques protectores',es,Adaptation,#157a2c,#40b953,1,0.0563914977993749
 'Interrupción de carreteras',es,Impacts,#4287f5,#639fd8,1,0.0555061752215624
@@ -64,7 +64,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,1,0.0470014288185234
 'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.0459099872730735
 'Terreno propenso a avalanchas',es,Hazard,#4287f5,#f5faff,1,0.0452614255579319
-'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.040370769565999
+'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.034315154131099146
 'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.0254952353621234
 'Rutas seguras señalizadas',es,Mitigation,#9e3215,#d64f18,1,0.0206293114954816
 'Avalancha húmeda',es,Hazard,#4287f5,#a3ccff,1,0.0192018984077249
