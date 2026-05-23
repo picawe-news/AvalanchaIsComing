@@ -60,7 +60,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Avalancha seca',es,Hazard,#4287f5,#adcfff,1,0.0523310773916564
 'Detonación preventiva',es,Mitigation,#9e3215,#d65a18,1,0.0515198559716593
 'Equipamiento ARVA',es,Mitigation,#9e3215,#d64b18,1,0.0502252294306249
-'Refuerzo de rutas críticas',es,Adaptation,#157a2c,#58d567,1,0.047038909864594004
+'Refuerzo de rutas críticas',es,Adaptation,#157a2c,#58d567,1,0.047038909864594
 'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,1,0.0470014288185234
 'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.0459099872730735
 'Terreno propenso a avalanchas',es,Hazard,#4287f5,#f5faff,1,0.0452614255579319
