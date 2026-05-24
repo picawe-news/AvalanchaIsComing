@@ -48,7 +48,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Estrategias de resiliencia comunitaria',es,Adaptation,#157a2c,#34ab49,1,0.0640783886282548
 'Daños económicos locales',es,Impacts,#4287f5,#6399d6,1,0.0630379046499999
 'Calentamiento repentino',es,Causes,#a89216,#e6d59e,1,0.0624281128462583
-'Inestabilidad del manto nival',es,Causes,#a89216,#c7b34a,1,0.0622673850296874
 'Pendiente pronunciada',es,Causes,#a89216,#e0cd8b,1,0.0618050652209493
 'Sistemas de control de avalanchas',es,Mitigation,#9e3215,#d63e18,1,0.0602588718483498
 'Planificación territorial segura',es,Adaptation,#157a2c,#1b8f35,1,0.0574157399436311
@@ -56,6 +55,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Interrupción de carreteras',es,Impacts,#4287f5,#639fd8,1,0.0555061752215624
 'Riesgo para actividades turísticas',es,Impacts,#4287f5,#63a5da,1,0.0542815138227757
 'Redes de contención de nieve',es,Mitigation,#9e3215,#d64e18,1,0.0541733848975937
+'Inestabilidad del manto nival',es,Causes,#a89216,#c7b34a,1,0.05292727727523429
 'Capacitación comunitaria en riesgo',es,Adaptation,#157a2c,#5edc6c,1,0.0526396723437499
 'Avalancha seca',es,Hazard,#4287f5,#adcfff,1,0.0523310773916564
 'Detonación preventiva',es,Mitigation,#9e3215,#d65a18,1,0.0515198559716593
@@ -65,6 +65,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.0459099872730735
 'Terreno propenso a avalanchas',es,Hazard,#4287f5,#f5faff,1,0.0452614255579319
 'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.0343151541310991
-'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.021670950057804887
+'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.0216709500578048
 'Rutas seguras señalizadas',es,Mitigation,#9e3215,#d64f18,1,0.0206293114954816
 'Avalancha húmeda',es,Hazard,#4287f5,#a3ccff,1,0.0192018984077249
