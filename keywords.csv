@@ -9,7 +9,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,1,0.0898831865503596
 'Ruptura del manto nival',es,Hazard,#4287f5,#d2e6ff,1,0.0886301361718749
 'Monitoreo a largo plazo',es,Adaptation,#157a2c,#4cc75d,3,0.0875985242045454
-'accidente mortal avalancha',es,Hazard,#4287f5,#022f78,1,0.0843219368698069
 'Gestión sostenible del riesgo',es,Adaptation,#157a2c,#3ab24e,3,0.0836385203397591
 'Educación en seguridad invernal',es,Mitigation,#9e3215,#d65218,1,0.0832891951790311
 'Destrucción de infraestructuras',es,Impacts,#4287f5,#6390d3,3,0.0829993459999999
@@ -36,6 +35,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Infraestructura resistente al clima',es,Adaptation,#157a2c,#52ce62,1,0.0751182975993749
 'Placa de viento',es,Hazard,#4287f5,#7fb3ff,2,0.0738914172684536
 'Alud',es,Hazard,#4287f5,#4a8df7,1,0.0724825662013862
+'accidente mortal avalancha',es,Hazard,#4287f5,#022f78,1,0.07167364633933586
 'cambio climático de avalanchas',es,Causes,#a89216,#d8c379,1,0.0694403554265319
 'Nieve reciente poco cohesionada',es,Causes,#a89216,#f3e4c4,1,0.0694233149999999
 'Bloqueo de rutas de montaña',es,Impacts,#4287f5,#63aedf,1,0.0689433659808806
@@ -55,7 +55,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Interrupción de carreteras',es,Impacts,#4287f5,#639fd8,1,0.0555061752215624
 'Riesgo para actividades turísticas',es,Impacts,#4287f5,#63a5da,1,0.0542815138227757
 'Redes de contención de nieve',es,Mitigation,#9e3215,#d64e18,1,0.0541733848975937
-'Inestabilidad del manto nival',es,Causes,#a89216,#c7b34a,1,0.05292727727523429
+'Inestabilidad del manto nival',es,Causes,#a89216,#c7b34a,1,0.0529272772752342
 'Capacitación comunitaria en riesgo',es,Adaptation,#157a2c,#5edc6c,1,0.0526396723437499
 'Avalancha seca',es,Hazard,#4287f5,#adcfff,1,0.0523310773916564
 'Detonación preventiva',es,Mitigation,#9e3215,#d65a18,1,0.0515198559716593
