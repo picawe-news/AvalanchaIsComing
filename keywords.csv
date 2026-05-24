@@ -6,7 +6,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Víctimas por avalancha',es,Impacts,#4287f5,#638ed1,1,0.1050280723476295
 'Avalancha de polvo',es,Hazard,#4287f5,#d8eaff,1,0.0954115731399259
 'Daños por avalancha',es,Impacts,#4287f5,#63a2d9,1,0.0948953289401244
-'Zona de avalanchas',es,Hazard,#4287f5,#c0dcff,1,0.0935521046178771
 'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,1,0.0898831865503596
 'Ruptura del manto nival',es,Hazard,#4287f5,#d2e6ff,1,0.0886301361718749
 'Monitoreo a largo plazo',es,Adaptation,#157a2c,#4cc75d,3,0.0875985242045454
@@ -19,6 +18,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cambios bruscos de temperatura',es,Causes,#a89216,#d9c577,3,0.0817392502577104
 'Lluvia sobre nieve',es,Causes,#a89216,#eddcb1,3,0.0810413783730486
 'Desprendimiento de nieve',es,Hazard,#4287f5,#5a99fa,2,0.0801641722976457
+'Zona de avalanchas',es,Hazard,#4287f5,#c0dcff,1,0.07996933392519552
 'Pala y sonda de rescate',es,Mitigation,#9e3215,#d64418,1,0.07954725
 'Acumulación rápida de nieve',es,Causes,#a89216,#d3bb63,1,0.0791428482474654
 'Perros de búsqueda en avalanchas',es,Mitigation,#9e3215,#d64718,1,0.0791302949999999
@@ -35,7 +35,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sistemas de alerta de avalanchas',es,Mitigation,#9e3215,#d63a18,1,0.0751450980232186
 'Infraestructura resistente al clima',es,Adaptation,#157a2c,#52ce62,1,0.0751182975993749
 'Placa de viento',es,Hazard,#4287f5,#7fb3ff,2,0.0738914172684536
-'Alud',es,Hazard,#4287f5,#4a8df7,1,0.07248256620138623
+'Alud',es,Hazard,#4287f5,#4a8df7,1,0.0724825662013862
 'cambio climático de avalanchas',es,Causes,#a89216,#d8c379,1,0.0694403554265319
 'Nieve reciente poco cohesionada',es,Causes,#a89216,#f3e4c4,1,0.0694233149999999
 'Bloqueo de rutas de montaña',es,Impacts,#4287f5,#63aedf,1,0.0689433659808806
