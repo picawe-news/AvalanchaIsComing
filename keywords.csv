@@ -2,7 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'avalancha',es,Hazard,#4287f5,#022f78,3,0.1793669438248779
 'desastre avalancha',es,Hazard,#4287f5,#022f78,1,0.1418491766137567
 'daños por avalancha',es,Hazard,#4287f5,#022f78,1,0.1162619919697489
-'nieve y avalanchas',es,Causes,#a89216,#d8c379,1,0.114620598185425
+'nieve y avalanchas',es,Causes,#a89216,#d8c379,1,0.09817758345761125
 'Avalancha de polvo',es,Hazard,#4287f5,#d8eaff,1,0.0954115731399259
 'Daños por avalancha',es,Impacts,#4287f5,#63a2d9,1,0.0948953289401244
 'Víctimas por avalancha',es,Impacts,#4287f5,#638ed1,1,0.091974131495485
@@ -63,7 +63,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,1,0.0470014288185234
 'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.0459099872730735
 'Terreno propenso a avalanchas',es,Hazard,#4287f5,#f5faff,1,0.0452614255579319
-'Refuerzo de rutas críticas',es,Adaptation,#157a2c,#58d567,1,0.04088316338490489
+'Refuerzo de rutas críticas',es,Adaptation,#157a2c,#58d567,1,0.0408831633849048
 'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.0343151541310991
 'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.0216709500578048
 'Rutas seguras señalizadas',es,Mitigation,#9e3215,#d64f18,1,0.0206293114954816
