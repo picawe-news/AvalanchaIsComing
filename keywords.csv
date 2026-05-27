@@ -28,7 +28,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Placa de nieve',es,Hazard,#4287f5,#78afff,1,0.076258678410687
 'Acumulación de nieve',es,Hazard,#4287f5,#e7f3ff,2,0.0757910730634232
 'avalancha de placa',es,Hazard,#4287f5,#022f78,1,0.0757706351163516
-'Manto nivoso inestable',es,Hazard,#4287f5,#99c6ff,1,0.0756024144372495
 'Sistemas de alerta de avalanchas',es,Mitigation,#9e3215,#d63a18,1,0.0751450980232186
 'Infraestructura resistente al clima',es,Adaptation,#157a2c,#52ce62,1,0.0751182975993749
 'Placa de viento',es,Hazard,#4287f5,#7fb3ff,2,0.0738914172684536
@@ -44,6 +43,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vibraciones humanas o maquinaria',es,Causes,#a89216,#f9eccf,1,0.0667825775
 'Viento fuerte sobre nieve suelta',es,Causes,#a89216,#ccb250,1,0.0663210681095625
 'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.0657381988931602
+'Manto nivoso inestable',es,Hazard,#4287f5,#99c6ff,1,0.06441206727166207
 'Estrategias de resiliencia comunitaria',es,Adaptation,#157a2c,#34ab49,1,0.0640783886282548
 'Diseño urbano resistente a avalanchas',es,Adaptation,#157a2c,#22963a,1,0.063893565
 'Daños económicos locales',es,Impacts,#4287f5,#6399d6,1,0.0630379046499999
