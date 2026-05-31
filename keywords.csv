@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'avalancha',es,Hazard,#4287f5,#022f78,3,0.16469016452387347
+'avalancha',es,Hazard,#4287f5,#022f78,3,0.1646901645238734
 'desastre avalancha',es,Hazard,#4287f5,#022f78,1,0.1219219351216931
 'Daños por avalancha',es,Impacts,#4287f5,#63a2d9,1,0.0948953289401244
 'Ruptura del manto nival',es,Hazard,#4287f5,#d2e6ff,1,0.0886301361718749
@@ -31,7 +31,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Destrucción de infraestructuras',es,Impacts,#4287f5,#6390d3,3,0.0737007490999999
 'Alud',es,Hazard,#4287f5,#4a8df7,1,0.0724825662013862
 'Cambios bruscos de temperatura',es,Causes,#a89216,#d9c577,3,0.0720296077190538
-'accidente mortal avalancha',es,Hazard,#4287f5,#022f78,1,0.0716736463393358
 'Educación en seguridad invernal',es,Mitigation,#9e3215,#d65218,1,0.0710958459021764
 'cambio climático de avalanchas',es,Causes,#a89216,#d8c379,1,0.0694403554265319
 'Nieve reciente poco cohesionada',es,Causes,#a89216,#f3e4c4,1,0.0694233149999999
@@ -48,6 +47,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Daños económicos locales',es,Impacts,#4287f5,#6399d6,1,0.0630379046499999
 'Calentamiento repentino',es,Causes,#a89216,#e6d59e,1,0.0624281128462583
 'Pendiente pronunciada',es,Causes,#a89216,#e0cd8b,1,0.0618050652209493
+'accidente mortal avalancha',es,Hazard,#4287f5,#022f78,1,0.06092259938843543
 'Sistemas de control de avalanchas',es,Mitigation,#9e3215,#d63e18,1,0.0602588718483498
 'Planificación territorial segura',es,Adaptation,#157a2c,#1b8f35,1,0.0574157399436311
 'Protección de bosques protectores',es,Adaptation,#157a2c,#40b953,1,0.0563914977993749
