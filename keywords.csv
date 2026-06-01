@@ -31,6 +31,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Destrucción de infraestructuras',es,Impacts,#4287f5,#6390d3,3,0.0737007490999999
 'Alud',es,Hazard,#4287f5,#4a8df7,1,0.0724825662013862
 'Cambios bruscos de temperatura',es,Causes,#a89216,#d9c577,3,0.0720296077190538
+'Refuerzo de rutas críticas',es,Adaptation,#157a2c,#58d567,1,0.07150076387716908
 'Educación en seguridad invernal',es,Mitigation,#9e3215,#d65218,1,0.0710958459021764
 'cambio climático de avalanchas',es,Causes,#a89216,#d8c379,1,0.0694403554265319
 'Nieve reciente poco cohesionada',es,Causes,#a89216,#f3e4c4,1,0.0694233149999999
@@ -50,7 +51,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Planificación territorial segura',es,Adaptation,#157a2c,#1b8f35,1,0.0574157399436311
 'Protección de bosques protectores',es,Adaptation,#157a2c,#40b953,1,0.0563914977993749
 'Viento fuerte sobre nieve suelta',es,Causes,#a89216,#ccb250,1,0.0563729078931281
-'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.05587746905918616
+'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.0558774690591861
 'Interrupción de carreteras',es,Impacts,#4287f5,#639fd8,1,0.0555061752215624
 'Manto nivoso inestable',es,Hazard,#4287f5,#99c6ff,1,0.0549002721809127
 'Riesgo para actividades turísticas',es,Impacts,#4287f5,#63a5da,1,0.0542815138227757
@@ -63,7 +64,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Capacitación comunitaria en riesgo',es,Adaptation,#157a2c,#5edc6c,1,0.0460938564921874
 'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.0459099872730735
 'Terreno propenso a avalanchas',es,Hazard,#4287f5,#f5faff,1,0.0452614255579319
-'Refuerzo de rutas críticas',es,Adaptation,#157a2c,#58d567,1,0.0408831633849048
 'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.0343151541310991
 'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.0216709500578048
 'Rutas seguras señalizadas',es,Mitigation,#9e3215,#d64f18,1,0.0206293114954816
