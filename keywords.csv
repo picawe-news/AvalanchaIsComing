@@ -48,7 +48,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sistemas de control de avalanchas',es,Mitigation,#9e3215,#d63e18,1,0.0602588718483498
 'Pendiente pronunciada',es,Causes,#a89216,#e0cd8b,1,0.0577530114904384
 'Planificación territorial segura',es,Adaptation,#157a2c,#1b8f35,1,0.0574157399436311
-'Protección de bosques protectores',es,Adaptation,#157a2c,#40b953,1,0.0563914977993749
 'Viento fuerte sobre nieve suelta',es,Causes,#a89216,#ccb250,1,0.0563729078931281
 'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.0558774690591861
 'Interrupción de carreteras',es,Impacts,#4287f5,#639fd8,1,0.0555061752215624
@@ -59,11 +58,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inestabilidad del manto nival',es,Causes,#a89216,#c7b34a,1,0.0529272772752342
 'Avalancha seca',es,Hazard,#4287f5,#adcfff,1,0.0523310773916564
 'Detonación preventiva',es,Mitigation,#9e3215,#d65a18,1,0.0515198559716593
+'Protección de bosques protectores',es,Adaptation,#157a2c,#40b953,1,0.04793277312946866
 'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,1,0.0470014288185234
 'Capacitación comunitaria en riesgo',es,Adaptation,#157a2c,#5edc6c,1,0.0460938564921874
 'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.0459099872730735
 'Terreno propenso a avalanchas',es,Hazard,#4287f5,#f5faff,1,0.0452614255579319
-'Equipamiento ARVA',es,Mitigation,#9e3215,#d64b18,1,0.042691445016031164
+'Equipamiento ARVA',es,Mitigation,#9e3215,#d64b18,1,0.0426914450160311
 'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.0343151541310991
 'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.0216709500578048
 'Rutas seguras señalizadas',es,Mitigation,#9e3215,#d64f18,1,0.0206293114954816
