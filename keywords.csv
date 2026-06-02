@@ -11,7 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Desprendimiento de nieve',es,Hazard,#4287f5,#5a99fa,2,0.0801641722976457
 'Zona de avalanchas',es,Hazard,#4287f5,#c0dcff,1,0.0799693339251955
 'Pala y sonda de rescate',es,Mitigation,#9e3215,#d64418,1,0.07954725
-'Monitoreo a largo plazo',es,Adaptation,#157a2c,#4cc75d,3,0.07941027557386358
+'Monitoreo a largo plazo',es,Adaptation,#157a2c,#4cc75d,3,0.0794102755738635
 'Acumulación rápida de nieve',es,Causes,#a89216,#d3bb63,1,0.0791428482474654
 'Perros de búsqueda en avalanchas',es,Mitigation,#9e3215,#d64718,1,0.0791302949999999
 'Personas sepultadas',es,Impacts,#4287f5,#638ed5,1,0.0786231792406249
@@ -59,11 +59,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inestabilidad del manto nival',es,Causes,#a89216,#c7b34a,1,0.0529272772752342
 'Avalancha seca',es,Hazard,#4287f5,#adcfff,1,0.0523310773916564
 'Detonación preventiva',es,Mitigation,#9e3215,#d65a18,1,0.0515198559716593
-'Equipamiento ARVA',es,Mitigation,#9e3215,#d64b18,1,0.0502252294306249
 'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,1,0.0470014288185234
 'Capacitación comunitaria en riesgo',es,Adaptation,#157a2c,#5edc6c,1,0.0460938564921874
 'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.0459099872730735
 'Terreno propenso a avalanchas',es,Hazard,#4287f5,#f5faff,1,0.0452614255579319
+'Equipamiento ARVA',es,Mitigation,#9e3215,#d64b18,1,0.042691445016031164
 'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.0343151541310991
 'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.0216709500578048
 'Rutas seguras señalizadas',es,Mitigation,#9e3215,#d64f18,1,0.0206293114954816
