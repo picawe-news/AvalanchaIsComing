@@ -11,7 +11,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pala y sonda de rescate',es,Mitigation,#9e3215,#d64418,1,0.07954725
 'Monitoreo a largo plazo',es,Adaptation,#157a2c,#4cc75d,3,0.0794102755738635
 'Acumulación rápida de nieve',es,Causes,#a89216,#d3bb63,1,0.0791428482474654
-'Personas sepultadas',es,Impacts,#4287f5,#638ed5,1,0.0786231792406249
 'Nevada intensa',es,Hazard,#4287f5,#eff7ff,3,0.0781065163387471
 'daños por avalancha',es,Hazard,#4287f5,#022f78,1,0.0774656273809219
 'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,1,0.0774508135678056
@@ -35,10 +34,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'cambio climático de avalanchas',es,Causes,#a89216,#d8c379,1,0.0694403554265319
 'Nieve reciente poco cohesionada',es,Causes,#a89216,#f3e4c4,1,0.0694233149999999
 'Bloqueo de rutas de montaña',es,Impacts,#4287f5,#63aedf,1,0.0689433659808806
+'Personas sepultadas',es,Impacts,#4287f5,#638ed5,1,0.06892991235453116
 'Afectación a poblaciones',es,Impacts,#4287f5,#6393d4,1,0.0686438365812499
 'avalanchas muertos',es,Hazard,#4287f5,#022f78,1,0.0681743274529528
 'Estratificación débil de nieve',es,Causes,#a89216,#fff4e0,1,0.0676765749999999
-'Perros de búsqueda en avalanchas',es,Mitigation,#9e3215,#d64718,1,0.06726075074999992
+'Perros de búsqueda en avalanchas',es,Mitigation,#9e3215,#d64718,1,0.0672607507499999
 'Vibraciones humanas o maquinaria',es,Causes,#a89216,#f9eccf,1,0.0667825775
 'Lluvia sobre nieve',es,Causes,#a89216,#eddcb1,3,0.0660538666245276
 'Estrategias de resiliencia comunitaria',es,Adaptation,#157a2c,#34ab49,1,0.0640783886282548
