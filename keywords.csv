@@ -11,7 +11,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pala y sonda de rescate',es,Mitigation,#9e3215,#d64418,1,0.07954725
 'Monitoreo a largo plazo',es,Adaptation,#157a2c,#4cc75d,3,0.0794102755738635
 'Acumulación rápida de nieve',es,Causes,#a89216,#d3bb63,1,0.0791428482474654
-'Perros de búsqueda en avalanchas',es,Mitigation,#9e3215,#d64718,1,0.0791302949999999
 'Personas sepultadas',es,Impacts,#4287f5,#638ed5,1,0.0786231792406249
 'Nevada intensa',es,Hazard,#4287f5,#eff7ff,3,0.0781065163387471
 'daños por avalancha',es,Hazard,#4287f5,#022f78,1,0.0774656273809219
@@ -39,6 +38,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Afectación a poblaciones',es,Impacts,#4287f5,#6393d4,1,0.0686438365812499
 'avalanchas muertos',es,Hazard,#4287f5,#022f78,1,0.0681743274529528
 'Estratificación débil de nieve',es,Causes,#a89216,#fff4e0,1,0.0676765749999999
+'Perros de búsqueda en avalanchas',es,Mitigation,#9e3215,#d64718,1,0.06726075074999992
 'Vibraciones humanas o maquinaria',es,Causes,#a89216,#f9eccf,1,0.0667825775
 'Lluvia sobre nieve',es,Causes,#a89216,#eddcb1,3,0.0660538666245276
 'Estrategias de resiliencia comunitaria',es,Adaptation,#157a2c,#34ab49,1,0.0640783886282548
@@ -62,7 +62,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Capacitación comunitaria en riesgo',es,Adaptation,#157a2c,#5edc6c,1,0.0460938564921874
 'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.0459099872730735
 'Terreno propenso a avalanchas',es,Hazard,#4287f5,#f5faff,1,0.0452614255579319
-'Detonación preventiva',es,Mitigation,#9e3215,#d65a18,1,0.044241922575910406
+'Detonación preventiva',es,Mitigation,#9e3215,#d65a18,1,0.0442419225759104
 'Equipamiento ARVA',es,Mitigation,#9e3215,#d64b18,1,0.0362877282636264
 'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.0343151541310991
 'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.0216709500578048
