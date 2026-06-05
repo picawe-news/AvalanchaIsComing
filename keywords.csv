@@ -35,14 +35,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Personas sepultadas',es,Impacts,#4287f5,#638ed5,1,0.0689299123545311
 'Afectación a poblaciones',es,Impacts,#4287f5,#6393d4,1,0.0686438365812499
 'avalanchas muertos',es,Hazard,#4287f5,#022f78,1,0.0681743274529528
-'Desprendimiento de nieve',es,Hazard,#4287f5,#5a99fa,1,0.06813956145299885
+'Desprendimiento de nieve',es,Hazard,#4287f5,#5a99fa,1,0.0681395614529988
 'Estratificación débil de nieve',es,Causes,#a89216,#fff4e0,1,0.0676765749999999
 'Perros de búsqueda en avalanchas',es,Mitigation,#9e3215,#d64718,1,0.0672607507499999
 'Vibraciones humanas o maquinaria',es,Causes,#a89216,#f9eccf,1,0.0667825775
 'Lluvia sobre nieve',es,Causes,#a89216,#eddcb1,3,0.0660538666245276
 'Estrategias de resiliencia comunitaria',es,Adaptation,#157a2c,#34ab49,1,0.0640783886282548
 'Daños económicos locales',es,Impacts,#4287f5,#6399d6,1,0.0630379046499999
-'Refuerzo de rutas críticas',es,Adaptation,#157a2c,#58d567,1,0.0610756792955936
 'accidente mortal avalancha',es,Hazard,#4287f5,#022f78,1,0.0609225993884354
 'Sistemas de control de avalanchas',es,Mitigation,#9e3215,#d63e18,1,0.0602588718483498
 'Pendiente pronunciada',es,Causes,#a89216,#e0cd8b,1,0.0577530114904384
@@ -57,6 +56,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Calentamiento repentino',es,Causes,#a89216,#e6d59e,1,0.0536639559193195
 'Inestabilidad del manto nival',es,Causes,#a89216,#c7b34a,1,0.0529272772752342
 'Avalancha seca',es,Hazard,#4287f5,#adcfff,1,0.0523310773916564
+'Refuerzo de rutas críticas',es,Adaptation,#157a2c,#58d567,1,0.05221435740125456
 'Protección de bosques protectores',es,Adaptation,#157a2c,#40b953,1,0.0479327731294686
 'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,1,0.0470014288185234
 'Capacitación comunitaria en riesgo',es,Adaptation,#157a2c,#5edc6c,1,0.0460938564921874
