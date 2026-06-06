@@ -53,18 +53,18 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Diseño urbano resistente a avalanchas',es,Adaptation,#157a2c,#22963a,1,0.0543095302499999
 'Riesgo para actividades turísticas',es,Impacts,#4287f5,#63a5da,1,0.0542815138227757
 'Redes de contención de nieve',es,Mitigation,#9e3215,#d64e18,1,0.0541733848975937
-'Calentamiento repentino',es,Causes,#a89216,#e6d59e,1,0.0536639559193195
 'Inestabilidad del manto nival',es,Causes,#a89216,#c7b34a,1,0.0529272772752342
 'Avalancha seca',es,Hazard,#4287f5,#adcfff,1,0.0523310773916564
 'Refuerzo de rutas críticas',es,Adaptation,#157a2c,#58d567,1,0.0522143574012545
 'Protección de bosques protectores',es,Adaptation,#157a2c,#40b953,1,0.0479327731294686
 'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,1,0.0470014288185234
+'Calentamiento repentino',es,Causes,#a89216,#e6d59e,1,0.046364437531421575
 'Capacitación comunitaria en riesgo',es,Adaptation,#157a2c,#5edc6c,1,0.0460938564921874
 'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.0459099872730735
 'Terreno propenso a avalanchas',es,Hazard,#4287f5,#f5faff,1,0.0452614255579319
 'Detonación preventiva',es,Mitigation,#9e3215,#d65a18,1,0.0442419225759104
 'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.0343151541310991
-'Equipamiento ARVA',es,Mitigation,#9e3215,#d64b18,1,0.030844569024082436
+'Equipamiento ARVA',es,Mitigation,#9e3215,#d64b18,1,0.0308445690240824
 'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.0216709500578048
 'Rutas seguras señalizadas',es,Mitigation,#9e3215,#d64f18,1,0.0206293114954816
 'Avalancha húmeda',es,Hazard,#4287f5,#a3ccff,1,0.0192018984077249
