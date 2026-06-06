@@ -6,7 +6,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pérdida de vidas humanas',es,Impacts,#4287f5,#63a8db,1,0.0822220525950092
 'Avalancha de polvo',es,Hazard,#4287f5,#d8eaff,1,0.081999927168937
 'Víctimas por avalancha',es,Impacts,#4287f5,#638ed1,1,0.0807282667711622
-'Zona de avalanchas',es,Hazard,#4287f5,#c0dcff,1,0.0799693339251955
 'Pala y sonda de rescate',es,Mitigation,#9e3215,#d64418,1,0.07954725
 'Acumulación rápida de nieve',es,Causes,#a89216,#d3bb63,1,0.0791428482474654
 'Nevada intensa',es,Hazard,#4287f5,#eff7ff,3,0.0781065163387471
@@ -34,6 +33,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bloqueo de rutas de montaña',es,Impacts,#4287f5,#63aedf,1,0.0689433659808806
 'Personas sepultadas',es,Impacts,#4287f5,#638ed5,1,0.0689299123545311
 'Afectación a poblaciones',es,Impacts,#4287f5,#6393d4,1,0.0686438365812499
+'Zona de avalanchas',es,Hazard,#4287f5,#c0dcff,1,0.06827396383641618
 'avalanchas muertos',es,Hazard,#4287f5,#022f78,1,0.0681743274529528
 'Desprendimiento de nieve',es,Hazard,#4287f5,#5a99fa,1,0.0681395614529988
 'Estratificación débil de nieve',es,Causes,#a89216,#fff4e0,1,0.0676765749999999
@@ -56,7 +56,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Calentamiento repentino',es,Causes,#a89216,#e6d59e,1,0.0536639559193195
 'Inestabilidad del manto nival',es,Causes,#a89216,#c7b34a,1,0.0529272772752342
 'Avalancha seca',es,Hazard,#4287f5,#adcfff,1,0.0523310773916564
-'Refuerzo de rutas críticas',es,Adaptation,#157a2c,#58d567,1,0.05221435740125456
+'Refuerzo de rutas críticas',es,Adaptation,#157a2c,#58d567,1,0.0522143574012545
 'Protección de bosques protectores',es,Adaptation,#157a2c,#40b953,1,0.0479327731294686
 'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,1,0.0470014288185234
 'Capacitación comunitaria en riesgo',es,Adaptation,#157a2c,#5edc6c,1,0.0460938564921874
