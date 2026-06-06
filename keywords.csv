@@ -8,7 +8,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Víctimas por avalancha',es,Impacts,#4287f5,#638ed1,1,0.0807282667711622
 'Pala y sonda de rescate',es,Mitigation,#9e3215,#d64418,1,0.07954725
 'Acumulación rápida de nieve',es,Causes,#a89216,#d3bb63,1,0.0791428482474654
-'Nevada intensa',es,Hazard,#4287f5,#eff7ff,3,0.0781065163387471
 'daños por avalancha',es,Hazard,#4287f5,#022f78,1,0.0774656273809219
 'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,1,0.0774508135678056
 'Planes de evacuación locales',es,Adaptation,#157a2c,#46c058,1,0.0770469256231249
@@ -26,6 +25,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Monitoreo a largo plazo',es,Adaptation,#157a2c,#4cc75d,3,0.0724502342377839
 'nieve y avalanchas',es,Causes,#a89216,#d8c379,1,0.072320942798124
 'Cambios bruscos de temperatura',es,Causes,#a89216,#d9c577,3,0.0720296077190538
+'Nevada intensa',es,Hazard,#4287f5,#eff7ff,3,0.07170503460222075
 'Deslizamiento de nieve',es,Hazard,#4287f5,#91c0ff,1,0.071442901729302
 'Educación en seguridad invernal',es,Mitigation,#9e3215,#d65218,1,0.0710958459021764
 'cambio climático de avalanchas',es,Causes,#a89216,#d8c379,1,0.0694403554265319
@@ -58,7 +58,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Refuerzo de rutas críticas',es,Adaptation,#157a2c,#58d567,1,0.0522143574012545
 'Protección de bosques protectores',es,Adaptation,#157a2c,#40b953,1,0.0479327731294686
 'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,1,0.0470014288185234
-'Calentamiento repentino',es,Causes,#a89216,#e6d59e,1,0.046364437531421575
+'Calentamiento repentino',es,Causes,#a89216,#e6d59e,1,0.0463644375314215
 'Capacitación comunitaria en riesgo',es,Adaptation,#157a2c,#5edc6c,1,0.0460938564921874
 'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.0459099872730735
 'Terreno propenso a avalanchas',es,Hazard,#4287f5,#f5faff,1,0.0452614255579319
