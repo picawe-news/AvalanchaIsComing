@@ -17,7 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'avalancha de placa',es,Hazard,#4287f5,#022f78,1,0.0757706351163516
 'Sistemas de alerta de avalanchas',es,Mitigation,#9e3215,#d63a18,1,0.0751450980232186
 'Infraestructura resistente al clima',es,Adaptation,#157a2c,#52ce62,1,0.0751182975993749
-'Pérdida de vidas humanas',es,Impacts,#4287f5,#63a8db,2,0.07393914970575782
+'Pérdida de vidas humanas',es,Impacts,#4287f5,#63a8db,2,0.0739391497057578
 'Placa de viento',es,Hazard,#4287f5,#7fb3ff,2,0.0738914172684536
 'Destrucción de infraestructuras',es,Impacts,#4287f5,#6390d3,3,0.0737007490999999
 'Alud',es,Hazard,#4287f5,#4a8df7,1,0.0724825662013862
@@ -61,8 +61,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Calentamiento repentino',es,Causes,#a89216,#e6d59e,1,0.0463644375314215
 'Capacitación comunitaria en riesgo',es,Adaptation,#157a2c,#5edc6c,1,0.0460938564921874
 'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.0459099872730735
-'Terreno propenso a avalanchas',es,Hazard,#4287f5,#f5faff,1,0.0452614255579319
 'Detonación preventiva',es,Mitigation,#9e3215,#d65a18,1,0.0442419225759104
+'Terreno propenso a avalanchas',es,Hazard,#4287f5,#f5faff,1,0.03847221172424212
 'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.0343151541310991
 'Equipamiento ARVA',es,Mitigation,#9e3215,#d64b18,1,0.0308445690240824
 'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.0216709500578048
