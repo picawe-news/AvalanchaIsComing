@@ -1,5 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'avalancha',es,Hazard,#4287f5,#022f78,3,0.1449420848452924
+'Gestión sostenible del riesgo',es,Adaptation,#157a2c,#3ab24e,3,0.11459330444547594
 'Ruptura del manto nival',es,Hazard,#4287f5,#d2e6ff,1,0.0886301361718749
 'Daños por avalancha',es,Impacts,#4287f5,#63a2d9,1,0.0830612695991057
 'desastre avalancha',es,Hazard,#4287f5,#022f78,1,0.0810954634995765
@@ -11,7 +12,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nieve inestable',es,Hazard,#4287f5,#6aa5fc,1,0.0763431739842206
 'Placa de nieve',es,Hazard,#4287f5,#78afff,1,0.076258678410687
 'daños por avalancha',es,Hazard,#4287f5,#022f78,1,0.0760460532737836
-'Gestión sostenible del riesgo',es,Adaptation,#157a2c,#3ab24e,3,0.0760450522887952
 'Acumulación de nieve',es,Hazard,#4287f5,#e7f3ff,2,0.0757910730634232
 'Sistemas de alerta de avalanchas',es,Mitigation,#9e3215,#d63a18,1,0.0751450980232186
 'Infraestructura resistente al clima',es,Adaptation,#157a2c,#52ce62,1,0.0751182975993749
@@ -64,7 +64,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Terreno propenso a avalanchas',es,Hazard,#4287f5,#f5faff,1,0.0384722117242421
 'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.0331699658047955
 'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.0291678810114342
-'Equipamiento ARVA',es,Mitigation,#9e3215,#d64b18,1,0.02621788367047004
+'Equipamiento ARVA',es,Mitigation,#9e3215,#d64b18,1,0.02621788367047
 'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.0216709500578048
 'Rutas seguras señalizadas',es,Mitigation,#9e3215,#d64f18,1,0.0206293114954816
 'Avalancha húmeda',es,Hazard,#4287f5,#a3ccff,1,0.0163216136465661
