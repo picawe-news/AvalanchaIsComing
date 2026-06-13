@@ -23,7 +23,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Deslizamiento de nieve',es,Hazard,#4287f5,#91c0ff,1,0.071442901729302
 'Educación en seguridad invernal',es,Mitigation,#9e3215,#d65218,1,0.0710958459021764
 'Avalancha de polvo',es,Hazard,#4287f5,#d8eaff,1,0.0701499830935964
-'Víctimas por avalancha',es,Impacts,#4287f5,#638ed1,1,0.06996916175548787
+'Víctimas por avalancha',es,Impacts,#4287f5,#638ed1,1,0.0699691617554878
 'cambio climático de avalanchas',es,Causes,#a89216,#d8c379,1,0.0694403554265319
 'Nieve reciente poco cohesionada',es,Causes,#a89216,#f3e4c4,1,0.0694233149999999
 'Bloqueo de rutas de montaña',es,Impacts,#4287f5,#63aedf,1,0.0689433659808806
@@ -47,11 +47,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pendiente pronunciada',es,Causes,#a89216,#e0cd8b,1,0.0577530114904384
 'Planificación territorial segura',es,Adaptation,#157a2c,#1b8f35,1,0.0574157399436311
 'Viento fuerte sobre nieve suelta',es,Causes,#a89216,#ccb250,1,0.0563729078931281
+'Riesgo para actividades turísticas',es,Impacts,#4287f5,#63a5da,1,0.05588936174935934
 'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.0558774690591861
 'Interrupción de carreteras',es,Impacts,#4287f5,#639fd8,1,0.0555061752215624
 'Manto nivoso inestable',es,Hazard,#4287f5,#99c6ff,1,0.0549002721809127
 'Diseño urbano resistente a avalanchas',es,Adaptation,#157a2c,#22963a,1,0.0543095302499999
-'Riesgo para actividades turísticas',es,Impacts,#4287f5,#63a5da,1,0.0542815138227757
 'Redes de contención de nieve',es,Mitigation,#9e3215,#d64e18,1,0.0541733848975937
 'Inestabilidad del manto nival',es,Causes,#a89216,#c7b34a,1,0.0529272772752342
 'Avalancha seca',es,Hazard,#4287f5,#adcfff,1,0.0523310773916564
