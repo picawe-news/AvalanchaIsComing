@@ -12,7 +12,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Placa de nieve',es,Hazard,#4287f5,#78afff,1,0.076258678410687
 'daños por avalancha',es,Hazard,#4287f5,#022f78,1,0.0760460532737836
 'Acumulación de nieve',es,Hazard,#4287f5,#e7f3ff,2,0.0757910730634232
-'Sistemas de alerta de avalanchas',es,Mitigation,#9e3215,#d63a18,1,0.0751450980232186
 'Infraestructura resistente al clima',es,Adaptation,#157a2c,#52ce62,1,0.0751182975993749
 'Pérdida de vidas humanas',es,Impacts,#4287f5,#63a8db,2,0.0739391497057578
 'Placa de viento',es,Hazard,#4287f5,#7fb3ff,2,0.0738914172684536
@@ -40,10 +39,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Corredor de avalanchas',es,Hazard,#4287f5,#c9e1ff,1,0.0648839860244477
 'avalancha de placa',es,Hazard,#4287f5,#022f78,1,0.0644050398488988
 'Estrategias de resiliencia comunitaria',es,Adaptation,#157a2c,#34ab49,1,0.0640783886282548
+'Sistemas de alerta de avalanchas',es,Mitigation,#9e3215,#d63a18,1,0.06387333331973581
 'Daños económicos locales',es,Impacts,#4287f5,#6399d6,1,0.0630379046499999
 'accidente mortal avalancha',es,Hazard,#4287f5,#022f78,1,0.0609225993884354
 'Sistemas de control de avalanchas',es,Mitigation,#9e3215,#d63e18,1,0.0602588718483498
-'Nieve reciente poco cohesionada',es,Causes,#a89216,#f3e4c4,1,0.059009817749999915
+'Nieve reciente poco cohesionada',es,Causes,#a89216,#f3e4c4,1,0.0590098177499999
 'Pendiente pronunciada',es,Causes,#a89216,#e0cd8b,1,0.0577530114904384
 'Planificación territorial segura',es,Adaptation,#157a2c,#1b8f35,1,0.0574157399436311
 'Viento fuerte sobre nieve suelta',es,Causes,#a89216,#ccb250,1,0.0563729078931281
