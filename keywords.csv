@@ -2,7 +2,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'avalancha',es,Hazard,#4287f5,#022f78,3,0.1449420848452924
 'Gestión sostenible del riesgo',es,Adaptation,#157a2c,#3ab24e,3,0.1145933044454759
 'Nieve inestable',es,Hazard,#4287f5,#6aa5fc,1,0.1110918178865875
-'Ruptura del manto nival',es,Hazard,#4287f5,#d2e6ff,1,0.0886301361718749
 'Daños por avalancha',es,Impacts,#4287f5,#63a2d9,1,0.0830612695991057
 'desastre avalancha',es,Hazard,#4287f5,#022f78,1,0.0810954634995765
 'Pala y sonda de rescate',es,Mitigation,#9e3215,#d64418,1,0.07954725
@@ -12,6 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Placa de nieve',es,Hazard,#4287f5,#78afff,1,0.076258678410687
 'daños por avalancha',es,Hazard,#4287f5,#022f78,1,0.0760460532737836
 'Acumulación de nieve',es,Hazard,#4287f5,#e7f3ff,2,0.0757910730634232
+'Ruptura del manto nival',es,Hazard,#4287f5,#d2e6ff,1,0.07533561574609367
 'Infraestructura resistente al clima',es,Adaptation,#157a2c,#52ce62,1,0.0751182975993749
 'Pérdida de vidas humanas',es,Impacts,#4287f5,#63a8db,2,0.0739391497057578
 'Placa de viento',es,Hazard,#4287f5,#7fb3ff,2,0.0738914172684536
@@ -39,7 +39,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Corredor de avalanchas',es,Hazard,#4287f5,#c9e1ff,1,0.0648839860244477
 'avalancha de placa',es,Hazard,#4287f5,#022f78,1,0.0644050398488988
 'Estrategias de resiliencia comunitaria',es,Adaptation,#157a2c,#34ab49,1,0.0640783886282548
-'Sistemas de alerta de avalanchas',es,Mitigation,#9e3215,#d63a18,1,0.06387333331973581
+'Sistemas de alerta de avalanchas',es,Mitigation,#9e3215,#d63a18,1,0.0638733333197358
 'Daños económicos locales',es,Impacts,#4287f5,#6399d6,1,0.0630379046499999
 'accidente mortal avalancha',es,Hazard,#4287f5,#022f78,1,0.0609225993884354
 'Sistemas de control de avalanchas',es,Mitigation,#9e3215,#d63e18,1,0.0602588718483498
