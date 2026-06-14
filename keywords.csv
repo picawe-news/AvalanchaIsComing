@@ -25,7 +25,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Avalancha de polvo',es,Hazard,#4287f5,#d8eaff,1,0.0701499830935964
 'Víctimas por avalancha',es,Impacts,#4287f5,#638ed1,1,0.0699691617554878
 'cambio climático de avalanchas',es,Causes,#a89216,#d8c379,1,0.0694403554265319
-'Nieve reciente poco cohesionada',es,Causes,#a89216,#f3e4c4,1,0.0694233149999999
 'Bloqueo de rutas de montaña',es,Impacts,#4287f5,#63aedf,1,0.0689433659808806
 'Personas sepultadas',es,Impacts,#4287f5,#638ed5,1,0.0689299123545311
 'Afectación a poblaciones',es,Impacts,#4287f5,#6393d4,1,0.0686438365812499
@@ -44,6 +43,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Daños económicos locales',es,Impacts,#4287f5,#6399d6,1,0.0630379046499999
 'accidente mortal avalancha',es,Hazard,#4287f5,#022f78,1,0.0609225993884354
 'Sistemas de control de avalanchas',es,Mitigation,#9e3215,#d63e18,1,0.0602588718483498
+'Nieve reciente poco cohesionada',es,Causes,#a89216,#f3e4c4,1,0.059009817749999915
 'Pendiente pronunciada',es,Causes,#a89216,#e0cd8b,1,0.0577530114904384
 'Planificación territorial segura',es,Adaptation,#157a2c,#1b8f35,1,0.0574157399436311
 'Viento fuerte sobre nieve suelta',es,Causes,#a89216,#ccb250,1,0.0563729078931281
@@ -59,7 +59,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Capacitación comunitaria en riesgo',es,Adaptation,#157a2c,#5edc6c,1,0.0460938564921874
 'Refuerzo de rutas críticas',es,Adaptation,#157a2c,#58d567,1,0.0445322187910663
 'Detonación preventiva',es,Mitigation,#9e3215,#d65a18,1,0.0442419225759104
-'Protección de bosques protectores',es,Adaptation,#157a2c,#40b953,1,0.04074285716004831
+'Protección de bosques protectores',es,Adaptation,#157a2c,#40b953,1,0.0407428571600483
 'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,1,0.0404012594957448
 'Terreno propenso a avalanchas',es,Hazard,#4287f5,#f5faff,1,0.0384722117242421
 'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.0331699658047955
