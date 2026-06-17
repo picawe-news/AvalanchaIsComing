@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'avalancha',es,Hazard,#4287f5,#022f78,3,0.1449420848452924
 'Gestión sostenible del riesgo',es,Adaptation,#157a2c,#3ab24e,3,0.1145933044454759
-'Nieve inestable',es,Hazard,#4287f5,#6aa5fc,1,0.0954781502035993
 'Daños por avalancha',es,Impacts,#4287f5,#63a2d9,1,0.0830612695991057
+'Nieve inestable',es,Hazard,#4287f5,#6aa5fc,1,0.0822065326730594
 'desastre avalancha',es,Hazard,#4287f5,#022f78,1,0.0810954634995765
 'Pala y sonda de rescate',es,Mitigation,#9e3215,#d64418,1,0.07954725
 'nieve y avalanchas',es,Causes,#a89216,#d8c379,1,0.0786613229333978
@@ -53,7 +53,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Redes de contención de nieve',es,Mitigation,#9e3215,#d64e18,1,0.0541733848975937
 'Inestabilidad del manto nival',es,Causes,#a89216,#c7b34a,1,0.0529272772752342
 'Avalancha seca',es,Hazard,#4287f5,#adcfff,1,0.0523310773916564
-'Viento fuerte sobre nieve suelta',es,Causes,#a89216,#ccb250,1,0.04791697170915888
+'Viento fuerte sobre nieve suelta',es,Causes,#a89216,#ccb250,1,0.0479169717091588
 'Manto nivoso inestable',es,Hazard,#4287f5,#99c6ff,1,0.0466652313537757
 'Calentamiento repentino',es,Causes,#a89216,#e6d59e,1,0.0463644375314215
 'Capacitación comunitaria en riesgo',es,Adaptation,#157a2c,#5edc6c,1,0.0460938564921874
