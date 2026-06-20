@@ -9,7 +9,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Planes de evacuación locales',es,Adaptation,#157a2c,#46c058,1,0.0770469256231249
 'Ruptura del manto nival',es,Hazard,#4287f5,#d2e6ff,1,0.0753356157460936
 'Infraestructura resistente al clima',es,Adaptation,#157a2c,#52ce62,1,0.0751182975993749
-'Destrucción de infraestructuras',es,Impacts,#4287f5,#6390d3,3,0.0737007490999999
 'Alud',es,Hazard,#4287f5,#4a8df7,1,0.0724825662013862
 'Monitoreo a largo plazo',es,Adaptation,#157a2c,#4cc75d,3,0.0724502342377839
 'Nevada intensa',es,Hazard,#4287f5,#eff7ff,3,0.0717050346022207
@@ -33,6 +32,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'daños por avalancha',es,Hazard,#4287f5,#022f78,1,0.066739355282716
 'Lluvia sobre nieve',es,Causes,#a89216,#eddcb1,3,0.0660538666245276
 'Placa de nieve',es,Hazard,#4287f5,#78afff,1,0.0655699516490839
+'Destrucción de infraestructuras',es,Impacts,#4287f5,#6390d3,3,0.06504686673499992
 'Acumulación de nieve',es,Hazard,#4287f5,#e7f3ff,2,0.0650229671039097
 'Corredor de avalanchas',es,Hazard,#4287f5,#c9e1ff,1,0.0648839860244477
 'avalancha de placa',es,Hazard,#4287f5,#022f78,1,0.0644050398488988
@@ -61,7 +61,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Protección de bosques protectores',es,Adaptation,#157a2c,#40b953,1,0.0407428571600483
 'Manto nivoso inestable',es,Hazard,#4287f5,#99c6ff,1,0.0396654466507093
 'Terreno propenso a avalanchas',es,Hazard,#4287f5,#f5faff,1,0.0384722117242421
-'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,1,0.02946743773567555
+'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,1,0.0294674377356755
 'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.0291678810114342
 'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.0281944709340761
 'Equipamiento ARVA',es,Mitigation,#9e3215,#d64b18,1,0.02621788367047
