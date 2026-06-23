@@ -9,7 +9,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ruptura del manto nival',es,Hazard,#4287f5,#d2e6ff,1,0.0753356157460936
 'Infraestructura resistente al clima',es,Adaptation,#157a2c,#52ce62,1,0.0751182975993749
 'Daños por avalancha',es,Impacts,#4287f5,#63a2d9,1,0.0733023491592398
-'Alud',es,Hazard,#4287f5,#4a8df7,1,0.0724825662013862
 'Monitoreo a largo plazo',es,Adaptation,#157a2c,#4cc75d,3,0.0724502342377839
 'Nevada intensa',es,Hazard,#4287f5,#eff7ff,3,0.0717050346022207
 'Deslizamiento de nieve',es,Hazard,#4287f5,#91c0ff,1,0.071442901729302
@@ -29,6 +28,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,1,0.0671833265326347
 'Vibraciones humanas o maquinaria',es,Causes,#a89216,#f9eccf,1,0.0667825775
 'daños por avalancha',es,Hazard,#4287f5,#022f78,1,0.066739355282716
+'Alud',es,Hazard,#4287f5,#4a8df7,2,0.06656084127117827
 'Lluvia sobre nieve',es,Causes,#a89216,#eddcb1,3,0.0660538666245276
 'Placa de nieve',es,Hazard,#4287f5,#78afff,1,0.0655699516490839
 'Destrucción de infraestructuras',es,Impacts,#4287f5,#6390d3,3,0.0650468667349999
@@ -66,5 +66,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rutas seguras señalizadas',es,Mitigation,#9e3215,#d64f18,1,0.0206293114954816
 'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.0203705052498699
 'Equipamiento ARVA',es,Mitigation,#9e3215,#d64b18,1,0.0189424209519144
-'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.01842030754913408
+'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.018420307549134
 'Avalancha húmeda',es,Hazard,#4287f5,#a3ccff,1,0.0163216136465661
