@@ -63,8 +63,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Refuerzo de rutas críticas',es,Adaptation,#157a2c,#58d567,1,0.0381524159724063
 'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,1,0.0294674377356755
 'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.0291678810114342
-'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.0216709500578048
 'Rutas seguras señalizadas',es,Mitigation,#9e3215,#d64f18,1,0.0206293114954816
-'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.02037050524986991
+'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.0203705052498699
 'Equipamiento ARVA',es,Mitigation,#9e3215,#d64b18,1,0.0189424209519144
+'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.01842030754913408
 'Avalancha húmeda',es,Hazard,#4287f5,#a3ccff,1,0.0163216136465661
