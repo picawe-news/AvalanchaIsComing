@@ -27,7 +27,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'daños por avalancha',es,Hazard,#4287f5,#022f78,1,0.066739355282716
 'Alud',es,Hazard,#4287f5,#4a8df7,2,0.0665608412711782
 'Planes de evacuación locales',es,Adaptation,#157a2c,#46c058,1,0.0665399917796561
-'Monitoreo a largo plazo',es,Adaptation,#157a2c,#4cc75d,3,0.06653559410211632
+'Monitoreo a largo plazo',es,Adaptation,#157a2c,#4cc75d,3,0.0665355941021163
 'Lluvia sobre nieve',es,Causes,#a89216,#eddcb1,3,0.0660538666245276
 'Placa de nieve',es,Hazard,#4287f5,#78afff,1,0.0655699516490839
 'Destrucción de infraestructuras',es,Impacts,#4287f5,#6390d3,3,0.0650468667349999
@@ -47,7 +47,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Riesgo para actividades turísticas',es,Impacts,#4287f5,#63a5da,1,0.0558893617493593
 'Interrupción de carreteras',es,Impacts,#4287f5,#639fd8,1,0.0555061752215624
 'Diseño urbano resistente a avalanchas',es,Adaptation,#157a2c,#22963a,1,0.0543095302499999
-'Redes de contención de nieve',es,Mitigation,#9e3215,#d64e18,1,0.0541733848975937
 'Inestabilidad del manto nival',es,Causes,#a89216,#c7b34a,1,0.0529272772752342
 'Avalancha seca',es,Hazard,#4287f5,#adcfff,1,0.0523310773916564
 'Planificación territorial segura',es,Adaptation,#157a2c,#1b8f35,1,0.0509035889520864
@@ -56,6 +55,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Corredor de avalanchas',es,Hazard,#4287f5,#c9e1ff,1,0.0470286949026634
 'Calentamiento repentino',es,Causes,#a89216,#e6d59e,1,0.0463644375314215
 'Capacitación comunitaria en riesgo',es,Adaptation,#157a2c,#5edc6c,1,0.0460938564921874
+'Redes de contención de nieve',es,Mitigation,#9e3215,#d64e18,1,0.04604737716295464
 'Detonación preventiva',es,Mitigation,#9e3215,#d65a18,1,0.0442419225759104
 'Protección de bosques protectores',es,Adaptation,#157a2c,#40b953,1,0.0407428571600483
 'Manto nivoso inestable',es,Hazard,#4287f5,#99c6ff,1,0.0396654466507093
