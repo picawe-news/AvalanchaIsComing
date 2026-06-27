@@ -3,7 +3,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gestión sostenible del riesgo',es,Adaptation,#157a2c,#3ab24e,3,0.1023620187786545
 'Nieve inestable',es,Hazard,#4287f5,#6aa5fc,1,0.0822065326730594
 'desastre avalancha',es,Hazard,#4287f5,#022f78,1,0.0810954634995765
-'Pala y sonda de rescate',es,Mitigation,#9e3215,#d64418,1,0.07954725
 'Daños por avalancha',es,Impacts,#4287f5,#63a2d9,1,0.0733023491592398
 'Nevada intensa',es,Hazard,#4287f5,#eff7ff,3,0.0717050346022207
 'Educación en seguridad invernal',es,Mitigation,#9e3215,#d65218,1,0.0710958459021764
@@ -15,6 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Zona de avalanchas',es,Hazard,#4287f5,#c0dcff,1,0.0682739638364161
 'Desprendimiento de nieve',es,Hazard,#4287f5,#5a99fa,1,0.0681395614529988
 'Estratificación débil de nieve',es,Causes,#a89216,#fff4e0,1,0.0676765749999999
+'Pala y sonda de rescate',es,Mitigation,#9e3215,#d64418,1,0.06761516249999999
 'Perros de búsqueda en avalanchas',es,Mitigation,#9e3215,#d64718,1,0.0672607507499999
 'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,1,0.0671833265326347
 'Vibraciones humanas o maquinaria',es,Causes,#a89216,#f9eccf,1,0.0667825775
@@ -67,4 +67,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Equipamiento ARVA',es,Mitigation,#9e3215,#d64b18,1,0.0189424209519144
 'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.018420307549134
 'Avalancha húmeda',es,Hazard,#4287f5,#a3ccff,1,0.0163216136465661
-'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.01471769004303099
+'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.0147176900430309
