@@ -37,7 +37,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Deslizamiento de nieve',es,Hazard,#4287f5,#91c0ff,1,0.0616265564699066
 'Víctimas por avalancha',es,Impacts,#4287f5,#638ed1,1,0.0615739974921646
 'accidente mortal avalancha',es,Hazard,#4287f5,#022f78,1,0.0609225993884354
-'nieve y avalanchas',es,Causes,#a89216,#d8c379,1,0.060313153819379885
+'nieve y avalanchas',es,Causes,#a89216,#d8c379,1,0.0603131538193798
 'Sistemas de control de avalanchas',es,Mitigation,#9e3215,#d63e18,1,0.0602588718483498
 'Avalancha de polvo',es,Hazard,#4287f5,#d8eaff,1,0.0600775306295569
 'avalanchas muertos',es,Hazard,#4287f5,#022f78,1,0.0580981933350098
@@ -64,7 +64,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,1,0.0294674377356755
 'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.0291678810114342
 'Rutas seguras señalizadas',es,Mitigation,#9e3215,#d64f18,1,0.0206293114954816
-'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.0203705052498699
 'Equipamiento ARVA',es,Mitigation,#9e3215,#d64b18,1,0.0189424209519144
 'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.018420307549134
+'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.017314929462389415
 'Avalancha húmeda',es,Hazard,#4287f5,#a3ccff,1,0.0163216136465661
