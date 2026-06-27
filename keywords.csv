@@ -66,5 +66,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rutas seguras señalizadas',es,Mitigation,#9e3215,#d64f18,1,0.0206293114954816
 'Equipamiento ARVA',es,Mitigation,#9e3215,#d64b18,1,0.0189424209519144
 'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.018420307549134
-'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.017314929462389415
 'Avalancha húmeda',es,Hazard,#4287f5,#a3ccff,1,0.0163216136465661
+'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.01471769004303099
