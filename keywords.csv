@@ -41,7 +41,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'avalanchas muertos',es,Hazard,#4287f5,#022f78,1,0.0580981933350098
 'Pendiente pronunciada',es,Causes,#a89216,#e0cd8b,1,0.0577530114904384
 'Pérdida de vidas humanas',es,Impacts,#4287f5,#63a8db,1,0.0575018186624099
-'Daños económicos locales',es,Impacts,#4287f5,#6399d6,2,0.05718257895249992
+'Daños económicos locales',es,Impacts,#4287f5,#6399d6,2,0.0571825789524999
 'Riesgo para actividades turísticas',es,Impacts,#4287f5,#63a5da,1,0.0558893617493593
 'Interrupción de carreteras',es,Impacts,#4287f5,#639fd8,1,0.0555061752215624
 'Diseño urbano resistente a avalanchas',es,Adaptation,#157a2c,#22963a,1,0.0543095302499999
@@ -61,8 +61,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Manto nivoso inestable',es,Hazard,#4287f5,#99c6ff,1,0.0396654466507093
 'Terreno propenso a avalanchas',es,Hazard,#4287f5,#f5faff,1,0.0384722117242421
 'Refuerzo de rutas críticas',es,Adaptation,#157a2c,#58d567,1,0.0325795685765453
-'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,1,0.0294674377356755
 'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.0291678810114342
+'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,1,0.025047322075324174
 'Rutas seguras señalizadas',es,Mitigation,#9e3215,#d64f18,1,0.0206293114954816
 'Equipamiento ARVA',es,Mitigation,#9e3215,#d64b18,1,0.0189424209519144
 'Avalancha húmeda',es,Hazard,#4287f5,#a3ccff,1,0.0163216136465661
