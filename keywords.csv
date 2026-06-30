@@ -58,11 +58,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Detonación preventiva',es,Mitigation,#9e3215,#d65a18,1,0.0442419225759104
 'Protección de bosques protectores',es,Adaptation,#157a2c,#40b953,1,0.0407428571600483
 'Manto nivoso inestable',es,Hazard,#4287f5,#99c6ff,1,0.0396654466507093
-'Redes de contención de nieve',es,Mitigation,#9e3215,#d64e18,1,0.03914027058851141
+'Redes de contención de nieve',es,Mitigation,#9e3215,#d64e18,1,0.0391402705885114
 'Terreno propenso a avalanchas',es,Hazard,#4287f5,#f5faff,1,0.0384722117242421
 'Refuerzo de rutas críticas',es,Adaptation,#157a2c,#58d567,1,0.0325795685765453
-'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.0291678810114342
 'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,1,0.0250473220753241
+'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.02479269885971907
 'Rutas seguras señalizadas',es,Mitigation,#9e3215,#d64f18,1,0.0206293114954816
 'Equipamiento ARVA',es,Mitigation,#9e3215,#d64b18,1,0.0189424209519144
 'Avalancha húmeda',es,Hazard,#4287f5,#a3ccff,1,0.0163216136465661
