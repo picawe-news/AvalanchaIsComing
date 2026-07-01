@@ -38,7 +38,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Acumulación rápida de nieve',es,Causes,#a89216,#d3bb63,1,0.0597234621087936
 'cambio climático de avalanchas',es,Causes,#a89216,#d8c379,1,0.0593243321125521
 'avalanchas muertos',es,Hazard,#4287f5,#022f78,1,0.0580981933350098
-'Desprendimiento de nieve',es,Hazard,#4287f5,#5a99fa,1,0.058068642235048984
+'Desprendimiento de nieve',es,Hazard,#4287f5,#5a99fa,1,0.0580686422350489
 'Pendiente pronunciada',es,Causes,#a89216,#e0cd8b,1,0.0577530114904384
 'Pérdida de vidas humanas',es,Impacts,#4287f5,#63a8db,1,0.0575018186624099
 'Daños económicos locales',es,Impacts,#4287f5,#6399d6,2,0.0571825789524999
@@ -63,8 +63,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Refuerzo de rutas críticas',es,Adaptation,#157a2c,#58d567,1,0.0325795685765453
 'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,1,0.0250473220753241
 'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.024792698859719
-'Rutas seguras señalizadas',es,Mitigation,#9e3215,#d64f18,1,0.0206293114954816
 'Equipamiento ARVA',es,Mitigation,#9e3215,#d64b18,1,0.0189424209519144
+'Rutas seguras señalizadas',es,Mitigation,#9e3215,#d64f18,1,0.01753491477115936
 'Avalancha húmeda',es,Hazard,#4287f5,#a3ccff,1,0.0163216136465661
 'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.0156572614167639
 'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.0147176900430309
