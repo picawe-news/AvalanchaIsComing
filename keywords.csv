@@ -19,7 +19,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Monitoreo a largo plazo',es,Adaptation,#157a2c,#4cc75d,3,0.0665355941021163
 'Lluvia sobre nieve',es,Causes,#a89216,#eddcb1,3,0.0660538666245276
 'Placa de nieve',es,Hazard,#4287f5,#78afff,1,0.0655699516490839
-'Destrucción de infraestructuras',es,Impacts,#4287f5,#6390d3,3,0.0650468667349999
 'Acumulación de nieve',es,Hazard,#4287f5,#e7f3ff,2,0.0650229671039097
 'Daños por avalancha',es,Impacts,#4287f5,#63a2d9,1,0.0648572517853538
 'avalancha de placa',es,Hazard,#4287f5,#022f78,1,0.0644050398488988
@@ -33,6 +32,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Víctimas por avalancha',es,Impacts,#4287f5,#638ed1,1,0.0615739974921646
 'accidente mortal avalancha',es,Hazard,#4287f5,#022f78,1,0.0609225993884354
 'nieve y avalanchas',es,Causes,#a89216,#d8c379,1,0.0603131538193798
+'Destrucción de infraestructuras',es,Impacts,#4287f5,#6390d3,3,0.060241396724749915
 'Avalancha de polvo',es,Hazard,#4287f5,#d8eaff,1,0.0600775306295569
 'Afectación a poblaciones',es,Impacts,#4287f5,#6393d4,1,0.0598474110940624
 'Acumulación rápida de nieve',es,Causes,#a89216,#d3bb63,1,0.0597234621087936
@@ -67,4 +67,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rutas seguras señalizadas',es,Mitigation,#9e3215,#d64f18,1,0.0175349147711593
 'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.0156572614167639
 'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.0147176900430309
-'Avalancha húmeda',es,Hazard,#4287f5,#a3ccff,1,0.013873371599581186
+'Avalancha húmeda',es,Hazard,#4287f5,#a3ccff,1,0.0138733715995811
