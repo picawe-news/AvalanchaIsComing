@@ -2,8 +2,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'avalancha',es,Hazard,#4287f5,#022f78,3,0.1269745698283424
 'Gestión sostenible del riesgo',es,Adaptation,#157a2c,#3ab24e,3,0.0919686209618563
 'Nieve inestable',es,Hazard,#4287f5,#6aa5fc,1,0.0822065326730594
-'desastre avalancha',es,Hazard,#4287f5,#022f78,1,0.0810954634995765
 'Nevada intensa',es,Hazard,#4287f5,#eff7ff,3,0.0717050346022207
+'desastre avalancha',es,Hazard,#4287f5,#022f78,1,0.07133138397464002
 'Zona de avalanchas',es,Hazard,#4287f5,#c0dcff,1,0.070367679645569
 'Bloqueo de rutas de montaña',es,Impacts,#4287f5,#63aedf,1,0.0689433659808806
 'Personas sepultadas',es,Impacts,#4287f5,#638ed5,1,0.0689299123545311
@@ -29,7 +29,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Deslizamiento de nieve',es,Hazard,#4287f5,#91c0ff,1,0.0616265564699066
 'Víctimas por avalancha',es,Impacts,#4287f5,#638ed1,1,0.0615739974921646
 'accidente mortal avalancha',es,Hazard,#4287f5,#022f78,1,0.0609225993884354
-'Educación en seguridad invernal',es,Mitigation,#9e3215,#d65218,1,0.060581484016849936
+'Educación en seguridad invernal',es,Mitigation,#9e3215,#d65218,1,0.0605814840168499
 'Destrucción de infraestructuras',es,Impacts,#4287f5,#6390d3,3,0.0602413967247499
 'Avalancha de polvo',es,Hazard,#4287f5,#d8eaff,1,0.0600775306295569
 'Afectación a poblaciones',es,Impacts,#4287f5,#6393d4,1,0.0598474110940624
