@@ -35,8 +35,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'cambio climático de avalanchas',es,Causes,#a89216,#d8c379,1,0.0593243321125521
 'avalanchas muertos',es,Hazard,#4287f5,#022f78,1,0.0580981933350098
 'Desprendimiento de nieve',es,Hazard,#4287f5,#5a99fa,1,0.0580686422350489
-'Pendiente pronunciada',es,Causes,#a89216,#e0cd8b,1,0.0577530114904384
-'Planes de evacuación locales',es,Adaptation,#157a2c,#46c058,1,0.05760909801270768
+'Planes de evacuación locales',es,Adaptation,#157a2c,#46c058,1,0.0576090980127076
 'Pérdida de vidas humanas',es,Impacts,#4287f5,#63a8db,1,0.0575018186624099
 'Pala y sonda de rescate',es,Mitigation,#9e3215,#d64418,1,0.0574728881249999
 'Daños económicos locales',es,Impacts,#4287f5,#6399d6,2,0.0571825789524999
@@ -44,6 +43,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Riesgo para actividades turísticas',es,Impacts,#4287f5,#63a5da,1,0.0558893617493593
 'Interrupción de carreteras',es,Impacts,#4287f5,#639fd8,1,0.0555061752215624
 'Diseño urbano resistente a avalanchas',es,Adaptation,#157a2c,#22963a,1,0.0543095302499999
+'Pendiente pronunciada',es,Causes,#a89216,#e0cd8b,2,0.05404130476687264
 'nieve y avalanchas',es,Causes,#a89216,#d8c379,1,0.0533663907464728
 'Avalancha seca',es,Hazard,#4287f5,#adcfff,1,0.0523310773916564
 'Sistemas de control de avalanchas',es,Mitigation,#9e3215,#d63e18,1,0.0516700860710973
