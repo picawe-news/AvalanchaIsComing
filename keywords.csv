@@ -3,7 +3,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gestión sostenible del riesgo',es,Adaptation,#157a2c,#3ab24e,3,0.0919686209618563
 'Nieve inestable',es,Hazard,#4287f5,#6aa5fc,1,0.0822065326730594
 'Nevada intensa',es,Hazard,#4287f5,#eff7ff,3,0.0717050346022207
-'desastre avalancha',es,Hazard,#4287f5,#022f78,1,0.07133138397464
 'Zona de avalanchas',es,Hazard,#4287f5,#c0dcff,1,0.070367679645569
 'Bloqueo de rutas de montaña',es,Impacts,#4287f5,#63aedf,1,0.0689433659808806
 'Personas sepultadas',es,Impacts,#4287f5,#638ed5,1,0.0689299123545311
@@ -21,6 +20,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ruptura del manto nival',es,Hazard,#4287f5,#d2e6ff,1,0.0640352733841795
 'Infraestructura resistente al clima',es,Adaptation,#157a2c,#52ce62,1,0.0640005679594686
 'Sistemas de alerta de avalanchas',es,Mitigation,#9e3215,#d63a18,1,0.0638733333197358
+'desastre avalancha',es,Hazard,#4287f5,#022f78,1,0.063181931378444
 'Placa de viento',es,Hazard,#4287f5,#7fb3ff,1,0.0628079596781855
 'Cambios bruscos de temperatura',es,Causes,#a89216,#d9c577,3,0.0622106127361072
 'Deslizamiento de nieve',es,Hazard,#4287f5,#91c0ff,1,0.0616265564699066
@@ -64,7 +64,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,1,0.0250473220753241
 'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.0210737940307611
 'Rutas seguras señalizadas',es,Mitigation,#9e3215,#d64f18,1,0.0175349147711593
-'Equipamiento ARVA',es,Mitigation,#9e3215,#d64b18,1,0.01610105780912724
+'Equipamiento ARVA',es,Mitigation,#9e3215,#d64b18,1,0.0161010578091272
 'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.0156572614167639
 'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.0147176900430309
 'Avalancha húmeda',es,Hazard,#4287f5,#a3ccff,1,0.0138733715995811
