@@ -4,7 +4,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nieve inestable',es,Hazard,#4287f5,#6aa5fc,1,0.0822065326730594
 'Nevada intensa',es,Hazard,#4287f5,#eff7ff,3,0.0717050346022207
 'Zona de avalanchas',es,Hazard,#4287f5,#c0dcff,1,0.070367679645569
-'Bloqueo de rutas de montaña',es,Impacts,#4287f5,#63aedf,1,0.0689433659808806
 'Personas sepultadas',es,Impacts,#4287f5,#638ed5,1,0.0689299123545311
 'Estratificación débil de nieve',es,Causes,#a89216,#fff4e0,1,0.0676765749999999
 'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,1,0.0671833265326347
@@ -33,6 +32,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Afectación a poblaciones',es,Impacts,#4287f5,#6393d4,1,0.0598474110940624
 'Acumulación rápida de nieve',es,Causes,#a89216,#d3bb63,1,0.0597234621087936
 'cambio climático de avalanchas',es,Causes,#a89216,#d8c379,1,0.0593243321125521
+'Bloqueo de rutas de montaña',es,Impacts,#4287f5,#63aedf,1,0.05890189108374851
 'avalanchas muertos',es,Hazard,#4287f5,#022f78,1,0.0580981933350098
 'Desprendimiento de nieve',es,Hazard,#4287f5,#5a99fa,1,0.0580686422350489
 'Planes de evacuación locales',es,Adaptation,#157a2c,#46c058,1,0.0576090980127076
