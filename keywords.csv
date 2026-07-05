@@ -29,7 +29,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Educación en seguridad invernal',es,Mitigation,#9e3215,#d65218,1,0.0605814840168499
 'Destrucción de infraestructuras',es,Impacts,#4287f5,#6390d3,3,0.0602413967247499
 'Avalancha de polvo',es,Hazard,#4287f5,#d8eaff,1,0.0600775306295569
-'Lluvia sobre nieve',es,Causes,#a89216,#eddcb1,3,0.06004667163084846
+'Lluvia sobre nieve',es,Causes,#a89216,#eddcb1,3,0.0600466716308484
 'Afectación a poblaciones',es,Impacts,#4287f5,#6393d4,1,0.0598474110940624
 'Acumulación rápida de nieve',es,Causes,#a89216,#d3bb63,1,0.0597234621087936
 'cambio climático de avalanchas',es,Causes,#a89216,#d8c379,1,0.0593243321125521
@@ -63,8 +63,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Refuerzo de rutas críticas',es,Adaptation,#157a2c,#58d567,1,0.0325795685765453
 'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,1,0.0250473220753241
 'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.0210737940307611
-'Equipamiento ARVA',es,Mitigation,#9e3215,#d64b18,1,0.0189424209519144
 'Rutas seguras señalizadas',es,Mitigation,#9e3215,#d64f18,1,0.0175349147711593
+'Equipamiento ARVA',es,Mitigation,#9e3215,#d64b18,1,0.01610105780912724
 'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.0156572614167639
 'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.0147176900430309
 'Avalancha húmeda',es,Hazard,#4287f5,#a3ccff,1,0.0138733715995811
