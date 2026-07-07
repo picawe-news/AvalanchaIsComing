@@ -46,7 +46,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'nieve y avalanchas',es,Causes,#a89216,#d8c379,1,0.0533663907464728
 'Avalancha seca',es,Hazard,#4287f5,#adcfff,1,0.0523310773916564
 'Sistemas de control de avalanchas',es,Mitigation,#9e3215,#d63e18,1,0.0516700860710973
-'Avalancha de polvo',es,Hazard,#4287f5,#d8eaff,1,0.05136593103512336
+'Avalancha de polvo',es,Hazard,#4287f5,#d8eaff,1,0.0513659310351233
 'Planificación territorial segura',es,Adaptation,#157a2c,#1b8f35,1,0.0509035889520864
 'Nieve reciente poco cohesionada',es,Causes,#a89216,#f3e4c4,1,0.0501583450874999
 'Viento fuerte sobre nieve suelta',es,Causes,#a89216,#ccb250,1,0.0479169717091588
@@ -67,4 +67,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Equipamiento ARVA',es,Mitigation,#9e3215,#d64b18,1,0.0161010578091272
 'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.0156572614167639
 'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.0147176900430309
-'Avalancha húmeda',es,Hazard,#4287f5,#a3ccff,1,0.0138733715995811
+'Avalancha húmeda',es,Hazard,#4287f5,#a3ccff,1,0.011792365859643935
