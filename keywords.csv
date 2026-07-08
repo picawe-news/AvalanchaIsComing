@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'avalancha',es,Hazard,#4287f5,#022f78,3,0.1292493407177274
 'Gestión sostenible del riesgo',es,Adaptation,#157a2c,#3ab24e,3,0.0919686209618563
-'Nieve inestable',es,Hazard,#4287f5,#6aa5fc,1,0.0822065326730594
 'Nevada intensa',es,Hazard,#4287f5,#eff7ff,3,0.0717050346022207
+'Nieve inestable',es,Hazard,#4287f5,#6aa5fc,1,0.0707756427721005
 'Personas sepultadas',es,Impacts,#4287f5,#638ed5,1,0.0689299123545311
 'Estratificación débil de nieve',es,Causes,#a89216,#fff4e0,1,0.0676765749999999
 'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,1,0.0671833265326347
@@ -53,7 +53,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Calentamiento repentino',es,Causes,#a89216,#e6d59e,1,0.0463644375314215
 'Capacitación comunitaria en riesgo',es,Adaptation,#157a2c,#5edc6c,1,0.0460938564921874
 'Inestabilidad del manto nival',es,Causes,#a89216,#c7b34a,1,0.044988185683949
-'Avalancha seca',es,Hazard,#4287f5,#adcfff,1,0.04463143078290794
+'Avalancha seca',es,Hazard,#4287f5,#adcfff,1,0.0446314307829079
 'Detonación preventiva',es,Mitigation,#9e3215,#d65a18,1,0.0442419225759104
 'Protección de bosques protectores',es,Adaptation,#157a2c,#40b953,1,0.0407428571600483
 'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.0405214863952618
