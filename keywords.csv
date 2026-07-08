@@ -12,7 +12,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Monitoreo a largo plazo',es,Adaptation,#157a2c,#4cc75d,3,0.0665355941021163
 'Placa de nieve',es,Hazard,#4287f5,#78afff,1,0.0655699516490839
 'Acumulación de nieve',es,Hazard,#4287f5,#e7f3ff,2,0.0650229671039097
-'Daños por avalancha',es,Impacts,#4287f5,#63a2d9,1,0.0648572517853538
 'avalancha de placa',es,Hazard,#4287f5,#022f78,1,0.0644050398488988
 'Estrategias de resiliencia comunitaria',es,Adaptation,#157a2c,#34ab49,1,0.0640783886282548
 'Ruptura del manto nival',es,Hazard,#4287f5,#d2e6ff,1,0.0640352733841795
@@ -36,6 +35,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Planes de evacuación locales',es,Adaptation,#157a2c,#46c058,1,0.0576090980127076
 'Pérdida de vidas humanas',es,Impacts,#4287f5,#63a8db,1,0.0575018186624099
 'Pala y sonda de rescate',es,Mitigation,#9e3215,#d64418,1,0.0574728881249999
+'Daños por avalancha',es,Impacts,#4287f5,#63a2d9,1,0.057228874017550724
 'Daños económicos locales',es,Impacts,#4287f5,#6399d6,2,0.0571825789524999
 'Perros de búsqueda en avalanchas',es,Mitigation,#9e3215,#d64718,1,0.0571716381374999
 'Riesgo para actividades turísticas',es,Impacts,#4287f5,#63a5da,1,0.0558893617493593
