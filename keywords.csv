@@ -1,7 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'avalancha',es,Hazard,#4287f5,#022f78,3,0.1292493407177274
 'Gestión sostenible del riesgo',es,Adaptation,#157a2c,#3ab24e,3,0.0831368278175778
-'Personas sepultadas',es,Impacts,#4287f5,#638ed5,2,0.07445032641044234
+'Personas sepultadas',es,Impacts,#4287f5,#638ed5,2,0.0744503264104423
+'Daños económicos locales',es,Impacts,#4287f5,#6399d6,2,0.07215556710962492
 'Nieve inestable',es,Hazard,#4287f5,#6aa5fc,1,0.0707756427721005
 'Estratificación débil de nieve',es,Causes,#a89216,#fff4e0,1,0.0676765749999999
 'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,1,0.0671833265326347
@@ -36,7 +37,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pérdida de vidas humanas',es,Impacts,#4287f5,#63a8db,1,0.0575018186624099
 'Pala y sonda de rescate',es,Mitigation,#9e3215,#d64418,1,0.0574728881249999
 'Daños por avalancha',es,Impacts,#4287f5,#63a2d9,1,0.0572288740175507
-'Daños económicos locales',es,Impacts,#4287f5,#6399d6,2,0.0571825789524999
 'Perros de búsqueda en avalanchas',es,Mitigation,#9e3215,#d64718,1,0.0571716381374999
 'Riesgo para actividades turísticas',es,Impacts,#4287f5,#63a5da,1,0.0558893617493593
 'Interrupción de carreteras',es,Impacts,#4287f5,#639fd8,1,0.0555061752215624
