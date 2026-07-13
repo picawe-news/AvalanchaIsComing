@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'avalancha',es,Hazard,#4287f5,#022f78,3,0.1292493407177274
-'Gestión sostenible del riesgo',es,Adaptation,#157a2c,#3ab24e,3,0.07562969864494112
+'Gestión sostenible del riesgo',es,Adaptation,#157a2c,#3ab24e,3,0.0756296986449411
 'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,1,0.0751809475527394
 'Personas sepultadas',es,Impacts,#4287f5,#638ed5,2,0.0744503264104423
 'Nieve inestable',es,Hazard,#4287f5,#6aa5fc,1,0.0707756427721005
@@ -9,7 +9,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Daños económicos locales',es,Impacts,#4287f5,#6399d6,2,0.0652326220431811
 'Acumulación de nieve',es,Hazard,#4287f5,#e7f3ff,2,0.0650229671039097
 'avalancha de placa',es,Hazard,#4287f5,#022f78,1,0.0644050398488988
-'Estrategias de resiliencia comunitaria',es,Adaptation,#157a2c,#34ab49,1,0.0640783886282548
 'Sistemas de alerta de avalanchas',es,Mitigation,#9e3215,#d63a18,1,0.0638733333197358
 'desastre avalancha',es,Hazard,#4287f5,#022f78,1,0.063181931378444
 'Placa de viento',es,Hazard,#4287f5,#7fb3ff,1,0.0628079596781855
@@ -34,6 +33,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Daños por avalancha',es,Impacts,#4287f5,#63a2d9,1,0.0572288740175507
 'Perros de búsqueda en avalanchas',es,Mitigation,#9e3215,#d64718,1,0.0571716381374999
 'Placa de nieve',es,Hazard,#4287f5,#78afff,1,0.0566345489017213
+'Estrategias de resiliencia comunitaria',es,Adaptation,#157a2c,#34ab49,1,0.056416825334016575
 'Lluvia sobre nieve',es,Causes,#a89216,#eddcb1,3,0.0559906158862211
 'Riesgo para actividades turísticas',es,Impacts,#4287f5,#63a5da,1,0.0558893617493593
 'Interrupción de carreteras',es,Impacts,#4287f5,#639fd8,1,0.0555061752215624
