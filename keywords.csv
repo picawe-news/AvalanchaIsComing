@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'avalancha',es,Hazard,#4287f5,#022f78,3,0.1292493407177274
-'Gestión sostenible del riesgo',es,Adaptation,#157a2c,#3ab24e,3,0.0831368278175778
+'Gestión sostenible del riesgo',es,Adaptation,#157a2c,#3ab24e,3,0.07562969864494112
 'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,1,0.0751809475527394
 'Personas sepultadas',es,Impacts,#4287f5,#638ed5,2,0.0744503264104423
 'Nieve inestable',es,Hazard,#4287f5,#6aa5fc,1,0.0707756427721005
@@ -40,7 +40,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ruptura del manto nival',es,Hazard,#4287f5,#d2e6ff,1,0.0544299823765525
 'Diseño urbano resistente a avalanchas',es,Adaptation,#157a2c,#22963a,1,0.0543095302499999
 'Pendiente pronunciada',es,Causes,#a89216,#e0cd8b,2,0.0540413047668726
-'Nevada intensa',es,Hazard,#4287f5,#eff7ff,2,0.053592351000104455
+'Nevada intensa',es,Hazard,#4287f5,#eff7ff,2,0.0535923510001044
 'nieve y avalanchas',es,Causes,#a89216,#d8c379,1,0.0533663907464728
 'Deslizamiento de nieve',es,Hazard,#4287f5,#91c0ff,1,0.0528326179994206
 'Sistemas de control de avalanchas',es,Mitigation,#9e3215,#d63e18,1,0.0516700860710973
