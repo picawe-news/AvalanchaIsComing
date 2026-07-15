@@ -1,13 +1,13 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'avalancha',es,Hazard,#4287f5,#022f78,3,0.1292493407177274
 'Gestión sostenible del riesgo',es,Adaptation,#157a2c,#3ab24e,3,0.0756296986449411
-'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,1,0.0751809475527394
 'Personas sepultadas',es,Impacts,#4287f5,#638ed5,2,0.0744503264104423
 'Nieve inestable',es,Hazard,#4287f5,#6aa5fc,1,0.0707756427721005
 'Vibraciones humanas o maquinaria',es,Causes,#a89216,#f9eccf,1,0.0667825775
 'Alud',es,Hazard,#4287f5,#4a8df7,2,0.0665608412711782
 'Daños económicos locales',es,Impacts,#4287f5,#6399d6,2,0.0652326220431811
 'Acumulación de nieve',es,Hazard,#4287f5,#e7f3ff,2,0.0650229671039097
+'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,1,0.06480389541982849
 'avalancha de placa',es,Hazard,#4287f5,#022f78,1,0.0644050398488988
 'Sistemas de alerta de avalanchas',es,Mitigation,#9e3215,#d63a18,1,0.0638733333197358
 'desastre avalancha',es,Hazard,#4287f5,#022f78,1,0.063181931378444
@@ -55,7 +55,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sistemas de control de avalanchas',es,Mitigation,#9e3215,#d63e18,1,0.0443696181604327
 'Detonación preventiva',es,Mitigation,#9e3215,#d65a18,1,0.0442419225759104
 'Protección de bosques protectores',es,Adaptation,#157a2c,#40b953,1,0.0407428571600483
-'Viento fuerte sobre nieve suelta',es,Causes,#a89216,#ccb250,1,0.040729425952784976
+'Viento fuerte sobre nieve suelta',es,Causes,#a89216,#ccb250,1,0.0407294259527849
 'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.0405214863952618
 'Manto nivoso inestable',es,Hazard,#4287f5,#99c6ff,1,0.0396654466507093
 'Redes de contención de nieve',es,Mitigation,#9e3215,#d64e18,1,0.0391402705885114
