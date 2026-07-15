@@ -38,12 +38,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Diseño urbano resistente a avalanchas',es,Adaptation,#157a2c,#22963a,1,0.0543095302499999
 'Pendiente pronunciada',es,Causes,#a89216,#e0cd8b,2,0.0540413047668726
 'Nevada intensa',es,Hazard,#4287f5,#eff7ff,2,0.0535923510001044
-'Pérdida de vidas humanas',es,Impacts,#4287f5,#63a8db,2,0.05337699586304842
+'Pérdida de vidas humanas',es,Impacts,#4287f5,#63a8db,2,0.0533769958630484
 'nieve y avalanchas',es,Causes,#a89216,#d8c379,1,0.0533663907464728
 'Deslizamiento de nieve',es,Hazard,#4287f5,#91c0ff,1,0.0528326179994206
 'Afectación a poblaciones',es,Impacts,#4287f5,#6393d4,1,0.052070419429953
 'Avalancha de polvo',es,Hazard,#4287f5,#d8eaff,1,0.0513659310351233
-'Planificación territorial segura',es,Adaptation,#157a2c,#1b8f35,1,0.0509035889520864
 'Nieve reciente poco cohesionada',es,Causes,#a89216,#f3e4c4,1,0.0501583450874999
 'Placa de nieve',es,Hazard,#4287f5,#78afff,1,0.0490394565664631
 'Viento fuerte sobre nieve suelta',es,Causes,#a89216,#ccb250,1,0.0479169717091588
@@ -53,6 +52,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Capacitación comunitaria en riesgo',es,Adaptation,#157a2c,#5edc6c,1,0.0460938564921874
 'Inestabilidad del manto nival',es,Causes,#a89216,#c7b34a,1,0.044988185683949
 'Avalancha seca',es,Hazard,#4287f5,#adcfff,1,0.0446314307829079
+'Planificación territorial segura',es,Adaptation,#157a2c,#1b8f35,1,0.04461818560927344
 'Sistemas de control de avalanchas',es,Mitigation,#9e3215,#d63e18,1,0.0443696181604327
 'Detonación preventiva',es,Mitigation,#9e3215,#d65a18,1,0.0442419225759104
 'Protección de bosques protectores',es,Adaptation,#157a2c,#40b953,1,0.0407428571600483
