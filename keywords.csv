@@ -7,7 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alud',es,Hazard,#4287f5,#4a8df7,2,0.0665608412711782
 'Daños económicos locales',es,Impacts,#4287f5,#6399d6,2,0.0652326220431811
 'Acumulación de nieve',es,Hazard,#4287f5,#e7f3ff,2,0.0650229671039097
-'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,1,0.06480389541982849
+'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,1,0.0648038954198284
 'avalancha de placa',es,Hazard,#4287f5,#022f78,1,0.0644050398488988
 'Sistemas de alerta de avalanchas',es,Mitigation,#9e3215,#d63a18,1,0.0638733333197358
 'desastre avalancha',es,Hazard,#4287f5,#022f78,1,0.063181931378444
@@ -60,7 +60,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Manto nivoso inestable',es,Hazard,#4287f5,#99c6ff,1,0.0396654466507093
 'Redes de contención de nieve',es,Mitigation,#9e3215,#d64e18,1,0.0391402705885114
 'Terreno propenso a avalanchas',es,Hazard,#4287f5,#f5faff,1,0.0384722117242421
-'Refuerzo de rutas críticas',es,Adaptation,#157a2c,#58d567,1,0.0325795685765453
+'Refuerzo de rutas críticas',es,Adaptation,#157a2c,#58d567,1,0.028442708290063505
 'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,1,0.0250473220753241
 'Rutas seguras señalizadas',es,Mitigation,#9e3215,#d64f18,1,0.0175349147711593
 'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.0156572614167639
