@@ -25,6 +25,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'daños por avalancha',es,Hazard,#4287f5,#022f78,1,0.0588286619903085
 'avalanchas muertos',es,Hazard,#4287f5,#022f78,1,0.0580981933350098
 'Desprendimiento de nieve',es,Hazard,#4287f5,#5a99fa,1,0.0580686422350489
+'Pendiente pronunciada',es,Causes,#a89216,#e0cd8b,2,0.05770462587002353
 'Planes de evacuación locales',es,Adaptation,#157a2c,#46c058,1,0.0576090980127076
 'Estratificación débil de nieve',es,Causes,#a89216,#fff4e0,1,0.0575250887499999
 'Pala y sonda de rescate',es,Mitigation,#9e3215,#d64418,1,0.0574728881249999
@@ -36,7 +37,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Interrupción de carreteras',es,Impacts,#4287f5,#639fd8,1,0.0555061752215624
 'Ruptura del manto nival',es,Hazard,#4287f5,#d2e6ff,1,0.0544299823765525
 'Diseño urbano resistente a avalanchas',es,Adaptation,#157a2c,#22963a,1,0.0543095302499999
-'Pendiente pronunciada',es,Causes,#a89216,#e0cd8b,2,0.0540413047668726
 'Nevada intensa',es,Hazard,#4287f5,#eff7ff,2,0.0535923510001044
 'Pérdida de vidas humanas',es,Impacts,#4287f5,#63a8db,2,0.0533769958630484
 'nieve y avalanchas',es,Causes,#a89216,#d8c379,1,0.0533663907464728
@@ -60,7 +60,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Manto nivoso inestable',es,Hazard,#4287f5,#99c6ff,1,0.0396654466507093
 'Redes de contención de nieve',es,Mitigation,#9e3215,#d64e18,1,0.0391402705885114
 'Terreno propenso a avalanchas',es,Hazard,#4287f5,#f5faff,1,0.0384722117242421
-'Refuerzo de rutas críticas',es,Adaptation,#157a2c,#58d567,1,0.028442708290063505
+'Refuerzo de rutas críticas',es,Adaptation,#157a2c,#58d567,1,0.0284427082900635
 'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,1,0.0250473220753241
 'Rutas seguras señalizadas',es,Mitigation,#9e3215,#d64f18,1,0.0175349147711593
 'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.0156572614167639
