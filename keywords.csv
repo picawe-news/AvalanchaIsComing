@@ -1,5 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'avalancha',es,Hazard,#4287f5,#022f78,3,0.1292493407177274
+'Cambios bruscos de temperatura',es,Causes,#a89216,#d9c577,3,0.08101277400750931
 'Gestión sostenible del riesgo',es,Adaptation,#157a2c,#3ab24e,3,0.0756296986449411
 'Personas sepultadas',es,Impacts,#4287f5,#638ed5,2,0.0744503264104423
 'Nieve inestable',es,Hazard,#4287f5,#6aa5fc,1,0.0707756427721005
@@ -11,7 +12,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sistemas de alerta de avalanchas',es,Mitigation,#9e3215,#d63a18,1,0.0638733333197358
 'desastre avalancha',es,Hazard,#4287f5,#022f78,1,0.063181931378444
 'Placa de viento',es,Hazard,#4287f5,#7fb3ff,1,0.0628079596781855
-'Cambios bruscos de temperatura',es,Causes,#a89216,#d9c577,3,0.0622106127361072
 'Zona de avalanchas',es,Hazard,#4287f5,#c0dcff,1,0.0620627526987336
 'Víctimas por avalancha',es,Impacts,#4287f5,#638ed1,1,0.0615739974921646
 'Monitoreo a largo plazo',es,Adaptation,#157a2c,#4cc75d,3,0.0615090199867988
@@ -30,7 +30,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pala y sonda de rescate',es,Mitigation,#9e3215,#d64418,1,0.0574728881249999
 'Daños por avalancha',es,Impacts,#4287f5,#63a2d9,1,0.0572288740175507
 'Perros de búsqueda en avalanchas',es,Mitigation,#9e3215,#d64718,1,0.0571716381374999
-'Vibraciones humanas o maquinaria',es,Causes,#a89216,#f9eccf,1,0.056765190874999996
+'Vibraciones humanas o maquinaria',es,Causes,#a89216,#f9eccf,1,0.0567651908749999
 'Estrategias de resiliencia comunitaria',es,Adaptation,#157a2c,#34ab49,1,0.0564168253340165
 'Lluvia sobre nieve',es,Causes,#a89216,#eddcb1,3,0.0559906158862211
 'Riesgo para actividades turísticas',es,Impacts,#4287f5,#63a5da,1,0.0558893617493593
