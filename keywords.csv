@@ -4,7 +4,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gestión sostenible del riesgo',es,Adaptation,#157a2c,#3ab24e,3,0.0756296986449411
 'Nieve inestable',es,Hazard,#4287f5,#6aa5fc,1,0.0707756427721005
 'Alud',es,Hazard,#4287f5,#4a8df7,2,0.0665608412711782
-'Personas sepultadas',es,Impacts,#4287f5,#638ed5,2,0.06628357244887595
+'Personas sepultadas',es,Impacts,#4287f5,#638ed5,2,0.0662835724488759
 'Daños económicos locales',es,Impacts,#4287f5,#6399d6,2,0.0652326220431811
 'Acumulación de nieve',es,Hazard,#4287f5,#e7f3ff,2,0.0650229671039097
 'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,1,0.0648038954198284
@@ -66,5 +66,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.0156572614167639
 'Equipamiento ARVA',es,Mitigation,#9e3215,#d64b18,1,0.0136858991377581
 'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.012941943759141
-'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.0125100365365762
+'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.01063353105608977
 'Avalancha húmeda',es,Hazard,#4287f5,#a3ccff,1,0.0086699993335927
