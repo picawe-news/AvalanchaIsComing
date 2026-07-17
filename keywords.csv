@@ -2,9 +2,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'avalancha',es,Hazard,#4287f5,#022f78,3,0.1507279755191592
 'Cambios bruscos de temperatura',es,Causes,#a89216,#d9c577,3,0.0810127740075093
 'Gestión sostenible del riesgo',es,Adaptation,#157a2c,#3ab24e,3,0.0756296986449411
-'Personas sepultadas',es,Impacts,#4287f5,#638ed5,2,0.0744503264104423
 'Nieve inestable',es,Hazard,#4287f5,#6aa5fc,1,0.0707756427721005
 'Alud',es,Hazard,#4287f5,#4a8df7,2,0.0665608412711782
+'Personas sepultadas',es,Impacts,#4287f5,#638ed5,2,0.06628357244887595
 'Daños económicos locales',es,Impacts,#4287f5,#6399d6,2,0.0652326220431811
 'Acumulación de nieve',es,Hazard,#4287f5,#e7f3ff,2,0.0650229671039097
 'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,1,0.0648038954198284
@@ -67,4 +67,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Equipamiento ARVA',es,Mitigation,#9e3215,#d64b18,1,0.0136858991377581
 'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.012941943759141
 'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.0125100365365762
-'Avalancha húmeda',es,Hazard,#4287f5,#a3ccff,1,0.008669999333592705
+'Avalancha húmeda',es,Hazard,#4287f5,#a3ccff,1,0.0086699993335927
