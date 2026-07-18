@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'avalancha',es,Hazard,#4287f5,#022f78,3,0.1507279755191592
+'avalancha',es,Hazard,#4287f5,#022f78,3,0.13307573919128532
 'Cambios bruscos de temperatura',es,Causes,#a89216,#d9c577,3,0.0810127740075093
 'Gestión sostenible del riesgo',es,Adaptation,#157a2c,#3ab24e,3,0.0756296986449411
 'Nieve inestable',es,Hazard,#4287f5,#6aa5fc,1,0.0707756427721005
@@ -32,7 +32,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vibraciones humanas o maquinaria',es,Causes,#a89216,#f9eccf,1,0.0567651908749999
 'Estrategias de resiliencia comunitaria',es,Adaptation,#157a2c,#34ab49,1,0.0564168253340165
 'Lluvia sobre nieve',es,Causes,#a89216,#eddcb1,3,0.0559906158862211
-'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,1,0.05598340110685413
+'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,1,0.0559834011068541
 'Riesgo para actividades turísticas',es,Impacts,#4287f5,#63a5da,1,0.0558893617493593
 'Interrupción de carreteras',es,Impacts,#4287f5,#639fd8,1,0.0555061752215624
 'Ruptura del manto nival',es,Hazard,#4287f5,#d2e6ff,1,0.0544299823765525
