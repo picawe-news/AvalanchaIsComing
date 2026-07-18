@@ -7,7 +7,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Personas sepultadas',es,Impacts,#4287f5,#638ed5,2,0.0662835724488759
 'Daños económicos locales',es,Impacts,#4287f5,#6399d6,2,0.0652326220431811
 'Acumulación de nieve',es,Hazard,#4287f5,#e7f3ff,2,0.0650229671039097
-'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,1,0.0648038954198284
 'avalancha de placa',es,Hazard,#4287f5,#022f78,1,0.0644050398488988
 'Sistemas de alerta de avalanchas',es,Mitigation,#9e3215,#d63a18,1,0.0638733333197358
 'desastre avalancha',es,Hazard,#4287f5,#022f78,1,0.063181931378444
@@ -33,6 +32,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vibraciones humanas o maquinaria',es,Causes,#a89216,#f9eccf,1,0.0567651908749999
 'Estrategias de resiliencia comunitaria',es,Adaptation,#157a2c,#34ab49,1,0.0564168253340165
 'Lluvia sobre nieve',es,Causes,#a89216,#eddcb1,3,0.0559906158862211
+'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,1,0.05598340110685413
 'Riesgo para actividades turísticas',es,Impacts,#4287f5,#63a5da,1,0.0558893617493593
 'Interrupción de carreteras',es,Impacts,#4287f5,#639fd8,1,0.0555061752215624
 'Ruptura del manto nival',es,Hazard,#4287f5,#d2e6ff,1,0.0544299823765525
@@ -66,5 +66,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.0156572614167639
 'Equipamiento ARVA',es,Mitigation,#9e3215,#d64b18,1,0.0136858991377581
 'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.012941943759141
-'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.01063353105608977
+'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.0106335310560897
 'Avalancha húmeda',es,Hazard,#4287f5,#a3ccff,1,0.0086699993335927
