@@ -5,12 +5,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alud',es,Hazard,#4287f5,#4a8df7,2,0.0665608412711782
 'Personas sepultadas',es,Impacts,#4287f5,#638ed5,2,0.0662835724488759
 'Daños económicos locales',es,Impacts,#4287f5,#6399d6,2,0.0652326220431811
-'Acumulación de nieve',es,Hazard,#4287f5,#e7f3ff,2,0.0650229671039097
 'avalancha de placa',es,Hazard,#4287f5,#022f78,1,0.0644050398488988
 'Sistemas de alerta de avalanchas',es,Mitigation,#9e3215,#d63a18,1,0.0638733333197358
 'desastre avalancha',es,Hazard,#4287f5,#022f78,1,0.063181931378444
 'Placa de viento',es,Hazard,#4287f5,#7fb3ff,1,0.0628079596781855
 'Zona de avalanchas',es,Hazard,#4287f5,#c0dcff,1,0.0620627526987336
+'Acumulación de nieve',es,Hazard,#4287f5,#e7f3ff,2,0.06158419340195961
 'Víctimas por avalancha',es,Impacts,#4287f5,#638ed1,1,0.0615739974921646
 'accidente mortal avalancha',es,Hazard,#4287f5,#022f78,1,0.0609225993884354
 'Nieve inestable',es,Hazard,#4287f5,#6aa5fc,1,0.0607593563562854
@@ -48,7 +48,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Calentamiento repentino',es,Causes,#a89216,#e6d59e,1,0.0463644375314215
 'Infraestructura resistente al clima',es,Adaptation,#157a2c,#52ce62,1,0.046240410350716
 'Capacitación comunitaria en riesgo',es,Adaptation,#157a2c,#5edc6c,1,0.0460938564921874
-'Afectación a poblaciones',es,Impacts,#4287f5,#6393d4,1,0.045009931515460046
+'Afectación a poblaciones',es,Impacts,#4287f5,#6393d4,1,0.04500993151546
 'Inestabilidad del manto nival',es,Causes,#a89216,#c7b34a,1,0.044988185683949
 'Avalancha seca',es,Hazard,#4287f5,#adcfff,1,0.0446314307829079
 'Planificación territorial segura',es,Adaptation,#157a2c,#1b8f35,1,0.0446181856092734
