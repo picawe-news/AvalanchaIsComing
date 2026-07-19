@@ -38,13 +38,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Diseño urbano resistente a avalanchas',es,Adaptation,#157a2c,#22963a,1,0.0543095302499999
 'Nevada intensa',es,Hazard,#4287f5,#eff7ff,2,0.0535923510001044
 'Pérdida de vidas humanas',es,Impacts,#4287f5,#63a8db,2,0.0533769958630484
-'nieve y avalanchas',es,Causes,#a89216,#d8c379,1,0.0533663907464728
 'Deslizamiento de nieve',es,Hazard,#4287f5,#91c0ff,1,0.0528326179994206
 'Avalancha de polvo',es,Hazard,#4287f5,#d8eaff,1,0.0513659310351233
 'Nieve reciente poco cohesionada',es,Causes,#a89216,#f3e4c4,1,0.0501583450874999
-'Desprendimiento de nieve',es,Hazard,#4287f5,#5a99fa,1,0.04950836089979157
+'Desprendimiento de nieve',es,Hazard,#4287f5,#5a99fa,1,0.0495083608997915
 'Placa de nieve',es,Hazard,#4287f5,#78afff,1,0.0490394565664631
 'Corredor de avalanchas',es,Hazard,#4287f5,#c9e1ff,1,0.0470286949026634
+'nieve y avalanchas',es,Causes,#a89216,#d8c379,1,0.046411537134501885
 'Calentamiento repentino',es,Causes,#a89216,#e6d59e,1,0.0463644375314215
 'Infraestructura resistente al clima',es,Adaptation,#157a2c,#52ce62,1,0.046240410350716
 'Capacitación comunitaria en riesgo',es,Adaptation,#157a2c,#5edc6c,1,0.0460938564921874
