@@ -5,9 +5,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alud',es,Hazard,#4287f5,#4a8df7,2,0.0665608412711782
 'Personas sepultadas',es,Impacts,#4287f5,#638ed5,2,0.0662835724488759
 'Daños económicos locales',es,Impacts,#4287f5,#6399d6,2,0.0652326220431811
+'desastre avalancha',es,Hazard,#4287f5,#022f78,1,0.06454238167167739
 'avalancha de placa',es,Hazard,#4287f5,#022f78,1,0.0644050398488988
 'Sistemas de alerta de avalanchas',es,Mitigation,#9e3215,#d63a18,1,0.0638733333197358
-'desastre avalancha',es,Hazard,#4287f5,#022f78,1,0.063181931378444
 'Placa de viento',es,Hazard,#4287f5,#7fb3ff,1,0.0628079596781855
 'Zona de avalanchas',es,Hazard,#4287f5,#c0dcff,1,0.0620627526987336
 'Acumulación de nieve',es,Hazard,#4287f5,#e7f3ff,2,0.0615841934019596
@@ -39,7 +39,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pérdida de vidas humanas',es,Impacts,#4287f5,#63a8db,2,0.0533769958630484
 'Deslizamiento de nieve',es,Hazard,#4287f5,#91c0ff,1,0.0528326179994206
 'Avalancha de polvo',es,Hazard,#4287f5,#d8eaff,1,0.0513659310351233
-'Nevada intensa',es,Hazard,#4287f5,#eff7ff,2,0.05089928289554328
+'Nevada intensa',es,Hazard,#4287f5,#eff7ff,2,0.0508992828955432
 'Nieve reciente poco cohesionada',es,Causes,#a89216,#f3e4c4,1,0.0501583450874999
 'Desprendimiento de nieve',es,Hazard,#4287f5,#5a99fa,1,0.0495083608997915
 'Placa de nieve',es,Hazard,#4287f5,#78afff,1,0.0490394565664631
