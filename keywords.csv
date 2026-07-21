@@ -1,6 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'avalancha',es,Hazard,#4287f5,#022f78,3,0.1330757391912853
-'Placa de viento',es,Hazard,#4287f5,#7fb3ff,2,0.10198712572645768
+'Placa de viento',es,Hazard,#4287f5,#7fb3ff,2,0.1019871257264576
+'Planificación territorial segura',es,Adaptation,#157a2c,#1b8f35,1,0.0836755327678824
 'Cambios bruscos de temperatura',es,Causes,#a89216,#d9c577,3,0.0810127740075093
 'Víctimas por avalancha',es,Impacts,#4287f5,#638ed1,2,0.0704882728683399
 'Gestión sostenible del riesgo',es,Adaptation,#157a2c,#3ab24e,3,0.0692485188481999
@@ -51,7 +52,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Afectación a poblaciones',es,Impacts,#4287f5,#6393d4,1,0.04500993151546
 'Inestabilidad del manto nival',es,Causes,#a89216,#c7b34a,1,0.044988185683949
 'Avalancha seca',es,Hazard,#4287f5,#adcfff,1,0.0446314307829079
-'Planificación territorial segura',es,Adaptation,#157a2c,#1b8f35,1,0.0446181856092734
 'Sistemas de control de avalanchas',es,Mitigation,#9e3215,#d63e18,1,0.0443696181604327
 'Detonación preventiva',es,Mitigation,#9e3215,#d65a18,1,0.0442419225759104
 'Protección de bosques protectores',es,Adaptation,#157a2c,#40b953,1,0.0407428571600483
