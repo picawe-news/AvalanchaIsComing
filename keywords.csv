@@ -62,9 +62,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Terreno propenso a avalanchas',es,Hazard,#4287f5,#f5faff,1,0.0384722117242421
 'Refuerzo de rutas críticas',es,Adaptation,#157a2c,#58d567,1,0.0284427082900635
 'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,1,0.0250473220753241
-'Rutas seguras señalizadas',es,Mitigation,#9e3215,#d64f18,1,0.0175349147711593
+'Rutas seguras señalizadas',es,Mitigation,#9e3215,#d64f18,1,0.014904677555485402
 'Equipamiento ARVA',es,Mitigation,#9e3215,#d64b18,1,0.0136858991377581
-'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.013308672204249314
+'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.0133086722042493
 'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.012941943759141
 'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.0106335310560897
 'Avalancha húmeda',es,Hazard,#4287f5,#a3ccff,1,0.0086699993335927
