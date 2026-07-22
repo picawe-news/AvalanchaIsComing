@@ -4,13 +4,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Planificación territorial segura',es,Adaptation,#157a2c,#1b8f35,1,0.0836755327678824
 'Cambios bruscos de temperatura',es,Causes,#a89216,#d9c577,3,0.0810127740075093
 'Víctimas por avalancha',es,Impacts,#4287f5,#638ed1,2,0.0704882728683399
-'Gestión sostenible del riesgo',es,Adaptation,#157a2c,#3ab24e,3,0.0692485188481999
 'Alud',es,Hazard,#4287f5,#4a8df7,2,0.0665608412711782
 'Personas sepultadas',es,Impacts,#4287f5,#638ed5,2,0.0662835724488759
 'Daños económicos locales',es,Impacts,#4287f5,#6399d6,2,0.0652326220431811
 'desastre avalancha',es,Hazard,#4287f5,#022f78,1,0.0645423816716773
 'avalancha de placa',es,Hazard,#4287f5,#022f78,1,0.0644050398488988
 'Sistemas de alerta de avalanchas',es,Mitigation,#9e3215,#d63a18,1,0.0638733333197358
+'Gestión sostenible del riesgo',es,Adaptation,#157a2c,#3ab24e,3,0.0638244860209699
 'Zona de avalanchas',es,Hazard,#4287f5,#c0dcff,1,0.0620627526987336
 'Acumulación de nieve',es,Hazard,#4287f5,#e7f3ff,2,0.0615841934019596
 'Nieve inestable',es,Hazard,#4287f5,#6aa5fc,1,0.0607593563562854
@@ -62,7 +62,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Terreno propenso a avalanchas',es,Hazard,#4287f5,#f5faff,1,0.0384722117242421
 'Refuerzo de rutas críticas',es,Adaptation,#157a2c,#58d567,1,0.0284427082900635
 'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,1,0.0250473220753241
-'Rutas seguras señalizadas',es,Mitigation,#9e3215,#d64f18,1,0.014904677555485402
+'Rutas seguras señalizadas',es,Mitigation,#9e3215,#d64f18,1,0.0149046775554854
 'Equipamiento ARVA',es,Mitigation,#9e3215,#d64b18,1,0.0136858991377581
 'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.0133086722042493
 'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.012941943759141
