@@ -3,6 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Placa de viento',es,Hazard,#4287f5,#7fb3ff,2,0.0902894168674889
 'Planificación territorial segura',es,Adaptation,#157a2c,#1b8f35,1,0.0836755327678824
 'Cambios bruscos de temperatura',es,Causes,#a89216,#d9c577,3,0.0810127740075093
+'cambio climático de avalanchas',es,Causes,#a89216,#d8c379,1,0.07322571229566929
 'Víctimas por avalancha',es,Impacts,#4287f5,#638ed1,2,0.0704882728683399
 'Alud',es,Hazard,#4287f5,#4a8df7,2,0.0665608412711782
 'Daños económicos locales',es,Impacts,#4287f5,#6399d6,2,0.0652326220431811
@@ -16,7 +17,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Educación en seguridad invernal',es,Mitigation,#9e3215,#d65218,1,0.0605814840168499
 'Destrucción de infraestructuras',es,Impacts,#4287f5,#6390d3,3,0.0602413967247499
 'Acumulación rápida de nieve',es,Causes,#a89216,#d3bb63,1,0.0597234621087936
-'cambio climático de avalanchas',es,Causes,#a89216,#d8c379,1,0.0593243321125521
 'Bloqueo de rutas de montaña',es,Impacts,#4287f5,#63aedf,1,0.0589018910837485
 'daños por avalancha',es,Hazard,#4287f5,#022f78,1,0.0588286619903085
 'avalanchas muertos',es,Hazard,#4287f5,#022f78,1,0.0580981933350098
