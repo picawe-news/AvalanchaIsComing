@@ -3,7 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Placa de viento',es,Hazard,#4287f5,#7fb3ff,2,0.0902894168674889
 'Cambios bruscos de temperatura',es,Causes,#a89216,#d9c577,3,0.0810127740075093
 'cambio climático de avalanchas',es,Causes,#a89216,#d8c379,1,0.0732257122956692
-'Planificación territorial segura',es,Adaptation,#157a2c,#1b8f35,1,0.07187427785270004
+'Planificación territorial segura',es,Adaptation,#157a2c,#1b8f35,1,0.0718742778527
 'Alud',es,Hazard,#4287f5,#4a8df7,2,0.0665608412711782
 'Daños económicos locales',es,Impacts,#4287f5,#6399d6,2,0.0652326220431811
 'avalancha de placa',es,Hazard,#4287f5,#022f78,1,0.0644050398488988
@@ -14,7 +14,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Acumulación de nieve',es,Hazard,#4287f5,#e7f3ff,2,0.0615841934019596
 'Educación en seguridad invernal',es,Mitigation,#9e3215,#d65218,1,0.0605814840168499
 'Destrucción de infraestructuras',es,Impacts,#4287f5,#6390d3,3,0.0602413967247499
-'Víctimas por avalancha',es,Impacts,#4287f5,#638ed1,1,0.0599153769380889
 'Acumulación rápida de nieve',es,Causes,#a89216,#d3bb63,1,0.0597234621087936
 'Bloqueo de rutas de montaña',es,Impacts,#4287f5,#63aedf,1,0.0589018910837485
 'daños por avalancha',es,Hazard,#4287f5,#022f78,1,0.0588286619903085
@@ -29,6 +28,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Perros de búsqueda en avalanchas',es,Mitigation,#9e3215,#d64718,1,0.0571716381374999
 'Vibraciones humanas o maquinaria',es,Causes,#a89216,#f9eccf,1,0.0567651908749999
 'Estrategias de resiliencia comunitaria',es,Adaptation,#157a2c,#34ab49,1,0.0564168253340165
+'Víctimas por avalancha',es,Impacts,#4287f5,#638ed1,2,0.056334937136505996
 'Lluvia sobre nieve',es,Causes,#a89216,#eddcb1,3,0.0559906158862211
 'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,1,0.0559834011068541
 'Riesgo para actividades turísticas',es,Impacts,#4287f5,#63a5da,1,0.0558893617493593
