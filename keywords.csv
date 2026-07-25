@@ -9,13 +9,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sistemas de alerta de avalanchas',es,Mitigation,#9e3215,#d63a18,1,0.0638733333197358
 'Gestión sostenible del riesgo',es,Adaptation,#157a2c,#3ab24e,3,0.0638244860209699
 'Personas sepultadas',es,Impacts,#4287f5,#638ed5,3,0.0637327706724536
-'Planificación territorial segura',es,Adaptation,#157a2c,#1b8f35,1,0.06214324117479499
+'Planificación territorial segura',es,Adaptation,#157a2c,#1b8f35,1,0.0621432411747949
 'Zona de avalanchas',es,Hazard,#4287f5,#c0dcff,1,0.0620627526987336
 'Acumulación de nieve',es,Hazard,#4287f5,#e7f3ff,2,0.0615841934019596
 'Educación en seguridad invernal',es,Mitigation,#9e3215,#d65218,1,0.0605814840168499
 'Destrucción de infraestructuras',es,Impacts,#4287f5,#6390d3,3,0.0602413967247499
 'Acumulación rápida de nieve',es,Causes,#a89216,#d3bb63,1,0.0597234621087936
-'Bloqueo de rutas de montaña',es,Impacts,#4287f5,#63aedf,1,0.0589018910837485
 'daños por avalancha',es,Hazard,#4287f5,#022f78,1,0.0588286619903085
 'avalanchas muertos',es,Hazard,#4287f5,#022f78,1,0.0580981933350098
 'Pendiente pronunciada',es,Causes,#a89216,#e0cd8b,2,0.0577046258700235
@@ -41,6 +40,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'accidente mortal avalancha',es,Hazard,#4287f5,#022f78,1,0.05178420948017
 'Avalancha de polvo',es,Hazard,#4287f5,#d8eaff,1,0.0513659310351233
 'Nevada intensa',es,Hazard,#4287f5,#eff7ff,2,0.0508992828955432
+'Bloqueo de rutas de montaña',es,Impacts,#4287f5,#63aedf,1,0.05081668242118623
 'Nieve reciente poco cohesionada',es,Causes,#a89216,#f3e4c4,1,0.0501583450874999
 'Desprendimiento de nieve',es,Hazard,#4287f5,#5a99fa,1,0.0495083608997915
 'Placa de nieve',es,Hazard,#4287f5,#78afff,1,0.0490394565664631
