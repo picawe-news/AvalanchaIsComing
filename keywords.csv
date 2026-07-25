@@ -3,13 +3,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Placa de viento',es,Hazard,#4287f5,#7fb3ff,2,0.0902894168674889
 'Cambios bruscos de temperatura',es,Causes,#a89216,#d9c577,3,0.0810127740075093
 'cambio climático de avalanchas',es,Causes,#a89216,#d8c379,1,0.0732257122956692
-'Planificación territorial segura',es,Adaptation,#157a2c,#1b8f35,1,0.0718742778527
 'Alud',es,Hazard,#4287f5,#4a8df7,2,0.0665608412711782
 'Daños económicos locales',es,Impacts,#4287f5,#6399d6,2,0.0652326220431811
 'avalancha de placa',es,Hazard,#4287f5,#022f78,1,0.0644050398488988
 'Sistemas de alerta de avalanchas',es,Mitigation,#9e3215,#d63a18,1,0.0638733333197358
 'Gestión sostenible del riesgo',es,Adaptation,#157a2c,#3ab24e,3,0.0638244860209699
 'Personas sepultadas',es,Impacts,#4287f5,#638ed5,3,0.0637327706724536
+'Planificación territorial segura',es,Adaptation,#157a2c,#1b8f35,1,0.06214324117479499
 'Zona de avalanchas',es,Hazard,#4287f5,#c0dcff,1,0.0620627526987336
 'Acumulación de nieve',es,Hazard,#4287f5,#e7f3ff,2,0.0615841934019596
 'Educación en seguridad invernal',es,Mitigation,#9e3215,#d65218,1,0.0605814840168499
@@ -61,7 +61,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Redes de contención de nieve',es,Mitigation,#9e3215,#d64e18,1,0.0391402705885114
 'Terreno propenso a avalanchas',es,Hazard,#4287f5,#f5faff,1,0.0384722117242421
 'Refuerzo de rutas críticas',es,Adaptation,#157a2c,#58d567,1,0.0250763920465539
-'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,1,0.021440238764025486
+'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,1,0.0214402387640254
 'Rutas seguras señalizadas',es,Mitigation,#9e3215,#d64f18,1,0.0149046775554854
 'Equipamiento ARVA',es,Mitigation,#9e3215,#d64b18,1,0.0136858991377581
 'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.0113123713736119
