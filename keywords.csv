@@ -28,7 +28,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Perros de búsqueda en avalanchas',es,Mitigation,#9e3215,#d64718,1,0.0571716381374999
 'Vibraciones humanas o maquinaria',es,Causes,#a89216,#f9eccf,1,0.0567651908749999
 'Estrategias de resiliencia comunitaria',es,Adaptation,#157a2c,#34ab49,1,0.0564168253340165
-'Víctimas por avalancha',es,Impacts,#4287f5,#638ed1,2,0.056334937136505996
+'Víctimas por avalancha',es,Impacts,#4287f5,#638ed1,2,0.0563349371365059
 'Lluvia sobre nieve',es,Causes,#a89216,#eddcb1,3,0.0559906158862211
 'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,1,0.0559834011068541
 'Riesgo para actividades turísticas',es,Impacts,#4287f5,#63a5da,1,0.0558893617493593
@@ -64,7 +64,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,1,0.0250473220753241
 'Rutas seguras señalizadas',es,Mitigation,#9e3215,#d64f18,1,0.0149046775554854
 'Equipamiento ARVA',es,Mitigation,#9e3215,#d64b18,1,0.0136858991377581
-'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.0133086722042493
+'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.011312371373611905
 'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.0111506671952698
 'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.0106335310560897
 'Avalancha húmeda',es,Hazard,#4287f5,#a3ccff,1,0.0086699993335927
