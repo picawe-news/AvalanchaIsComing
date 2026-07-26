@@ -3,7 +3,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Placa de viento',es,Hazard,#4287f5,#7fb3ff,2,0.0902894168674889
 'Cambios bruscos de temperatura',es,Causes,#a89216,#d9c577,3,0.0810127740075093
 'cambio climático de avalanchas',es,Causes,#a89216,#d8c379,1,0.0732257122956692
-'Alud',es,Hazard,#4287f5,#4a8df7,2,0.0665608412711782
 'Daños económicos locales',es,Impacts,#4287f5,#6399d6,2,0.0652326220431811
 'avalancha de placa',es,Hazard,#4287f5,#022f78,1,0.0644050398488988
 'Sistemas de alerta de avalanchas',es,Mitigation,#9e3215,#d63a18,1,0.0638733333197358
@@ -16,6 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Destrucción de infraestructuras',es,Impacts,#4287f5,#6390d3,3,0.0602413967247499
 'Acumulación rápida de nieve',es,Causes,#a89216,#d3bb63,1,0.0597234621087936
 'daños por avalancha',es,Hazard,#4287f5,#022f78,1,0.0588286619903085
+'Alud',es,Hazard,#4287f5,#4a8df7,2,0.058527405080501464
 'avalanchas muertos',es,Hazard,#4287f5,#022f78,1,0.0580981933350098
 'Pendiente pronunciada',es,Causes,#a89216,#e0cd8b,2,0.0577046258700235
 'Planes de evacuación locales',es,Adaptation,#157a2c,#46c058,1,0.0576090980127076
@@ -67,4 +67,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.0113123713736119
 'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.0111506671952698
 'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.0106335310560897
-'Avalancha húmeda',es,Hazard,#4287f5,#a3ccff,1,0.007519514433553794
+'Avalancha húmeda',es,Hazard,#4287f5,#a3ccff,1,0.0075195144335537
