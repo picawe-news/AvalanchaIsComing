@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'avalancha',es,Hazard,#4287f5,#022f78,3,0.1330757391912853
 'Placa de viento',es,Hazard,#4287f5,#7fb3ff,2,0.0902894168674889
-'Cambios bruscos de temperatura',es,Causes,#a89216,#d9c577,3,0.0810127740075093
+'Cambios bruscos de temperatura',es,Causes,#a89216,#d9c577,3,0.0738127779063829
 'cambio climático de avalanchas',es,Causes,#a89216,#d8c379,1,0.0732257122956692
 'Daños económicos locales',es,Impacts,#4287f5,#6399d6,2,0.0652326220431811
 'avalancha de placa',es,Hazard,#4287f5,#022f78,1,0.0644050398488988
@@ -59,7 +59,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Redes de contención de nieve',es,Mitigation,#9e3215,#d64e18,1,0.0391402705885114
 'Terreno propenso a avalanchas',es,Hazard,#4287f5,#f5faff,1,0.0384722117242421
 'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.0348933084359725
-'Viento fuerte sobre nieve suelta',es,Causes,#a89216,#ccb250,1,0.034620012059867165
+'Viento fuerte sobre nieve suelta',es,Causes,#a89216,#ccb250,1,0.0346200120598671
 'Refuerzo de rutas críticas',es,Adaptation,#157a2c,#58d567,1,0.0250763920465539
 'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,1,0.0183742179494215
 'Rutas seguras señalizadas',es,Mitigation,#9e3215,#d64f18,1,0.0149046775554854
