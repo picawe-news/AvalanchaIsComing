@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'avalancha',es,Hazard,#4287f5,#022f78,3,0.1330757391912853
-'Placa de viento',es,Hazard,#4287f5,#7fb3ff,2,0.0902894168674889
+'Placa de viento',es,Hazard,#4287f5,#7fb3ff,2,0.08019634933736555
 'Cambios bruscos de temperatura',es,Causes,#a89216,#d9c577,3,0.0738127779063829
 'cambio climático de avalanchas',es,Causes,#a89216,#d8c379,1,0.0732257122956692
 'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,1,0.0709859809408259
@@ -24,7 +24,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vibraciones humanas o maquinaria',es,Causes,#a89216,#f9eccf,1,0.0567651908749999
 'Estrategias de resiliencia comunitaria',es,Adaptation,#157a2c,#34ab49,1,0.0564168253340165
 'Víctimas por avalancha',es,Impacts,#4287f5,#638ed1,2,0.0563349371365059
-'Destrucción de infraestructuras',es,Impacts,#4287f5,#6390d3,3,0.056156552216037416
+'Destrucción de infraestructuras',es,Impacts,#4287f5,#6390d3,3,0.0561565522160374
 'Lluvia sobre nieve',es,Causes,#a89216,#eddcb1,3,0.0559906158862211
 'Riesgo para actividades turísticas',es,Impacts,#4287f5,#63a5da,1,0.0558893617493593
 'Interrupción de carreteras',es,Impacts,#4287f5,#639fd8,1,0.0555061752215624
