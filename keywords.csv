@@ -30,14 +30,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ruptura del manto nival',es,Hazard,#4287f5,#d2e6ff,1,0.0544299823765525
 'Diseño urbano resistente a avalanchas',es,Adaptation,#157a2c,#22963a,1,0.0543095302499999
 'Sistemas de alerta de avalanchas',es,Mitigation,#9e3215,#d63a18,1,0.0542923333217754
-'Monitoreo a largo plazo',es,Adaptation,#157a2c,#4cc75d,3,0.05360476669046207
+'Monitoreo a largo plazo',es,Adaptation,#157a2c,#4cc75d,3,0.053604766690462
 'Zona de avalanchas',es,Hazard,#4287f5,#c0dcff,1,0.0535034147939235
 'Pérdida de vidas humanas',es,Impacts,#4287f5,#63a8db,2,0.0533769958630484
 'Deslizamiento de nieve',es,Hazard,#4287f5,#91c0ff,1,0.0528326179994206
 'Nieve inestable',es,Hazard,#4287f5,#6aa5fc,1,0.0525455429028425
 'Acumulación rápida de nieve',es,Causes,#a89216,#d3bb63,1,0.0521150777924745
 'Educación en seguridad invernal',es,Mitigation,#9e3215,#d65218,1,0.0519443064143224
-'accidente mortal avalancha',es,Hazard,#4287f5,#022f78,1,0.05178420948017
 'Avalancha de polvo',es,Hazard,#4287f5,#d8eaff,1,0.0513659310351233
 'Nevada intensa',es,Hazard,#4287f5,#eff7ff,2,0.0508992828955432
 'Bloqueo de rutas de montaña',es,Impacts,#4287f5,#63aedf,1,0.0508166824211862
@@ -53,6 +52,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Avalancha seca',es,Hazard,#4287f5,#adcfff,1,0.0446314307829079
 'Sistemas de control de avalanchas',es,Mitigation,#9e3215,#d63e18,1,0.0443696181604327
 'Detonación preventiva',es,Mitigation,#9e3215,#d65a18,1,0.0442419225759104
+'accidente mortal avalancha',es,Hazard,#4287f5,#022f78,1,0.0440165780581445
 'Protección de bosques protectores',es,Adaptation,#157a2c,#40b953,1,0.0407428571600483
 'Manto nivoso inestable',es,Hazard,#4287f5,#99c6ff,1,0.0396654466507093
 'Infraestructura resistente al clima',es,Adaptation,#157a2c,#52ce62,1,0.0393043487981086
