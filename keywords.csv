@@ -3,7 +3,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cambios bruscos de temperatura',es,Causes,#a89216,#d9c577,3,0.0738127779063829
 'cambio climático de avalanchas',es,Causes,#a89216,#d8c379,1,0.0732257122956692
 'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,1,0.0709859809408259
-'avalancha de placa',es,Hazard,#4287f5,#022f78,1,0.0644050398488988
 'Placa de viento',es,Hazard,#4287f5,#7fb3ff,2,0.0616925561462465
 'Acumulación de nieve',es,Hazard,#4287f5,#e7f3ff,2,0.0615841934019596
 'Personas sepultadas',es,Impacts,#4287f5,#638ed5,3,0.0591234550715855
@@ -25,6 +24,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Interrupción de carreteras',es,Impacts,#4287f5,#639fd8,1,0.0555061752215624
 'Daños económicos locales',es,Impacts,#4287f5,#6399d6,1,0.0554481187367039
 'Gestión sostenible del riesgo',es,Adaptation,#157a2c,#3ab24e,3,0.0552963246501507
+'avalancha de placa',es,Hazard,#4287f5,#022f78,1,0.055194328871563975
 'Ruptura del manto nival',es,Hazard,#4287f5,#d2e6ff,1,0.0544299823765525
 'Diseño urbano resistente a avalanchas',es,Adaptation,#157a2c,#22963a,1,0.0543095302499999
 'Sistemas de alerta de avalanchas',es,Mitigation,#9e3215,#d63a18,1,0.0542923333217754
@@ -67,4 +67,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.0111506671952698
 'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.0106335310560897
 'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.0096155156675701
-'Avalancha húmeda',es,Hazard,#4287f5,#a3ccff,1,0.00571037692824251
+'Avalancha húmeda',es,Hazard,#4287f5,#a3ccff,1,0.0057103769282425
