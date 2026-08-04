@@ -7,7 +7,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Personas sepultadas',es,Impacts,#4287f5,#638ed5,3,0.0591234550715855
 'Alud',es,Hazard,#4287f5,#4a8df7,2,0.0587899234093352
 'avalanchas muertos',es,Hazard,#4287f5,#022f78,1,0.0580981933350098
-'Pendiente pronunciada',es,Causes,#a89216,#e0cd8b,2,0.0577046258700235
 'Planes de evacuación locales',es,Adaptation,#157a2c,#46c058,1,0.0576090980127076
 'Estratificación débil de nieve',es,Causes,#a89216,#fff4e0,1,0.0575250887499999
 'Pala y sonda de rescate',es,Mitigation,#9e3215,#d64418,1,0.0574728881249999
@@ -27,6 +26,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ruptura del manto nival',es,Hazard,#4287f5,#d2e6ff,1,0.0544299823765525
 'Diseño urbano resistente a avalanchas',es,Adaptation,#157a2c,#22963a,1,0.0543095302499999
 'Sistemas de alerta de avalanchas',es,Mitigation,#9e3215,#d63a18,1,0.0542923333217754
+'Pendiente pronunciada',es,Causes,#a89216,#e0cd8b,3,0.05400007198951998
 'Acumulación de nieve',es,Hazard,#4287f5,#e7f3ff,3,0.0536547714829157
 'Monitoreo a largo plazo',es,Adaptation,#157a2c,#4cc75d,3,0.053604766690462
 'Planificación territorial segura',es,Adaptation,#157a2c,#1b8f35,1,0.0535718299985756
