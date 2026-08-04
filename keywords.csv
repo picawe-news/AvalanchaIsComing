@@ -27,7 +27,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ruptura del manto nival',es,Hazard,#4287f5,#d2e6ff,1,0.0544299823765525
 'Diseño urbano resistente a avalanchas',es,Adaptation,#157a2c,#22963a,1,0.0543095302499999
 'Sistemas de alerta de avalanchas',es,Mitigation,#9e3215,#d63a18,1,0.0542923333217754
-'Acumulación de nieve',es,Hazard,#4287f5,#e7f3ff,3,0.05365477148291576
+'Acumulación de nieve',es,Hazard,#4287f5,#e7f3ff,3,0.0536547714829157
 'Monitoreo a largo plazo',es,Adaptation,#157a2c,#4cc75d,3,0.053604766690462
 'Planificación territorial segura',es,Adaptation,#157a2c,#1b8f35,1,0.0535718299985756
 'Pérdida de vidas humanas',es,Impacts,#4287f5,#63a8db,2,0.0533769958630484
@@ -50,7 +50,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Afectación a poblaciones',es,Impacts,#4287f5,#6393d4,1,0.04500993151546
 'Inestabilidad del manto nival',es,Causes,#a89216,#c7b34a,1,0.044988185683949
 'Avalancha seca',es,Hazard,#4287f5,#adcfff,1,0.0446314307829079
-'Sistemas de control de avalanchas',es,Mitigation,#9e3215,#d63e18,1,0.0443696181604327
 'Detonación preventiva',es,Mitigation,#9e3215,#d65a18,1,0.0442419225759104
 'accidente mortal avalancha',es,Hazard,#4287f5,#022f78,1,0.0440165780581445
 'Protección de bosques protectores',es,Adaptation,#157a2c,#40b953,1,0.0407428571600483
@@ -58,6 +57,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Infraestructura resistente al clima',es,Adaptation,#157a2c,#52ce62,1,0.0393043487981086
 'Redes de contención de nieve',es,Mitigation,#9e3215,#d64e18,1,0.0391402705885114
 'Terreno propenso a avalanchas',es,Hazard,#4287f5,#f5faff,1,0.0384722117242421
+'Sistemas de control de avalanchas',es,Mitigation,#9e3215,#d63e18,1,0.0378641904363678
 'Viento fuerte sobre nieve suelta',es,Causes,#a89216,#ccb250,1,0.029577025250887
 'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.0260429985949901
 'Refuerzo de rutas críticas',es,Adaptation,#157a2c,#58d567,1,0.0250763920465539
