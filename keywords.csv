@@ -3,7 +3,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cambios bruscos de temperatura',es,Causes,#a89216,#d9c577,3,0.0738127779063829
 'cambio climático de avalanchas',es,Causes,#a89216,#d8c379,1,0.0732257122956692
 'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,1,0.0709859809408259
-'Placa de viento',es,Hazard,#4287f5,#7fb3ff,2,0.0616925561462465
 'Personas sepultadas',es,Impacts,#4287f5,#638ed5,3,0.0591234550715855
 'Alud',es,Hazard,#4287f5,#4a8df7,2,0.0587899234093352
 'avalanchas muertos',es,Hazard,#4287f5,#022f78,1,0.0580981933350098
@@ -17,6 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Destrucción de infraestructuras',es,Impacts,#4287f5,#6390d3,3,0.0561565522160374
 'Lluvia sobre nieve',es,Causes,#a89216,#eddcb1,3,0.0559906158862211
 'Riesgo para actividades turísticas',es,Impacts,#4287f5,#63a5da,1,0.0558893617493593
+'Placa de viento',es,Hazard,#4287f5,#7fb3ff,2,0.05588901772430952
 'Interrupción de carreteras',es,Impacts,#4287f5,#639fd8,1,0.0555061752215624
 'Daños económicos locales',es,Impacts,#4287f5,#6399d6,1,0.0554481187367039
 'Gestión sostenible del riesgo',es,Adaptation,#157a2c,#3ab24e,3,0.0552963246501507
@@ -40,7 +40,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nieve reciente poco cohesionada',es,Causes,#a89216,#f3e4c4,1,0.0501583450874999
 'Desprendimiento de nieve',es,Hazard,#4287f5,#5a99fa,1,0.0495083608997915
 'Placa de nieve',es,Hazard,#4287f5,#78afff,1,0.0490394565664631
-'Estratificación débil de nieve',es,Causes,#a89216,#fff4e0,1,0.04889632543749991
+'Estratificación débil de nieve',es,Causes,#a89216,#fff4e0,1,0.0488963254374999
 'Perros de búsqueda en avalanchas',es,Mitigation,#9e3215,#d64718,1,0.0485958924168749
 'Corredor de avalanchas',es,Hazard,#4287f5,#c9e1ff,1,0.0470286949026634
 'nieve y avalanchas',es,Causes,#a89216,#d8c379,1,0.0464115371345018
