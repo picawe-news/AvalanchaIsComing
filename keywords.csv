@@ -3,7 +3,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Avalancha seca',es,Hazard,#4287f5,#adcfff,1,0.1060367761654717
 'Cambios bruscos de temperatura',es,Causes,#a89216,#d9c577,3,0.0738127779063829
 'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,1,0.0709859809408259
-'cambio climático de avalanchas',es,Causes,#a89216,#d8c379,1,0.0626919004513188
 'Personas sepultadas',es,Impacts,#4287f5,#638ed5,3,0.0591234550715855
 'Alud',es,Hazard,#4287f5,#4a8df7,2,0.0587899234093352
 'avalanchas muertos',es,Hazard,#4287f5,#022f78,1,0.0580981933350098
@@ -25,6 +24,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Diseño urbano resistente a avalanchas',es,Adaptation,#157a2c,#22963a,1,0.0543095302499999
 'Sistemas de alerta de avalanchas',es,Mitigation,#9e3215,#d63a18,1,0.0542923333217754
 'Pendiente pronunciada',es,Causes,#a89216,#e0cd8b,3,0.0540000719895199
+'cambio climático de avalanchas',es,Causes,#a89216,#d8c379,1,0.053738160383620975
 'Monitoreo a largo plazo',es,Adaptation,#157a2c,#4cc75d,3,0.053604766690462
 'Planificación territorial segura',es,Adaptation,#157a2c,#1b8f35,1,0.0535718299985756
 'Pérdida de vidas humanas',es,Impacts,#4287f5,#63a8db,2,0.0533769958630484
