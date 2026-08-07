@@ -40,7 +40,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Placa de nieve',es,Hazard,#4287f5,#78afff,1,0.0490394565664631
 'Estrategias de resiliencia comunitaria',es,Adaptation,#157a2c,#34ab49,1,0.049004406533914
 'Estratificación débil de nieve',es,Causes,#a89216,#fff4e0,1,0.0488963254374999
-'Acumulación de nieve',es,Hazard,#4287f5,#e7f3ff,3,0.048607845760478344
+'Acumulación de nieve',es,Hazard,#4287f5,#e7f3ff,3,0.0486078457604783
 'Perros de búsqueda en avalanchas',es,Mitigation,#9e3215,#d64718,1,0.0485958924168749
 'Corredor de avalanchas',es,Hazard,#4287f5,#c9e1ff,1,0.0470286949026634
 'nieve y avalanchas',es,Causes,#a89216,#d8c379,1,0.0464115371345018
@@ -62,8 +62,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.0260429985949901
 'Refuerzo de rutas críticas',es,Adaptation,#157a2c,#58d567,1,0.0250763920465539
 'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,1,0.0183742179494215
-'Rutas seguras señalizadas',es,Mitigation,#9e3215,#d64f18,1,0.0126689759221625
 'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.0111506671952698
+'Rutas seguras señalizadas',es,Mitigation,#9e3215,#d64f18,1,0.010768629533838125
 'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.0106335310560897
 'Equipamiento ARVA',es,Mitigation,#9e3215,#d64b18,1,0.0098880621270301
 'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.0096155156675701
