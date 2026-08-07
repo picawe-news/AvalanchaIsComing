@@ -1,5 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'avalancha',es,Hazard,#4287f5,#022f78,3,0.1467083319489561
+'Avalancha seca',es,Hazard,#4287f5,#adcfff,1,0.1060367761654717
 'Cambios bruscos de temperatura',es,Causes,#a89216,#d9c577,3,0.0738127779063829
 'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,1,0.0709859809408259
 'cambio climático de avalanchas',es,Causes,#a89216,#d8c379,1,0.0626919004513188
@@ -49,7 +50,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Capacitación comunitaria en riesgo',es,Adaptation,#157a2c,#5edc6c,1,0.0460938564921874
 'Afectación a poblaciones',es,Impacts,#4287f5,#6393d4,1,0.04500993151546
 'Inestabilidad del manto nival',es,Causes,#a89216,#c7b34a,1,0.044988185683949
-'Avalancha seca',es,Hazard,#4287f5,#adcfff,1,0.0446314307829079
 'Detonación preventiva',es,Mitigation,#9e3215,#d65a18,1,0.0442419225759104
 'accidente mortal avalancha',es,Hazard,#4287f5,#022f78,1,0.0440165780581445
 'Protección de bosques protectores',es,Adaptation,#157a2c,#40b953,1,0.0407428571600483
@@ -63,7 +63,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Refuerzo de rutas críticas',es,Adaptation,#157a2c,#58d567,1,0.0250763920465539
 'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,1,0.0183742179494215
 'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.0111506671952698
-'Rutas seguras señalizadas',es,Mitigation,#9e3215,#d64f18,1,0.010768629533838125
+'Rutas seguras señalizadas',es,Mitigation,#9e3215,#d64f18,1,0.0107686295338381
 'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.0106335310560897
 'Equipamiento ARVA',es,Mitigation,#9e3215,#d64b18,1,0.0098880621270301
 'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.0096155156675701
