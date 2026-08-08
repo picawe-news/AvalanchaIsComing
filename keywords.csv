@@ -57,10 +57,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Infraestructura resistente al clima',es,Adaptation,#157a2c,#52ce62,1,0.0393043487981086
 'Terreno propenso a avalanchas',es,Hazard,#4287f5,#f5faff,1,0.0384722117242421
 'Sistemas de control de avalanchas',es,Mitigation,#9e3215,#d63e18,1,0.0378641904363678
-'Redes de contención de nieve',es,Mitigation,#9e3215,#d64e18,1,0.033569260000234684
+'Redes de contención de nieve',es,Mitigation,#9e3215,#d64e18,1,0.0335692600002346
 'Viento fuerte sobre nieve suelta',es,Causes,#a89216,#ccb250,1,0.029577025250887
 'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.0260429985949901
-'Refuerzo de rutas críticas',es,Adaptation,#157a2c,#58d567,1,0.0250763920465539
+'Refuerzo de rutas críticas',es,Adaptation,#157a2c,#58d567,1,0.02251505323957081
 'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,1,0.0183742179494215
 'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.0111506671952698
 'Rutas seguras señalizadas',es,Mitigation,#9e3215,#d64f18,1,0.0107686295338381
