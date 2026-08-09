@@ -14,7 +14,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Víctimas por avalancha',es,Impacts,#4287f5,#638ed1,2,0.0563349371365059
 'Lluvia sobre nieve',es,Causes,#a89216,#eddcb1,3,0.0559906158862211
 'Placa de viento',es,Hazard,#4287f5,#7fb3ff,2,0.0558890177243095
-'Interrupción de carreteras',es,Impacts,#4287f5,#639fd8,1,0.0555061752215624
 'Daños económicos locales',es,Impacts,#4287f5,#6399d6,1,0.0554481187367039
 'Gestión sostenible del riesgo',es,Adaptation,#157a2c,#3ab24e,3,0.0552963246501507
 'avalancha de placa',es,Hazard,#4287f5,#022f78,1,0.0551943288715639
@@ -38,6 +37,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nieve reciente poco cohesionada',es,Causes,#a89216,#f3e4c4,1,0.0501583450874999
 'Desprendimiento de nieve',es,Hazard,#4287f5,#5a99fa,1,0.0495083608997915
 'Riesgo para actividades turísticas',es,Impacts,#4287f5,#63a5da,1,0.0494561524869554
+'Interrupción de carreteras',es,Impacts,#4287f5,#639fd8,1,0.049130443938328036
 'Estrategias de resiliencia comunitaria',es,Adaptation,#157a2c,#34ab49,1,0.049004406533914
 'Estratificación débil de nieve',es,Causes,#a89216,#fff4e0,1,0.0488963254374999
 'Acumulación de nieve',es,Hazard,#4287f5,#e7f3ff,3,0.0486078457604783
@@ -66,5 +66,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rutas seguras señalizadas',es,Mitigation,#9e3215,#d64f18,1,0.0107686295338381
 'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.0106335310560897
 'Equipamiento ARVA',es,Mitigation,#9e3215,#d64b18,1,0.0098880621270301
-'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.008173188317434585
+'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.0081731883174345
 'Avalancha húmeda',es,Hazard,#4287f5,#a3ccff,1,0.0057103769282425
