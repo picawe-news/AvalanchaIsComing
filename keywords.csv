@@ -22,7 +22,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pendiente pronunciada',es,Causes,#a89216,#e0cd8b,3,0.0540000719895199
 'cambio climático de avalanchas',es,Causes,#a89216,#d8c379,1,0.0537381603836209
 'Monitoreo a largo plazo',es,Adaptation,#157a2c,#4cc75d,3,0.053604766690462
-'Planificación territorial segura',es,Adaptation,#157a2c,#1b8f35,1,0.0535718299985756
 'Deslizamiento de nieve',es,Hazard,#4287f5,#91c0ff,1,0.0528326179994206
 'Nieve inestable',es,Hazard,#4287f5,#6aa5fc,1,0.0525455429028425
 'Acumulación rápida de nieve',es,Causes,#a89216,#d3bb63,1,0.0521150777924745
@@ -32,7 +31,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nevada intensa',es,Hazard,#4287f5,#eff7ff,2,0.0508992828955432
 'Bloqueo de rutas de montaña',es,Impacts,#4287f5,#63aedf,1,0.0508166824211862
 'Destrucción de infraestructuras',es,Impacts,#4287f5,#6390d3,3,0.0507343593836317
-'Pérdida de vidas humanas',es,Impacts,#4287f5,#63a8db,2,0.05058964753622272
+'Pérdida de vidas humanas',es,Impacts,#4287f5,#63a8db,2,0.0505896475362227
 'Desprendimiento de nieve',es,Hazard,#4287f5,#5a99fa,1,0.0495083608997915
 'Riesgo para actividades turísticas',es,Impacts,#4287f5,#63a5da,1,0.0494561524869554
 'Interrupción de carreteras',es,Impacts,#4287f5,#639fd8,1,0.049130443938328
@@ -42,6 +41,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Perros de búsqueda en avalanchas',es,Mitigation,#9e3215,#d64718,1,0.0485958924168749
 'avalancha de placa',es,Hazard,#4287f5,#022f78,1,0.0473652245408293
 'Corredor de avalanchas',es,Hazard,#4287f5,#c9e1ff,1,0.0470286949026634
+'Planificación territorial segura',es,Adaptation,#157a2c,#1b8f35,1,0.04688619049878926
 'nieve y avalanchas',es,Causes,#a89216,#d8c379,1,0.0464115371345018
 'Zona de avalanchas',es,Hazard,#4287f5,#c0dcff,1,0.0463779925748349
 'Calentamiento repentino',es,Causes,#a89216,#e6d59e,1,0.0463644375314215
