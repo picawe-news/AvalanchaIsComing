@@ -50,12 +50,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inestabilidad del manto nival',es,Causes,#a89216,#c7b34a,1,0.044988185683949
 'Detonación preventiva',es,Mitigation,#9e3215,#d65a18,1,0.0442419225759104
 'accidente mortal avalancha',es,Hazard,#4287f5,#022f78,1,0.0440165780581445
-'Nieve reciente poco cohesionada',es,Causes,#a89216,#f3e4c4,1,0.042634593324374914
+'Nieve reciente poco cohesionada',es,Causes,#a89216,#f3e4c4,1,0.0426345933243749
 'Placa de nieve',es,Hazard,#4287f5,#78afff,1,0.0425836280814936
 'Protección de bosques protectores',es,Adaptation,#157a2c,#40b953,1,0.0407428571600483
-'Manto nivoso inestable',es,Hazard,#4287f5,#99c6ff,1,0.0396654466507093
 'Infraestructura resistente al clima',es,Adaptation,#157a2c,#52ce62,1,0.0393043487981086
 'Sistemas de control de avalanchas',es,Mitigation,#9e3215,#d63e18,1,0.0378641904363678
+'Manto nivoso inestable',es,Hazard,#4287f5,#99c6ff,1,0.0337156296531029
 'Redes de contención de nieve',es,Mitigation,#9e3215,#d64e18,1,0.0335692600002346
 'Terreno propenso a avalanchas',es,Hazard,#4287f5,#f5faff,1,0.0327013799656057
 'Viento fuerte sobre nieve suelta',es,Causes,#a89216,#ccb250,1,0.029577025250887
