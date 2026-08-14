@@ -16,7 +16,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Placa de viento',es,Hazard,#4287f5,#7fb3ff,2,0.0558890177243095
 'Daños económicos locales',es,Impacts,#4287f5,#6399d6,1,0.0554481187367039
 'Gestión sostenible del riesgo',es,Adaptation,#157a2c,#3ab24e,3,0.0552963246501507
-'Ruptura del manto nival',es,Hazard,#4287f5,#d2e6ff,1,0.0544299823765525
 'Diseño urbano resistente a avalanchas',es,Adaptation,#157a2c,#22963a,1,0.0543095302499999
 'Sistemas de alerta de avalanchas',es,Mitigation,#9e3215,#d63a18,1,0.0542923333217754
 'Pendiente pronunciada',es,Causes,#a89216,#e0cd8b,3,0.0540000719895199
@@ -44,6 +43,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'nieve y avalanchas',es,Causes,#a89216,#d8c379,1,0.0464115371345018
 'Zona de avalanchas',es,Hazard,#4287f5,#c0dcff,1,0.0463779925748349
 'Calentamiento repentino',es,Causes,#a89216,#e6d59e,1,0.0463644375314215
+'Ruptura del manto nival',es,Hazard,#4287f5,#d2e6ff,1,0.04626548502006962
 'Capacitación comunitaria en riesgo',es,Adaptation,#157a2c,#5edc6c,1,0.0460938564921874
 'Inestabilidad del manto nival',es,Causes,#a89216,#c7b34a,1,0.044988185683949
 'Detonación preventiva',es,Mitigation,#9e3215,#d65a18,1,0.0442419225759104
@@ -52,7 +52,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nieve reciente poco cohesionada',es,Causes,#a89216,#f3e4c4,1,0.0426345933243749
 'Placa de nieve',es,Hazard,#4287f5,#78afff,1,0.0425836280814936
 'Protección de bosques protectores',es,Adaptation,#157a2c,#40b953,1,0.0407428571600483
-'Afectación a poblaciones',es,Impacts,#4287f5,#6393d4,1,0.04065868178814099
+'Afectación a poblaciones',es,Impacts,#4287f5,#6393d4,1,0.0406586817881409
 'Infraestructura resistente al clima',es,Adaptation,#157a2c,#52ce62,1,0.0393043487981086
 'Sistemas de control de avalanchas',es,Mitigation,#9e3215,#d63e18,1,0.0378641904363678
 'Manto nivoso inestable',es,Hazard,#4287f5,#99c6ff,1,0.0337156296531029
