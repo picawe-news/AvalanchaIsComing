@@ -53,11 +53,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Protección de bosques protectores',es,Adaptation,#157a2c,#40b953,1,0.0407428571600483
 'Afectación a poblaciones',es,Impacts,#4287f5,#6393d4,1,0.0406586817881409
 'Infraestructura resistente al clima',es,Adaptation,#157a2c,#52ce62,1,0.0393043487981086
-'Detonación preventiva',es,Mitigation,#9e3215,#d65a18,1,0.03790566418952384
 'Sistemas de control de avalanchas',es,Mitigation,#9e3215,#d63e18,1,0.0378641904363678
 'Manto nivoso inestable',es,Hazard,#4287f5,#99c6ff,1,0.0337156296531029
 'Redes de contención de nieve',es,Mitigation,#9e3215,#d64e18,1,0.0335692600002346
 'Terreno propenso a avalanchas',es,Hazard,#4287f5,#f5faff,1,0.0327013799656057
+'Detonación preventiva',es,Mitigation,#9e3215,#d65a18,1,0.032519844561095225
 'Viento fuerte sobre nieve suelta',es,Causes,#a89216,#ccb250,1,0.029577025250887
 'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.0260429985949901
 'Refuerzo de rutas críticas',es,Adaptation,#157a2c,#58d567,1,0.0225150532395708
