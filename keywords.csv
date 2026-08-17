@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'avalancha',es,Hazard,#4287f5,#022f78,3,0.1507695719240298
-'Avalancha seca',es,Hazard,#4287f5,#adcfff,1,0.1135313497406509
+'Avalancha seca',es,Hazard,#4287f5,#adcfff,1,0.11990173727955326
 'Cambios bruscos de temperatura',es,Causes,#a89216,#d9c577,3,0.0738127779063829
 'Daños por avalancha',es,Impacts,#4287f5,#63a2d9,2,0.0726949479149181
 'desastre avalancha',es,Hazard,#4287f5,#022f78,2,0.0712356167935011
@@ -51,7 +51,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Placa de nieve',es,Hazard,#4287f5,#78afff,1,0.0425836280814936
 'Protección de bosques protectores',es,Adaptation,#157a2c,#40b953,1,0.0407428571600483
 'Afectación a poblaciones',es,Impacts,#4287f5,#6393d4,1,0.0406586817881409
-'Corredor de avalanchas',es,Hazard,#4287f5,#c9e1ff,1,0.04057445066726389
+'Corredor de avalanchas',es,Hazard,#4287f5,#c9e1ff,1,0.0405744506672638
 'Infraestructura resistente al clima',es,Adaptation,#157a2c,#52ce62,1,0.0393043487981086
 'Sistemas de control de avalanchas',es,Mitigation,#9e3215,#d63e18,1,0.0378641904363678
 'Redes de contención de nieve',es,Mitigation,#9e3215,#d64e18,1,0.0335692600002346
