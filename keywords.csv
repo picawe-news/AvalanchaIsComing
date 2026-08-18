@@ -2,9 +2,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'avalancha',es,Hazard,#4287f5,#022f78,3,0.1507695719240298
 'Avalancha seca',es,Hazard,#4287f5,#adcfff,1,0.1253165666876202
 'Cambios bruscos de temperatura',es,Causes,#a89216,#d9c577,3,0.0738127779063829
-'Daños por avalancha',es,Impacts,#4287f5,#63a2d9,2,0.0726949479149181
 'desastre avalancha',es,Hazard,#4287f5,#022f78,2,0.0712356167935011
 'avalanchas muertos',es,Hazard,#4287f5,#022f78,1,0.0705075345068628
+'Daños por avalancha',es,Impacts,#4287f5,#63a2d9,1,0.06179115572768038
 'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,1,0.0603988445659919
 'Personas sepultadas',es,Impacts,#4287f5,#638ed5,3,0.0591234550715855
 'Alud',es,Hazard,#4287f5,#4a8df7,2,0.0587899234093352
