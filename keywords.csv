@@ -27,6 +27,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Daños económicos locales',es,Impacts,#4287f5,#6399d6,2,0.0510312909261983
 'Nevada intensa',es,Hazard,#4287f5,#eff7ff,2,0.0508992828955432
 'Pérdida de vidas humanas',es,Impacts,#4287f5,#63a8db,2,0.0505896475362227
+'Zona de avalanchas',es,Hazard,#4287f5,#c0dcff,2,0.05024476061168659
 'Desprendimiento de nieve',es,Hazard,#4287f5,#5a99fa,1,0.0495083608997915
 'Riesgo para actividades turísticas',es,Impacts,#4287f5,#63a5da,1,0.0494561524869554
 'Interrupción de carreteras',es,Impacts,#4287f5,#639fd8,1,0.049130443938328
@@ -40,7 +41,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Planificación territorial segura',es,Adaptation,#157a2c,#1b8f35,1,0.0468861904987892
 'Destrucción de infraestructuras',es,Impacts,#4287f5,#6390d3,3,0.0465755404760869
 'nieve y avalanchas',es,Causes,#a89216,#d8c379,1,0.0464115371345018
-'Zona de avalanchas',es,Hazard,#4287f5,#c0dcff,1,0.0463779925748349
 'Calentamiento repentino',es,Causes,#a89216,#e6d59e,1,0.0463644375314215
 'Ruptura del manto nival',es,Hazard,#4287f5,#d2e6ff,1,0.0462654850200696
 'Capacitación comunitaria en riesgo',es,Adaptation,#157a2c,#5edc6c,1,0.0460938564921874
@@ -65,6 +65,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rutas seguras señalizadas',es,Mitigation,#9e3215,#d64f18,1,0.0107686295338381
 'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.0106335310560897
 'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.0096280821159793
-'Equipamiento ARVA',es,Mitigation,#9e3215,#d64b18,1,0.008404852807975585
+'Equipamiento ARVA',es,Mitigation,#9e3215,#d64b18,1,0.0084048528079755
 'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.0069472100698193
 'Avalancha húmeda',es,Hazard,#4287f5,#a3ccff,1,0.0057103769282425
