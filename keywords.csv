@@ -58,13 +58,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Terreno propenso a avalanchas',es,Hazard,#4287f5,#f5faff,1,0.0327013799656057
 'Detonación preventiva',es,Mitigation,#9e3215,#d65a18,1,0.0325198445610952
 'Manto nivoso inestable',es,Hazard,#4287f5,#99c6ff,1,0.0286582852051374
-'Viento fuerte sobre nieve suelta',es,Causes,#a89216,#ccb250,1,0.025290486463253947
+'Viento fuerte sobre nieve suelta',es,Causes,#a89216,#ccb250,1,0.0252904864632539
 'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.0225865938057415
 'Refuerzo de rutas críticas',es,Adaptation,#157a2c,#58d567,1,0.0225150532395708
 'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,1,0.0183742179494215
 'Rutas seguras señalizadas',es,Mitigation,#9e3215,#d64f18,1,0.0107686295338381
-'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.0106335310560897
 'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.0096280821159793
+'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.009038501397676245
 'Equipamiento ARVA',es,Mitigation,#9e3215,#d64b18,1,0.0084048528079755
 'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.0069472100698193
 'Avalancha húmeda',es,Hazard,#4287f5,#a3ccff,1,0.0057103769282425
