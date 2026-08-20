@@ -57,9 +57,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Redes de contención de nieve',es,Mitigation,#9e3215,#d64e18,1,0.0335692600002346
 'Terreno propenso a avalanchas',es,Hazard,#4287f5,#f5faff,1,0.0327013799656057
 'Detonación preventiva',es,Mitigation,#9e3215,#d65a18,1,0.0325198445610952
-'Viento fuerte sobre nieve suelta',es,Causes,#a89216,#ccb250,1,0.029577025250887
 'Manto nivoso inestable',es,Hazard,#4287f5,#99c6ff,1,0.0286582852051374
-'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.022586593805741583
+'Viento fuerte sobre nieve suelta',es,Causes,#a89216,#ccb250,1,0.025290486463253947
+'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.0225865938057415
 'Refuerzo de rutas críticas',es,Adaptation,#157a2c,#58d567,1,0.0225150532395708
 'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,1,0.0183742179494215
 'Rutas seguras señalizadas',es,Mitigation,#9e3215,#d64f18,1,0.0107686295338381
