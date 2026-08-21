@@ -43,17 +43,17 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Calentamiento repentino',es,Causes,#a89216,#e6d59e,1,0.0463644375314215
 'Ruptura del manto nival',es,Hazard,#4287f5,#d2e6ff,1,0.0462654850200696
 'Capacitación comunitaria en riesgo',es,Adaptation,#157a2c,#5edc6c,1,0.0460938564921874
-'Nieve inestable',es,Hazard,#4287f5,#6aa5fc,1,0.04556380146741613
+'Nieve inestable',es,Hazard,#4287f5,#6aa5fc,1,0.0455638014674161
 'Inestabilidad del manto nival',es,Causes,#a89216,#c7b34a,1,0.044988185683949
 'Bloqueo de rutas de montaña',es,Impacts,#4287f5,#63aedf,1,0.0440942700580082
 'accidente mortal avalancha',es,Hazard,#4287f5,#022f78,1,0.0440165780581445
 'Nieve reciente poco cohesionada',es,Causes,#a89216,#f3e4c4,1,0.0426345933243749
 'Placa de nieve',es,Hazard,#4287f5,#78afff,1,0.0425836280814936
 'Protección de bosques protectores',es,Adaptation,#157a2c,#40b953,1,0.0407428571600483
-'Afectación a poblaciones',es,Impacts,#4287f5,#6393d4,1,0.0406586817881409
 'Corredor de avalanchas',es,Hazard,#4287f5,#c9e1ff,1,0.0405744506672638
 'Infraestructura resistente al clima',es,Adaptation,#157a2c,#52ce62,1,0.0393043487981086
 'Sistemas de control de avalanchas',es,Mitigation,#9e3215,#d63e18,1,0.0378641904363678
+'Afectación a poblaciones',es,Impacts,#4287f5,#6393d4,1,0.037260149519919766
 'Redes de contención de nieve',es,Mitigation,#9e3215,#d64e18,1,0.0335692600002346
 'Terreno propenso a avalanchas',es,Hazard,#4287f5,#f5faff,1,0.0327013799656057
 'Detonación preventiva',es,Mitigation,#9e3215,#d65a18,1,0.0325198445610952
