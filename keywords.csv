@@ -9,7 +9,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,1,0.0603988445659919
 'Alud',es,Hazard,#4287f5,#4a8df7,2,0.0587899234093352
 'Planes de evacuación locales',es,Adaptation,#157a2c,#46c058,1,0.0576090980127076
-'Pala y sonda de rescate',es,Mitigation,#9e3215,#d64418,1,0.0574728881249999
 'Placa de viento',es,Hazard,#4287f5,#7fb3ff,2,0.0558890177243095
 'Gestión sostenible del riesgo',es,Adaptation,#157a2c,#3ab24e,3,0.0552963246501507
 'Diseño urbano resistente a avalanchas',es,Adaptation,#157a2c,#22963a,1,0.0543095302499999
@@ -32,6 +31,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Interrupción de carreteras',es,Impacts,#4287f5,#639fd8,1,0.049130443938328
 'Estrategias de resiliencia comunitaria',es,Adaptation,#157a2c,#34ab49,1,0.049004406533914
 'Estratificación débil de nieve',es,Causes,#a89216,#fff4e0,1,0.0488963254374999
+'Pala y sonda de rescate',es,Mitigation,#9e3215,#d64418,1,0.04885195490624991
 'Acumulación de nieve',es,Hazard,#4287f5,#e7f3ff,3,0.0486078457604783
 'Perros de búsqueda en avalanchas',es,Mitigation,#9e3215,#d64718,1,0.0485958924168749
 'Vibraciones humanas o maquinaria',es,Causes,#a89216,#f9eccf,1,0.0484004272437499
@@ -53,7 +53,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Infraestructura resistente al clima',es,Adaptation,#157a2c,#52ce62,1,0.0393043487981086
 'Bloqueo de rutas de montaña',es,Impacts,#4287f5,#63aedf,1,0.0380801895493069
 'Sistemas de control de avalanchas',es,Mitigation,#9e3215,#d63e18,1,0.0378641904363678
-'Afectación a poblaciones',es,Impacts,#4287f5,#6393d4,1,0.03467142709193174
+'Afectación a poblaciones',es,Impacts,#4287f5,#6393d4,1,0.0346714270919317
 'Redes de contención de nieve',es,Mitigation,#9e3215,#d64e18,1,0.0335692600002346
 'Terreno propenso a avalanchas',es,Hazard,#4287f5,#f5faff,1,0.0327013799656057
 'Detonación preventiva',es,Mitigation,#9e3215,#d65a18,1,0.0325198445610952
