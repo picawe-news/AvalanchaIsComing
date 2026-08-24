@@ -7,10 +7,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'avalanchas muertos',es,Hazard,#4287f5,#022f78,1,0.0609815093308333
 'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,1,0.0603988445659919
 'Alud',es,Hazard,#4287f5,#4a8df7,2,0.0587899234093352
-'Daños por avalancha',es,Impacts,#4287f5,#63a2d9,2,0.05702293236852825
+'Daños por avalancha',es,Impacts,#4287f5,#63a2d9,2,0.0570229323685282
 'Placa de viento',es,Hazard,#4287f5,#7fb3ff,2,0.0558890177243095
 'Gestión sostenible del riesgo',es,Adaptation,#157a2c,#3ab24e,3,0.0552963246501507
-'Diseño urbano resistente a avalanchas',es,Adaptation,#157a2c,#22963a,1,0.0543095302499999
 'Sistemas de alerta de avalanchas',es,Mitigation,#9e3215,#d63a18,1,0.0542923333217754
 'Pendiente pronunciada',es,Causes,#a89216,#e0cd8b,3,0.0540000719895199
 'cambio climático de avalanchas',es,Causes,#a89216,#d8c379,1,0.0537381603836209
@@ -38,6 +37,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Destrucción de infraestructuras',es,Impacts,#4287f5,#6390d3,3,0.0465755404760869
 'nieve y avalanchas',es,Causes,#a89216,#d8c379,1,0.0464115371345018
 'Ruptura del manto nival',es,Hazard,#4287f5,#d2e6ff,1,0.0462654850200696
+'Diseño urbano resistente a avalanchas',es,Adaptation,#157a2c,#22963a,1,0.04616310071249991
 'Capacitación comunitaria en riesgo',es,Adaptation,#157a2c,#5edc6c,1,0.0460938564921874
 'Nieve inestable',es,Hazard,#4287f5,#6aa5fc,1,0.0455638014674161
 'Inestabilidad del manto nival',es,Causes,#a89216,#c7b34a,1,0.044988185683949
