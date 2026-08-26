@@ -21,7 +21,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Educación en seguridad invernal',es,Mitigation,#9e3215,#d65218,1,0.0519443064143224
 'Planes de evacuación locales',es,Adaptation,#157a2c,#46c058,1,0.0516680033108014
 'Avalancha de polvo',es,Hazard,#4287f5,#d8eaff,1,0.0513659310351233
-'Daños económicos locales',es,Impacts,#4287f5,#6399d6,2,0.0510312909261983
 'Nevada intensa',es,Hazard,#4287f5,#eff7ff,2,0.0508992828955432
 'Pérdida de vidas humanas',es,Impacts,#4287f5,#63a8db,2,0.0505896475362227
 'Zona de avalanchas',es,Hazard,#4287f5,#c0dcff,2,0.0502447606116865
@@ -34,6 +33,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vibraciones humanas o maquinaria',es,Causes,#a89216,#f9eccf,1,0.0484004272437499
 'daños por avalancha',es,Hazard,#4287f5,#022f78,2,0.0483617940379978
 'Planificación territorial segura',es,Adaptation,#157a2c,#1b8f35,1,0.0468861904987892
+'Daños económicos locales',es,Impacts,#4287f5,#6399d6,2,0.04682694228726855
 'Destrucción de infraestructuras',es,Impacts,#4287f5,#6390d3,3,0.0465755404760869
 'nieve y avalanchas',es,Causes,#a89216,#d8c379,1,0.0464115371345018
 'Ruptura del manto nival',es,Hazard,#4287f5,#d2e6ff,1,0.0462654850200696
@@ -52,7 +52,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Infraestructura resistente al clima',es,Adaptation,#157a2c,#52ce62,1,0.0393043487981086
 'Bloqueo de rutas de montaña',es,Impacts,#4287f5,#63aedf,1,0.0380801895493069
 'Sistemas de control de avalanchas',es,Mitigation,#9e3215,#d63e18,1,0.0378641904363678
-'Estrategias de resiliencia comunitaria',es,Adaptation,#157a2c,#34ab49,1,0.03608825197075278
+'Estrategias de resiliencia comunitaria',es,Adaptation,#157a2c,#34ab49,1,0.0360882519707527
 'Redes de contención de nieve',es,Mitigation,#9e3215,#d64e18,1,0.0335692600002346
 'Terreno propenso a avalanchas',es,Hazard,#4287f5,#f5faff,1,0.0327013799656057
 'Detonación preventiva',es,Mitigation,#9e3215,#d65a18,1,0.0325198445610952
