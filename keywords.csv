@@ -33,7 +33,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vibraciones humanas o maquinaria',es,Causes,#a89216,#f9eccf,1,0.0484004272437499
 'daños por avalancha',es,Hazard,#4287f5,#022f78,2,0.0483617940379978
 'Planificación territorial segura',es,Adaptation,#157a2c,#1b8f35,1,0.0468861904987892
-'Daños económicos locales',es,Impacts,#4287f5,#6399d6,2,0.04682694228726855
+'Daños económicos locales',es,Impacts,#4287f5,#6399d6,2,0.0468269422872685
 'Destrucción de infraestructuras',es,Impacts,#4287f5,#6390d3,3,0.0465755404760869
 'nieve y avalanchas',es,Causes,#a89216,#d8c379,1,0.0464115371345018
 'Ruptura del manto nival',es,Hazard,#4287f5,#d2e6ff,1,0.0462654850200696
@@ -62,8 +62,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.0225865938057415
 'Refuerzo de rutas críticas',es,Adaptation,#157a2c,#58d567,1,0.0225150532395708
 'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,1,0.0183742179494215
-'Rutas seguras señalizadas',es,Mitigation,#9e3215,#d64f18,1,0.0107686295338381
 'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.0096280821159793
+'Rutas seguras señalizadas',es,Mitigation,#9e3215,#d64f18,1,0.009153335103762384
 'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.0090385013976762
 'Equipamiento ARVA',es,Mitigation,#9e3215,#d64b18,1,0.0084048528079755
 'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.0069472100698193
