@@ -48,7 +48,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Calentamiento repentino',es,Causes,#a89216,#e6d59e,1,0.0406098919017082
 'Corredor de avalanchas',es,Hazard,#4287f5,#c9e1ff,1,0.0405744506672638
 'avalancha de placa',es,Hazard,#4287f5,#022f78,1,0.0404104558597049
-'Capacitación comunitaria en riesgo',es,Adaptation,#157a2c,#5edc6c,1,0.039479808018359284
+'Capacitación comunitaria en riesgo',es,Adaptation,#157a2c,#5edc6c,1,0.0394798080183592
 'Infraestructura resistente al clima',es,Adaptation,#157a2c,#52ce62,1,0.0393043487981086
 'Bloqueo de rutas de montaña',es,Impacts,#4287f5,#63aedf,1,0.0380801895493069
 'Sistemas de control de avalanchas',es,Mitigation,#9e3215,#d63e18,1,0.0378641904363678
@@ -62,8 +62,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.0225865938057415
 'Refuerzo de rutas críticas',es,Adaptation,#157a2c,#58d567,1,0.0225150532395708
 'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,1,0.0183742179494215
-'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.0096280821159793
 'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.0090385013976762
+'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.008483899798582405
 'Equipamiento ARVA',es,Mitigation,#9e3215,#d64b18,1,0.0084048528079755
 'Rutas seguras señalizadas',es,Mitigation,#9e3215,#d64f18,1,0.0077803348381979
 'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.0069472100698193
