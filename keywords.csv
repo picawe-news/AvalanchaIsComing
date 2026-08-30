@@ -27,7 +27,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Desprendimiento de nieve',es,Hazard,#4287f5,#5a99fa,1,0.0495083608997915
 'Riesgo para actividades turísticas',es,Impacts,#4287f5,#63a5da,1,0.0494561524869554
 'Estratificación débil de nieve',es,Causes,#a89216,#fff4e0,1,0.0488963254374999
-'Pala y sonda de rescate',es,Mitigation,#9e3215,#d64418,1,0.0488519549062499
 'Acumulación de nieve',es,Hazard,#4287f5,#e7f3ff,3,0.0486078457604783
 'Perros de búsqueda en avalanchas',es,Mitigation,#9e3215,#d64718,1,0.0485958924168749
 'Vibraciones humanas o maquinaria',es,Causes,#a89216,#f9eccf,1,0.0484004272437499
@@ -43,6 +42,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Interrupción de carreteras',es,Impacts,#4287f5,#639fd8,1,0.0441611173475788
 'accidente mortal avalancha',es,Hazard,#4287f5,#022f78,1,0.0440165780581445
 'Placa de nieve',es,Hazard,#4287f5,#78afff,1,0.0425836280814936
+'Pala y sonda de rescate',es,Mitigation,#9e3215,#d64418,1,0.041524161670312414
 'Protección de bosques protectores',es,Adaptation,#157a2c,#40b953,1,0.0407428571600483
 'Calentamiento repentino',es,Causes,#a89216,#e6d59e,1,0.0406098919017082
 'Corredor de avalanchas',es,Hazard,#4287f5,#c9e1ff,1,0.0405744506672638
