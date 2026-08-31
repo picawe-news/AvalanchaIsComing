@@ -3,7 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Avalancha seca',es,Hazard,#4287f5,#adcfff,1,0.1299191716844771
 'Zona de avalanchas',es,Hazard,#4287f5,#c0dcff,2,0.0753859192472062
 'Cambios bruscos de temperatura',es,Causes,#a89216,#d9c577,3,0.0738127779063829
-'Deslizamiento de nieve',es,Hazard,#4287f5,#91c0ff,1,0.07010799529950751
+'Deslizamiento de nieve',es,Hazard,#4287f5,#91c0ff,1,0.0701079952995075
 'Víctimas por avalancha',es,Impacts,#4287f5,#638ed1,3,0.0689492022005355
 'avalanchas muertos',es,Hazard,#4287f5,#022f78,2,0.0663846579312083
 'desastre avalancha',es,Hazard,#4287f5,#022f78,1,0.0605505592744759
@@ -29,7 +29,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Estratificación débil de nieve',es,Causes,#a89216,#fff4e0,1,0.0488963254374999
 'Acumulación de nieve',es,Hazard,#4287f5,#e7f3ff,3,0.0486078457604783
 'Perros de búsqueda en avalanchas',es,Mitigation,#9e3215,#d64718,1,0.0485958924168749
-'Vibraciones humanas o maquinaria',es,Causes,#a89216,#f9eccf,1,0.0484004272437499
 'daños por avalancha',es,Hazard,#4287f5,#022f78,2,0.0483617940379978
 'Planificación territorial segura',es,Adaptation,#157a2c,#1b8f35,1,0.0468861904987892
 'Daños económicos locales',es,Impacts,#4287f5,#6399d6,2,0.0468269422872685
@@ -43,6 +42,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'accidente mortal avalancha',es,Hazard,#4287f5,#022f78,1,0.0440165780581445
 'Placa de nieve',es,Hazard,#4287f5,#78afff,1,0.0425836280814936
 'Pala y sonda de rescate',es,Mitigation,#9e3215,#d64418,1,0.0415241616703124
+'Vibraciones humanas o maquinaria',es,Causes,#a89216,#f9eccf,1,0.041140363157187415
 'Protección de bosques protectores',es,Adaptation,#157a2c,#40b953,1,0.0407428571600483
 'Calentamiento repentino',es,Causes,#a89216,#e6d59e,1,0.0406098919017082
 'Corredor de avalanchas',es,Hazard,#4287f5,#c9e1ff,1,0.0405744506672638
