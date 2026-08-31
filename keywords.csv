@@ -5,10 +5,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cambios bruscos de temperatura',es,Causes,#a89216,#d9c577,3,0.0738127779063829
 'Deslizamiento de nieve',es,Hazard,#4287f5,#91c0ff,1,0.0701079952995075
 'Víctimas por avalancha',es,Impacts,#4287f5,#638ed1,3,0.0689492022005355
-'avalanchas muertos',es,Hazard,#4287f5,#022f78,2,0.0663846579312083
 'desastre avalancha',es,Hazard,#4287f5,#022f78,1,0.0605505592744759
 'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,1,0.0603988445659919
 'Alud',es,Hazard,#4287f5,#4a8df7,2,0.0587899234093352
+'avalanchas muertos',es,Hazard,#4287f5,#022f78,1,0.05642734924152706
 'Placa de viento',es,Hazard,#4287f5,#7fb3ff,2,0.0558890177243095
 'Gestión sostenible del riesgo',es,Adaptation,#157a2c,#3ab24e,3,0.0552963246501507
 'Sistemas de alerta de avalanchas',es,Mitigation,#9e3215,#d63a18,1,0.0542923333217754
@@ -53,7 +53,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nieve reciente poco cohesionada',es,Causes,#a89216,#f3e4c4,1,0.0362394043257186
 'Estrategias de resiliencia comunitaria',es,Adaptation,#157a2c,#34ab49,1,0.0360882519707527
 'Redes de contención de nieve',es,Mitigation,#9e3215,#d64e18,1,0.0335692600002346
-'Bloqueo de rutas de montaña',es,Impacts,#4287f5,#63aedf,1,0.033118236116910865
+'Bloqueo de rutas de montaña',es,Impacts,#4287f5,#63aedf,1,0.0331182361169108
 'Terreno propenso a avalanchas',es,Hazard,#4287f5,#f5faff,1,0.0327013799656057
 'Detonación preventiva',es,Mitigation,#9e3215,#d65a18,1,0.0325198445610952
 'Afectación a poblaciones',es,Impacts,#4287f5,#6393d4,1,0.0318709530281419
