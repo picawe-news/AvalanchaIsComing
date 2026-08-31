@@ -42,18 +42,18 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'accidente mortal avalancha',es,Hazard,#4287f5,#022f78,1,0.0440165780581445
 'Placa de nieve',es,Hazard,#4287f5,#78afff,1,0.0425836280814936
 'Pala y sonda de rescate',es,Mitigation,#9e3215,#d64418,1,0.0415241616703124
-'Vibraciones humanas o maquinaria',es,Causes,#a89216,#f9eccf,1,0.041140363157187415
+'Vibraciones humanas o maquinaria',es,Causes,#a89216,#f9eccf,1,0.0411403631571874
 'Protección de bosques protectores',es,Adaptation,#157a2c,#40b953,1,0.0407428571600483
 'Calentamiento repentino',es,Causes,#a89216,#e6d59e,1,0.0406098919017082
 'Corredor de avalanchas',es,Hazard,#4287f5,#c9e1ff,1,0.0405744506672638
 'avalancha de placa',es,Hazard,#4287f5,#022f78,1,0.0404104558597049
 'Capacitación comunitaria en riesgo',es,Adaptation,#157a2c,#5edc6c,1,0.0394798080183592
 'Infraestructura resistente al clima',es,Adaptation,#157a2c,#52ce62,1,0.0393043487981086
-'Bloqueo de rutas de montaña',es,Impacts,#4287f5,#63aedf,1,0.0380801895493069
 'Sistemas de control de avalanchas',es,Mitigation,#9e3215,#d63e18,1,0.0378641904363678
 'Nieve reciente poco cohesionada',es,Causes,#a89216,#f3e4c4,1,0.0362394043257186
 'Estrategias de resiliencia comunitaria',es,Adaptation,#157a2c,#34ab49,1,0.0360882519707527
 'Redes de contención de nieve',es,Mitigation,#9e3215,#d64e18,1,0.0335692600002346
+'Bloqueo de rutas de montaña',es,Impacts,#4287f5,#63aedf,1,0.033118236116910865
 'Terreno propenso a avalanchas',es,Hazard,#4287f5,#f5faff,1,0.0327013799656057
 'Detonación preventiva',es,Mitigation,#9e3215,#d65a18,1,0.0325198445610952
 'Afectación a poblaciones',es,Impacts,#4287f5,#6393d4,1,0.0318709530281419
