@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'avalancha',es,Hazard,#4287f5,#022f78,3,0.1507695719240298
-'Avalancha seca',es,Hazard,#4287f5,#adcfff,1,0.13076711521751982
+'Avalancha seca',es,Hazard,#4287f5,#adcfff,1,0.11190212293489182
 'Zona de avalanchas',es,Hazard,#4287f5,#c0dcff,2,0.0753859192472062
 'Cambios bruscos de temperatura',es,Causes,#a89216,#d9c577,3,0.0738127779063829
 'Deslizamiento de nieve',es,Hazard,#4287f5,#91c0ff,1,0.0701079952995075
