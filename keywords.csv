@@ -59,8 +59,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Afectación a poblaciones',es,Impacts,#4287f5,#6393d4,1,0.0318709530281419
 'Manto nivoso inestable',es,Hazard,#4287f5,#99c6ff,1,0.0286582852051374
 'Viento fuerte sobre nieve suelta',es,Causes,#a89216,#ccb250,1,0.0252904864632539
-'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.0225865938057415
-'Refuerzo de rutas críticas',es,Adaptation,#157a2c,#58d567,1,0.02063794525363518
+'Refuerzo de rutas críticas',es,Adaptation,#157a2c,#58d567,1,0.0206379452536351
+'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.019498634734880275
 'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,1,0.0183742179494215
 'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.0090385013976762
 'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.0084838997985824
