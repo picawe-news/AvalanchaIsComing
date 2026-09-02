@@ -4,13 +4,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Zona de avalanchas',es,Hazard,#4287f5,#c0dcff,2,0.0753859192472062
 'Cambios bruscos de temperatura',es,Causes,#a89216,#d9c577,3,0.0738127779063829
 'Víctimas por avalancha',es,Impacts,#4287f5,#638ed1,3,0.0689492022005355
-'Deslizamiento de nieve',es,Hazard,#4287f5,#91c0ff,1,0.06229206600458136
+'Sistemas de alerta de avalanchas',es,Mitigation,#9e3215,#d63a18,1,0.06249861832350909
+'Deslizamiento de nieve',es,Hazard,#4287f5,#91c0ff,1,0.0622920660045813
 'desastre avalancha',es,Hazard,#4287f5,#022f78,1,0.0605505592744759
 'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,1,0.0603988445659919
 'Alud',es,Hazard,#4287f5,#4a8df7,2,0.0587899234093352
 'avalanchas muertos',es,Hazard,#4287f5,#022f78,1,0.056427349241527
 'Placa de viento',es,Hazard,#4287f5,#7fb3ff,2,0.0558890177243095
-'Sistemas de alerta de avalanchas',es,Mitigation,#9e3215,#d63a18,1,0.0542923333217754
 'cambio climático de avalanchas',es,Causes,#a89216,#d8c379,1,0.0537381603836209
 'Monitoreo a largo plazo',es,Adaptation,#157a2c,#4cc75d,3,0.053604766690462
 'Personas sepultadas',es,Impacts,#4287f5,#638ed5,3,0.0535552668108476
