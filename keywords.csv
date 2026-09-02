@@ -4,7 +4,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Zona de avalanchas',es,Hazard,#4287f5,#c0dcff,2,0.0753859192472062
 'Cambios bruscos de temperatura',es,Causes,#a89216,#d9c577,3,0.0738127779063829
 'Víctimas por avalancha',es,Impacts,#4287f5,#638ed1,3,0.0689492022005355
-'Sistemas de alerta de avalanchas',es,Mitigation,#9e3215,#d63a18,1,0.06249861832350909
+'Sistemas de alerta de avalanchas',es,Mitigation,#9e3215,#d63a18,1,0.062498618323509
 'Deslizamiento de nieve',es,Hazard,#4287f5,#91c0ff,1,0.0622920660045813
 'desastre avalancha',es,Hazard,#4287f5,#022f78,1,0.0605505592744759
 'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,1,0.0603988445659919
@@ -60,7 +60,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Manto nivoso inestable',es,Hazard,#4287f5,#99c6ff,1,0.0286582852051374
 'Viento fuerte sobre nieve suelta',es,Causes,#a89216,#ccb250,1,0.0252904864632539
 'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.0225865938057415
-'Refuerzo de rutas críticas',es,Adaptation,#157a2c,#58d567,1,0.0225150532395708
+'Refuerzo de rutas críticas',es,Adaptation,#157a2c,#58d567,1,0.02063794525363518
 'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,1,0.0183742179494215
 'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.0090385013976762
 'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.0084838997985824
