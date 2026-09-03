@@ -39,7 +39,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nieve inestable',es,Hazard,#4287f5,#6aa5fc,1,0.0455638014674161
 'Inestabilidad del manto nival',es,Causes,#a89216,#c7b34a,1,0.044988185683949
 'Interrupción de carreteras',es,Impacts,#4287f5,#639fd8,1,0.0441611173475788
-'accidente mortal avalancha',es,Hazard,#4287f5,#022f78,1,0.0440165780581445
 'Placa de nieve',es,Hazard,#4287f5,#78afff,1,0.0425836280814936
 'Pala y sonda de rescate',es,Mitigation,#9e3215,#d64418,1,0.0415241616703124
 'Vibraciones humanas o maquinaria',es,Causes,#a89216,#f9eccf,1,0.0411403631571874
@@ -50,6 +49,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Capacitación comunitaria en riesgo',es,Adaptation,#157a2c,#5edc6c,1,0.0394798080183592
 'Infraestructura resistente al clima',es,Adaptation,#157a2c,#52ce62,1,0.0393043487981086
 'Sistemas de control de avalanchas',es,Mitigation,#9e3215,#d63e18,1,0.0378641904363678
+'accidente mortal avalancha',es,Hazard,#4287f5,#022f78,1,0.03741409134942282
 'Nieve reciente poco cohesionada',es,Causes,#a89216,#f3e4c4,1,0.0362394043257186
 'Estrategias de resiliencia comunitaria',es,Adaptation,#157a2c,#34ab49,1,0.0360882519707527
 'Redes de contención de nieve',es,Mitigation,#9e3215,#d64e18,1,0.0335692600002346
@@ -60,7 +60,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Manto nivoso inestable',es,Hazard,#4287f5,#99c6ff,1,0.0286582852051374
 'Viento fuerte sobre nieve suelta',es,Causes,#a89216,#ccb250,1,0.0252904864632539
 'Refuerzo de rutas críticas',es,Adaptation,#157a2c,#58d567,1,0.0206379452536351
-'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.019498634734880275
+'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.0194986347348802
 'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,1,0.0183742179494215
 'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.0090385013976762
 'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.0084838997985824
