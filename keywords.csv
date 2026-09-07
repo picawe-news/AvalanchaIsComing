@@ -2,14 +2,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'avalancha',es,Hazard,#4287f5,#022f78,3,0.1507695719240298
 'Avalancha seca',es,Hazard,#4287f5,#adcfff,1,0.1119021229348918
 'Zona de avalanchas',es,Hazard,#4287f5,#c0dcff,2,0.0753859192472062
-'Daños por avalancha',es,Impacts,#4287f5,#63a2d9,2,0.0745206406817161
 'Cambios bruscos de temperatura',es,Causes,#a89216,#d9c577,3,0.0738127779063829
 'cambio climático de avalanchas',es,Causes,#a89216,#d8c379,1,0.069404161914313
 'Víctimas por avalancha',es,Impacts,#4287f5,#638ed1,3,0.0689492022005355
+'Daños por avalancha',es,Impacts,#4287f5,#63a2d9,2,0.06544324957945867
 'desastre avalancha',es,Hazard,#4287f5,#022f78,1,0.0605505592744759
 'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,1,0.0603988445659919
 'Alud',es,Hazard,#4287f5,#4a8df7,2,0.0587899234093352
-'Sistemas de alerta de avalanchas',es,Mitigation,#9e3215,#d63a18,1,0.05863987517055341
+'Sistemas de alerta de avalanchas',es,Mitigation,#9e3215,#d63a18,1,0.0586398751705534
 'avalanchas muertos',es,Hazard,#4287f5,#022f78,1,0.056427349241527
 'Deslizamiento de nieve',es,Hazard,#4287f5,#91c0ff,1,0.0557985411038941
 'Lluvia sobre nieve',es,Causes,#a89216,#eddcb1,3,0.0525432985032879
