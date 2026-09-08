@@ -10,7 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,1,0.0603988445659919
 'Alud',es,Hazard,#4287f5,#4a8df7,2,0.0587899234093352
 'Sistemas de alerta de avalanchas',es,Mitigation,#9e3215,#d63a18,1,0.0586398751705534
-'Deslizamiento de nieve',es,Hazard,#4287f5,#91c0ff,2,0.057007646366881416
+'Deslizamiento de nieve',es,Hazard,#4287f5,#91c0ff,2,0.0570076463668814
 'avalanchas muertos',es,Hazard,#4287f5,#022f78,1,0.056427349241527
 'Lluvia sobre nieve',es,Causes,#a89216,#eddcb1,3,0.0525432985032879
 'Acumulación rápida de nieve',es,Causes,#a89216,#d3bb63,1,0.0521150777924745
@@ -61,7 +61,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Viento fuerte sobre nieve suelta',es,Causes,#a89216,#ccb250,1,0.0252904864632539
 'Refuerzo de rutas críticas',es,Adaptation,#157a2c,#58d567,1,0.0206379452536351
 'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,1,0.0183742179494215
-'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.0170238845246481
+'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.014770331845950883
 'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.008261419828795
 'Rutas seguras señalizadas',es,Mitigation,#9e3215,#d64f18,1,0.0077803348381979
 'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.0076827261880247
