@@ -50,17 +50,17 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Infraestructura resistente al clima',es,Adaptation,#157a2c,#52ce62,1,0.0393043487981086
 'Sistemas de control de avalanchas',es,Mitigation,#9e3215,#d63e18,1,0.0378641904363678
 'accidente mortal avalancha',es,Hazard,#4287f5,#022f78,1,0.0374140913494228
-'Nieve reciente poco cohesionada',es,Causes,#a89216,#f3e4c4,1,0.0362394043257186
 'Estrategias de resiliencia comunitaria',es,Adaptation,#157a2c,#34ab49,1,0.0360882519707527
 'Redes de contención de nieve',es,Mitigation,#9e3215,#d64e18,1,0.0335692600002346
 'Bloqueo de rutas de montaña',es,Impacts,#4287f5,#63aedf,1,0.0331182361169108
 'Terreno propenso a avalanchas',es,Hazard,#4287f5,#f5faff,1,0.0327013799656057
 'Detonación preventiva',es,Mitigation,#9e3215,#d65a18,1,0.0325198445610952
 'Afectación a poblaciones',es,Impacts,#4287f5,#6393d4,1,0.0318709530281419
+'Nieve reciente poco cohesionada',es,Causes,#a89216,#f3e4c4,1,0.030803493676860808
 'Manto nivoso inestable',es,Hazard,#4287f5,#99c6ff,1,0.0286582852051374
 'Viento fuerte sobre nieve suelta',es,Causes,#a89216,#ccb250,1,0.0252904864632539
 'Refuerzo de rutas críticas',es,Adaptation,#157a2c,#58d567,1,0.0206379452536351
-'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,1,0.015768100257008276
+'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,1,0.0157681002570082
 'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.0147703318459508
 'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.008261419828795
 'Rutas seguras señalizadas',es,Mitigation,#9e3215,#d64f18,1,0.0077803348381979
