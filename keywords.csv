@@ -1,11 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'avalancha',es,Hazard,#4287f5,#022f78,3,0.2026676056808798
 'Avalancha seca',es,Hazard,#4287f5,#adcfff,1,0.1119021229348918
-'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,2,0.0803804219720022
 'Zona de avalanchas',es,Hazard,#4287f5,#c0dcff,2,0.0753859192472062
 'Cambios bruscos de temperatura',es,Causes,#a89216,#d9c577,3,0.0738127779063829
 'cambio climático de avalanchas',es,Causes,#a89216,#d8c379,1,0.069404161914313
 'Víctimas por avalancha',es,Impacts,#4287f5,#638ed1,3,0.0689492022005355
+'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,1,0.06832385367620186
 'desastre avalancha',es,Hazard,#4287f5,#022f78,1,0.0605505592744759
 'Alud',es,Hazard,#4287f5,#4a8df7,2,0.0587899234093352
 'Deslizamiento de nieve',es,Hazard,#4287f5,#91c0ff,2,0.0570076463668814
@@ -58,7 +58,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Afectación a poblaciones',es,Impacts,#4287f5,#6393d4,1,0.0318709530281419
 'Nieve reciente poco cohesionada',es,Causes,#a89216,#f3e4c4,1,0.0308034936768608
 'Viento fuerte sobre nieve suelta',es,Causes,#a89216,#ccb250,1,0.0252904864632539
-'Manto nivoso inestable',es,Hazard,#4287f5,#99c6ff,1,0.02435954242436679
+'Manto nivoso inestable',es,Hazard,#4287f5,#99c6ff,1,0.0243595424243667
 'Refuerzo de rutas críticas',es,Adaptation,#157a2c,#58d567,1,0.0206379452536351
 'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,1,0.0157681002570082
 'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.0147703318459508
