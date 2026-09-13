@@ -5,7 +5,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cambios bruscos de temperatura',es,Causes,#a89216,#d9c577,3,0.0738127779063829
 'cambio climático de avalanchas',es,Causes,#a89216,#d8c379,1,0.069404161914313
 'Víctimas por avalancha',es,Impacts,#4287f5,#638ed1,3,0.0689492022005355
-'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,1,0.0683238536762018
+'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,2,0.062425710624771535
 'desastre avalancha',es,Hazard,#4287f5,#022f78,1,0.0605505592744759
 'Alud',es,Hazard,#4287f5,#4a8df7,2,0.0587899234093352
 'Deslizamiento de nieve',es,Hazard,#4287f5,#91c0ff,2,0.0570076463668814
@@ -37,7 +37,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Educación en seguridad invernal',es,Mitigation,#9e3215,#d65218,1,0.044302675452174
 'Interrupción de carreteras',es,Impacts,#4287f5,#639fd8,1,0.0441611173475788
 'Placa de nieve',es,Hazard,#4287f5,#78afff,1,0.0425836280814936
-'Placa de viento',es,Hazard,#4287f5,#7fb3ff,1,0.04203766105581355
+'Placa de viento',es,Hazard,#4287f5,#7fb3ff,1,0.0420376610558135
 'Pala y sonda de rescate',es,Mitigation,#9e3215,#d64418,1,0.0415241616703124
 'Vibraciones humanas o maquinaria',es,Causes,#a89216,#f9eccf,1,0.0411403631571874
 'Planificación territorial segura',es,Adaptation,#157a2c,#1b8f35,1,0.0409033669239708
