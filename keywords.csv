@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'avalancha',es,Hazard,#4287f5,#022f78,3,0.2026676056808798
-'Avalancha seca',es,Hazard,#4287f5,#adcfff,1,0.1119021229348918
+'Avalancha seca',es,Hazard,#4287f5,#adcfff,1,0.09571686449465802
 'Zona de avalanchas',es,Hazard,#4287f5,#c0dcff,2,0.0753859192472062
 'Cambios bruscos de temperatura',es,Causes,#a89216,#d9c577,3,0.0738127779063829
 'cambio climático de avalanchas',es,Causes,#a89216,#d8c379,1,0.069404161914313
@@ -25,7 +25,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Acumulación de nieve',es,Hazard,#4287f5,#e7f3ff,3,0.0486078457604783
 'Perros de búsqueda en avalanchas',es,Mitigation,#9e3215,#d64718,1,0.0485958924168749
 'daños por avalancha',es,Hazard,#4287f5,#022f78,2,0.0483617940379978
-'Corredor de avalanchas',es,Hazard,#4287f5,#c9e1ff,1,0.047500576999955225
+'Corredor de avalanchas',es,Hazard,#4287f5,#c9e1ff,1,0.0475005769999552
 'Personas sepultadas',es,Impacts,#4287f5,#638ed5,3,0.0468726067892204
 'Destrucción de infraestructuras',es,Impacts,#4287f5,#6390d3,3,0.0465755404760869
 'nieve y avalanchas',es,Causes,#a89216,#d8c379,1,0.0464115371345018
