@@ -5,9 +5,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cambios bruscos de temperatura',es,Causes,#a89216,#d9c577,3,0.0738127779063829
 'cambio climático de avalanchas',es,Causes,#a89216,#d8c379,1,0.069404161914313
 'Víctimas por avalancha',es,Impacts,#4287f5,#638ed1,3,0.0689492022005355
-'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,2,0.0624257106247715
 'desastre avalancha',es,Hazard,#4287f5,#022f78,1,0.0605505592744759
 'Alud',es,Hazard,#4287f5,#4a8df7,2,0.0587899234093352
+'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,2,0.05726227403105577
 'Deslizamiento de nieve',es,Hazard,#4287f5,#91c0ff,2,0.0570076463668814
 'Daños por avalancha',es,Impacts,#4287f5,#63a2d9,2,0.0569773921425398
 'avalanchas muertos',es,Hazard,#4287f5,#022f78,1,0.056427349241527
@@ -48,7 +48,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Riesgo para actividades turísticas',es,Impacts,#4287f5,#63a5da,1,0.0389123881718252
 'Sistemas de control de avalanchas',es,Mitigation,#9e3215,#d63e18,1,0.0378641904363678
 'accidente mortal avalancha',es,Hazard,#4287f5,#022f78,1,0.0374140913494228
-'Placa de nieve',es,Hazard,#4287f5,#78afff,1,0.036646128869269566
+'Placa de nieve',es,Hazard,#4287f5,#78afff,1,0.0366461288692695
 'Estrategias de resiliencia comunitaria',es,Adaptation,#157a2c,#34ab49,1,0.0360882519707527
 'Protección de bosques protectores',es,Adaptation,#157a2c,#40b953,1,0.034631428586041
 'Redes de contención de nieve',es,Mitigation,#9e3215,#d64e18,1,0.0335692600002346
