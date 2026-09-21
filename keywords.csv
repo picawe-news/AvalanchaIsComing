@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'avalancha',es,Hazard,#4287f5,#022f78,3,0.2026676056808798
-'Avalancha seca',es,Hazard,#4287f5,#adcfff,1,0.08210940982045929
+'Avalancha seca',es,Hazard,#4287f5,#adcfff,1,0.0821094098204592
 'Zona de avalanchas',es,Hazard,#4287f5,#c0dcff,2,0.0753859192472062
 'cambio climático de avalanchas',es,Causes,#a89216,#d8c379,1,0.069404161914313
 'Víctimas por avalancha',es,Impacts,#4287f5,#638ed1,3,0.0689492022005355
@@ -26,13 +26,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'daños por avalancha',es,Hazard,#4287f5,#022f78,2,0.0483617940379978
 'Corredor de avalanchas',es,Hazard,#4287f5,#c9e1ff,1,0.0475005769999552
 'Personas sepultadas',es,Impacts,#4287f5,#638ed5,3,0.0468726067892204
-'Destrucción de infraestructuras',es,Impacts,#4287f5,#6390d3,3,0.0465755404760869
 'nieve y avalanchas',es,Causes,#a89216,#d8c379,1,0.0464115371345018
 'Ruptura del manto nival',es,Hazard,#4287f5,#d2e6ff,1,0.0462654850200696
 'Diseño urbano resistente a avalanchas',es,Adaptation,#157a2c,#22963a,1,0.0461631007124999
 'Sistemas de alerta de avalanchas',es,Mitigation,#9e3215,#d63a18,1,0.0459751705607247
 'Planes de evacuación locales',es,Adaptation,#157a2c,#46c058,1,0.0457179828141811
 'Inestabilidad del manto nival',es,Causes,#a89216,#c7b34a,1,0.044988185683949
+'Destrucción de infraestructuras',es,Impacts,#4287f5,#6390d3,3,0.044540769404673865
 'Educación en seguridad invernal',es,Mitigation,#9e3215,#d65218,1,0.044302675452174
 'Interrupción de carreteras',es,Impacts,#4287f5,#639fd8,1,0.0441611173475788
 'Placa de viento',es,Hazard,#4287f5,#7fb3ff,1,0.0420376610558135
