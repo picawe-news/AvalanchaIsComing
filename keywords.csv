@@ -12,7 +12,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Acumulación rápida de nieve',es,Causes,#a89216,#d3bb63,1,0.0521150777924745
 'Deslizamiento de nieve',es,Hazard,#4287f5,#91c0ff,2,0.0514567994118491
 'Avalancha de polvo',es,Hazard,#4287f5,#d8eaff,1,0.0513659310351233
-'Nevada intensa',es,Hazard,#4287f5,#eff7ff,2,0.0508992828955432
 'Pendiente pronunciada',es,Causes,#a89216,#e0cd8b,3,0.0508508711910919
 'Pérdida de vidas humanas',es,Impacts,#4287f5,#63a8db,2,0.0505896475362227
 'Monitoreo a largo plazo',es,Adaptation,#157a2c,#4cc75d,3,0.0505161966868926
@@ -35,6 +34,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Destrucción de infraestructuras',es,Impacts,#4287f5,#6390d3,3,0.0445407694046738
 'Educación en seguridad invernal',es,Mitigation,#9e3215,#d65218,1,0.044302675452174
 'Interrupción de carreteras',es,Impacts,#4287f5,#639fd8,1,0.0441611173475788
+'Nevada intensa',es,Hazard,#4287f5,#eff7ff,1,0.04326443546121172
 'Placa de viento',es,Hazard,#4287f5,#7fb3ff,1,0.0420376610558135
 'Pala y sonda de rescate',es,Mitigation,#9e3215,#d64418,1,0.0415241616703124
 'Vibraciones humanas o maquinaria',es,Causes,#a89216,#f9eccf,1,0.0411403631571874
@@ -60,7 +60,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Viento fuerte sobre nieve suelta',es,Causes,#a89216,#ccb250,1,0.0214969134937658
 'Manto nivoso inestable',es,Hazard,#4287f5,#99c6ff,1,0.0207056110607116
 'Refuerzo de rutas críticas',es,Adaptation,#157a2c,#58d567,1,0.0206379452536351
-'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,1,0.01340288521845697
+'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,1,0.0134028852184569
 'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.0131548420690581
 'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.008261419828795
 'Rutas seguras señalizadas',es,Mitigation,#9e3215,#d64f18,1,0.0077803348381979
