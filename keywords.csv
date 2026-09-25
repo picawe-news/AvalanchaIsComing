@@ -34,7 +34,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Destrucción de infraestructuras',es,Impacts,#4287f5,#6390d3,3,0.0445407694046738
 'Educación en seguridad invernal',es,Mitigation,#9e3215,#d65218,1,0.044302675452174
 'Interrupción de carreteras',es,Impacts,#4287f5,#639fd8,1,0.0441611173475788
-'Nevada intensa',es,Hazard,#4287f5,#eff7ff,1,0.04326443546121172
+'Nevada intensa',es,Hazard,#4287f5,#eff7ff,1,0.0432644354612117
 'Placa de viento',es,Hazard,#4287f5,#7fb3ff,1,0.0420376610558135
 'Pala y sonda de rescate',es,Mitigation,#9e3215,#d64418,1,0.0415241616703124
 'Vibraciones humanas o maquinaria',es,Causes,#a89216,#f9eccf,1,0.0411403631571874
@@ -58,8 +58,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Protección de bosques protectores',es,Adaptation,#157a2c,#40b953,1,0.0294367142981348
 'Bloqueo de rutas de montaña',es,Impacts,#4287f5,#63aedf,1,0.0287505606993741
 'Viento fuerte sobre nieve suelta',es,Causes,#a89216,#ccb250,1,0.0214969134937658
-'Manto nivoso inestable',es,Hazard,#4287f5,#99c6ff,1,0.0207056110607116
 'Refuerzo de rutas críticas',es,Adaptation,#157a2c,#58d567,1,0.0206379452536351
+'Manto nivoso inestable',es,Hazard,#4287f5,#99c6ff,1,0.01759976940160486
 'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,1,0.0134028852184569
 'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.0131548420690581
 'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.008261419828795
