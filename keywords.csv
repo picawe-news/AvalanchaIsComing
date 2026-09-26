@@ -4,8 +4,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Zona de avalanchas',es,Hazard,#4287f5,#c0dcff,2,0.0753859192472062
 'cambio climático de avalanchas',es,Causes,#a89216,#d8c379,1,0.069404161914313
 'Víctimas por avalancha',es,Impacts,#4287f5,#638ed1,3,0.0689492022005355
-'Cambios bruscos de temperatura',es,Causes,#a89216,#d9c577,3,0.0676921812204254
 'desastre avalancha',es,Hazard,#4287f5,#022f78,1,0.0605505592744759
+'Cambios bruscos de temperatura',es,Causes,#a89216,#d9c577,3,0.059489539037361594
 'Alud',es,Hazard,#4287f5,#4a8df7,2,0.0587899234093352
 'Daños por avalancha',es,Impacts,#4287f5,#63a2d9,2,0.0569773921425398
 'avalanchas muertos',es,Hazard,#4287f5,#022f78,1,0.056427349241527
@@ -59,7 +59,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bloqueo de rutas de montaña',es,Impacts,#4287f5,#63aedf,1,0.0287505606993741
 'Viento fuerte sobre nieve suelta',es,Causes,#a89216,#ccb250,1,0.0214969134937658
 'Refuerzo de rutas críticas',es,Adaptation,#157a2c,#58d567,1,0.0206379452536351
-'Manto nivoso inestable',es,Hazard,#4287f5,#99c6ff,1,0.01759976940160486
+'Manto nivoso inestable',es,Hazard,#4287f5,#99c6ff,1,0.0175997694016048
 'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,1,0.0134028852184569
 'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.0131548420690581
 'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.008261419828795
