@@ -33,7 +33,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Destrucción de infraestructuras',es,Impacts,#4287f5,#6390d3,3,0.0445407694046738
 'Educación en seguridad invernal',es,Mitigation,#9e3215,#d65218,1,0.044302675452174
 'Interrupción de carreteras',es,Impacts,#4287f5,#639fd8,1,0.0441611173475788
-'Deslizamiento de nieve',es,Hazard,#4287f5,#91c0ff,1,0.04373854950007173
+'Deslizamiento de nieve',es,Hazard,#4287f5,#91c0ff,1,0.0437385495000717
 'Nevada intensa',es,Hazard,#4287f5,#eff7ff,1,0.0432644354612117
 'Placa de viento',es,Hazard,#4287f5,#7fb3ff,1,0.0420376610558135
 'Pala y sonda de rescate',es,Mitigation,#9e3215,#d64418,1,0.0415241616703124
@@ -61,7 +61,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Refuerzo de rutas críticas',es,Adaptation,#157a2c,#58d567,1,0.0206379452536351
 'Manto nivoso inestable',es,Hazard,#4287f5,#99c6ff,1,0.0175997694016048
 'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,1,0.0134028852184569
-'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.0131548420690581
+'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.011631660758699383
 'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.008261419828795
 'Rutas seguras señalizadas',es,Mitigation,#9e3215,#d64f18,1,0.0077803348381979
 'Equipamiento ARVA',es,Mitigation,#9e3215,#d64b18,1,0.0071441248867791
