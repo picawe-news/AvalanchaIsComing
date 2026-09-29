@@ -56,10 +56,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Afectación a poblaciones',es,Impacts,#4287f5,#6393d4,1,0.0318709530281419
 'Nieve reciente poco cohesionada',es,Causes,#a89216,#f3e4c4,1,0.0308034936768608
 'Protección de bosques protectores',es,Adaptation,#157a2c,#40b953,1,0.0294367142981348
-'Bloqueo de rutas de montaña',es,Impacts,#4287f5,#63aedf,1,0.0287505606993741
+'Bloqueo de rutas de montaña',es,Impacts,#4287f5,#63aedf,1,0.024888021594467985
 'Viento fuerte sobre nieve suelta',es,Causes,#a89216,#ccb250,1,0.0214969134937658
 'Refuerzo de rutas críticas',es,Adaptation,#157a2c,#58d567,1,0.0206379452536351
-'Manto nivoso inestable',es,Hazard,#4287f5,#99c6ff,1,0.014959803991364078
+'Manto nivoso inestable',es,Hazard,#4287f5,#99c6ff,1,0.014959803991364
 'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,1,0.0134028852184569
 'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.0116316607586993
 'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.008261419828795
