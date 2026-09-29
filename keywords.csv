@@ -41,7 +41,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Planificación territorial segura',es,Adaptation,#157a2c,#1b8f35,1,0.0409033669239708
 'Calentamiento repentino',es,Causes,#a89216,#e6d59e,1,0.0406098919017082
 'avalancha de placa',es,Hazard,#4287f5,#022f78,1,0.0404104558597049
-'Nieve inestable',es,Hazard,#4287f5,#6aa5fc,1,0.0402293812473036
 'Daños económicos locales',es,Impacts,#4287f5,#6399d6,1,0.0398032759441782
 'Infraestructura resistente al clima',es,Adaptation,#157a2c,#52ce62,1,0.0393043487981086
 'Riesgo para actividades turísticas',es,Impacts,#4287f5,#63a5da,1,0.0389123881718252
@@ -49,6 +48,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'accidente mortal avalancha',es,Hazard,#4287f5,#022f78,1,0.0374140913494228
 'Placa de nieve',es,Hazard,#4287f5,#78afff,1,0.0366461288692695
 'Estrategias de resiliencia comunitaria',es,Adaptation,#157a2c,#34ab49,1,0.0360882519707527
+'Nieve inestable',es,Hazard,#4287f5,#6aa5fc,1,0.035545109060208066
 'Capacitación comunitaria en riesgo',es,Adaptation,#157a2c,#5edc6c,1,0.0340078818156053
 'Redes de contención de nieve',es,Mitigation,#9e3215,#d64e18,1,0.0335692600002346
 'Terreno propenso a avalanchas',es,Hazard,#4287f5,#f5faff,1,0.0327013799656057
@@ -56,7 +56,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Afectación a poblaciones',es,Impacts,#4287f5,#6393d4,1,0.0318709530281419
 'Nieve reciente poco cohesionada',es,Causes,#a89216,#f3e4c4,1,0.0308034936768608
 'Protección de bosques protectores',es,Adaptation,#157a2c,#40b953,1,0.0294367142981348
-'Bloqueo de rutas de montaña',es,Impacts,#4287f5,#63aedf,1,0.024888021594467985
+'Bloqueo de rutas de montaña',es,Impacts,#4287f5,#63aedf,1,0.0248880215944679
 'Viento fuerte sobre nieve suelta',es,Causes,#a89216,#ccb250,1,0.0214969134937658
 'Refuerzo de rutas críticas',es,Adaptation,#157a2c,#58d567,1,0.0206379452536351
 'Manto nivoso inestable',es,Hazard,#4287f5,#99c6ff,1,0.014959803991364
