@@ -36,7 +36,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pala y sonda de rescate',es,Mitigation,#9e3215,#d64418,1,0.0415241616703124
 'Vibraciones humanas o maquinaria',es,Causes,#a89216,#f9eccf,1,0.0411403631571874
 'Planificación territorial segura',es,Adaptation,#157a2c,#1b8f35,1,0.0409033669239708
-'Corredor de avalanchas',es,Hazard,#4287f5,#c9e1ff,1,0.04052550544996192
+'Corredor de avalanchas',es,Hazard,#4287f5,#c9e1ff,1,0.0405255054499619
 'avalancha de placa',es,Hazard,#4287f5,#022f78,1,0.0404104558597049
 'Daños económicos locales',es,Impacts,#4287f5,#6399d6,1,0.0398032759441782
 'Ruptura del manto nival',es,Hazard,#4287f5,#d2e6ff,1,0.0393256622670591
@@ -64,7 +64,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,1,0.0113924524356883
 'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.008261419828795
 'Equipamiento ARVA',es,Mitigation,#9e3215,#d64b18,1,0.0071441248867791
-'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.0065303172598209
 'Avalancha húmeda',es,Hazard,#4287f5,#a3ccff,1,0.0057103769282425
+'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.005550769670847765
 'Rutas seguras señalizadas',es,Mitigation,#9e3215,#d64f18,1,0.0047780981325082
 'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.0036264870765085
