@@ -65,6 +65,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.008261419828795
 'Equipamiento ARVA',es,Mitigation,#9e3215,#d64b18,1,0.0071441248867791
 'Avalancha húmeda',es,Hazard,#4287f5,#a3ccff,1,0.0057103769282425
-'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.0055507696708477
-'Rutas seguras señalizadas',es,Mitigation,#9e3215,#d64f18,1,0.00406138341263197
+'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.0047181542202205445
+'Rutas seguras señalizadas',es,Mitigation,#9e3215,#d64f18,1,0.0040613834126319
 'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.0036264870765085
