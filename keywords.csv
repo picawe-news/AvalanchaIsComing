@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'avalancha',es,Hazard,#4287f5,#022f78,3,0.2026676056808798
-'Zona de avalanchas',es,Hazard,#4287f5,#c0dcff,2,0.0753859192472062
 'Avalancha seca',es,Hazard,#4287f5,#adcfff,1,0.0705430733473903
 'cambio climático de avalanchas',es,Causes,#a89216,#d8c379,1,0.069404161914313
 'Víctimas por avalancha',es,Impacts,#4287f5,#638ed1,3,0.0689492022005355
+'Zona de avalanchas',es,Hazard,#4287f5,#c0dcff,1,0.06407825636012528
 'desastre avalancha',es,Hazard,#4287f5,#022f78,1,0.0605505592744759
 'Cambios bruscos de temperatura',es,Causes,#a89216,#d9c577,3,0.0594895390373615
 'Alud',es,Hazard,#4287f5,#4a8df7,2,0.0587899234093352
@@ -27,7 +27,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sistemas de alerta de avalanchas',es,Mitigation,#9e3215,#d63a18,1,0.0459751705607247
 'Planes de evacuación locales',es,Adaptation,#157a2c,#46c058,1,0.0457179828141811
 'Inestabilidad del manto nival',es,Causes,#a89216,#c7b34a,1,0.044988185683949
-'Acumulación rápida de nieve',es,Causes,#a89216,#d3bb63,1,0.044897876123603325
+'Acumulación rápida de nieve',es,Causes,#a89216,#d3bb63,1,0.0448978761236033
 'Educación en seguridad invernal',es,Mitigation,#9e3215,#d65218,1,0.044302675452174
 'Interrupción de carreteras',es,Impacts,#4287f5,#639fd8,1,0.0441611173475788
 'Deslizamiento de nieve',es,Hazard,#4287f5,#91c0ff,1,0.0437385495000717
