@@ -4,7 +4,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'desastre avalancha',es,Hazard,#4287f5,#022f78,1,0.0605505592744759
 'Avalancha seca',es,Hazard,#4287f5,#adcfff,1,0.0604116573452817
 'Cambios bruscos de temperatura',es,Causes,#a89216,#d9c577,3,0.0594895390373615
-'Víctimas por avalancha',es,Impacts,#4287f5,#638ed1,2,0.05860752687045517
+'Víctimas por avalancha',es,Impacts,#4287f5,#638ed1,2,0.0586075268704551
 'Daños por avalancha',es,Impacts,#4287f5,#63a2d9,2,0.0569773921425398
 'avalanchas muertos',es,Hazard,#4287f5,#022f78,1,0.056427349241527
 'Zona de avalanchas',es,Hazard,#4287f5,#c0dcff,1,0.0564167129061064
@@ -33,7 +33,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Deslizamiento de nieve',es,Hazard,#4287f5,#91c0ff,1,0.0437385495000717
 'Nevada intensa',es,Hazard,#4287f5,#eff7ff,1,0.0432644354612117
 'Destrucción de infraestructuras',es,Impacts,#4287f5,#6390d3,3,0.0428112739939727
-'Pala y sonda de rescate',es,Mitigation,#9e3215,#d64418,1,0.0415241616703124
 'Vibraciones humanas o maquinaria',es,Causes,#a89216,#f9eccf,1,0.0411403631571874
 'Planificación territorial segura',es,Adaptation,#157a2c,#1b8f35,1,0.0409033669239708
 'Corredor de avalanchas',es,Hazard,#4287f5,#c9e1ff,1,0.0405255054499619
@@ -49,6 +48,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Estrategias de resiliencia comunitaria',es,Adaptation,#157a2c,#34ab49,1,0.0360882519707527
 'Calentamiento repentino',es,Causes,#a89216,#e6d59e,1,0.0355685131164519
 'Nieve inestable',es,Hazard,#4287f5,#6aa5fc,1,0.035545109060208
+'Pala y sonda de rescate',es,Mitigation,#9e3215,#d64418,1,0.03529553741976554
 'Capacitación comunitaria en riesgo',es,Adaptation,#157a2c,#5edc6c,1,0.0340078818156053
 'Redes de contención de nieve',es,Mitigation,#9e3215,#d64e18,1,0.0335692600002346
 'Terreno propenso a avalanchas',es,Hazard,#4287f5,#f5faff,1,0.0327013799656057
