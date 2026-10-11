@@ -11,7 +11,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Avalancha de polvo',es,Hazard,#4287f5,#d8eaff,1,0.0513659310351233
 'Alud',es,Hazard,#4287f5,#4a8df7,1,0.0499718848979349
 'Desprendimiento de nieve',es,Hazard,#4287f5,#5a99fa,1,0.0495083608997915
-'Gestión sostenible del riesgo',es,Adaptation,#157a2c,#3ab24e,3,0.0491255090597338
 'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,1,0.0486733979263973
 'Acumulación de nieve',es,Hazard,#4287f5,#e7f3ff,3,0.0486078457604783
 'Perros de búsqueda en avalanchas',es,Mitigation,#9e3215,#d64718,1,0.0485958924168749
@@ -20,6 +19,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Monitoreo a largo plazo',es,Adaptation,#157a2c,#4cc75d,3,0.0478903571838587
 'Lluvia sobre nieve',es,Causes,#a89216,#eddcb1,3,0.0471219906686254
 'Personas sepultadas',es,Impacts,#4287f5,#638ed5,3,0.0468726067892204
+'Gestión sostenible del riesgo',es,Adaptation,#157a2c,#3ab24e,3,0.046715667700773726
 'nieve y avalanchas',es,Causes,#a89216,#d8c379,1,0.0464115371345018
 'Diseño urbano resistente a avalanchas',es,Adaptation,#157a2c,#22963a,1,0.0461631007124999
 'Pendiente pronunciada',es,Causes,#a89216,#e0cd8b,3,0.0460740205124281
@@ -64,7 +64,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,1,0.0113924524356883
 'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.008261419828795
 'Equipamiento ARVA',es,Mitigation,#9e3215,#d64b18,1,0.0071441248867791
-'Avalancha húmeda',es,Hazard,#4287f5,#a3ccff,1,0.005003835389006125
+'Avalancha húmeda',es,Hazard,#4287f5,#a3ccff,1,0.0050038353890061
 'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.0047181542202205
 'Rutas seguras señalizadas',es,Mitigation,#9e3215,#d64f18,1,0.0034521759007371
 'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.0030825140150322
