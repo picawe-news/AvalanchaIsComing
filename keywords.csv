@@ -12,7 +12,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alud',es,Hazard,#4287f5,#4a8df7,1,0.0499718848979349
 'Desprendimiento de nieve',es,Hazard,#4287f5,#5a99fa,1,0.0495083608997915
 'Gestión sostenible del riesgo',es,Adaptation,#157a2c,#3ab24e,3,0.0491255090597338
-'Estratificación débil de nieve',es,Causes,#a89216,#fff4e0,1,0.0488963254374999
 'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,1,0.0486733979263973
 'Acumulación de nieve',es,Hazard,#4287f5,#e7f3ff,3,0.0486078457604783
 'Perros de búsqueda en avalanchas',es,Mitigation,#9e3215,#d64718,1,0.0485958924168749
@@ -33,6 +32,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Deslizamiento de nieve',es,Hazard,#4287f5,#91c0ff,1,0.0437385495000717
 'Nevada intensa',es,Hazard,#4287f5,#eff7ff,1,0.0432644354612117
 'Destrucción de infraestructuras',es,Impacts,#4287f5,#6390d3,3,0.0428112739939727
+'Estratificación débil de nieve',es,Causes,#a89216,#fff4e0,1,0.04156187662187492
 'Vibraciones humanas o maquinaria',es,Causes,#a89216,#f9eccf,1,0.0411403631571874
 'Planificación territorial segura',es,Adaptation,#157a2c,#1b8f35,1,0.0409033669239708
 'Corredor de avalanchas',es,Hazard,#4287f5,#c9e1ff,1,0.0405255054499619
@@ -48,7 +48,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Estrategias de resiliencia comunitaria',es,Adaptation,#157a2c,#34ab49,1,0.0360882519707527
 'Calentamiento repentino',es,Causes,#a89216,#e6d59e,1,0.0355685131164519
 'Nieve inestable',es,Hazard,#4287f5,#6aa5fc,1,0.035545109060208
-'Pala y sonda de rescate',es,Mitigation,#9e3215,#d64418,1,0.03529553741976554
+'Pala y sonda de rescate',es,Mitigation,#9e3215,#d64418,1,0.0352955374197655
 'Capacitación comunitaria en riesgo',es,Adaptation,#157a2c,#5edc6c,1,0.0340078818156053
 'Redes de contención de nieve',es,Mitigation,#9e3215,#d64e18,1,0.0335692600002346
 'Terreno propenso a avalanchas',es,Hazard,#4287f5,#f5faff,1,0.0327013799656057
