@@ -2,12 +2,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'avalancha',es,Hazard,#4287f5,#022f78,3,0.2026676056808798
 'cambio climático de avalanchas',es,Causes,#a89216,#d8c379,1,0.069404161914313
 'desastre avalancha',es,Hazard,#4287f5,#022f78,1,0.0605505592744759
-'Avalancha seca',es,Hazard,#4287f5,#adcfff,1,0.0604116573452817
 'Víctimas por avalancha',es,Impacts,#4287f5,#638ed1,2,0.0586075268704551
 'Daños por avalancha',es,Impacts,#4287f5,#63a2d9,2,0.0569773921425398
 'avalanchas muertos',es,Hazard,#4287f5,#022f78,1,0.056427349241527
 'Zona de avalanchas',es,Hazard,#4287f5,#c0dcff,1,0.0564167129061064
 'Cambios bruscos de temperatura',es,Causes,#a89216,#d9c577,3,0.0538669331817572
+'Avalancha seca',es,Hazard,#4287f5,#adcfff,1,0.051799953743489446
 'Avalancha de polvo',es,Hazard,#4287f5,#d8eaff,1,0.0513659310351233
 'Alud',es,Hazard,#4287f5,#4a8df7,1,0.0499718848979349
 'Desprendimiento de nieve',es,Hazard,#4287f5,#5a99fa,1,0.0495083608997915
@@ -63,7 +63,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.0116316607586993
 'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,1,0.0113924524356883
 'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.008261419828795
-'Equipamiento ARVA',es,Mitigation,#9e3215,#d64b18,1,0.006072506153762235
+'Equipamiento ARVA',es,Mitigation,#9e3215,#d64b18,1,0.0060725061537622
 'Avalancha húmeda',es,Hazard,#4287f5,#a3ccff,1,0.0050038353890061
 'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.0047181542202205
 'Rutas seguras señalizadas',es,Mitigation,#9e3215,#d64f18,1,0.0034521759007371
