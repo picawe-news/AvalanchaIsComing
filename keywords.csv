@@ -64,7 +64,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,1,0.0113924524356883
 'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.008261419828795
 'Equipamiento ARVA',es,Mitigation,#9e3215,#d64b18,1,0.0060725061537622
-'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.0047181542202205
-'Avalancha húmeda',es,Hazard,#4287f5,#a3ccff,1,0.004403275080655185
+'Avalancha húmeda',es,Hazard,#4287f5,#a3ccff,1,0.0044032750806551
+'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.004010431087187425
 'Rutas seguras señalizadas',es,Mitigation,#9e3215,#d64f18,1,0.0034521759007371
 'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.0030825140150322
