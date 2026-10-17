@@ -53,7 +53,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Terreno propenso a avalanchas',es,Hazard,#4287f5,#f5faff,1,0.0327013799656057
 'Afectación a poblaciones',es,Impacts,#4287f5,#6393d4,1,0.0318709530281419
 'Nieve reciente poco cohesionada',es,Causes,#a89216,#f3e4c4,1,0.0308034936768608
-'Pala y sonda de rescate',es,Mitigation,#9e3215,#d64418,1,0.030001206806800677
+'Pala y sonda de rescate',es,Mitigation,#9e3215,#d64418,1,0.0300012068068006
 'Protección de bosques protectores',es,Adaptation,#157a2c,#40b953,1,0.0294367142981348
 'Detonación preventiva',es,Mitigation,#9e3215,#d65a18,1,0.0279418978769309
 'Bloqueo de rutas de montaña',es,Impacts,#4287f5,#63aedf,1,0.0248880215944679
@@ -67,4 +67,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Avalancha húmeda',es,Hazard,#4287f5,#a3ccff,1,0.0044032750806551
 'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.0040104310871874
 'Rutas seguras señalizadas',es,Mitigation,#9e3215,#d64f18,1,0.0034521759007371
-'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.0030825140150322
+'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.00262013691277737
