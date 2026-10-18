@@ -31,11 +31,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nevada intensa',es,Hazard,#4287f5,#eff7ff,1,0.0432644354612117
 'Destrucción de infraestructuras',es,Impacts,#4287f5,#6390d3,3,0.0428112739939727
 'Estratificación débil de nieve',es,Causes,#a89216,#fff4e0,1,0.0415618766218749
-'Acumulación de nieve',es,Hazard,#4287f5,#e7f3ff,2,0.0413174638964065
 'Vibraciones humanas o maquinaria',es,Causes,#a89216,#f9eccf,1,0.0411403631571874
 'Interrupción de carreteras',es,Impacts,#4287f5,#639fd8,2,0.0409872947454419
 'Corredor de avalanchas',es,Hazard,#4287f5,#c9e1ff,1,0.0405255054499619
 'avalancha de placa',es,Hazard,#4287f5,#022f78,1,0.0404104558597049
+'Acumulación de nieve',es,Hazard,#4287f5,#e7f3ff,2,0.04007057931194553
 'Daños económicos locales',es,Impacts,#4287f5,#6399d6,1,0.0398032759441782
 'Ruptura del manto nival',es,Hazard,#4287f5,#d2e6ff,1,0.0393256622670591
 'Infraestructura resistente al clima',es,Adaptation,#157a2c,#52ce62,1,0.0393043487981086
@@ -52,7 +52,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Terreno propenso a avalanchas',es,Hazard,#4287f5,#f5faff,1,0.0327013799656057
 'Afectación a poblaciones',es,Impacts,#4287f5,#6393d4,1,0.0318709530281419
 'Nieve reciente poco cohesionada',es,Causes,#a89216,#f3e4c4,1,0.0308034936768608
-'Calentamiento repentino',es,Causes,#a89216,#e6d59e,1,0.030683281148984113
+'Calentamiento repentino',es,Causes,#a89216,#e6d59e,1,0.0306832811489841
 'Pala y sonda de rescate',es,Mitigation,#9e3215,#d64418,1,0.0300012068068006
 'Protección de bosques protectores',es,Adaptation,#157a2c,#40b953,1,0.0294367142981348
 'Detonación preventiva',es,Mitigation,#9e3215,#d65a18,1,0.0279418978769309
