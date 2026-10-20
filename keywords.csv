@@ -7,7 +7,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'avalanchas muertos',es,Hazard,#4287f5,#022f78,1,0.056427349241527
 'Zona de avalanchas',es,Hazard,#4287f5,#c0dcff,1,0.0564167129061064
 'Cambios bruscos de temperatura',es,Causes,#a89216,#d9c577,3,0.0538669331817572
-'Avalancha seca',es,Hazard,#4287f5,#adcfff,1,0.0517999537434894
 'Avalancha de polvo',es,Hazard,#4287f5,#d8eaff,1,0.0513659310351233
 'Alud',es,Hazard,#4287f5,#4a8df7,1,0.0499718848979349
 'Desprendimiento de nieve',es,Hazard,#4287f5,#5a99fa,1,0.0495083608997915
@@ -25,12 +24,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Planes de evacuación locales',es,Adaptation,#157a2c,#46c058,1,0.0457179828141811
 'Inestabilidad del manto nival',es,Causes,#a89216,#c7b34a,1,0.044988185683949
 'Acumulación rápida de nieve',es,Causes,#a89216,#d3bb63,1,0.0448978761236033
+'Avalancha seca',es,Hazard,#4287f5,#adcfff,1,0.04448000568196599
 'Educación en seguridad invernal',es,Mitigation,#9e3215,#d65218,1,0.044302675452174
 'Deslizamiento de nieve',es,Hazard,#4287f5,#91c0ff,1,0.0437385495000717
 'Nevada intensa',es,Hazard,#4287f5,#eff7ff,1,0.0432644354612117
 'Destrucción de infraestructuras',es,Impacts,#4287f5,#6390d3,3,0.0428112739939727
 'Estratificación débil de nieve',es,Causes,#a89216,#fff4e0,1,0.0415618766218749
-'Perros de búsqueda en avalanchas',es,Mitigation,#9e3215,#d64718,1,0.04130650855434366
+'Perros de búsqueda en avalanchas',es,Mitigation,#9e3215,#d64718,1,0.0413065085543436
 'Vibraciones humanas o maquinaria',es,Causes,#a89216,#f9eccf,1,0.0411403631571874
 'Interrupción de carreteras',es,Impacts,#4287f5,#639fd8,2,0.0409872947454419
 'Corredor de avalanchas',es,Hazard,#4287f5,#c9e1ff,1,0.0405255054499619
