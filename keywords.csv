@@ -12,7 +12,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alud',es,Hazard,#4287f5,#4a8df7,1,0.0499718848979349
 'Desprendimiento de nieve',es,Hazard,#4287f5,#5a99fa,1,0.0495083608997915
 'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,1,0.0486733979263973
-'Perros de búsqueda en avalanchas',es,Mitigation,#9e3215,#d64718,1,0.0485958924168749
 'daños por avalancha',es,Hazard,#4287f5,#022f78,2,0.0483617940379978
 'Pérdida de vidas humanas',es,Impacts,#4287f5,#63a8db,2,0.0479518004057892
 'Monitoreo a largo plazo',es,Adaptation,#157a2c,#4cc75d,3,0.0478903571838587
@@ -31,6 +30,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nevada intensa',es,Hazard,#4287f5,#eff7ff,1,0.0432644354612117
 'Destrucción de infraestructuras',es,Impacts,#4287f5,#6390d3,3,0.0428112739939727
 'Estratificación débil de nieve',es,Causes,#a89216,#fff4e0,1,0.0415618766218749
+'Perros de búsqueda en avalanchas',es,Mitigation,#9e3215,#d64718,1,0.04130650855434366
 'Vibraciones humanas o maquinaria',es,Causes,#a89216,#f9eccf,1,0.0411403631571874
 'Interrupción de carreteras',es,Impacts,#4287f5,#639fd8,2,0.0409872947454419
 'Corredor de avalanchas',es,Hazard,#4287f5,#c9e1ff,1,0.0405255054499619
@@ -54,7 +54,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Calentamiento repentino',es,Causes,#a89216,#e6d59e,1,0.0306832811489841
 'Pala y sonda de rescate',es,Mitigation,#9e3215,#d64418,1,0.0300012068068006
 'Protección de bosques protectores',es,Adaptation,#157a2c,#40b953,1,0.0294367142981348
-'Afectación a poblaciones',es,Impacts,#4287f5,#6393d4,1,0.02814041507392061
+'Afectación a poblaciones',es,Impacts,#4287f5,#6393d4,1,0.0281404150739206
 'Detonación preventiva',es,Mitigation,#9e3215,#d65a18,1,0.0279418978769309
 'Bloqueo de rutas de montaña',es,Impacts,#4287f5,#63aedf,1,0.0248880215944679
 'Viento fuerte sobre nieve suelta',es,Causes,#a89216,#ccb250,1,0.0214969134937658
