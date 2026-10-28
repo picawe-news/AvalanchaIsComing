@@ -53,10 +53,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Calentamiento repentino',es,Causes,#a89216,#e6d59e,1,0.0306832811489841
 'Protección de bosques protectores',es,Adaptation,#157a2c,#40b953,1,0.0294367142981348
 'Detonación preventiva',es,Mitigation,#9e3215,#d65a18,1,0.0279418978769309
-'Terreno propenso a avalanchas',es,Hazard,#4287f5,#f5faff,1,0.027796172970764844
-'Pala y sonda de rescate',es,Mitigation,#9e3215,#d64418,1,0.0255010257857805
+'Terreno propenso a avalanchas',es,Hazard,#4287f5,#f5faff,1,0.0277961729707648
 'Afectación a poblaciones',es,Impacts,#4287f5,#6393d4,1,0.0249694578128325
 'Bloqueo de rutas de montaña',es,Impacts,#4287f5,#63aedf,1,0.0248880215944679
+'Pala y sonda de rescate',es,Mitigation,#9e3215,#d64418,1,0.021675871917913425
 'Refuerzo de rutas críticas',es,Adaptation,#157a2c,#58d567,1,0.0206379452536351
 'Viento fuerte sobre nieve suelta',es,Causes,#a89216,#ccb250,1,0.0182723764697009
 'Manto nivoso inestable',es,Hazard,#4287f5,#99c6ff,1,0.014959803991364
