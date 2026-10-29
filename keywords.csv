@@ -16,7 +16,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'nieve y avalanchas',es,Causes,#a89216,#d8c379,1,0.0464115371345018
 'Diseño urbano resistente a avalanchas',es,Adaptation,#157a2c,#22963a,1,0.0461631007124999
 'Pendiente pronunciada',es,Causes,#a89216,#e0cd8b,3,0.0460740205124281
-'Planes de evacuación locales',es,Adaptation,#157a2c,#46c058,1,0.0457179828141811
 'Lluvia sobre nieve',es,Causes,#a89216,#eddcb1,3,0.0450049220683315
 'Inestabilidad del manto nival',es,Causes,#a89216,#c7b34a,1,0.044988185683949
 'Acumulación rápida de nieve',es,Causes,#a89216,#d3bb63,1,0.0448978761236033
@@ -35,6 +34,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Corredor de avalanchas',es,Hazard,#4287f5,#c9e1ff,1,0.0405255054499619
 'avalancha de placa',es,Hazard,#4287f5,#022f78,1,0.0404104558597049
 'Acumulación de nieve',es,Hazard,#4287f5,#e7f3ff,2,0.0400705793119455
+'Planes de evacuación locales',es,Adaptation,#157a2c,#46c058,1,0.039910390392053935
 'Daños económicos locales',es,Impacts,#4287f5,#6399d6,1,0.0398032759441782
 'Ruptura del manto nival',es,Hazard,#4287f5,#d2e6ff,1,0.0393256622670591
 'Infraestructura resistente al clima',es,Adaptation,#157a2c,#52ce62,1,0.0393043487981086
@@ -56,7 +56,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Terreno propenso a avalanchas',es,Hazard,#4287f5,#f5faff,1,0.0277961729707648
 'Afectación a poblaciones',es,Impacts,#4287f5,#6393d4,1,0.0249694578128325
 'Bloqueo de rutas de montaña',es,Impacts,#4287f5,#63aedf,1,0.0248880215944679
-'Pala y sonda de rescate',es,Mitigation,#9e3215,#d64418,1,0.021675871917913425
+'Pala y sonda de rescate',es,Mitigation,#9e3215,#d64418,1,0.0216758719179134
 'Refuerzo de rutas críticas',es,Adaptation,#157a2c,#58d567,1,0.0206379452536351
 'Viento fuerte sobre nieve suelta',es,Causes,#a89216,#ccb250,1,0.0182723764697009
 'Manto nivoso inestable',es,Hazard,#4287f5,#99c6ff,1,0.014959803991364
