@@ -20,10 +20,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Acumulación rápida de nieve',es,Causes,#a89216,#d3bb63,1,0.0448978761236033
 'Avalancha seca',es,Hazard,#4287f5,#adcfff,1,0.0444800056819659
 'Avalancha de polvo',es,Hazard,#4287f5,#d8eaff,1,0.0444111163798548
-'Educación en seguridad invernal',es,Mitigation,#9e3215,#d65218,1,0.044302675452174
 'Deslizamiento de nieve',es,Hazard,#4287f5,#91c0ff,1,0.0437385495000717
 'Nevada intensa',es,Hazard,#4287f5,#eff7ff,1,0.0432644354612117
-'Cambios bruscos de temperatura',es,Causes,#a89216,#d9c577,2,0.04312797097381956
+'Cambios bruscos de temperatura',es,Causes,#a89216,#d9c577,2,0.0431279709738195
 'Destrucción de infraestructuras',es,Impacts,#4287f5,#6390d3,3,0.0428112739939727
 'Estratificación débil de nieve',es,Causes,#a89216,#fff4e0,1,0.0415618766218749
 'Perros de búsqueda en avalanchas',es,Mitigation,#9e3215,#d64718,1,0.0413065085543436
@@ -41,6 +40,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sistemas de alerta de avalanchas',es,Mitigation,#9e3215,#d63a18,1,0.0390788949766159
 'Riesgo para actividades turísticas',es,Impacts,#4287f5,#63a5da,1,0.0389123881718252
 'Placa de viento',es,Hazard,#4287f5,#7fb3ff,1,0.0387323118974414
+'Educación en seguridad invernal',es,Mitigation,#9e3215,#d65218,1,0.0379573041343479
 'Sistemas de control de avalanchas',es,Mitigation,#9e3215,#d63e18,1,0.0378641904363678
 'accidente mortal avalancha',es,Hazard,#4287f5,#022f78,1,0.0374140913494228
 'Placa de nieve',es,Hazard,#4287f5,#78afff,1,0.0366461288692695
