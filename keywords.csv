@@ -48,7 +48,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nieve inestable',es,Hazard,#4287f5,#6aa5fc,1,0.035545109060208
 'Capacitación comunitaria en riesgo',es,Adaptation,#157a2c,#5edc6c,1,0.0340078818156053
 'Redes de contención de nieve',es,Mitigation,#9e3215,#d64e18,1,0.0335692600002346
-'Planificación territorial segura',es,Adaptation,#157a2c,#1b8f35,1,0.031922919602568836
+'Planificación territorial segura',es,Adaptation,#157a2c,#1b8f35,1,0.0319229196025688
 'Nieve reciente poco cohesionada',es,Causes,#a89216,#f3e4c4,1,0.0308034936768608
 'Calentamiento repentino',es,Causes,#a89216,#e6d59e,1,0.0306832811489841
 'Protección de bosques protectores',es,Adaptation,#157a2c,#40b953,1,0.0294367142981348
@@ -67,4 +67,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.0040104310871874
 'Avalancha húmeda',es,Hazard,#4287f5,#a3ccff,1,0.0038927988185568
 'Rutas seguras señalizadas',es,Mitigation,#9e3215,#d64f18,1,0.0034521759007371
-'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.0026201369127773
+'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.002227116375860705
