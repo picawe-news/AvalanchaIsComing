@@ -18,7 +18,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lluvia sobre nieve',es,Causes,#a89216,#eddcb1,3,0.0450049220683315
 'Inestabilidad del manto nival',es,Causes,#a89216,#c7b34a,1,0.044988185683949
 'Acumulación rápida de nieve',es,Causes,#a89216,#d3bb63,1,0.0448978761236033
-'Avalancha seca',es,Hazard,#4287f5,#adcfff,1,0.0444800056819659
 'Avalancha de polvo',es,Hazard,#4287f5,#d8eaff,1,0.0444111163798548
 'Deslizamiento de nieve',es,Hazard,#4287f5,#91c0ff,1,0.0437385495000717
 'Nevada intensa',es,Hazard,#4287f5,#eff7ff,1,0.0432644354612117
@@ -37,13 +36,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sistemas de alerta de avalanchas',es,Mitigation,#9e3215,#d63a18,1,0.0390788949766159
 'Riesgo para actividades turísticas',es,Impacts,#4287f5,#63a5da,1,0.0389123881718252
 'Placa de viento',es,Hazard,#4287f5,#7fb3ff,1,0.0387323118974414
+'Avalancha seca',es,Hazard,#4287f5,#adcfff,1,0.03795801982967102
 'Educación en seguridad invernal',es,Mitigation,#9e3215,#d65218,1,0.0379573041343479
 'Sistemas de control de avalanchas',es,Mitigation,#9e3215,#d63e18,1,0.0378641904363678
 'accidente mortal avalancha',es,Hazard,#4287f5,#022f78,1,0.0374140913494228
 'daños por avalancha',es,Hazard,#4287f5,#022f78,1,0.0370417719424533
 'Placa de nieve',es,Hazard,#4287f5,#78afff,1,0.0366461288692695
 'Estrategias de resiliencia comunitaria',es,Adaptation,#157a2c,#34ab49,1,0.0360882519707527
-'Daños económicos locales',es,Impacts,#4287f5,#6399d6,1,0.035932994552551466
+'Daños económicos locales',es,Impacts,#4287f5,#6399d6,1,0.0359329945525514
 'Nieve inestable',es,Hazard,#4287f5,#6aa5fc,1,0.035545109060208
 'Capacitación comunitaria en riesgo',es,Adaptation,#157a2c,#5edc6c,1,0.0340078818156053
 'Infraestructura resistente al clima',es,Adaptation,#157a2c,#52ce62,1,0.0337087264783923
