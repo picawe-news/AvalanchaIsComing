@@ -36,7 +36,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sistemas de alerta de avalanchas',es,Mitigation,#9e3215,#d63a18,1,0.0390788949766159
 'Riesgo para actividades turísticas',es,Impacts,#4287f5,#63a5da,1,0.0389123881718252
 'Placa de viento',es,Hazard,#4287f5,#7fb3ff,1,0.0387323118974414
-'Avalancha seca',es,Hazard,#4287f5,#adcfff,1,0.03795801982967102
+'Avalancha seca',es,Hazard,#4287f5,#adcfff,1,0.037958019829671
 'Educación en seguridad invernal',es,Mitigation,#9e3215,#d65218,1,0.0379573041343479
 'Sistemas de control de avalanchas',es,Mitigation,#9e3215,#d63e18,1,0.0378641904363678
 'accidente mortal avalancha',es,Hazard,#4287f5,#022f78,1,0.0374140913494228
@@ -60,8 +60,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Refuerzo de rutas críticas',es,Adaptation,#157a2c,#58d567,1,0.0206379452536351
 'Viento fuerte sobre nieve suelta',es,Causes,#a89216,#ccb250,1,0.0182723764697009
 'Manto nivoso inestable',es,Hazard,#4287f5,#99c6ff,1,0.014959803991364
-'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.0116316607586993
 'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,1,0.0113924524356883
+'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.010336956644894405
 'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.008261419828795
 'Equipamiento ARVA',es,Mitigation,#9e3215,#d64b18,1,0.0060725061537622
 'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.0040104310871874
