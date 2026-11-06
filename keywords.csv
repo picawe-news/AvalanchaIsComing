@@ -61,10 +61,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Viento fuerte sobre nieve suelta',es,Causes,#a89216,#ccb250,1,0.0182723764697009
 'Manto nivoso inestable',es,Hazard,#4287f5,#99c6ff,1,0.014959803991364
 'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,1,0.0113924524356883
-'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.010336956644894405
+'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.0103369566448944
 'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.008261419828795
 'Equipamiento ARVA',es,Mitigation,#9e3215,#d64b18,1,0.0060725061537622
 'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.0040104310871874
-'Avalancha húmeda',es,Hazard,#4287f5,#a3ccff,1,0.0038927988185568
 'Rutas seguras señalizadas',es,Mitigation,#9e3215,#d64f18,1,0.0034521759007371
+'Avalancha húmeda',es,Hazard,#4287f5,#a3ccff,1,0.0033088789957732797
 'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.0022271163758607
