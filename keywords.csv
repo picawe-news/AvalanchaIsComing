@@ -61,8 +61,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Manto nivoso inestable',es,Hazard,#4287f5,#99c6ff,1,0.014959803991364
 'Viento fuerte sobre nieve suelta',es,Causes,#a89216,#ccb250,1,0.0132017919993588
 'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,1,0.0113924524356883
-'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.00878641314816024
 'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.008261419828795
+'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.007468451175936169
 'Equipamiento ARVA',es,Mitigation,#9e3215,#d64b18,1,0.0051616302306978
 'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.0040104310871874
 'Avalancha húmeda',es,Hazard,#4287f5,#a3ccff,1,0.0033088789957732
