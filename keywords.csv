@@ -42,7 +42,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Estrategias de resiliencia comunitaria',es,Adaptation,#157a2c,#34ab49,1,0.0360882519707527
 'Daños económicos locales',es,Impacts,#4287f5,#6399d6,1,0.0359329945525514
 'Nieve inestable',es,Hazard,#4287f5,#6aa5fc,1,0.035545109060208
-'Planes de evacuación locales',es,Adaptation,#157a2c,#46c058,1,0.035273966833245816
+'Planes de evacuación locales',es,Adaptation,#157a2c,#46c058,1,0.0352739668332458
 'avalancha de placa',es,Hazard,#4287f5,#022f78,1,0.0343488874807491
 'Capacitación comunitaria en riesgo',es,Adaptation,#157a2c,#5edc6c,1,0.0340078818156053
 'Infraestructura resistente al clima',es,Adaptation,#157a2c,#52ce62,1,0.0337087264783923
@@ -64,7 +64,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.008261419828795
 'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.0074684511759361
 'Equipamiento ARVA',es,Mitigation,#9e3215,#d64b18,1,0.0043873856960931
-'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.0040104310871874
+'Avalanchas espontáneas',es,Hazard,#4287f5,#b6d6ff,1,0.0034088664241092898
 'Avalancha húmeda',es,Hazard,#4287f5,#a3ccff,1,0.0033088789957732
 'Rutas seguras señalizadas',es,Mitigation,#9e3215,#d64f18,1,0.0029343495156265
 'Barreras antialudes',es,Mitigation,#9e3215,#d66118,1,0.0022271163758607
