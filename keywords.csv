@@ -7,7 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alud',es,Hazard,#4287f5,#4a8df7,1,0.0499718848979349
 'Desprendimiento de nieve',es,Hazard,#4287f5,#5a99fa,1,0.0495083608997915
 'Avalancha de nieve',es,Hazard,#4287f5,#3f7eee,1,0.0486733979263973
-'avalanchas muertos',es,Hazard,#4287f5,#022f78,1,0.048113261855297955
+'avalanchas muertos',es,Hazard,#4287f5,#022f78,1,0.0481132618552979
 'Monitoreo a largo plazo',es,Adaptation,#157a2c,#4cc75d,3,0.0478903571838587
 'Personas sepultadas',es,Impacts,#4287f5,#638ed5,3,0.0468726067892204
 'nieve y avalanchas',es,Causes,#a89216,#d8c379,1,0.0464115371345018
@@ -60,7 +60,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pala y sonda de rescate',es,Mitigation,#9e3215,#d64418,1,0.0184244911302263
 'Manto nivoso inestable',es,Hazard,#4287f5,#99c6ff,1,0.014959803991364
 'Viento fuerte sobre nieve suelta',es,Causes,#a89216,#ccb250,1,0.0132017919993588
-'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,1,0.0113924524356883
+'Cornisa de nieve',es,Hazard,#4287f5,#87b9ff,1,0.009983614570335055
 'destrucción avalanchas',es,Hazard,#4287f5,#022f78,1,0.008261419828795
 'Avalancha de placa',es,Hazard,#4287f5,#e0efff,1,0.0074684511759361
 'Equipamiento ARVA',es,Mitigation,#9e3215,#d64b18,1,0.0043873856960931
